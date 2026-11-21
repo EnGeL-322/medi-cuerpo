@@ -1,0 +1,49 @@
+@enalapril|Enalapril|CV|Inhibidor de la enzima conversora de la angiotensina (IECA)|enalapril|doc=enalapril-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Hidrogenocarbonato de sodio (E500); Lactosa monohidrato; Almidón de maíz; Estearato de magnesio (E470b); Óxido férrico rojo (E172, solo en la concentración de 20 mg)
+K|5 y 20 mg de maleato de enalapril por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión, de la insuficiencia cardíaca sintomática y prevención de la insuficiencia cardíaca en pacientes con disfunción ventricular izquierda.|Tratamiento de la hipertensión
+A|Es un inhibidor de la enzima de conversión de angiotensina (ECA), una peptidil dipeptidasa que cataliza la conversión de la angiotensina I.|La enzima de conversión de angiotensina (ECA) es una peptidil dipeptidasa que cataliza la conversión de la angiotensina I|vasos,corazon,rinones|Enzima conversora de la angiotensina (ECA)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Los comprimidos de Dabonal 5 mg son redondos, caras planas biseladas|
+B|Se absorbe rápidamente y alcanza concentraciones séricas máximas en el término de una hora; se absorbe aproximadamente el 60 % de la dosis.|Enalapril administrado por vía oral se absorbe rápidamente y alcanza concentraciones séricas máximas en el término de una hora|
++|B|Según su recuperación en la orina, se absorbe aproximadamente el 60 % del enalapril del comprimido.|la fracción de enalapril que se absorbe del comprimido de enalapril administrado por vía oral es del 60 % aproximadamente|||
++|B|La presencia de alimentos en el tubo digestivo no influye en la absorción oral.|La presencia de alimentos en el tubo digestivo no influye en la absorción oral de Dabonal|||con alimentos
+D|En concentraciones terapéuticamente apropiadas, la unión del enalaprilato a las proteínas del plasma humano no supera el 60 %.|la unión de enalaprilato a proteínas plasmáticas humanas no supera el 60 %|sangre
+M|Tras la absorción, el enalapril se hidroliza rápida y extensamente a enalaprilato, un potente inhibidor de la ECA; salvo esta conversión, no hay indicios de un metabolismo significativo.|Tras la absorción, el enalapril oral se hidroliza rápida y extensamente en enalaprilato, un potente inhibidor de la enzima de conversión de angiotensina|higado
+T|Enalaprilato|activo|enalaprilato, un potente inhibidor de la enzima de conversión de angiotensina|Metabolito activo; la semivida eficaz de acumulación es de 11 horas.
+E|La excreción del enalaprilato es principalmente renal: en la orina, alrededor del 40 % de la dosis es enalaprilato y alrededor del 20 % es enalapril intacto.|La excreción de enalaprilato es principalmente renal|rinones,orina
++|E|La semivida eficaz de acumulación del enalaprilato tras varias dosis es de 11 horas.|La semivida eficaz para la acumulación de enalaprilato después de varias dosis de enalapril oral es de 11 horas|||
+C|tmax|Tiempo hasta las concentraciones séricas máximas|< 1|h|alcanza concentraciones séricas máximas en el término de una hora|enalapril
+C|otra|Fracción absorbida (según la orina)|60 (aprox.)|%|es del 60 % aproximadamente|enalapril
+C|union|Unión del enalaprilato a proteínas plasmáticas|≤ 60|%|la unión de enalaprilato a proteínas plasmáticas humanas no supera el 60 %|enalaprilato
+C|semivida|Semivida eficaz de acumulación|11|h|La semivida eficaz para la acumulación de enalaprilato después de varias dosis de enalapril oral es de 11 horas|enalaprilato
+R|Se registran, entre otras, hipoglucemia como reacción poco frecuente.|Poco frecuentes: hipoglucemia
+R|Con frecuencia no conocida se ha descrito el síndrome de secreción inadecuada de hormona antidiurética (SIADH).|Frecuencia no conocida: síndrome de secreción inadecuada de hormona antidiurética (SIADH)
+W|Hipotensión ortostática|Raramente se observa hipotensión ortostática en pacientes hipertensos no complicados.|vasos,corazon|Raramente se observa hipotensión ortostática en pacientes hipertensos no complicados
+W|Depleción de volumen|La hipotensión es más probable si el paciente tiene disminuido el volumen circulante.|vasos,rinones|La hipotensión es más probable que ocurra si el paciente hipertenso que recibe Dabonal tiene disminuido el volumen circulante
+
+@escitalopram|Escitalopram|SM|Inhibidor selectivo de la recaptación de serotonina (ISRS)|escitalopram|doc=escitalopram-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Celulosa microcristalina silificada; Talco; Croscarmelosa de sodio; Estearato de magnesio; Hipromelosa; Macrogol 400; Dióxido de titanio (E-171)
+K|10, 15 o 20 mg de escitalopram (como oxalato) por comprimido, según la ficha técnica
+U|Tratamiento de episodios depresivos mayores y de otros trastornos, como el de angustia y el de ansiedad social.|Tratamiento de episodios depresivos mayores
+A|Es un inhibidor selectivo de la recaptación de serotonina (5-HT), con alta afinidad por el sitio primario de unión del transportador.|Escitalopram es un inhibidor selectivo de la recaptación de la serotonina (5-HT), con una alta afinidad por el sitio primario de unión|encefalo|Transportador de serotonina
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Esertia 10 mg: comprimido oval, blanco, ranurado|
+B|La absorción es casi completa e independiente de la ingestión de alimentos.|La absorción es casi completa e independiente de la ingestión de alimentos|
++|B|El tiempo medio hasta la concentración máxima es de 4 horas tras dosis múltiples.|El tiempo medio para alcanzar la concentración máxima (T max media) es de 4 horas tras dosis múltiples|||dosis múltiples
++|B|Como con el citalopram racémico, se espera una biodisponibilidad absoluta de aproximadamente el 80 %.|la biodisponibilidad absoluta de escitalopram se espera que sea del 80% aproximadamente|||
+D|El volumen aparente de distribución tras la administración oral es de unos 12 a 26 L/kg y la unión a proteínas del plasma es inferior al 80 %.|La unión del escitalopram y de sus metabolitos principales a las proteínas plasmáticas es inferior al 80%|sangre,tejidos
++|D|El volumen aparente de distribución tras la administración oral es de unos 12 a 26 L/kg.|es de 12 a 26 l/kg aproximadamente|||
+M|Se metaboliza en el hígado a los metabolitos desmetilado y didesmetilado; la CYP2C19 media sobre todo la formación del desmetilado, con posible contribución de la CYP3A4 y la CYP2D6.|Escitalopram se metaboliza en el hígado a los metabolitos desmetilado y didesmetilado|higado
+T|Metabolitos desmetilado y didesmetilado|activo|Ambos metabolitos son farmacológicamente activos|Farmacológicamente activos.
+E|La mayor parte de la dosis se excreta como metabolitos por la orina; se supone que escitalopram y sus metabolitos principales se eliminan por vía hepática y renal.|La mayor parte de la dosis se excreta en forma de metabolitos por la orina|rinones,orina
++|E|Tras dosis múltiples, la vida media de eliminación es de 30 horas.|tras dosis múltiples es de 30 horas|||dosis múltiples
+C|tmax|Tiempo medio hasta la concentración máxima|4|h|El tiempo medio para alcanzar la concentración máxima (T max media) es de 4 horas tras dosis múltiples|escitalopram||dosis múltiples
+C|biodisponibilidad|Biodisponibilidad absoluta esperada|80 (aprox.)|%|la biodisponibilidad absoluta de escitalopram se espera que sea del 80% aproximadamente|escitalopram
+C|union|Unión a proteínas plasmáticas|< 80|%|La unión del escitalopram y de sus metabolitos principales a las proteínas plasmáticas es inferior al 80%|escitalopram y metabolitos principales
+C|vd|Volumen aparente de distribución|12-26 (aprox.)|L/kg|es de 12 a 26 l/kg aproximadamente|escitalopram
+C|semivida|Vida media de eliminación|30|h|tras dosis múltiples es de 30 horas|escitalopram||dosis múltiples
+R|Son más frecuentes durante la primera o segunda semana y suelen disminuir con el tratamiento continuado.|Las reacciones adversas son más frecuentes durante la primera o segunda semana del tratamiento y habitualmente disminuyen en intensidad y frecuencia con el tratamiento continuado
+R|La ficha incluye las reacciones conocidas de los ISRS comunicadas también para escitalopram.|Las reacciones adversas conocidas de los ISRSs y también comunicadas para escitalopram en estudios clínicos controlados con placebo
+W|Población pediátrica|No debe utilizarse en el tratamiento de población pediátrica.|encefalo|Esertia no deberá utilizarse en el tratamiento de población pediátrica
+W|Comportamientos suicidas y hostilidad|Se constataron con más frecuencia en ensayos con población pediátrica tratada con antidepresivos que con placebo.|encefalo|Los comportamientos suicidas (intentos de suicidio e ideas de suicidio), y la hostilidad

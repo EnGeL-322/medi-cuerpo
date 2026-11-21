@@ -1,0 +1,84 @@
+MediCuerpo — créditos de datos, modelos 3D, imágenes y referencias
+===================================================================
+
+Uso educativo. MediCuerpo no da dosis ni pautas y no sirve para diagnosticar ni tratar.
+
+Trabajo propio
+--------------
+Código, textos, interfaz, fichas redactadas, recorrido de cinco etapas, iconos y marca visual
+(símbolo de la cápsula con pulso): © 2026 ramiroengelbert.
+Tipografías: la aplicación usa las fuentes del sistema operativo (Segoe UI, Cascadia Code o
+Consolas). No se distribuye ningún archivo de fuente.
+
+Modelo anatómico 3D (esqueleto.glb, musculos.glb, organos.glb)
+--------------------------------------------------------------
+Las mallas derivan de BodyParts3D, versión 4.0 (DOI 10.18908/lsdba.nbdc00837-000).
+Atribuciones exigidas:
+  BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0
+  International.
+  BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share
+  Alike 2.1 Japan.
+Creador: Kousaku Okubo, The Database Center for Life Science (DBCLS). Referencia: Mitsuhashi N
+et al., «BodyParts3D: 3D structure database for anatomical concepts», Nucleic Acids Res. 2008.
+Condiciones verificadas el 2026-11-12 en https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+(actualizada el 2025-02-27): licencia CC BY 4.0; permite redistribuir los datos y crear y
+distribuir obras derivadas con atribución. Según el registro de la conversión (2026-11-08),
+la cabecera de los archivos OBJ descargados declara CC BY-SA 2.1 Japón; por eso las mallas
+derivadas se distribuyen bajo CC BY-SA 2.1 Japón
+(https://creativecommons.org/licenses/by-sa/2.1/jp/) y se dan las dos atribuciones.
+Esa condición afecta solo a estos archivos de malla, no al código de la aplicación.
+Cambios realizados: selección de estructuras, unión de piezas, reducción por agrupación de
+vértices (rejillas de 3 a 5 mm), conversión de milímetros a metros y rotación de ejes sin
+espejo. Detalle en src/renderer/modules/medicuerpo/cuerpo/modelo/CREDITOS.md e indice.json.
+
+Fichas de medicamentos (principios activos y presentaciones)
+-----------------------------------------------------------
+Criterio sobre las citas de etiquetas (decidido por el titular el 2026-11-15): se mantienen las
+citas literales breves (como máximo 260 caracteres) de las etiquetas de DailyMed y de las fichas
+técnicas de CIMA, siempre con documento, sección, versión o fecha y enlace. DailyMed no declara una
+licencia de reutilización para el texto de las etiquetas (las redactan sus titulares). Condición de
+revisión: este criterio debe volver a revisarse, y pedirse permiso a NLM/FDA y a los titulares si
+hace falta, ANTES de cualquier publicación externa de la aplicación o de sus datos (tienda de
+aplicaciones, web, distribución a terceros). Mientras tanto, la app es de uso privado y educativo.
+- DailyMed, U.S. National Library of Medicine (https://dailymed.nlm.nih.gov). Courtesy of the
+  U.S. National Library of Medicine. Las etiquetas (SPL) las redactan sus titulares; la app
+  reproduce solo citas literales breves como evidencia, con documento, versión y sección. NLM
+  no respalda esta aplicación.
+- CIMA, Agencia Española de Medicamentos y Productos Sanitarios (https://cima.aemps.es).
+  El aviso legal de la AEMPS (consultado el 2026-11-12) autoriza la reproducción total o
+  parcial citando expresamente el origen e indicando la fecha de la última actualización de
+  los documentos reutilizados; cada ficha guarda el documento y su fecha.
+- PubChem, NCBI/NLM (https://pubchem.ncbi.nlm.nih.gov): fórmulas, masas, SMILES, InChIKey y
+  CID. NCBI declara que no impone restricciones al uso de los datos moleculares de sus bases, pero
+  su página de políticas (consultada el 2026-11-15) advierte de que PubChem incorpora material
+  aportado por terceros que puede estar protegido por derechos de autor y que NCBI no puede dar
+  permiso por él. Se usan solo hechos (fórmula, masa, estructura, identificadores), no texto ni
+  imágenes de PubChem.
+- MSD Manuals, versión para profesionales: 5 citas literales de una frase (absorción,
+  biodisponibilidad, metabolismo y excreción) usadas como cita con su fuente y enlace. El
+  resto de su contenido no se reproduce («All rights reserved»).
+- Teng R, Carlson G, Hsia J. «An open-label, randomized bioavailability study with alternative
+  methods of administration of crushed ticagrelor tablets in healthy volunteers». Int J Clin
+  Pharmacol Ther 2015;53(2):182-189 (PMC4302705, doi:10.5414/CP202202), licencia Creative
+  Commons Atribución (CC BY) según Europe PMC/PMC. De su tabla 2 se reproducen las
+  concentraciones plasmáticas de ticagrelor y AR-C124910XX a las 0,5, 1 y 2 horas, con las
+  medias geométricas y los intervalos de confianza; el dibujo es propio y solo une los puntos
+  publicados. Consultado el 2026-11-12.
+- Las marcas y nombres de productos (por ejemplo TYLENOL o ADVIL) y de sus titulares
+  pertenecen a sus dueños; aparecen solo para identificar el documento consultado. No se usa
+  ningún logotipo.
+
+Casos del cuerpo
+----------------
+Cada afirmación muestra su fuente y la fecha de consulta: USGS, PubChem, JoVE, NIH Office of
+Dietary Supplements, PubMed Central y Fiorillo et al. 2020. Los textos son propios.
+
+Estructuras químicas
+--------------------
+Las estructuras 2D y 3D se calculan con openchemlib (ver AVISOS-TERCEROS.txt). Los datos de
+los elementos (símbolo, nombre, masa, posición) acompañan a la mesa de estructuras; sus
+masas atómicas no tienen fuente registrada y se marcan como «sin verificar».
+
+Sin recursos de marca ajenos
+----------------------------
+La aplicación no incluye logotipos, sellos ni iconos institucionales de terceros.

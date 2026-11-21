@@ -1,0 +1,116 @@
+@sunvozertinib|Sunvozertinib|ON|Inhibidor del EGFR con inserciones del exón 20|sunvozertinib;Zegfrovy|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico avanzado con inserciones del exón 20 del EGFR que ha progresado tras quimioterapia con platino.|for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations
+A|Inhibe el EGFR con inserciones del exón 20 a concentraciones similares a las del EGFR normal.|Sunvozertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR) that binds to and inhibits EGFR exon 20 insertion mutations at similar concentrations as wild-type EGFR||EGFR con inserciones del exón 20
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|150 mg: yellow, biconvex film-coated tablets, debossed with|
+B|La mediana del tiempo hasta el pico es de unas 6 horas; una comida rica en grasas no cambia de forma relevante la exposición.|Sunvozertinib median (minimum, maximum) time to maximum plasma concentration (t max ) is approximately 6 hours (3, 10 hours)|
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes del AUC ni de la Cmax.|No clinically significant differences in sunvozertinib AUC and C max were observed following administration of sunvozertinib with a high-fat meal|||con una comida rica en grasas
+D|In vitro se une en un 89-94 % a las proteínas plasmáticas; el volumen de distribución aparente es de 2116 L.|Sunvozertinib plasma protein binding ranges from approximately 89% to 94% in vitro|sangre
++|D|Volumen de distribución aparente de 2116 L.|The apparent (oral) volume of distribution is 2,116 L (81%)|||
+M|Se metaboliza sobre todo por la CYP3A y forma un metabolito desmetilado activo, DZ0753.|Sunvozertinib is primarily metabolized by CYP3A and forms the active demethylated metabolite, DZ0753|higado
+T|DZ0753|activo|Sunvozertinib is primarily metabolized by CYP3A and forms the active demethylated metabolite, DZ0753|Metabolito desmetilado activo.
+E|Tras una dosis marcada, el 79 % se recuperó en las heces (7,3 % sin cambios) y el 10 % en la orina (5,6 % sin cambios).|79% of the dose was recovered in feces (7.3% unchanged) and 10% in urine (5.6% unchanged)|heces,orina
++|E|La semivida de eliminación es de 50 horas y el aclaramiento oral aparente, de 29 L/h.|Sunvozertinib elimination half-life is 50 hours (27%) with an apparent (oral) clearance of 29 L/h (54%)|||
+C|tmax|Mediana del tiempo hasta el pico|6 (aprox.)|h|time to maximum plasma concentration (t max ) is approximately 6 hours (3, 10 hours)|sunvozertinib
+C|union|Unión a proteínas plasmáticas in vitro|89-94|%|Sunvozertinib plasma protein binding ranges from approximately 89% to 94% in vitro|sunvozertinib
+C|vd|Volumen de distribución aparente|2116|L|The apparent (oral) volume of distribution is 2,116 L (81%)|sunvozertinib
+C|semivida|Semivida de eliminación|50|h|Sunvozertinib elimination half-life is 50 hours (27%)|sunvozertinib
+C|aclaramiento|Aclaramiento oral aparente|29|L/h|with an apparent (oral) clearance of 29 L/h (54%)|sunvozertinib
+C|heces|Dosis recuperada en las heces|79|% de la dosis|79% of the dose was recovered in feces (7.3% unchanged)|radiactividad total
+R|Las más frecuentes (20 % o más): diarrea, exantema, disminución del apetito, estomatitis, fatiga, náuseas, paroniquia, vómitos, estreñimiento y dolor musculoesquelético, entre otras.|The most common (≥20%) adverse reactions were: diarrhea, rash, decreased appetite, stomatitis, fatigue, nausea, paronychia, vomiting, constipation, musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares nuevos o que empeoran.|pulmones|Monitor patients for new or worsening pulmonary symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, and fever)|43685-7
+W|Reacciones gastrointestinales|Vigilar náuseas, vómitos y diarrea y dar tratamiento de soporte.||Monitor patients for nausea, vomiting and diarrhea and provide supportive care|43685-7
+W|Toxicidad ocular|Dejar las lentes de contacto hasta valorar los síntomas oculares.|ojos|Advise discontinuation of contact lenses until ocular symptoms are evaluated|43685-7
+
+@imlunestrant|Imlunestrant|ON|Antagonista y degradador del receptor de estrógenos alfa|imlunestrant;Inluriyo|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento, en monoterapia o con abemaciclib, del cáncer de mama avanzado con receptores de estrógenos positivos y HER2 negativo, con mutación de ESR1 en monoterapia, según la etiqueta.|for the treatment of adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor-1 (ESR1 )-mutated advanced or metastatic breast cancer
+A|Se une al receptor de estrógenos alfa y lo antagoniza; in vitro induce su degradación y frena la transcripción génica dependiente del receptor y la proliferación de células de cáncer de mama.|Imlunestrant is an estrogen receptor (ER) antagonist that binds to ERα||Receptor de estrógenos alfa
++|A|In vitro indujo la degradación del receptor alfa, con inhibición de la transcripción dependiente de él y de la proliferación celular.|imlunestrant induced degradation of ERα, leading to inhibition of ER-dependent gene transcription and cellular proliferation|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; se toma con el estómago vacío.|white, film coated-capsule-shaped tablets, with|
+B|La biodisponibilidad oral absoluta es del 10 % y la mediana del tiempo hasta el pico, de 4 horas; una comida pobre en grasas duplica el AUC.|Imlunestrant absolute oral bioavailability after a single oral 400 mg dose is 10% (32%)|
++|B|La mediana del tiempo hasta el pico es de 4 horas.|Imlunestrant median (min, max) time to maximum plasma concentration (T max ) is 4 (2, 8) hours|||
++|B|Con una comida pobre en grasas el AUC se duplicó y la Cmax aumentó 3,6 veces.|Imlunestrant AUC increased 2-fold and C max increased 3.6-fold following administration with a low-fat meal|||con una comida pobre en grasas
+D|Se une en más del 99 % a las proteínas plasmáticas; el volumen de distribución aparente es de 8120 L.|Imlunestrant protein binding is >99% and is not concentration dependent|sangre
++|D|Volumen de distribución aparente de 8120 L.|The apparent (oral) volume of distribution is 8,120 L (69%)|||
+M|Se metaboliza por sulfatación, por la CYP3A4 y por glucuronidación directa.|Imlunestrant is metabolized by sulfation, CYP3A4, and direct glucuronidation|higado
+E|Tras 400 mg marcados en sujetos sanos, el 97 % se recuperó en las heces (62 % sin cambios) y el 0,3 % en la orina.|97% of the dose was recovered in feces (62% unchanged) and 0.3% in urine|heces,orina
++|E|La semivida de eliminación es de 30 horas y el aclaramiento aparente estimado, de 166 L/h.|Imlunestrant elimination half-life is 30 hours with an estimated apparent clearance of 166 L/h (51%)|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta (400 mg)|10|%|Imlunestrant absolute oral bioavailability after a single oral 400 mg dose is 10% (32%)|imlunestrant
+C|tmax|Mediana del tiempo hasta el pico|4|h|time to maximum plasma concentration (T max ) is 4 (2, 8) hours|imlunestrant
+C|union|Unión a proteínas|> 99|%|Imlunestrant protein binding is >99%|imlunestrant
+C|vd|Volumen de distribución aparente|8120|L|The apparent (oral) volume of distribution is 8,120 L (69%)|imlunestrant
+C|semivida|Semivida de eliminación|30|h|Imlunestrant elimination half-life is 30 hours|imlunestrant
+C|aclaramiento|Aclaramiento aparente estimado|166|L/h|an estimated apparent clearance of 166 L/h (51%)|imlunestrant
+C|heces|Dosis recuperada en las heces|97|% de la dosis|97% of the dose was recovered in feces (62% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 400 mg
+R|En monoterapia, las más frecuentes (10 % o más, con laboratorio): descenso de hemoglobina, dolor musculoesquelético, descenso de calcio y neutrófilos, aumento de AST, fatiga y diarrea, entre otras.|The most common (≥10%) adverse reactions, including laboratory abnormalities, were decreased hemoglobin, musculoskeletal pain, decreased calcium, decreased neutrophils, increased AST, fatigue, diarrhea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Puede dañar al feto si se toma en el embarazo.||INLURIYO can cause fetal harm when administered to a pregnant woman|43685-7
+
+@vimseltinib|Vimseltinib|ON|Inhibidor del receptor 1 del factor estimulante de colonias (CSF1R)|vimseltinib;Romvimza|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del tumor tenosinovial de células gigantes sintomático en adultos cuando la cirugía empeoraría la función o causaría morbilidad grave.|indicated for treatment of adult patients with symptomatic tenosynovial giant cell tumor (TGCT) for which surgical resection will potentially cause worsening functional limitation or severe morbidity
+A|Inhibe el receptor del factor estimulante de colonias 1 (CSF1R): bloquea su autofosforilación, su señal y la proliferación de las células que lo expresan.|Vimseltinib is a kinase inhibitor that inhibits colony-stimulating factor 1 receptor (CSF1R)||CSF1R
+L|Cápsula dura: se disgrega en el tubo digestivo.|Orange cap, white body size 4 capsule imprinted with|
+B|La mediana del tiempo hasta el pico es de 1 hora; una comida rica en grasas no cambia de forma relevante la exposición.|Vimseltinib median time to C max (T max ) is 1 hour (0.5 to 4 hours)|
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes frente al ayuno.|No clinically significant differences in vimseltinib pharmacokinetics were observed following administration of a high-fat meal|||con una comida rica en grasas
+D|Se une en un 96,5 % a las proteínas plasmáticas; el volumen de distribución aparente es de 90 L.|Vimseltinib is 96.5% bound to human plasma proteins|sangre
++|D|Volumen de distribución aparente de 90 L.|Vimseltinib volume of distribution (V/F) is 90 L (16%)|||
+M|Se metaboliza sobre todo por oxidación, N-desmetilación y N-desalquilación; no se espera que las enzimas CYP450 tengan un papel importante.|Vimseltinib is primarily metabolized by oxidation, N -demethylation, and N -dealkylation|
++|M|No se espera que las enzimas CYP450 tengan un papel importante en su metabolismo.|CYP450 enzymes are not anticipated to play a major role in the metabolism of vimseltinib|||
+E|Tras una dosis marcada, alrededor del 43 % se recuperó en las heces (9,1 % sin cambios) y el 38 % en la orina (5,1 % sin cambios).|Approximately 43% of the dose was recovered in feces (9.1% unchanged) and 38% in urine (5.1% unchanged) after a single radiolabeled dose|heces,orina
++|E|La semivida de eliminación es de unos 6 días y el aclaramiento, de 0,5 L/h.|Vimseltinib elimination half-life (t 1/2 ) is approximately 6 days (32%) with a clearance (CL/F) of 0.5 L/h (23%)|||
+C|tmax|Mediana del tiempo hasta el pico|1|h|Vimseltinib median time to C max (T max ) is 1 hour (0.5 to 4 hours)|vimseltinib
+C|union|Unión a proteínas plasmáticas|96,5|%|Vimseltinib is 96.5% bound to human plasma proteins|vimseltinib
+C|vd|Volumen de distribución aparente|90|L|Vimseltinib volume of distribution (V/F) is 90 L (16%)|vimseltinib
+C|semivida|Semivida de eliminación|6 (aprox.)|días|Vimseltinib elimination half-life (t 1/2 ) is approximately 6 days (32%)|vimseltinib
+C|aclaramiento|Aclaramiento aparente|0,5|L/h|with a clearance (CL/F) of 0.5 L/h (23%)|vimseltinib
+C|heces|Dosis recuperada en las heces|43 (aprox.)|% de la dosis|Approximately 43% of the dose was recovered in feces (9.1% unchanged)|radiactividad total
+R|Las más frecuentes (20 % o más, con laboratorio): aumento de AST, edema periorbitario, fatiga, exantema, aumento del colesterol, edema periférico y facial, entre otras.|Most common adverse reactions (incidence ≥20%), including laboratory abnormalities are increased AST, periorbital edema, fatigue, rash, increased cholesterol, peripheral edema, face edema
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Evitarlo con transaminasas o bilirrubina elevadas o con enfermedad hepática o biliar activa; hacer pruebas hepáticas antes y durante el tratamiento.|higado|Avoid ROMVIMZA in patients with pre-existing increased serum transaminases; total bilirubin or direct bilirubin (>ULN); or active liver or biliary tract disease, including ALP|43685-7
+W|Aumento de la creatinina sin afectar a la función renal|Valorar la función renal con medidas que no se basen en la creatinina sérica.|rinones|Use alternative measures that are not based on serum creatinine to assess renal function|43685-7
+
+@dordaviprona|Dordaviprona|ON|Activador de la proteasa mitocondrial ClpP y antagonista del receptor D2|dordaviprone;Modeyso|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del glioma difuso de línea media con mutación H3 K27M en progresión tras un tratamiento previo, desde 1 año de edad.|for the treatment of adult and pediatric patients 1 year of age and older with diffuse midline glioma harboring an H3 K27M mutation with progressive disease following prior therapy
+A|Activa la proteasa mitocondrial ClpP e inhibe el receptor de dopamina D2; in vitro activa la respuesta integrada al estrés y la apoptosis de las células tumorales.|Dordaviprone is a protease activator of the mitochondrial caseinolytic protease P (ClpP)||ClpP y receptor D2
++|A|También inhibe el receptor de dopamina D2.|Dordaviprone also inhibits the dopamine D2 receptor|||
+L|Cápsula dura: se disgrega en el tubo digestivo; se toma con el estómago vacío.|Capsules: 125 mg, white, opaque, hard capsules printed with|
+B|La mediana del tiempo hasta el pico es de 1,4 horas; con una comida rica en grasas la Cmax baja un 40 % sin cambiar el AUC.|Dordaviprone median (min, max) time to maximum plasma concentration (T max ) is 1.4 hours (0.5, 5.6 hours)|
++|B|Con una comida rica en grasas la Cmax bajó un 40 % sin cambios del AUC.|Dordaviprone C max decreased by 40% with no change on AUC following administration with a high-fat meal|||con una comida rica en grasas
+D|In vitro se une en un 95-97 % a las proteínas plasmáticas; el volumen de distribución aparente es de 450 L.|Dordaviprone plasma protein binding is 95% to 97% and independent of concentrations in vitro|sangre
++|D|Volumen de distribución aparente de 450 L.|Dordaviprone apparent (oral) volume of distribution is 450 L (40%)|||
+M|Se metaboliza sobre todo por la CYP3A4, con contribuciones menores de otras CYP.|Dordaviprone is primarily metabolized by CYP3A4 with minor contribution from CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP3A5|higado
+E|Tras una dosis marcada, el 70 % se recuperó en la orina y el 20 % en las heces, sin dordaviprona inalterada relevante.|70% of the dose was recovered in urine and 20% in feces with no notable unchanged dordaviprone in urine or feces|orina,heces
++|E|La semivida terminal media es de 11 horas y el aclaramiento aparente, de unos 27 L/h.|Dordaviprone mean terminal half-life is 11 hours (30%), and the apparent clearance is approximately 27 L/hr (48%)|||
+C|tmax|Mediana del tiempo hasta el pico|1,4|h|time to maximum plasma concentration (T max ) is 1.4 hours (0.5, 5.6 hours)|dordaviprona
+C|union|Unión a proteínas plasmáticas in vitro|95-97|%|Dordaviprone plasma protein binding is 95% to 97%|dordaviprona
+C|vd|Volumen de distribución aparente|450|L|Dordaviprone apparent (oral) volume of distribution is 450 L (40%)|dordaviprona
+C|semivida|Semivida terminal media|11|h|Dordaviprone mean terminal half-life is 11 hours (30%)|dordaviprona
+C|aclaramiento|Aclaramiento aparente|27 (aprox.)|L/h|the apparent clearance is approximately 27 L/hr (48%)|dordaviprona
+C|orina|Dosis recuperada en la orina|70|% de la dosis|70% of the dose was recovered in urine and 20% in feces|radiactividad total
+R|Las más frecuentes (20 % o más): fatiga, cefalea, vómitos, náuseas y dolor musculoesquelético.|The most common (≥20%) adverse reactions are fatigue, headache, vomiting, nausea, and musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hipersensibilidad|Ante una hipersensibilidad o anafilaxia relevante, suspenderla de inmediato y tratar.||If clinically significant hypersensitivity or anaphylaxis occur, immediately discontinue MODEYSO and initiate appropriate medical treatment and supportive care|43685-7
+W|Prolongación del QTc|Vigilar el electrocardiograma y los electrolitos antes de empezar y periódicamente.||Monitor ECGs and electrolytes prior to starting MODEYSO and then periodically during treatment as clinically indicated|43685-7
+
+@mesna|Mesna|ON|Agente citoprotector urológico (tiol)|mesna;Mesnex|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|-
+U|Profilaxis para reducir la cistitis hemorrágica causada por la ifosfamida.|MESNEX is indicated as a prophylactic agent in reducing the incidence of ifosfamide-induced hemorrhagic cystitis
+A|Reacciona químicamente con los metabolitos tóxicos de la ifosfamida para la vía urinaria (acroleína y 4-hidroxi-ifosfamida) y los neutraliza, de modo que no dañan la vejiga.|Mesna also binds to the double bonds of acrolein and to other urotoxic metabolites and inhibits their effects on the bladder|vejiga|Acroleína y metabolitos urotóxicos de la ifosfamida
++|A|Reacciona con la acroleína y la 4-hidroxi-ifosfamida, metabolitos urotóxicos de la ifosfamida, y los desintoxica.|Mesna reacts chemically with the urotoxic ifosfamide metabolites, acrolein and 4-hydroxy-ifosfamide, resulting in their detoxification|||
+L|Comprimido recubierto con película y ranurado: se disgrega en el tubo digestivo.|tablets: 400 mg film-coated tablets with functional score|
+B|El pico de mesna libre aparece entre 1,5 y 4 horas; la biodisponibilidad oral es del 58 % para la mesna libre y del 89 % para la total.|Following oral administration, peak plasma concentrations were reached within 1.5 to 4 hours and 3 to 7 hours for free mesna and total mesna|
++|B|La biodisponibilidad oral media es del 58 % para la mesna libre y del 89 % para la mesna total.|Oral bioavailability averaged 58% (range 45 to 71%) for free mesna and 89% (range 74 to 104%) for total mesna|voluntarios sanos|
++|B|La comida no afecta a la disponibilidad urinaria de la mesna oral.|Food does not affect the urinary availability of orally administered MESNEX|||con comida
+D|Tras la vía intravenosa, su volumen de distribución aparente (0,652 L/kg) indica que se reparte por el agua corporal total.|Mean apparent volume of distribution (V d ) for mesna is 0.652 ± 0.242 L/kg after intravenous administration which suggests distribution to total body water (plasma, extracellular fluid, and intracellular water)|sangre
+M|Como el sistema fisiológico cisteína-cistina, se oxida con rapidez a su metabolito principal, el disulfuro de mesna (dimesna).|Analogous to the physiological cysteine-cystine system, mesna is rapidly oxidized to its major metabolite, mesna disulfide (dimesna)|
+E|Tras 800 mg por vía intravenosa, alrededor del 32 % de la dosis se eliminó en la orina en 24 horas como mesna y el 33 % como dimesna.|Following intravenous administration of a single 800 mg dose, approximately 32% and 33% of the administered dose was eliminated in the urine in 24 hours as mesna and dimesna|orina
++|E|Las semividas de eliminación plasmática de la mesna y la dimesna son de 0,36 y 1,17 horas.|Mean plasma elimination half-lives of mesna and dimesna are 0.36 hours and 1.17 hours, respectively|||
+C|tmax|Tiempo hasta el pico de mesna libre|1,5-4|h|peak plasma concentrations were reached within 1.5 to 4 hours and 3 to 7 hours for free mesna and total mesna|mesna libre
+C|biodisponibilidad|Biodisponibilidad oral de la mesna libre|58|%|Oral bioavailability averaged 58% (range 45 to 71%) for free mesna|mesna libre|voluntarios sanos
+C|vd|Volumen de distribución aparente (vía intravenosa)|0,652|L/kg|Mean apparent volume of distribution (V d ) for mesna is 0.652 ± 0.242 L/kg after intravenous administration|mesna|||otra-via
+C|semivida|Semivida de eliminación plasmática|0,36|h|Mean plasma elimination half-lives of mesna and dimesna are 0.36 hours and 1.17 hours|mesna
+C|orina|Dosis eliminada en la orina como mesna en 24 horas (vía intravenosa)|32 (aprox.)|% de la dosis|approximately 32% and 33% of the administered dose was eliminated in the urine in 24 hours as mesna and dimesna|mesna||800 mg por vía intravenosa|otra-via
+R|Con ifosfamida, las más frecuentes (más del 10 %): náuseas, vómitos, estreñimiento, leucopenia, fatiga, fiebre, anorexia y trombocitopenia, entre otras.|The most common adverse reactions (> 10%) when MESNEX is given with ifosfamide are nausea, vomiting, constipation, leukopenia, fatigue, fever, anorexia, thrombocytopenia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Reacciones de hipersensibilidad|Se han descrito reacciones anafilácticas.||Hypersensitivity reactions: Anaphylactic reactions have been reported|43685-7
+W|Antecedentes de reacciones a compuestos tiol|Se han descrito reacciones de hipersensibilidad a la mesna y a la amifostina, otro compuesto tiol.||Hypersensitivity reactions to mesna and to amifostine, another thiol compound, have been reported|43685-7

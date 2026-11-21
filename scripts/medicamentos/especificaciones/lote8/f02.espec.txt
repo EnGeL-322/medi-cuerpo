@@ -1,0 +1,122 @@
+@niraparib|Niraparib|ON|Inhibidor de la poli (ADP-ribosa) polimerasa (PARP)|niraparib tosylate;Zejula|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Tosilato de niraparib monohidrato|The chemical name for niraparib tosylate monohydrate is
+U|Mantenimiento en cáncer epitelial de ovario, trompa o peritoneo primario avanzado con respuesta a quimioterapia con platino, según la etiqueta.|for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer
+A|Inhibe las enzimas PARP-1 y PARP-2, que intervienen en la reparación del ADN; aumenta los complejos PARP-ADN, con daño del ADN, apoptosis y muerte celular.|Niraparib is an inhibitor of PARP enzymes, including PARP-1 and PARP-2, that play a role in DNA repair||PARP-1 y PARP-2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The film-coating consists of Opadry II Gray (100 mg), Opadry II Blue (200 mg), or Opadry II Green (300 mg)|
+B|La biodisponibilidad absoluta es de alrededor del 73 % y el tmax se alcanza en 5 horas; una comida grasa aumenta poco la exposición.|The absolute bioavailability of niraparib is approximately 73%. Time to maximum plasma concentration (T max ) is reached within 5 hours|
++|B|Con una comida rica en grasas la Cmax subió un 11 % y el AUC un 28 %.|Niraparib C max increased by 11% and AUC by 28%, following administration with a high-fat meal|||con una comida rica en grasas
+D|Se une en un 83 % a las proteínas del plasma humano; el volumen de distribución aparente medio es de 1 220 L.|Niraparib is 83% bound to human plasma proteins|sangre
++|D|Volumen de distribución aparente medio de 1 220 L.|Niraparib mean (±SD) apparent (oral) volume of distribution (Vd/F) is 1,220 (±1,114) L|||
+M|Las carboxilesterasas lo transforman en el metabolito inactivo principal M1, que después se glucuronida.|Niraparib is metabolized by carboxylesterases to form a major inactive metabolite M1, which subsequently undergoes glucuronidation|
+T|M1|inactivo|Niraparib is metabolized by carboxylesterases to form a major inactive metabolite M1|Metabolito principal inactivo, que luego se glucuronida.
+E|Tras 300 mg marcados, el 48 % se recuperó en la orina (11 % sin cambios) y el 39 % en las heces (19 % sin cambios).|48% of the dose was recovered in urine (11% unchanged) and 39% in feces (19% unchanged)|orina,heces
++|E|La semivida media es de 50 horas y el aclaramiento total aparente de 15,9 L/h.|Niraparib apparent (oral) total clearance (CL/F) is 15.9 (±3.8) L/h and mean half-life (t 1/2 ) is 50 (±15) hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta|73 (aprox.)|%|The absolute bioavailability of niraparib is approximately 73%|niraparib
+C|tmax|Tiempo hasta la concentración máxima|≤ 5|h|Time to maximum plasma concentration (T max ) is reached within 5 hours|niraparib
+C|union|Unión a proteínas plasmáticas|83|%|Niraparib is 83% bound to human plasma proteins|niraparib
+C|vd|Volumen de distribución aparente medio|1220|L|apparent (oral) volume of distribution (Vd/F) is 1,220 (±1,114) L|niraparib
+C|semivida|Semivida media|50|h|mean half-life (t 1/2 ) is 50 (±15) hours|niraparib
+C|aclaramiento|Aclaramiento total aparente|15,9|L/h|Niraparib apparent (oral) total clearance (CL/F) is 15.9 (±3.8) L/h|niraparib
+C|orina|Dosis recuperada en la orina|48|% de la dosis|48% of the dose was recovered in urine (11% unchanged)|radiactividad total||dosis oral única marcada de 300 mg
+R|Las más frecuentes (10 % o más): náuseas, trombocitopenia, anemia, fatiga, estreñimiento, dolor musculoesquelético, dolor abdominal, vómitos, neutropenia y disminución del apetito, entre otras.|Most common adverse reactions (incidence ≥10%) in patients who received ZEJULA were nausea, thrombocytopenia, anemia, fatigue, constipation, musculoskeletal pain, abdominal pain, vomiting, neutropenia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome mielodisplásico y leucemia mieloide aguda|Han aparecido, algunos mortales; vigilar la toxicidad hematológica.||MDS/AML occurred in patients exposed to ZEJULA, and some cases were fatal|43685-7
+W|Supresión de la médula ósea|Hacer hemograma semanal el primer mes, mensual los 11 siguientes y después periódico.|medula-osea|Bone Marrow Suppression: Test complete blood counts weekly for the first month|43685-7
+W|Hipertensión y efectos cardiovasculares|Vigilar la presión arterial y la frecuencia cardíaca al menos cada semana los 2 primeros meses.||Monitor blood pressure and heart rate at least weekly for the first 2 months|43685-7
+
+@rucaparib|Rucaparib|ON|Inhibidor de la poli (ADP-ribosa) polimerasa (PARP)|rucaparib camsylate;Rubraca|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Camsilato de rucaparib|The chemical formula of rucaparib camsylate is
+U|Mantenimiento del cáncer epitelial de ovario, trompa o peritoneo recurrente con mutación de BRCA y tratamiento del cáncer de próstata resistente a la castración con mutación de BRCA, según la etiqueta.|Ovarian cancer for the maintenance treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated recurrent epithelial ovarian
+A|Inhibe las enzimas PARP-1, PARP-2 y PARP-3, implicadas en la reparación del ADN; aumenta los complejos PARP-ADN y causa daño del ADN, apoptosis y muerte de células tumorales.|Rucaparib is an inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, including PARP-1, PARP-2, and PARP-3, which play a role in DNA repair||PARP-1, PARP-2 y PARP-3
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Rubraca tablets include: microcrystalline cellulose, sodium starch glycolate, colloidal silicon dioxide, and magnesium stearate|
+B|La biodisponibilidad absoluta media es del 36 % y la mediana del tmax en estado estacionario de 1,9 horas; una comida grasa aumenta la Cmax un 20 % y el AUC un 38 %.|The mean (min, max) absolute bioavailability is 36% (30%, 45%)|
++|B|Con una comida rica en grasas la Cmax subió un 20 %, el AUC un 38 % y el tmax se retrasó 2,5 horas.|the C max was increased by 20%, AUC 0-24h was increased by 38%, and the T max was delayed by 2.5 hours|||con una comida rica en grasas
+D|Se une en un 70 % a las proteínas in vitro y se reparte preferentemente en los glóbulos rojos (cociente sangre/plasma 1,8); el volumen de distribución aparente es de 2 300 L.|Rucaparib is 70% bound to human plasma proteins in vitro|sangre
++|D|Se distribuye preferentemente en los glóbulos rojos, con un cociente sangre/plasma de 1,8.|Rucaparib preferentially distributed to red blood cells with a blood-to-plasma concentration ratio of 1.8|sangre|
++|D|Volumen de distribución aparente medio de 2 300 L.|The mean apparent volume of distribution is 2300 L (21%)|||
+M|In vitro se metaboliza sobre todo por la CYP2D6 y, en menor medida, por la CYP1A2 y la CYP3A4; además sufre N-desmetilación, N-metilación y glucuronidación.|In vitro, rucaparib is primarily metabolized by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4|higado
+E|Tras una dosis marcada, el rucaparib inalterado fue el 64 % de la radiactividad; supuso el 45 % de la radiactividad de la orina y el 95 % de la de las heces.|Rucaparib accounted for 45% and 95% of radioactivity in urine and feces, respectively|orina,heces
++|E|La semivida terminal media es de 26 horas y el aclaramiento aparente de 44,2 L/h.|The mean apparent total clearance at steady state is 44.2 L/h (45%) and the mean terminal elimination half-life is 26 (39%) hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|36|%|The mean (min, max) absolute bioavailability is 36% (30%, 45%)|rucaparib
+C|tmax|Mediana del tmax en estado estacionario|1,9|h|The median T max (min, max) at the steady state is 1.9 hours (0, 5.98)|rucaparib||estado estacionario
+C|union|Unión a proteínas in vitro|70|%|Rucaparib is 70% bound to human plasma proteins in vitro|rucaparib
+C|vd|Volumen de distribución aparente medio|2300|L|The mean apparent volume of distribution is 2300 L (21%)|rucaparib
+C|semivida|Semivida terminal media|26|h|the mean terminal elimination half-life is 26 (39%) hours|rucaparib
+C|aclaramiento|Aclaramiento total aparente en estado estacionario|44,2|L/h|The mean apparent total clearance at steady state is 44.2 L/h (45%)|rucaparib
+R|En cáncer de ovario, las más frecuentes (10 % o más): náuseas, fatiga, anemia, aumento de ALT/AST, vómitos, diarrea, disminución del apetito, trombocitopenia, disgeusia y neutropenia, entre otras.|Most common adverse reactions (≥10%) among patients with ovarian cancer were nausea, fatigue (including asthenia), anemia, ALT/AST increased, vomiting, diarrhea, decreased appetite, thrombocytopenia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome mielodisplásico y leucemia mieloide aguda|Han aparecido, algunos mortales; vigilar la toxicidad hematológica al inicio y cada mes.||MDS/AML occurred in patients exposed to RUBRACA, and some cases were fatal|43685-7
+W|Toxicidad embriofetal|Puede causar daño fetal; usar anticoncepción eficaz.||Embryo-Fetal Toxicity: RUBRACA can cause fetal harm|43685-7
+
+@talazoparib|Talazoparib|ON|Inhibidor de la poli (ADP-ribosa) polimerasa (PARP)|talazoparib tosylate;Talzenna|forma=CAPSULE, LIQUID FILLED;vias=oral;familia=solido-oral
+S|Tosilato de talazoparib|TALZENNA contains talazoparib tosylate
+U|Tratamiento del cáncer de mama HER2-negativo avanzado con mutación germinal de BRCA y, con enzalutamida, del cáncer de próstata metastásico resistente a la castración, según la etiqueta.|As a single agent, for the treatment of adult patients with deleterious or suspected deleterious germline BRCA -mutated
+A|Inhibe las enzimas PARP1 y PARP2, que intervienen en la reparación del ADN; aumenta los complejos PARP-ADN, con daño del ADN, menor proliferación y apoptosis.|Talazoparib is an inhibitor of PARP enzymes, including PARP1 and PARP2, which play a role in DNA repair||PARP1 y PARP2
+L|Cápsula blanda de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Following administration of a TALZENNA 1 mg dose soft gelatin capsule with high-fat, high-calorie food|
+B|La mediana del tmax es de alrededor de 1 hora; con una comida grasa la Cmax baja un 42 % y el tmax se retrasa a 4 horas, sin cambio del AUC.|The median time to C max (T max ) was approximately 1 hour (range: 0.4 to 4 hours) after dosing|
++|B|Con una comida rica en grasas la Cmax bajó un 42 %, el tmax pasó de 1 a 4 horas y el AUC no cambió.|the mean steady-state C max was decreased by 42%, the median T max was delayed from 1 to 4 hours, and AUC was not affected|||con una comida rica en grasas
+D|In vitro se une en un 74 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente medio es de 420 L.|In vitro , protein binding of talazoparib is 74% and is independent of talazoparib concentration|
++|D|Volumen de distribución aparente medio de 420 L.|The mean apparent volume of distribution of talazoparib is 420 L|||
+M|Sufre un metabolismo hepático mínimo (monooxidación, deshidrogenación, conjugación con cisteína y glucuronidación).|Talazoparib undergoes minimal hepatic metabolism|higado|sin
+E|La excreción urinaria es la vía principal: el 69 % de la dosis marcada se recuperó en la orina (55 % sin cambios) y el 20 % en las heces.|Approximately 69% (55% unchanged) of the total administered radiolabeled dose of talazoparib was recovered in urine, and 20% (14% unchanged) was recovered in feces|orina,heces,rinones
++|E|La semivida plasmática terminal media es de 90 horas.|The mean terminal plasma half-life (±standard deviation) is 90 (±58) hours|||
+C|tmax|Mediana del tmax|1 (aprox.)|h|The median time to C max (T max ) was approximately 1 hour (range: 0.4 to 4 hours) after dosing|talazoparib
+C|union|Unión a proteínas in vitro|74|%|In vitro , protein binding of talazoparib is 74%|talazoparib
+C|vd|Volumen de distribución aparente medio|420|L|The mean apparent volume of distribution of talazoparib is 420 L|talazoparib
+C|semivida|Semivida plasmática terminal media|90|h|The mean terminal plasma half-life (±standard deviation) is 90 (±58) hours|talazoparib
+C|aclaramiento|Aclaramiento oral aparente medio|6,5|L/h|the mean apparent oral clearance (inter-subject variability) is 6.5 L/h (31%)|talazoparib
+C|orina|Dosis recuperada en la orina|69 (aprox.)|% de la dosis|Approximately 69% (55% unchanged) of the total administered radiolabeled dose of talazoparib was recovered in urine|radiactividad total
+R|En monoterapia, las más frecuentes (20 % o más, con laboratorio): descensos de hemoglobina, neutrófilos, linfocitos y plaquetas, fatiga, aumento de glucosa, de AST y de fosfatasa alcalina, entre otras.|Most common adverse reactions (≥20%) as a single agent, including laboratory abnormalities, are: • Decreased hemoglobin, decreased neutrophils, decreased lymphocytes, decreased platelets, fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome mielodisplásico y leucemia mieloide aguda|Han aparecido, algunos mortales; vigilar la toxicidad hematológica.||MDS/AML occurred in patients exposed to TALZENNA, and some cases were fatal|43685-7
+W|Mielosupresión|Puede afectar la hematopoyesis y causar anemia, leucopenia o neutropenia y trombocitopenia.||TALZENNA may affect hematopoiesis and can cause anemia, leukopenia/neutropenia, and/or thrombocytopenia|43685-7
+
+@alectinib|Alectinib|ON|Inhibidor de la tirosina cinasa ALK (y RET)|alectinib hydrochloride;Alecensa|forma=CAPSULE;vias=oral;familia=solido-oral
+S|Clorhidrato de alectinib|519.08 g/mol (hydrochloride salt)
+U|Tratamiento del cáncer de pulmón no microcítico ALK positivo, metastásico o como adyuvante tras resección.|ALECENSA is a kinase inhibitor indicated
+A|Inhibidor de tirosina cinasa dirigido a ALK y RET: inhibe la fosforilación de ALK y la activación de STAT3 y AKT; su metabolito activo M4 tiene una potencia similar.|Alectinib is a tyrosine kinase inhibitor that targets ALK and RET||ALK y RET
+L|Cápsula dura: se disgrega en el tubo digestivo; se toma con comida.|The capsule shell contains carnauba wax, carrageenan, corn starch, hypromellose, potassium chloride and titanium dioxide|
+B|Con alimentos alcanza el máximo a las 4 horas y su biodisponibilidad absoluta es del 37 %; una comida grasa multiplica por 3,1 la exposición conjunta a alectinib y M4.|The absolute bioavailability of alectinib was 37% (90% CI: 34%, 40%) under fed conditions|||con alimentos
++|B|Una comida rica en grasas aumentó 3,1 veces la exposición conjunta de alectinib y M4.|A high-fat, high-calorie meal increased the combined exposure (AUC 0-inf ) of alectinib plus M4 by 3.1-fold|||con una comida rica en grasas
+D|El alectinib y el M4 se unen en más del 99 % a las proteínas plasmáticas; el volumen de distribución aparente es de 4 016 L y en el líquido cefalorraquídeo alcanza las concentraciones libres plasmáticas.|Alectinib and M4 are bound to human plasma proteins greater than 99%, independent of drug concentration|sangre
++|D|Volumen de distribución aparente de 4 016 L para el alectinib.|The apparent volume of distribution is 4,016 L for alectinib and 10,093 L for M4|||
+M|La CYP3A4 lo transforma en su metabolito activo principal, M4.|Alectinib is metabolized by CYP3A4 to its major active metabolite M4|higado
+T|M4|activo|The major active metabolite of alectinib, M4, showed similar in vitro potency and activity|Metabolito activo principal, con potencia in vitro similar.
+E|El 98 % de la radiactividad se excretó en las heces (84 % de la dosis como alectinib inalterado y 6 % como M4); en la orina, menos del 0,5 %.|Ninety-eight percent of the radioactivity was excreted in feces following oral administration of a single radiolabeled dose of alectinib under fed conditions|heces
++|E|La semivida de eliminación es de 33 horas para el alectinib y de 31 horas para el M4.|The geometric mean elimination half-life is 33 hours for alectinib and 31 hours for M4 in patients with ALK-positive NSCLC|pacientes con CPNM ALK positivo|
+C|biodisponibilidad|Biodisponibilidad absoluta con alimentos|37|%|The absolute bioavailability of alectinib was 37% (90% CI: 34%, 40%) under fed conditions|alectinib||con alimentos
+C|tmax|Tiempo hasta la concentración máxima|4|h|Alectinib reached maximal concentrations at 4 hours following administration of ALECENSA 600 mg twice daily under fed conditions|alectinib|pacientes con CPNM ALK positivo|con alimentos
+C|union|Unión a proteínas plasmáticas|> 99|%|Alectinib and M4 are bound to human plasma proteins greater than 99%|alectinib y M4
+C|vd|Volumen de distribución aparente|4016|L|The apparent volume of distribution is 4,016 L for alectinib|alectinib
+C|semivida|Semivida de eliminación|33|h|The geometric mean elimination half-life is 33 hours for alectinib|alectinib|pacientes con CPNM ALK positivo
+C|aclaramiento|Aclaramiento aparente|81,9|L/h|The apparent clearance (CL/F) is 81.9 L/hour for alectinib|alectinib
+C|heces|Radiactividad excretada en las heces|98|% de la dosis|Ninety-eight percent of the radioactivity was excreted in feces|radiactividad total||con alimentos
+R|Las más frecuentes (20 % o más): hepatotoxicidad, estreñimiento, fatiga, mialgia, edema, exantema y tos.|most common adverse reactions (incidence ≥20%) were hepatotoxicity, constipation, fatigue, myalgia, edema, rash and cough
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas cada 2 semanas los 3 primeros meses y después cada mes.|higado|Monitor liver laboratory tests every 2 weeks during the first 3 months of treatment|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Interrumpir de inmediato si se diagnostica y suspender si no hay otra causa.||Immediately withhold ALECENSA in patients diagnosed with ILD/pneumonitis|43685-7
+W|Insuficiencia renal|Interrumpir ante una insuficiencia renal grave.|rinones|Withhold ALECENSA for severe renal impairment|43685-7
+W|Bradicardia|Vigilar con regularidad la frecuencia cardíaca y la presión arterial.||Monitor heart rate and blood pressure regularly|43685-7
+
+@brigatinib|Brigatinib|ON|Inhibidor de tirosina cinasas (ALK, ROS1, IGF-1R)|brigatinib;Alunbrig|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico metastásico ALK positivo.|ALUNBRIG is a kinase inhibitor indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC)
+A|Inhibidor de tirosina cinasas activo frente a ALK, ROS1, IGF-1R, FLT-3 y formas mutadas de EGFR; inhibe la autofosforilación de ALK y la señalización STAT3, AKT, ERK1/2 y S6.|Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3||ALK, ROS1 e IGF-1R
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The tablet coating consists of talc, polyethylene glycol, polyvinyl alcohol, and titanium dioxide|
+B|La mediana del tmax es de 1 a 4 horas; una comida grasa baja la Cmax un 13 % sin cambiar el AUC.|the median time to peak concentration (T max ) ranged from 1 to 4 hours|
++|B|Una comida rica en grasas redujo la Cmax un 13 % sin efecto sobre el AUC.|Brigatinib C max was reduced by 13% with no effect on AUC in healthy subjects administered ALUNBRIG after a high fat meal|sujetos sanos|con una comida rica en grasas
+D|Se une en un 91 % a las proteínas del plasma humano; el volumen de distribución aparente en estado estacionario es de 307 L.|Brigatinib is 91% bound to human plasma proteins and the binding is not concentration-dependent|sangre
++|D|Volumen de distribución aparente medio en estado estacionario de 307 L.|the mean apparent volume of distribution (V z/ F) of brigatinib at steady-state was 307 L|||
+M|In vitro se metaboliza sobre todo por la CYP2C8 y la CYP3A4; las vías principales son la N-desmetilación y la conjugación con cisteína.|Brigatinib is primarily metabolized by CYP2C8 and CYP3A4 in vitro|higado
+E|Tras 180 mg marcados, el 65 % de la dosis se recuperó en las heces y el 25 % en la orina.|65% of the administered dose was recovered in feces and 25% of the administered dose was recovered in urine|heces,orina
++|E|La semivida plasmática media es de 25 horas y el aclaramiento oral aparente de 8,9 L/h.|the mean apparent oral clearance (CL/F) of brigatinib at steady-state is 8.9 L/h and the mean plasma elimination half-life is 25 hours|||
+C|tmax|Mediana del tmax|1-4|h|the median time to peak concentration (T max ) ranged from 1 to 4 hours|brigatinib
+C|union|Unión a proteínas plasmáticas|91|%|Brigatinib is 91% bound to human plasma proteins|brigatinib
+C|vd|Volumen de distribución aparente en estado estacionario|307|L|the mean apparent volume of distribution (V z/ F) of brigatinib at steady-state was 307 L|brigatinib
+C|semivida|Semivida de eliminación plasmática media|25|h|the mean plasma elimination half-life is 25 hours|brigatinib
+C|aclaramiento|Aclaramiento oral aparente|8,9|L/h|the mean apparent oral clearance (CL/F) of brigatinib at steady-state is 8.9 L/h|brigatinib
+C|heces|Dosis recuperada en las heces|65|% de la dosis|65% of the administered dose was recovered in feces|radiactividad total|sujetos sanos|dosis oral única marcada de 180 mg
+R|Las más frecuentes (25 % o más): diarrea, fatiga, náuseas, exantema, tos, mialgia, cefalea, hipertensión, vómitos y disnea.|most common adverse reactions (≥25%) with ALUNBRIG were diarrhea, fatigue, nausea, rash, cough, myalgia, headache, hypertension, vomiting, and dyspnea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar síntomas respiratorios nuevos o que empeoran, sobre todo la primera semana.||Monitor for new or worsening respiratory symptoms, particularly during the first week of treatment|43685-7
+W|Hipertensión|Vigilar la presión arterial a las 2 semanas y después al menos cada mes.||Monitor blood pressure after 2 weeks and then at least monthly during treatment|43685-7
+W|Bradicardia|Vigilar con regularidad la frecuencia cardíaca y la presión arterial.||Monitor heart rate and blood pressure regularly during treatment|43685-7

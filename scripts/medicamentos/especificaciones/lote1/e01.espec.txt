@@ -1,0 +1,51 @@
+@atorvastatina|Atorvastatina|CL|Estatina (inhibidor de la HMG-CoA reductasa)|atorvastatin|doc=atorvastatina-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Carbonato cálcico; Celulosa microcristalina; Lactosa monohidrato; Croscarmelosa sódica; Polisorbato 80; Hidroxipropilcelulosa; Estearato de magnesio; Hipromelosa; Macrogol 8000; Dióxido de titanio (E 171); Talco; Emulsión de simeticona
+K|10 mg, y otras concentraciones, de atorvastatina (como atorvastatina cálcica trihidrato) por comprimido, según la ficha técnica
+U|Como complemento de la dieta, reducción de los niveles elevados de colesterol total, colesterol LDL, apoproteína B y triglicéridos.|Cardyl está indicado como tratamiento adicional a la dieta en la reducción de niveles elevados de colesterol total (C-total), colesterol LDL (C-LDL)
+A|Es un inhibidor selectivo y competitivo de la HMG-CoA reductasa, la enzima limitante que convierte la HMG-CoA en mevalonato, precursor de los esteroles, incluido el colesterol.|Atorvastatina es un inhibidor selectivo y competitivo de la HMG-CoA reductasa, la enzima limitante responsable de la conversión del 3-hidroxi-3-metil-glutaril-coenzima A a mevalonato|higado|HMG-CoA reductasa
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos recubiertos con película blancos|
+B|Se absorbe rápidamente tras la administración oral; las concentraciones plasmáticas máximas se alcanzan al cabo de 1 a 2 horas.|Atorvastatina se absorbe rápidamente tras su administración oral; las concentraciones plasmáticas máximas (C max ) se alcanzan al cabo de 1 a 2 horas|
++|B|La biodisponibilidad absoluta es de aproximadamente el 12 %.|La biodisponibilidad absoluta de atorvastatina es de aproximadamente un 12%|||
++|B|La baja disponibilidad sistémica se atribuye al aclaramiento presistémico en la mucosa gastrointestinal y al metabolismo hepático de primer paso.|La baja disponibilidad sistémica se atribuye a un aclaramiento pre-sistémico en la mucosa gastrointestinal y/o a un metabolismo hepático de primer paso|||
+D|El volumen medio de distribución es de aproximadamente 381 litros y se une a las proteínas del plasma en un 98 % o más.|El volumen medio de distribución de atorvastatina es de aproximadamente 381 l|sangre,higado
+M|Se metaboliza por el citocromo P450 3A4 a derivados orto- y parahidroxilados y a distintos productos de la beta-oxidación, que luego se glucuronidan.|Atorvastatina se metaboliza por el citocromo P450 3A4 a sus derivados orto- y parahidroxilados y a distintos productos de la beta-oxidación|higado
+T|Derivados orto- y parahidroxilados|activo|la inhibición de la HMG-CoA reductasa por los metabolitos orto- y parahidroxilados es equivalente a la de atorvastatina|In vitro inhiben la enzima igual que el fármaco original; aportan cerca del 70 % de la actividad inhibitoria circulante.
+E|Se elimina principalmente por la bilis, tras el metabolismo hepático o extrahepático; no parece sufrir recirculación enterohepática significativa.|Atorvastatina se elimina principalmente por la bilis tras el metabolismo hepático y/o extrahepático|bilis,higado,heces
++|E|La semivida de eliminación plasmática en el hombre es de aproximadamente 14 horas.|La semivida de eliminación plasmática de atorvastatina en el hombre es de aproximadamente 14 horas|||
+C|tmax|Tiempo hasta el pico plasmático|1-2|h|las concentraciones plasmáticas máximas (C max ) se alcanzan al cabo de 1 a 2 horas|atorvastatina
+C|biodisponibilidad|Biodisponibilidad absoluta|12 (aprox.)|%|La biodisponibilidad absoluta de atorvastatina es de aproximadamente un 12%|atorvastatina
+C|vd|Volumen medio de distribución|381 (aprox.)|L|El volumen medio de distribución de atorvastatina es de aproximadamente 381 l|atorvastatina
+C|semivida|Semivida de eliminación plasmática|14 (aprox.)|h|La semivida de eliminación plasmática de atorvastatina en el hombre es de aproximadamente 14 horas|atorvastatina
+R|El 5,2 % de los tratados con atorvastatina abandonó el tratamiento por efectos secundarios, frente al 4,0 % con placebo.|un 5,2% de los pacientes tratados con atorvastatina abandonaron el tratamiento a causa de los efectos secundarios en comparación con un 4,0% de los pacientes tratados con placebo
+R|La base de datos incluye 16.066 pacientes de ensayos controlados con placebo.|En la base de datos de los ensayos clínicos de atorvastatina controlados con placebo, que incluyen 16.066 pacientes
+W|Insuficiencia hepática|Se recomienda hacer pruebas de función hepática antes de iniciar el tratamiento y después de forma periódica.|higado|Se recomienda realizar pruebas de función hepática antes de iniciar el tratamiento y posteriormente de forma periódica
+W|Alcohol y enfermedad hepática previa|Debe usarse con precaución en pacientes que consuman cantidades importantes de alcohol o tengan antecedentes de enfermedad hepática.|higado|debe utilizarse con precaución en pacientes que consuman cantidades importantes de alcohol y/o con antecedentes de enfermedad hepática
+
+@losartan|Losartán|CV|Antagonista de los receptores de la angiotensina II|losartan|doc=losartan-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Celulosa microcristalina (E-460); Lactosa monohidrato; Almidón de maíz pregelatinizado; Estearato de magnesio (E-572); Hidroxipropilcelulosa (E-463); Hipromelosa (E-464); Cera de carnauba (E-903); Dióxido de titanio (E-171)
+K|12,5, 50 o 100 mg de losartán potásico por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión esencial en adultos y en niños y adolescentes de 6 a 18 años.|Tratamiento de la hipertensión esencial en adultos y niños y adolescentes de 6 a 18 años
+A|Es un antagonista oral sintético del receptor de la angiotensina II (tipo AT1).|Losartán es un antagonista oral sintético del receptor de la angiotensina II (tipo AT 1 )|vasos,corazon,rinones|Receptor AT1 de la angiotensina II
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (comprimidos)|
+B|Se absorbe bien y sufre un metabolismo de primer paso que forma un metabolito activo, el ácido carboxílico, y otros metabolitos inactivos.|Tras la administración oral, losartán se absorbe bien y sufre un metabolismo de primer paso, formando un metabolito activo, el ácido carboxílico, y otros metabolitos inactivos|
++|B|La biodisponibilidad sistémica de los comprimidos es de aproximadamente el 33 %.|La biodisponibilidad sistémica de los comprimidos de losartán es de aproximadamente el 33%|||
++|B|Las concentraciones máximas de losartán y de su metabolito activo se alcanzan al cabo de 1 hora y de 3-4 horas, respectivamente.|Las concentraciones máximas medias de losartán y de su metabolito activo se alcanzan al cabo de 1 hora y de 3-4 horas, respectivamente|||
+D|Tanto el losartán como su metabolito activo se unen a las proteínas del plasma, sobre todo a la albúmina, en un 99 % o más; el volumen de distribución del losartán es de 34 litros.|Tanto losartán como su metabolito activo se unen a las proteínas plasmáticas, principalmente a la albúmina, en ≥99%|sangre
++|D|El volumen de distribución del losartán es de 34 litros.|El volumen de distribución de losartán es de 34 litros|||
+M|Alrededor del 14 % de una dosis oral o intravenosa se transforma en su metabolito activo.|Alrededor del 14% de una dosis de losartán administrada por vía oral o intravenosa se transforma en su metabolito activo|higado
+T|Ácido carboxílico de losartán|activo|formando un metabolito activo, el ácido carboxílico|Metabolito activo del losartán.
+T|Otros metabolitos|inactivo|Además del metabolito activo, se forman metabolitos inactivos|Inactivos.
+E|Tanto la excreción biliar como la urinaria contribuyen a la eliminación del losartán y de sus metabolitos: tras una dosis oral marcada, alrededor del 35 % de la radiactividad se recupera en la orina y el 58 % en las heces.|Tanto la excreción biliar como la urinaria contribuyen a la eliminación de losartán y de sus metabolitos|bilis,rinones,orina,heces
++|E|Tras una dosis oral, el 4 % se elimina inalterado en la orina y el 6 % como metabolito activo.|alrededor del 4% de la dosis se elimina inalterado en la orina, y aproximadamente el 6% de la dosis se excreta en la orina en forma de metabolito activo|||
++|E|La semivida terminal es de unas 2 horas para el losartán y de 6-9 horas para su metabolito activo.|con una semivida terminal de unas 2 horas y de 6-9 horas, respectivamente|||
+C|biodisponibilidad|Biodisponibilidad sistémica|33 (aprox.)|%|La biodisponibilidad sistémica de los comprimidos de losartán es de aproximadamente el 33%|losartán
+C|tmax|Tiempo hasta el pico del losartán|1|h|se alcanzan al cabo de 1 hora y de 3-4 horas, respectivamente|losartán
+C|union|Unión a proteínas plasmáticas|≥ 99|%|se unen a las proteínas plasmáticas, principalmente a la albúmina, en ≥99%|losartán y metabolito activo
+C|vd|Volumen de distribución|34|L|El volumen de distribución de losartán es de 34 litros|losartán
+C|semivida|Semivida terminal del losartán|2 (aprox.)|h|con una semivida terminal de unas 2 horas y de 6-9 horas, respectivamente|losartán
+R|En los ensayos clínicos, la reacción adversa más frecuente fue el mareo.|En estos ensayos clínicos, la reacción adversa más frecuente fue mareo
+R|Se evaluó en un ensayo controlado de más de 3.000 pacientes adultos con hipertensión esencial.|En un ensayo clínico controlado de > 3.000 pacientes adultos, de 18 años y mayores, con hipertensión esencial
+W|Angioedema intestinal|Se han notificado casos con los antagonistas de los receptores de la angiotensina II, incluido el losartán.|intestino-delgado|Se han notificado casos de angioedema intestinal en pacientes tratados con antagonistas de los receptores de la angiotensina II, incluyendo losartán
+W|Antecedentes de angioedema|Se debe vigilar estrechamente a los pacientes con antecedentes de angioedema.|vasos|Se deben controlar estrechamente aquellos pacientes con antecedentes de angioedema

@@ -1,0 +1,124 @@
+@ibrutinib|Ibrutinib|ON|Inhibidor covalente de la tirosina cinasa de Bruton (BTK)|ibrutinib;Imbruvica|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de la leucemia linfocítica crónica o linfoma linfocítico de células pequeñas, la macroglobulinemia de Waldenström y la enfermedad crónica de injerto contra huésped, según la etiqueta.|Adult patients with chronic lymphocytic leukemia (CLL)/Small lymphocytic lymphoma (SLL)
+A|Forma un enlace covalente con una cisteína del sitio activo de la BTK y la inhibe; la BTK transmite las señales del receptor de los linfocitos B.|Ibrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK enzymatic activity||Tirosina cinasa de Bruton (BTK)
+L|Cápsula dura: se disgrega en el tubo digestivo.|Each 140 mg capsule is a white, opaque capsule marked with|
+B|La biodisponibilidad absoluta en ayunas es solo del 2,9 % por un primer paso intenso; el pico aparece en 1 a 2 horas y la comida grasa duplica el AUC.|Absolute bioavailability of ibrutinib in fasted condition was 2.9% (90% CI: 2.1, 3.9) in healthy subjects|
++|B|Se absorbe con una mediana del tiempo hasta el pico de 1 a 2 horas.|Ibrutinib is absorbed after oral administration with a median T max of 1 hour to 2 hours|||
++|B|Con una comida rica en grasas la Cmax aumentó de 2 a 4 veces y el AUC unas 2 veces.|increased ibrutinib C max by 2- to 4-fold and AUC by approximately 2-fold|||con una comida rica en grasas
+D|In vitro se une de forma reversible en un 97,3 % a las proteínas plasmáticas; el volumen de distribución aparente en estado estacionario ronda los 10 000 L.|Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence|sangre
++|D|Volumen de distribución aparente en estado estacionario de unos 10 000 L.|the apparent volume of distribution at steady state (V d,ss /F) was approximately 10,000 L|||
+M|Se metaboliza sobre todo por la CYP3A y, en menor medida, por la CYP2D6; el metabolismo es su principal vía de eliminación.|It is metabolized to several metabolites primarily by cytochrome P450 (CYP) 3A and to a minor extent by CYP2D6|higado
+T|PCI-45227|activo|The active metabolite, PCI-45227, is a dihydrodiol metabolite with inhibitory activity towards BTK approximately 15 times lower than that of ibrutinib|Metabolito dihidrodiol con una actividad sobre la BTK unas 15 veces menor.
+E|Tras una dosis marcada, el 90 % de la radiactividad se excretó en 168 horas: el 80 % en las heces y menos del 10 % en la orina.|90% of radioactivity was excreted within 168 hours, with 80% excreted in the feces and less than 10% eliminated in urine|heces,orina
++|E|La semivida es de 4 a 6 horas.|The half-life of ibrutinib is 4 hours to 6 hours|||
++|E|Por el intenso primer paso, el aclaramiento oral aparente es de 2000 L/h en ayunas y de 1000 L/h con comida.|In line with the high first-pass effect, the apparent oral clearance is 2000 L/h in fasted conditions and 1000 L/h in fed conditions|||
+C|biodisponibilidad|Biodisponibilidad absoluta en ayunas|2,9|%|Absolute bioavailability of ibrutinib in fasted condition was 2.9%|ibrutinib|sujetos sanos|en ayunas
+C|tmax|Mediana del tiempo hasta el pico|1-2|h|with a median T max of 1 hour to 2 hours|ibrutinib
+C|union|Unión a proteínas plasmáticas in vitro|97,3|%|Reversible binding of ibrutinib to human plasma protein in vitro was 97.3%|ibrutinib
+C|vd|Volumen de distribución aparente en estado estacionario|10000 (aprox.)|L|the apparent volume of distribution at steady state (V d,ss /F) was approximately 10,000 L|ibrutinib
+C|semivida|Semivida|4-6|h|The half-life of ibrutinib is 4 hours to 6 hours|ibrutinib
+C|heces|Radiactividad excretada en las heces|80|% de la dosis|with 80% excreted in the feces|radiactividad total
+R|En las neoplasias de linfocitos B, las más frecuentes (30 % o más): trombocitopenia, diarrea, fatiga, dolor musculoesquelético, neutropenia, exantema, anemia, hematomas y náuseas.|The most common (≥30%) adverse reactions in patients with B-cell malignancies are thrombocytopenia, diarrhea, fatigue, musculoskeletal pain, neutropenia, rash, anemia, bruising, and nausea
+R|En la enfermedad crónica de injerto contra huésped, las más frecuentes (20 % o más): fatiga, anemia, hematomas, diarrea, trombocitopenia, dolor musculoesquelético y fiebre, entre otras.|The most common (≥20%) adverse reactions in adult or pediatric patients with cGVHD are fatigue, anemia, bruising, diarrhea, thrombocytopenia, musculoskeletal pain, pyrexia
+W|Hemorragias|Ha habido hemorragias mortales; vigilar los signos de sangrado.||Fatal bleeding events have occurred in patients who received IMBRUVICA|43685-7
+W|Infecciones|Ha habido infecciones bacterianas, víricas y fúngicas, algunas mortales.||Fatal and non-fatal infections (including bacterial, viral, or fungal) have occurred with IMBRUVICA therapy|43685-7
+W|Arritmias, insuficiencia cardíaca y muerte súbita|Vigilar los síntomas de arritmia e insuficiencia cardíaca y tratarlos.|corazon|Monitor for symptoms of arrhythmias and cardiac failure and manage|43685-7
+W|Citopenias|Hacer un hemograma cada mes.|sangre|Check complete blood counts monthly|43685-7
+
+@bexaroteno|Bexaroteno|ON|Retinoide selectivo de los receptores X de retinoides (RXR)|bexarotene;Targretin|forma=CAPSULE, LIQUID FILLED;vias=oral;familia=solido-oral
+U|Tratamiento de las manifestaciones cutáneas del linfoma cutáneo de células T refractario al menos a un tratamiento sistémico previo.|indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy
+A|Se une a los receptores X de retinoides (RXRα, β y γ) y los activa; estos receptores actúan como factores de transcripción que regulan la diferenciación y la proliferación celular.|Bexarotene selectively binds and activates retinoid X receptor subtypes||Receptores X de retinoides (RXR)
+L|Cápsula blanda: se disgrega en el tubo digestivo; se toma con comida.|75 mg, off-white, oblong soft gelatin capsules, imprinted with black ink|
+B|Se absorbe con un pico hacia las 2 horas; una comida con grasa aumenta el AUC un 35 % y la Cmax un 48 %.|After oral administration of TARGRETIN, bexarotene is absorbed with a T max of about 2 hours|
++|B|Tras una comida con grasa, el AUC fue un 35 % y la Cmax un 48 % más altos que con una solución de glucosa.|Plasma bexarotene AUC and C max values resulting from a 75 to 300 mg dose were 35% and 48% higher, respectively, after a fat-containing meal than after a glucose solution|||con una comida con grasa
+D|Se une en más del 99 % a las proteínas plasmáticas.|Bexarotene is highly bound (>99%) to plasma proteins|sangre
+M|In vitro, la CYP3A4 es la principal enzima del citocromo P450 que forma sus metabolitos oxidativos.|In vitro studies suggest that cytochrome P450 3A4 is the major cytochrome P450 responsible for formation of the oxidative metabolites|higado
+T|6- y 7-hidroxi y 6- y 7-oxo-bexaroteno|activo|The oxidative metabolites are active in in vitro assays of retinoid receptor activation|Activos in vitro sobre los receptores de retinoides; su contribución al efecto no se conoce.
+E|La eliminación urinaria del bexaroteno y sus metabolitos es una vía menor (menos del 1 % de la dosis); la etiqueta no detalla la vía principal.|Urinary elimination of bexarotene and its known metabolites is a minor excretory pathway (<1% of administered dose)|orina
++|E|La semivida terminal es de unas 7 horas.|Terminal half-life of bexarotene is approximately 7 hours|||
+C|tmax|Tiempo hasta el pico|2 (aprox.)|h|bexarotene is absorbed with a T max of about 2 hours|bexaroteno
+C|union|Unión a proteínas plasmáticas|> 99|%|Bexarotene is highly bound (>99%) to plasma proteins|bexaroteno
+C|semivida|Semivida terminal|7 (aprox.)|h|Terminal half-life of bexarotene is approximately 7 hours|bexaroteno
+R|Las más frecuentes (más del 10 %): hiperlipidemia, hipercolesterolemia, cefalea, hipotiroidismo, astenia, leucopenia, exantema, náuseas, infección, edema periférico, dolor abdominal y piel seca.|The most common adverse reactions (greater than 10%) include: hyperlipidemia, hypercholesteremia, headache, hypothyroidism, asthenia, leukopenia, rash, nausea, infection, peripheral edema, abdominal pain, and dry skin
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Defectos congénitos|Pertenece a la clase de los retinoides, asociada a defectos congénitos en humanos; no debe darse en el embarazo.||TARGRETIN is a member of the retinoid class of drugs that is associated with birth defects in humans|34066-1
+W|Hiperlipidemia|Vigilar los cambios de los lípidos y tratar las alteraciones.||Monitor lipid changes and treat abnormalities during therapy|43685-7
+W|Pancreatitis|Interrumpirlo y valorar si se sospecha pancreatitis.|pancreas|Interrupt TARGRETIN and evaluate if pancreatitis is suspected|43685-7
+W|Hipotiroidismo|Vigilar la función tiroidea y sustituir la hormona si hace falta.|tiroides|Monitor and replace thyroid hormone if needed|43685-7
+
+@talidomida|Talidomida|ON|Inmunomodulador (se une al cereblón)|thalidomide;Thalomid|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento, con dexametasona, del mieloma múltiple de nuevo diagnóstico y tratamiento agudo de las manifestaciones cutáneas del eritema nudoso leproso.|in combination with dexamethasone is indicated for the treatment of patients with newly diagnosed multiple myeloma (MM)
+A|Su mecanismo no se conoce del todo; sus acciones celulares se deben a su diana, el cereblón, parte de un complejo enzimático ligasa de ubiquitina E3; tiene propiedades inmunomoduladoras, antiinflamatorias y antiangiogénicas.|Cellular activities of thalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex||Cereblón
++|A|Tiene propiedades inmunomoduladoras, antiinflamatorias y antiangiogénicas.|THALOMID possesses immunomodulatory, anti-inflammatory and antiangiogenic properties|||
+L|Cápsula dura: se disgrega en el tubo digestivo.|50 mg white, printed with|
+B|Más del 90 % de la radiactividad se recupera en la orina, lo que indica una buena absorción oral; su baja solubilidad en agua parece frenar la velocidad de absorción.|greater than 90% of the total radioactivity is recovered in urine suggesting good oral absorption|
++|B|La escasa solubilidad acuosa de la talidomida puede frenar la velocidad de absorción.|the poor solubility of thalidomide in aqueous media may be hindering the rate of absorption|||
+D|En el plasma humano, la unión a proteínas es del 55 % para la (+)-(R)-talidomida y del 66 % para la (-)-(S)-talidomida.|In human plasma, the geometric mean plasma protein binding was 55% and 66%, respectively, for (+)-(R)- and (-)-(S)-thalidomide|sangre
+M|No es sustrato del citocromo P450; el fármaco inalterado es el componente circulante predominante.|Thalidomide is not a substrate of the cytochrome P450 system|
++|M|El fármaco inalterado es el componente circulante predominante.|In a 14 C-radiolabel ADME study in humans, unchanged drug is the predominant circulating component|||
+E|Se excreta sobre todo por la orina (91,9 % de la dosis marcada), casi todo como metabolitos de hidrólisis; la excreción fecal es menor del 2 %.|In humans, 14 C-thalidomide is primarily excreted in urine (91.9% of the radioactive dose) mainly as hydrolytic metabolites while fecal excretion is minor (<2% of the dose)|orina,heces
++|E|La talidomida inalterada apenas se elimina por el riñón (menos del 3,5 % de la dosis).|Unchanged thalidomide is not eliminated by the kidney to a notable degree (<3.5% of the dose)|||
++|E|La semivida plasmática media tras dosis únicas de 50 a 400 mg es de 5,5 a 7,3 horas.|The mean elimination half-life of thalidomide in plasma following single oral doses between 50 mg and 400 mg was 5.5 to 7.3 hours|||
+C|union|Unión a proteínas plasmáticas (enantiómeros R y S)|55-66|%|the geometric mean plasma protein binding was 55% and 66%, respectively, for (+)-(R)- and (-)-(S)-thalidomide|talidomida
+C|semivida|Semivida de eliminación media|5,5-7,3|h|The mean elimination half-life of thalidomide in plasma following single oral doses between 50 mg and 400 mg was 5.5 to 7.3 hours|talidomida||dosis únicas de 50 a 400 mg
+C|orina|Radiactividad excretada en la orina|91,9|% de la dosis|primarily excreted in urine (91.9% of the radioactive dose)|radiactividad total
+R|En el mieloma múltiple, las más frecuentes (20 % o más): fatiga, hipocalcemia, edema, estreñimiento, neuropatía sensitiva, disnea, debilidad muscular, leucopenia y neutropenia, entre otras.|The most common adverse reactions (≥20%) are fatigue, hypocalcemia, edema, constipation, neuropathy-sensory, dyspnea, muscle weakness, leukopenia, neutropenia
+R|En el eritema nudoso leproso, las más frecuentes (10 % o más): somnolencia, exantema y cefalea.|The most common adverse reactions (≥10%) are somnolence, rash, and headache
+W|Toxicidad embriofetal|Tomada en el embarazo puede causar defectos congénitos graves o la muerte embriofetal.||If THALOMID is taken during pregnancy, it can cause severe birth defects or embryo-fetal death|34066-1
+W|Neuropatía periférica|Suspenderla si aparecen síntomas de neuropatía periférica inducida, si procede.||Discontinue THALOMID if symptoms of drug-induced peripheral neuropathy occur, if clinically appropriate|43685-7
+W|Tromboembolia venosa y arterial|Valorar la tromboprofilaxis según los factores de riesgo de cada paciente.||Consider thromboprophylaxis based on an assessment of individual patients' underlying risk factors|43685-7
+W|Reacciones cutáneas graves|Suspenderla ante reacciones graves.|piel|Severe Cutaneous Reactions: Discontinue THALOMID for severe reactions|43685-7
+
+@zongertinib|Zongertinib|ON|Inhibidor de la cinasa HER2|zongertinib;Hernexeos|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+X|Dióxido de silicio coloidal; Croscarmelosa sódica; Acetato succinato de hipromelosa; Manitol; Celulosa microcristalina; Estearil fumarato de sodio; Óxido de hierro amarillo; Mono y dicaprilocaprato de glicerol; Alcohol polivinílico; Laurilsulfato de sodio; Talco; Dióxido de titanio
+U|Tratamiento del cáncer de pulmón no microcítico no escamoso avanzado con mutaciones activadoras del dominio cinasa de HER2.|for the treatment of adult patients with unresectable or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain activating mutations
+A|Inhibe la cinasa HER2: in vitro bloqueó su fosforilación, su señalización y la proliferación de células de cáncer de pulmón con mutaciones activadoras de HER2.|Zongertinib is a kinase inhibitor of human epidermal growth factor receptor 2 (HER2)||HER2
++|A|In vitro inhibió la fosforilación de HER2, su señalización y la proliferación de células con mutaciones activadoras de HER2.|zongertinib inhibited phosphorylation of HER2, downstream signaling of HER2 (phosphorylation of ERK), and proliferation of lung cancer cells harboring HER2 tyrosine kinase domain activating mutations|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|yellow, oval, biconvex, film-coated tablets, debossed with|
+B|La biodisponibilidad oral absoluta es del 76 % y el pico aparece hacia las 2 horas; una comida rica en grasas no cambia de forma relevante la exposición.|Zongertinib absolute oral bioavailability is 76%|
++|B|La mediana del tiempo hasta el pico es de unas 2 horas.|Zongertinib median (min, max) time to maximum plasma concentration (T max ) is approximately 2 hours (min, max: 2, 6 hours)|||
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes de la Cmax ni del AUC.|No clinically significant differences in zongertinib C max and AUC were observed following administration of a single 240 mg dose|||con una comida rica en grasas
+D|Se une en más del 99 % a las proteínas plasmáticas; el volumen de distribución aparente es de 118 L.|Zongertinib plasma protein binding is > 99%|sangre
++|D|Volumen de distribución aparente de 118 L.|The apparent (oral) volume of distribution is 118 L (29%)|||
+M|In vitro, la oxidación por el CYP (sobre todo CYP3A4 y CYP3A5) supone el 48-62 % de su metabolismo hepático, la glucuronidación el 13-25 % y la conjugación con glutatión el 13-26 %.|Based on in vitro metabolite profiling, CYP-mediated oxidation pathways represent 48% to 62% (mainly CYP3A4 and CYP3A5), glucuronidation 13% to 25% (mainly UGT1A4)|higado
+E|Tras 60 mg marcados en participantes sanos, alrededor del 93 % se recuperó en las heces (31 % sin cambios) y el 1,3 % en la orina.|approximately 93% of the dose was recovered in feces (31% unchanged) and 1.3% in urine (0.2% unchanged)|heces,orina
++|E|La semivida efectiva es de 12 horas y el aclaramiento oral aparente, de 115 mL/min.|Zongertinib effective half-life is 12 hours (21%) with an apparent (oral) clearance of 115 mL/min (31%)|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta|76|%|Zongertinib absolute oral bioavailability is 76%|zongertinib
+C|tmax|Mediana del tiempo hasta el pico|2 (aprox.)|h|time to maximum plasma concentration (T max ) is approximately 2 hours|zongertinib
+C|union|Unión a proteínas plasmáticas|> 99|%|Zongertinib plasma protein binding is > 99%|zongertinib
+C|vd|Volumen de distribución aparente|118|L|The apparent (oral) volume of distribution is 118 L (29%)|zongertinib
+C|semivida|Semivida efectiva|12|h|Zongertinib effective half-life is 12 hours (21%)|zongertinib
+C|aclaramiento|Aclaramiento oral aparente|115|mL/min|with an apparent (oral) clearance of 115 mL/min (31%)|zongertinib
+C|heces|Dosis recuperada en las heces|93 (aprox.)|% de la dosis|approximately 93% of the dose was recovered in feces (31% unchanged)|radiactividad total|participantes sanos|dosis oral única marcada de 60 mg
+R|Las más frecuentes (20 % o más): diarrea, exantema, hepatotoxicidad, fatiga, náuseas, dolor musculoesquelético e infección respiratoria alta.|Most common adverse reactions (≥ 20%) are diarrhea, rash, hepatotoxicity, fatigue, nausea, musculoskeletal pain, and upper respiratory tract infection
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas al inicio, cada 2 semanas las 12 primeras semanas y después cada mes.|higado|Monitor liver function tests including ALT, AST, and total bilirubin at baseline prior to administration of HERNEXEOS, every 2 weeks during the first 12 weeks|43685-7
+W|Disfunción ventricular izquierda|Medir la fracción de eyección al inicio y a intervalos regulares.|corazon|Left Ventricular Dysfunction : Monitor LVEF at baseline prior to administration and at regular intervals during treatment|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas nuevos o que empeoran, como disnea, tos o fiebre.||Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, fever)|43685-7
+
+@taletrectinib|Taletrectinib|ON|Inhibidor de la tirosina cinasa ROS1|taletrectinib adipate;Ibtrozi|forma=CAPSULE;vias=oral;familia=solido-oral
+S|Adipato de taletrectinib|272 mg of taletrectinib adipate equivalent to 200 mg of taletrectinib
+K|200 mg de taletrectinib (272 mg de adipato) por cápsula, según la etiqueta
+U|Tratamiento de adultos con cáncer de pulmón no microcítico avanzado ROS1 positivo.|for the treatment of adult patients with locally advanced or metastatic ROS1 -positive non-small cell lung cancer (NSCLC)
+A|Inhibe la tirosina cinasa ROS1, también con mutaciones de resistencia, y las cinasas TRKA, TRKB y TRKC.|Taletrectinib is an inhibitor of tyrosine kinase ROS1, including ROS1 resistance mutations||ROS1
++|A|También inhibe las cinasas TRKA, TRKB y TRKC.|Taletrectinib also showed inhibitory effects on tropomyosin receptor kinases (TRKs) TRKA, TRKB, and TRKC|||
+L|Cápsula dura de liberación inmediata: se disgrega en el tubo digestivo; se toma con el estómago vacío.|Capsules: 200 mg, immediate release, white, opaque, size 0, hard capsules|
+B|El pico aparece entre 2 y 6 horas; con comida rica en grasas el AUC y la Cmax aumentan 1,5 veces.|Taletrectinib time to maximum plasma concentration (Tmax) is 2 to 6 hours|
++|B|Con comida rica en grasas el AUC y la Cmax aumentaron 1,5 veces.|Both taletrectinib AUC and Cmax increased by 1.5-fold following administration with high-fat food|||con comida rica en grasas
+D|In vitro se une en un 93-96 % a las proteínas plasmáticas, menos a concentraciones altas; el volumen de distribución aparente estimado es de 9820 L.|Taletrectinib in vitro plasma protein binding is concentration-dependent and decreases with increasing taletrectinib concentrations|sangre
++|D|Volumen de distribución aparente estimado de 9820 L.|The estimated apparent (oral) volume of distribution is 9,820 L|||
+M|Se elimina por metabolismo CYP (sobre todo CYP3A, y en menor medida CYP2C8 y CYP2C9) y no CYP (sulfatación y acetilación).|CYP3A and, to a lesser extent, CYP2C8 and CYP2C9 are the CYP450 enzymes involved in taletrectinib metabolism|higado
++|M|Se elimina por metabolismo CYP450 y no CYP450 (sulfatación y acetilación).|Taletrectinib is eliminated by CYP450 and non-CYP450 (i.e., sulfation and acetylation) metabolism|||
+E|Tras 200 mg marcados, el 75 % de la dosis se recuperó en las heces (15 % sin cambios) y el 11 % en la orina (2,9 % sin cambios).|75% of the dose was recovered in feces (15% as unchanged) and 11% in urine (2.9% as unchanged)|heces,orina
++|E|La semivida efectiva es de unas 66 horas y el aclaramiento oral aparente, de 63 L/h.|Taletrectinib effective half-life is approximately 66 hours with an apparent (oral) clearance of 63 L/h (36%)|||
+C|tmax|Tiempo hasta el pico|2-6|h|Taletrectinib time to maximum plasma concentration (Tmax) is 2 to 6 hours|taletrectinib
+C|union|Unión a proteínas plasmáticas in vitro|93-96|%|from 96% at 100 ng/mL to 93% at 10,000 ng/mL|taletrectinib
+C|vd|Volumen de distribución aparente estimado|9820|L|The estimated apparent (oral) volume of distribution is 9,820 L|taletrectinib
+C|semivida|Semivida efectiva|66 (aprox.)|h|Taletrectinib effective half-life is approximately 66 hours|taletrectinib
+C|aclaramiento|Aclaramiento oral aparente|63|L/h|apparent (oral) clearance of 63 L/h (36%)|taletrectinib
+C|heces|Dosis recuperada en las heces|75|% de la dosis|75% of the dose was recovered in feces (15% as unchanged)|radiactividad total||dosis oral única marcada de 200 mg
+R|Las más frecuentes (20 % o más): diarrea, náuseas, vómitos, mareo, exantema, estreñimiento y fatiga.|the most common (≥20%) adverse reactions were diarrhea, nausea, vomiting, dizziness, rash, constipation, and fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Ha habido acontecimientos hepáticos mortales; hacer pruebas hepáticas antes de empezar y periódicamente.|higado|Fatal liver events occurred in 2 (0.6%) patients|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares nuevos o que empeoran.|pulmones|Monitor patients for new or worsening pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Prolongación del QTc|Vigilar el electrocardiograma y los electrolitos antes de empezar y periódicamente.||Monitor ECGs and electrolytes prior to administration of IBTROZI, and then periodically thereafter as clinically indicated during treatment|43685-7

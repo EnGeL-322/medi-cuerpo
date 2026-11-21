@@ -1,0 +1,49 @@
+@paracetamol|Paracetamol|DF|Analgésico y antipirético|acetaminophen;acetaminofén|doc=paracetamol-kern-solucion;anadir=1;sufijo=kern-solucion;recorrido=propio;familia=liquido-oral;vias=oral;formaN=solucion-oral
+S|-
+K|100 mg/mL de paracetamol, según la ficha técnica
+X|Macrogol 600; Glicerol (E-422); Sucralosa (E-955); Enmascarador del sabor (contiene propilenglicol E-1520); Aroma de fresa (contiene propilenglicol E-1520); Rojo carmín (E-120) (contiene glucosa); Agua purificada
+U|Tratamiento sintomático de la fiebre y del dolor leve o moderado.|está indicado en el tratamiento sintomático de la fiebre y dolor leve o moderado
+A|Es un analgésico con propiedades antipiréticas; el mecanismo de la acción analgésica no está totalmente determinado y puede actuar sobre todo inhibiendo la síntesis de prostaglandinas en el sistema nervioso central.|El paracetamol es un fármaco analgésico que también posee propiedades antipiréticas|encefalo|Síntesis de prostaglandinas (mecanismo no totalmente determinado)
++|A|Puede actuar predominantemente inhibiendo la síntesis de prostaglandinas a nivel del sistema nervioso central.|El paracetamol puede actuar predominantemente inhibiendo la síntesis de prostaglandinas a nivel del sistema nervioso central|||
+L|Solución oral: líquido transparente de color rojo y olor a fresa; el principio activo ya está disuelto.|Solución transparente, de color rojo y con olor característico a fresa|boca,esofago,estomago|
+B|Por vía oral su biodisponibilidad es del 75-85 % y se absorbe amplia y rápidamente.|Por vía oral su biodisponibilidad es del 75-85%. Es absorbido amplia y rápidamente
++|B|El tiempo hasta la concentración máxima es de 0,5-2 horas, según la forma farmacéutica.|con un tiempo hasta la concentración máxima de 0,5-2 horas|||
+D|El grado de unión a proteínas plasmáticas es de alrededor del 10 %.|El grado de unión a proteínas plasmáticas es de un 10%|sangre
+M|Se metaboliza fundamentalmente en el hígado (90-95 %), con un efecto de primer paso hepático.|El paracetamol se metaboliza fundamentalmente en el hígado (90-95%)|higado
++|M|Su metabolismo experimenta un efecto de primer paso hepático.|El metabolismo del paracetamol experimenta un efecto de primer paso hepático|||
+E|Se elimina sobre todo por la orina como conjugado con ácido glucurónico y, en menor proporción, con ácido sulfúrico y cisteína; menos del 5 % se excreta sin cambios.|El paracetamol se elimina mayoritariamente en la orina como un conjugado con el ácido glucurónico, y en menor proporción con el ácido sulfúrico y la cisteína; menos del 5% se excreta en forma inalterada|rinones,orina
++|E|La semivida de eliminación es de 1,5-3 horas.|Su semivida de eliminación es de 1,5-3 horas|||
+C|biodisponibilidad|Biodisponibilidad oral|75-85|%|Por vía oral su biodisponibilidad es del 75-85%|paracetamol
+C|tmax|Tiempo hasta la concentración máxima|0,5-2|h|con un tiempo hasta la concentración máxima de 0,5-2 horas|paracetamol
+C|union|Unión a proteínas plasmáticas|10 (aprox.)|%|El grado de unión a proteínas plasmáticas es de un 10%|paracetamol
+C|semivida|Semivida de eliminación|1,5-3|h|Su semivida de eliminación es de 1,5-3 horas|paracetamol
+C|orina|Excretado sin cambios|< 5|% de la dosis|menos del 5% se excreta en forma inalterada|paracetamol
+R|Las reacciones adversas del paracetamol son, por lo general, raras o muy raras.|Las reacciones adversas del paracetamol son, por lo general, raras o muy raras
+R|Muy raras: reacciones de hipersensibilidad y hepatotoxicidad (ictericia).|Muy raras: Hepatotoxicidad (ictericia)
+G|Propilenglicol|La ficha advierte de que la administración conjunta con un sustrato de la alcohol deshidrogenasa, como el etanol, puede causar reacciones adversas graves en recién nacidos.|oral|La administración conjunta con cualquier sustrato para el alcohol deshidrogenasa tal como el etanol puede provocar reacciones adversas graves en recién nacidos
+W|Precaución en anemia y afecciones cardíacas, pulmonares o renales|Debe usarse con precaución, evitando tratamientos prolongados, en pacientes con anemia, afecciones cardíacas o pulmonares y disfunción renal grave.|sangre,corazon,pulmones,rinones|El paracetamol debe usarse con precaución, evitando tratamientos prolongados en caso de: pacientes con anemia, afecciones cardíacas afecciones pulmonares, disfunción renal grave|
+W|Acidosis metabólica con desequilibrio aniónico alto|Se han notificado casos por acidosis piroglutámica en pacientes con enfermedad grave o con deficiencia de glutatión.|sangre|Se han notificado casos de acidosis metabólica con desequilibrio aniónico alto (AMDAA) debido a acidosis piroglutámico|
+
+@paracetamol|Paracetamol|DF|Analgésico y antipirético|acetaminophen|doc=paracetamol-kabi-perfusion;anadir=1;sufijo=kabi-perfusion;recorrido=propio;familia=inyectable;vias=intravenosa;formaN=solucion-inyectable
+S|-
+K|10 mg/mL de paracetamol en solución para perfusión, según la ficha técnica
+X|Cisteína; Manitol (E421); Agua para preparaciones inyectables
+U|Tratamiento a corto plazo del dolor moderado, sobre todo después de cirugía, y de la fiebre, cuando la vía intravenosa está justificada clínicamente.|el tratamiento a corto plazo del dolor moderado, especialmente después de cirugía, el tratamiento a corto plazo de la fiebre
+A|El mecanismo exacto de sus propiedades analgésicas y antipiréticas no se ha establecido; podría implicar acciones centrales y periféricas.|Aún no se ha establecido el mecanismo exacto de las propiedades analgésicas y antipiréticas del paracetamol|encefalo|Mecanismo no establecido
+L|Solución para perfusión ya lista, isoosmótica: el paracetamol ya está disuelto y se administra directamente en una vena.|La solución es isoosmótica y su pH está entre 5,0 y 7,0|sangre|La solución llega a la sangre por una vena.|El fármaco, ya disuelto, circula con la sangre.
+Z|absorcion|En la vía intravenosa no hay absorción: el paracetamol se perfunde directamente en la sangre y la ficha da ya la concentración máxima en plasma tras la perfusión.|La concentración máxima en plasma (Cmax) de paracetamol observada después de la perfusión|sangre|El fármaco ya está en la sangre.|Entra directamente en la circulación general.|Sigue hacia los tejidos y el hígado.
+D|El volumen de distribución es de aproximadamente 1 L/kg; se observaron concentraciones significativas (aprox. 1,5 μg/ml) en el líquido cefalorraquídeo tras 20 minutos de perfusión.|El volumen de distribución de paracetamol es de aproximadamente de1 l/kg|sangre,encefalo||El fármaco circula en la sangre.|Se reparte por los tejidos, incluido el sistema nervioso central, y llega al hígado.
++|D|Se observaron concentraciones significativas de paracetamol en el líquido cefalorraquídeo.|se observaron concentraciones significativas de paracetamol (aproximadamente 1,5 μg/ml) en el líquido cefalorraquídeo|||
+M|Se metaboliza principalmente en el hígado por conjugación con ácido glucurónico y con ácido sulfúrico; una fracción menor del 4 % pasa por el citocromo P450 y forma un intermedio reactivo.|El paracetamol se metaboliza principalmente en el hígado siguiendo dos rutas hepáticas principales: conjugación con ácido glucurónico y conjugación con ácido sulfúrico|higado
+T|N-acetil benzoquinona imina|tóxico|Una pequeña fracción (menor del 4%) se metaboliza por el citocromo P450 dando lugar a un intermedio reactivo|Intermedio reactivo que a dosis normales se detoxifica con glutatión reducido.
+E|Los metabolitos se excretan sobre todo por la orina: el 90 % de la dosis se excreta en 24 horas; la vida media en plasma es de 2,7 horas.|Los metabolitos de paracetamol se excretan principalmente por la orina. El 90% de la dosis administrada se excreta en 24 horas|rinones,orina
++|E|La vida media en plasma es de 2,7 horas.|La vida media en plasma es de 2,7 horas|||
++|E|Menos del 5 % se elimina de forma inalterada.|Menos de un 5% se elimina de forma inalterada|||
+C|cmax|Concentración máxima en plasma tras la perfusión|15 (con 500 mg) y 30 (con 1 g)|µg/mL|de aproximadamente 15 μg/ ml y 30 μg/ml, respectivamente|paracetamol|adultos|perfusión de 15 minutos
+C|vd|Volumen de distribución|1 (aprox.)|L/kg|El volumen de distribución de paracetamol es de aproximadamente de1 l/kg|paracetamol
+C|semivida|Vida media en plasma|2,7|h|La vida media en plasma es de 2,7 horas|paracetamol|adultos
+C|orina|Dosis excretada en 24 horas|90|% de la dosis|El 90% de la dosis administrada se excreta en 24 horas|paracetamol y metabolitos
+R|Como todos los medicamentos que contienen paracetamol, las reacciones adversas son raras o muy raras.|Como todos los medicamentos que contienen paracetamol, las reacciones adversas son raras o muy raras
+R|La tabla de la ficha incluye trombocitopenia, leucopenia, neutropenia y agranulocitosis.|Trombocitopenia, leucopenia, neutropenia, agranulocitosis
+W|Riesgo de errores de medicación|La ficha advierte de evitar la confusión entre miligramos y mililitros, que puede causar sobredosificación accidental y la muerte.|sangre|Tenga cuidado en evitar errores de medicación debido a la confusión entre miligramos (mg) y mililitros (ml), lo que puede resultar en una sobredosificación accidental y la muerte|
+W|Lesión hepática|Dosis mayores de las recomendadas conllevan un riesgo de lesión hepática muy grave.|higado|Dosis mayores de las recomendadas conllevan un riesgo de lesión hepática muy grave|

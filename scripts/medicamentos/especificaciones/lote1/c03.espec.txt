@@ -1,0 +1,69 @@
+@sunitinib|Sunitinib|ON|Inhibidor de tirosina quinasas (antineoplásico)|sunitinib|vias=oral;familia=solido-oral
+S|-
+X|Manitol; Povidona K-25; Croscarmelosa sódica; Estearato de magnesio; Gelatina; Dióxido de titanio (E171); Óxido de hierro amarillo (E172); Óxido de hierro rojo (E172); Goma laca; Óxido de hierro negro (E172); Propilenglicol; Solución concentrada de amoniaco; Hidróxido de potasio
+K|12,5, 25 o 50 mg de sunitinib por cápsula, según la ficha técnica
+U|Tratamiento de tumores malignos no resecables o metastásicos del estroma gastrointestinal (GIST) en adultos tras el fracaso del tratamiento con imatinib por resistencia o intolerancia.|para el tratamiento de tumores malignos no resecables y/o metastásicos del estroma gastrointestinal (GIST) en adultos después del fracaso al tratamiento con imatinib
+A|Inhibe varios receptores tirosina quinasa implicados en el crecimiento tumoral, la formación de nuevos vasos del tumor y la progresión metastásica del cáncer.|Sunitinib inhibe múltiples receptores tirosina kinasa (RTKs) que están implicados en el crecimiento tumoral, la neoangiogénesis y la progresión metastásica del cáncer|tejidos,vasos|Receptores tirosina quinasa (entre ellos PDGFR)
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Cápsulas de gelatina dura con la tapa opaca de color anaranjado|
+B|Tras la administración oral, el pico de concentración se alcanza entre 6 y 12 horas después.|la concentración máxima entre 6 a 12 horas (T max ) tras la administración|
++|B|Los alimentos no tienen efecto sobre la biodisponibilidad.|Los alimentos no tienen efecto sobre la biodisponibilidad de sunitinib|||con alimentos
+D|La unión a proteínas del plasma humano in vitro es del 95 % para sunitinib y del 90 % para su metabolito activo principal.|la unión de sunitinib y su metabolito activo principal a proteínas plasmáticas humanas en los ensayos in vitro fue del 95% y del 90%, respectivamente|sangre
++|D|El volumen aparente de distribución es elevado (2230 L), lo que indica que se distribuye a los tejidos.|El volumen aparente de distribución (V d ) para sunitinib fue elevado (2230 L)|||
+M|Se metaboliza principalmente por la CYP3A4, que origina su metabolito activo principal, el desetil sunitinib, también metabolizado por la misma enzima.|Sunitinib se metaboliza principalmente por CYP3A4|higado
+T|Desetil sunitinib|activo|su metabolito activo principal, desetil sunitinib|Metabolito activo principal; supone del 23 % al 37 % de la exposición total.
+E|Se excreta principalmente por las heces (61 %); la eliminación renal del fármaco sin metabolizar y de sus metabolitos es del 16 % de la dosis.|Se excreta principalmente a través de las heces (61%), siendo la eliminación renal del principio activo sin metabolizar y de sus metabolitos del 16% de la dosis administrada|heces,rinones,orina
++|E|La semivida de eliminación de sunitinib es de aproximadamente 40-60 horas.|son de aproximadamente 40-60 horas|voluntarios sanos|
+C|tmax|Tiempo hasta el pico de concentración|6-12|h|la concentración máxima entre 6 a 12 horas (T max ) tras la administración|sunitinib
+C|union|Unión a proteínas plasmáticas|95|%|la unión de sunitinib y su metabolito activo principal a proteínas plasmáticas humanas en los ensayos in vitro fue del 95% y del 90%, respectivamente|sunitinib||in vitro
+C|vd|Volumen aparente de distribución|2.230|L|El volumen aparente de distribución (V d ) para sunitinib fue elevado (2230 L)|sunitinib
+C|semivida|Semivida de eliminación|40-60 (aprox.)|h|son de aproximadamente 40-60 horas|sunitinib|voluntarios sanos
+C|heces|Excretado por las heces|61|% de la dosis|Se excreta principalmente a través de las heces (61%)|sunitinib y metabolitos
+R|Las más graves, algunas mortales: insuficiencia renal, insuficiencia cardíaca, embolismo pulmonar, perforación gastrointestinal y hemorragias.|Las reacciones adversas más graves asociadas a sunitinib, algunas de ellas con desenlace mortal, son insuficiencia renal, insuficiencia cardiaca, embolismo pulmonar, perforación gastrointestinal y hemorragias
+R|Entre las más frecuentes de cualquier grado: disminución del apetito, alteración del gusto, hipertensión y fatiga.|incluyeron: disminución del apetito, alteración del gusto, hipertensión, fatiga
+W|Trastornos de la piel|Puede aparecer despigmentación del pelo o de la piel durante el tratamiento.|piel|la despigmentación del pelo o la piel también puede ocurrir durante el tratamiento con sunitinib
+W|Inductores potentes de la CYP3A4|Su administración concomitante debe evitarse porque puede reducir la concentración plasmática de sunitinib.|higado,sangre|La administración concomitante de inductores potentes del CYP3A4 debe evitarse, ya que puede reducir la concentración plasmática de sunitinib
+
+@eslicarbazepina|Eslicarbazepina|SN|Antiepiléptico (bloqueante de canales de sodio)|eslicarbazepine;acetato de eslicarbazepina;Escarpilo|vias=oral;familia=solido-oral
+S|Acetato de eslicarbazepina|400 mg de acetato de eslicarbazepina
+X|Croscarmelosa sódica; Povidona K30; Estearato de magnesio
+K|400 mg y 1200 mg de acetato de eslicarbazepina por comprimido, según la ficha técnica
+U|Monoterapia de las crisis de inicio parcial, con o sin generalización secundaria, en adultos con epilepsia recién diagnosticada; también terapia adyuvante en adultos, adolescentes y niños mayores de 6 años.|monoterapia para el tratamiento de crisis de inicio parcial, con o sin generalización secundaria, en adultos con epilepsia recién diagnosticada
+A|Se desconoce el mecanismo preciso; in vitro, el acetato de eslicarbazepina y sus metabolitos estabilizan el estado inactivado de los canales de sodio activados por voltaje y evitan el disparo neuronal repetitivo.|los estudios electrofisiológicos in vitro indican que tanto el acetato de eslicarbazepina como sus metabolitos estabilizan el estado inactivado de los canales de sodio activados por voltaje|encefalo|Canales de sodio activados por voltaje
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos de color blanco a blanquecino, oblongos, biconvexos|
+B|El acetato de eslicarbazepina se convierte ampliamente en eslicarbazepina; sus niveles plasmáticos suelen estar por debajo del límite de cuantificación.|El acetato de eslicarbazepina es convertido ampliamente en eslicarbazepina|
++|B|La Cmax de la eslicarbazepina se alcanza entre 2 y 3 horas después de la dosis.|La C max de la eslicarbazepina se alcanza entre 2 a 3 horas después de la dosis|||
++|B|Puede asumirse que la biodisponibilidad es elevada, porque los metabolitos recuperados en la orina fueron más del 90 % de una dosis.|Puede asumirse que la biodisponibilidad es elevada|||
+D|La unión de la eslicarbazepina a las proteínas del plasma es relativamente baja (menos del 40 %) e independiente de la concentración.|La unión de la eslicarbazepina a proteínas plasmáticas es relativamente baja (<40%), y es independiente de la concentración|sangre
+M|El acetato de eslicarbazepina se biotransforma rápida y ampliamente en su metabolito activo principal, la eslicarbazepina, por metabolismo hidrolítico de primer paso.|El acetato de eslicarbazepina se biotransforma rápida y ampliamente en su principal metabolito activo eslicarbazepina por metabolismo hidrolítico de primer paso|higado
+T|Eslicarbazepina|activo|principal metabolito activo eslicarbazepina|Metabolito activo principal.
+T|R-licarbazepina y oxcarbazepina|activo|Los metabolitos menores en plasma son R-licarbazepina y oxcarbazepina, que demostraron ser activos|Metabolitos menores del plasma, también activos.
+E|Los metabolitos se eliminan de la circulación sistémica principalmente por excreción renal, como fármaco inalterado y como conjugado glucurónido.|Los metabolitos del acetato de eslicarbazepina se eliminan de la circulación sistémica principalmente por excreción renal, en forma de fármaco inalterado y conjugado glucurónido|rinones,orina
++|E|La semivida aparente de la eslicarbazepina fue de 10-20 horas en sujetos sanos y de 13-20 horas en pacientes epilépticos adultos.|10-20 horas y 13-20 horas, respectivamente|||
+C|tmax|Tiempo hasta el pico de eslicarbazepina|2-3|h|La C max de la eslicarbazepina se alcanza entre 2 a 3 horas después de la dosis|eslicarbazepina
+C|union|Unión a proteínas plasmáticas|< 40|%|La unión de la eslicarbazepina a proteínas plasmáticas es relativamente baja (<40%)|eslicarbazepina
+C|semivida|Semivida aparente de la eslicarbazepina|13-20|h|la semivida aparente de la eslicarbazepina fue de 10-20 horas y 13-20 horas, respectivamente|eslicarbazepina|pacientes epilépticos adultos
+R|En los ensayos, el 51 % de los pacientes tratados tuvo reacciones adversas.|el 51% de los pacientes experimentaron reacciones adversas
+R|Fueron por lo general de intensidad leve a moderada y aparecieron sobre todo en las primeras semanas de tratamiento.|Las reacciones adversas fueron por lo general de intensidad leve a moderada, y se produjeron predominantemente durante las primeras semanas del tratamiento
+W|Ideación suicida|Se han notificado conductas e ideación suicidas en pacientes tratados con antiepilépticos en diversas indicaciones.|encefalo|Se han notificado conductas e ideación suicidas en pacientes tratados con principios activos antiepilépticos en diversas indicaciones
+
+@perampanel|Perampanel|SN|Antiepiléptico (antagonista de los receptores AMPA)|perampanel|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Celulosa microcristalina; Povidona K-30; Hidroxipropilcelulosa de baja sustitución; Crospovidona (tipo A); Estearato de magnesio; Alcohol polivinílico (parcialmente hidrolizado); Dióxido de titanio (E171); Macrogol 4000; Talco; Óxido de hierro amarillo (E172)
+K|2 mg de perampanel por comprimido, según la ficha técnica
+U|Tratamiento concomitante de las crisis de inicio parcial, con o sin generalización secundaria, en pacientes desde 4 años; también de las crisis tonicoclónicas generalizadas primarias desde 7 años.|las crisis de inicio parcial (CIP) con o sin crisis generalizadas secundarias en pacientes con 4 años de edad y mayores
+A|Es un antagonista no competitivo y selectivo de los receptores AMPA de glutamato en las neuronas postsinápticas; el glutamato es el principal neurotransmisor excitatorio del sistema nervioso central.|Perampanel es el primer antagonista en su clase no competitivo y selectivo de los receptores ionotrópicos de glutamato de tipo AMPA|encefalo|Receptor AMPA de glutamato
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (comprimido)|
+B|Se absorbe fácilmente tras la administración oral, sin indicios de un metabolismo de primer paso marcado.|Perampanel se absorbe fácilmente tras la administración oral sin indicios de un metabolismo de primer paso marcado|
++|B|Con alimentos ricos en grasas no cambió la exposición plasmática máxima ni la total, y el Tmax se retrasó aproximadamente 1 hora.|El t máx se retrasó aproximadamente 1 hora en comparación con la administración en ayunas|||con alimentos ricos en grasas
+D|Aproximadamente el 95 % de perampanel se une a las proteínas del plasma, según estudios in vitro.|aproximadamente el 95 % de perampanel se une a las proteínas plasmáticas|sangre
+M|Se metaboliza de forma extensa por oxidación primaria y glucuronidación posterior, mediada principalmente por la CYP3A.|Perampanel se metaboliza de forma extensa mediante oxidación primaria y glucuronidación posterior|higado
+T|Metabolitos oxidativos y conjugados|desconocida|solo se observaron cantidades mínimas de los metabolitos de perampanel en el plasma|En el plasma solo se observaron cantidades mínimas.
+E|Tras una dosis marcada, alrededor del 30 % de la radiactividad se halló en la orina y el 70 % en las heces, sobre todo como metabolitos oxidativos y conjugados.|aproximadamente el 30 % de la radiactividad recuperada se encontró en la orina y el 70 % en las heces|rinones,orina,heces
++|E|El t1/2 promedio de perampanel fue de 105 horas.|el t 1/2 promedio de perampanel fue de 105 horas|||análisis poblacional de 19 estudios de fase I|
+C|union|Unión a proteínas plasmáticas|95 (aprox.)|%|aproximadamente el 95 % de perampanel se une a las proteínas plasmáticas|perampanel||in vitro
+C|semivida|Semivida promedio|105|h|el t 1/2 promedio de perampanel fue de 105 horas|perampanel
+C|orina|Radiactividad recuperada en la orina|30 (aprox.)|% del total|aproximadamente el 30 % de la radiactividad recuperada se encontró en la orina|radiactividad total|adultos sanos|dosis de perampanel marcado
+C|heces|Radiactividad recuperada en las heces|70 (aprox.)|% del total|el 70 % en las heces|radiactividad total|adultos sanos|dosis de perampanel marcado
+R|Las que más a menudo llevaron a suspender el tratamiento fueron el mareo y la somnolencia.|que dieron lugar a la suspensión del tratamiento fueron el mareo y la somnolencia
+R|En los ensayos de crisis de inicio parcial, 1639 pacientes recibieron perampanel.|1639 pacientes han recibido perampanel
+W|Ideación y conductas suicidas|Se han notificado casos en pacientes tratados con antiepilépticos en varias indicaciones.|encefalo|Se han notificado casos de ideación y conductas suicidas en pacientes tratados con antiepilépticos en varias indicaciones

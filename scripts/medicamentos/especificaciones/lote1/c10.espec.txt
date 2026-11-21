@@ -1,0 +1,99 @@
+@entacapona|Entacapona|SN|Inhibidor de la catecol-O-metiltransferasa (COMT)|entacapone|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Manitol (E-421); Hidroxipropilcelulosa de baja sustitución; Estearato de magnesio (E-470b); Aceite vegetal hidrogenado; Hipromelosa; Dióxido de titanio (E 171); Glicerina; Óxido de hierro amarillo (E 172); Sacarosa; Polisorbato 80; Óxido de hierro rojo (E 172)
+K|200 mg de entacapona por comprimido, según la ficha técnica
+U|Tratamiento de adultos con enfermedad de Parkinson, en combinación con preparados convencionales de levodopa con benserazida o con carbidopa.|Entacapona está indicado en combinación con preparados convencionales de levodopa/benserazida o levodopa/carbidopa
+A|Es un inhibidor reversible y específico de la COMT, de acción principalmente periférica.|Es un inhibidor reversible y específico de la COMT, de acción principalmente periférica|sangre,higado|Catecol-O-metiltransferasa (COMT)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Color naranja claro, de forma ovalada, biconvexa|
+B|La absorción presenta una gran variabilidad intra e interindividual; la biodisponibilidad tras una dosis oral es de aproximadamente el 35 %.|La absorción de entacapona presenta una gran variabilidad intra e interindividual|
++|B|La concentración plasmática máxima se alcanza aproximadamente una hora después de tomar un comprimido de 200 mg.|La concentración plasmática máxima (Cmáx) se suele alcanzar aproximadamente una hora después de la toma de un comprimido de entacapona de 200 mg|||
++|B|Tras una dosis oral, la biodisponibilidad es de aproximadamente el 35 %; los alimentos no afectan de forma significativa la absorción.|Los alimentos no afectan de forma significativa la absorción de entacapona|||con alimentos
+D|Se une ampliamente a las proteínas del plasma, sobre todo a la albúmina, y se distribuye rápidamente en los tejidos periféricos, con un volumen de distribución de 20 litros en estado estacionario.|Entacapona se une ampliamente a proteínas plasmáticas, principalmente a albúmina|sangre,tejidos
++|D|El volumen de distribución en estado estacionario es de 20 litros.|con un volumen de distribución de 20 litros en estado estacionario|||
+M|Una pequeña cantidad del isómero E se convierte en su isómero Z; la eliminación se produce principalmente por vías metabólicas no renales.|La eliminación de entacapona se produce principalmente por vías metabólicas no renales|higado
+T|Isómero Z y trazas de otros metabolitos|desconocida|El isómero-( Z ) y las trazas de otros metabolitos representan el 5% restante|Representan el 5 % del AUC; el isómero E, el 95 %.
+E|Se estima que el 80-90 % de la dosis se excreta por las heces (no confirmado en humanos) y el 10-20 % por la orina, donde casi no hay entacapona inalterada.|Se estima que el 80-90% de la dosis se excreta en heces, aunque esto no se ha confirmado en humanos|heces,rinones,orina
++|E|Aproximadamente el 92 % de la dosis se elimina durante la fase beta, con una semivida de eliminación corta de 30 minutos.|Aproximadamente un 92% de la dosis se elimina durante la fase-β con una semivida de eliminación corta de 30 minutos|||
+C|tmax|Tiempo hasta el pico plasmático|1 (aprox.)|h|La concentración plasmática máxima (Cmáx) se suele alcanzar aproximadamente una hora después de la toma de un comprimido de entacapona de 200 mg|entacapona
+C|biodisponibilidad|Biodisponibilidad oral|35 (aprox.)|%|Tras una dosis oral la biodisponibilidad de entacapona es de aprox. un 35%|entacapona
+C|vd|Volumen de distribución en estado estacionario|20|L|con un volumen de distribución de 20 litros en estado estacionario|entacapona
+C|semivida|Semivida de eliminación (fase beta)|30|min|con una semivida de eliminación corta de 30 minutos|entacapona
+C|heces|Dosis excretada por las heces (estimada)|80-90|% de la dosis|Se estima que el 80-90% de la dosis se excreta en heces|entacapona y metabolitos
+R|Las más frecuentes se relacionan con el aumento de la actividad dopaminérgica y aparecen más a menudo al inicio del tratamiento.|Las reacciones adversas más frecuentes causadas por entacapona están relacionadas con el aumento de la actividad dopaminérgica y se presentan más comúnmente al inicio del tratamiento
+R|La orina puede adquirir un color marrón rojizo por la entacapona, sin importancia.|La orina puede adquirir un color marrón rojizo debido a entacapona, pero ello no reviste importancia
+W|Rabdomiólisis y síndrome neuroléptico maligno|Se han observado raramente en pacientes con enfermedad de Parkinson, secundarias a discinesias graves o al síndrome neuroléptico maligno.|musculos,encefalo|La rabdomiolisis secundaria a discinesias severas o síndrome neuroléptico maligno (SNM) se ha observado raramente en pacientes con enfermedad de Parkinson
+
+@norfloxacino|Norfloxacino|IN|Antibiótico fluoroquinolona|norfloxacin|vias=oral;familia=solido-oral
+S|-
+X|Povidona; Carboximetilalmidón sódico; Celulosa microcristalina; Sílice coloidal anhidra; Estearato de magnesio; Hidroxipropilmetilcelulosa 2910; Talco; Dióxido de titanio (E-171); Propilenglicol
+K|400 mg de norfloxacino por comprimido, según la ficha técnica
+U|Tratamiento de infecciones por bacterias aerobias sensibles, entre ellas la cistitis aguda no complicada, la prostatitis bacteriana y la orquiepididimitis.|infecciones causadas por bacterias aerobias sensibles al norfloxacino
+A|Inhibe la síntesis del ADN bacteriano al inhibir la topoisomerasa bacteriana II (girasa) y la topoisomerasa IV.|por la inhibición de la de la topoisomerasa bacteriana II (girasa) y topoisomerasa IV|sitio-infeccion|ADN girasa (topoisomerasa II) y topoisomerasa IV bacterianas
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película|
+B|Se absorbe rápidamente tras la administración oral; en voluntarios sanos se absorbe por lo menos entre el 30 % y el 40 % del fármaco.|El norfloxacino se absorbe rápidamente después de la administración oral|
++|B|El tiempo hasta la concentración máxima fluctuó entre 0,75 y 2,0 horas.|El tiempo necesario para alcanzar la concentración máxima (t máx ) fluctuó entre 0,75 y 2,0 horas|||
+D|A una concentración de 2,5 mg/L en suero humano, se une en un 13,8 % a las proteínas del plasma.|A una concentración de 2,5 mg/l en suero humano, norfloxacino se une en un 13,8% a proteínas plasmáticas|sangre
++|D|El volumen aparente de distribución es de aproximadamente 223 ± 97 litros.|El volumen aparente de distribución (Vd β ) es aproximadamente de 223±97 l|||
+M|El fármaco absorbido se elimina por metabolización y por excreción renal y biliar.|El norfloxacino absorbido desde el tracto gastrointestinal se elimina por metabolización y excreción renal y biliar|higado,bilis
+T|Seis metabolitos|activo|El norfloxacino se recupera inalterado en la orina y en forma de seis metabolitos activos cuya eficacia antibacteriana es más baja que la del compuesto originario|Activos, con menor eficacia antibacteriana que el compuesto original.
+E|La excreción renal combina filtración glomerular y secreción tubular; entre el 25 % y el 40 % de la dosis se recuperó en la orina.|Aproximadamente el 25-40% de la dosis fue recuperada en la orina después de la administración oral de una dosis única y de dosis repetidas de 400 mg|rinones,orina,bilis
++|E|La semivida media en el suero es de 3 a 4 horas en voluntarios sanos.|La semivida media en el suero es de 3 a 4 horas en voluntarios sanos|||
++|E|Más del 70 % del fármaco excretado en la orina está en su forma no metabolizada.|Más del 70% del fármaco excretado en la orina se recupera en su forma no metabolizada|||
+C|tmax|Tiempo hasta la concentración máxima|0,75-2,0|h|El tiempo necesario para alcanzar la concentración máxima (t máx ) fluctuó entre 0,75 y 2,0 horas|norfloxacino|voluntarios sanos
+C|union|Unión a proteínas plasmáticas|13,8|%|norfloxacino se une en un 13,8% a proteínas plasmáticas|norfloxacino||a 2,5 mg/L en suero humano
+C|vd|Volumen aparente de distribución|223 ± 97|L|El volumen aparente de distribución (Vd β ) es aproximadamente de 223±97 l|norfloxacino
+C|semivida|Semivida media en el suero|3-4|h|La semivida media en el suero es de 3 a 4 horas en voluntarios sanos|norfloxacino|voluntarios sanos
+C|orina|Dosis recuperada en la orina|25-40|% de la dosis|Aproximadamente el 25-40% de la dosis fue recuperada en la orina|norfloxacino y metabolitos|voluntarios adultos con función renal normal|dosis de 400 mg
+R|Poco frecuente: candidiasis vaginal.|Poco frecuentes: candidiasis vaginal
+R|Muy rara: agranulocitosis.|Muy raras: agranulocitosis
+W|Reacciones adversas graves previas con quinolonas|Debe evitarse en pacientes que hayan tenido reacciones adversas graves con quinolonas o fluoroquinolonas.|musculos,nervios|Se debe evitar el uso de norfloxacino en pacientes que hayan experimentado con anterioridad reacciones adversas graves con el uso de medicamentos que contienen quinolonas o fluoroquinolonas
+W|Reacciones graves incapacitantes y potencialmente irreversibles|Se han notificado casos muy raros de reacciones graves, de larga duración (meses o años) y potencialmente irreversibles, que afectan a varios sistemas del cuerpo.|musculos,nervios|Se han notificado casos muy raros de reacciones adversas graves incapacitantes, de duración prolongada (persistentes durante meses o años), y potencialmente irreversibles
+
+@dienogest|Dienogest|HE|Progestágeno|dienogest;Visannette|vias=oral;familia=solido-oral
+S|-
+X|Crospovidona; Lactosa monohidrato; Estearato de magnesio; Celulosa microcristalina; Almidón de patata; Povidona K 25; Talco
+K|2 mg de dienogest por comprimido, según la ficha técnica
+U|Tratamiento de la endometriosis.|Tratamiento de la endometriosis
+A|Es un derivado de la nortestosterona sin actividad androgénica y con actividad antiandrogénica, que se une a los receptores de la progesterona del útero humano.|El dienogest se une a los receptores de la progesterona del útero humano|organos-reproductores|Receptor de la progesterona
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos blancos o blanquecinos , redondos, con caras aplanadas|
+B|Administrado por vía oral, se absorbe rápida y casi completamente; la biodisponibilidad es de aproximadamente el 91 %.|El dienogest, administrado por vía oral, se absorbe rápida y casi completamente|
++|B|Se alcanzan concentraciones séricas máximas de 47 ng/mL aproximadamente 1,5 horas después de una dosis única.|Se alcanzan unas concentraciones máximas en el suero de 47 ng/ml, aproximadamente 1,5 horas después de la toma de una dosis única|||dosis única
++|B|La biodisponibilidad es de aproximadamente el 91 %.|La biodisponibilidad es de aproximadamente el 91%|||
+D|El 10 % de la concentración sérica es esteroide libre y el 90 % se une de forma inespecífica a la albúmina; no se une a la SHBG ni a la CBG.|El 10% de la concentración del medicamento en el suero está presente como esteroide libre; el 90% se une de manera inespecífica a la albúmina|sangre
++|D|El volumen aparente de distribución (Vd/F) es de 40 litros.|El volumen aparente de distribución (V d /F) del dienogest es de 40 l|||
+M|Se metaboliza por completo por las vías conocidas del metabolismo de los esteroides, con metabolitos endocrinológicamente y en su mayoría inactivos; la CYP3A4 es la enzima principal.|El dienogest se metaboliza completamente por las vías conocidas de metabolismo de los esteroides, con la formación de metabolitos endocrinológica y mayormente inactivos|higado
+T|Metabolitos del dienogest|inactivo|con la formación de metabolitos endocrinológica y mayormente inactivos|Endocrinológicamente y en su mayoría inactivos; se excretan muy rápidamente.
+E|Se excreta en forma de metabolitos, con un cociente urinario/fecal de aproximadamente 3:1; en seis días se elimina alrededor del 86 % de la dosis, sobre todo en las primeras 24 horas y con la orina.|El dienogest se excreta en forma de metabolitos que se excretan con un cociente urinario/fecal de aproximadamente 3:1 después de la administración oral de 0,1 mg/kg|rinones,orina,heces
++|E|La fase de distribución terminal tiene una semivida de aproximadamente 9 a 10 horas.|La fase de distribución terminal se caracteriza por una semivida de aproximadamente 9 a 10 horas|||
+C|tmax|Tiempo hasta el pico sérico|1,5 (aprox.)|h|aproximadamente 1,5 horas después de la toma de una dosis única|dienogest||dosis única
+C|biodisponibilidad|Biodisponibilidad|91 (aprox.)|%|La biodisponibilidad es de aproximadamente el 91%|dienogest
+C|vd|Volumen aparente de distribución (Vd/F)|40|L|El volumen aparente de distribución (V d /F) del dienogest es de 40 l|dienogest
+C|semivida|Semivida de la fase terminal|9-10 (aprox.)|h|una semivida de aproximadamente 9 a 10 horas|dienogest
+C|orina|Dosis eliminada en seis días|86 (aprox.)|% de la dosis|aproximadamente el 86% de la dosis administrada se elimina al cabo de seis días|dienogest y metabolitos
+R|Las más frecuentes: cefalea (9,0 %), molestias en las mamas (5,4 %), estado de ánimo deprimido (5,1 %) y acné (5,1 %).|cefalea (9,0%), molestias en las mamas (5,4%), estado de ánimo deprimido (5,1%) y acné (5,1%)
+R|Son más frecuentes durante los primeros meses y remiten con el tratamiento continuado.|Las reacciones adversas son más frecuentes durante los primeros meses después del inicio del tratamiento con Visannette y remiten con el tratamiento continuado
+W|Sangrado uterino intenso|El sangrado uterino, por ejemplo en mujeres con adenomiosis o leiomiomas uterinos, puede agravarse.|organos-reproductores|El sangrado uterino, por ejemplo, en las mujeres con adenomiosis o leiomiomas uterinos, puede agravarse con el uso de Visannette
+
+@ulipristal|Ulipristal|HE|Modulador selectivo de los receptores de la progesterona (anticonceptivo de urgencia)|ulipristal;ulipristal acetate|vias=oral;familia=solido-oral
+S|Acetato de ulipristal|30 mg de acetato de ulipristal
+X|Lactosa monohidrato; Almidón de maíz pregelatinizado; Carboximetilalmidón sódico (tipo A) (de patata); Estearato de magnesio; Hipromelosa (E464); Hidroxipropilcelulosa (E463); Ácido esteárico (E570); Talco (E553b); Dióxido de titanio (E171)
+K|30 mg de acetato de ulipristal por comprimido, según la ficha técnica
+U|Anticoncepción de urgencia en las 120 horas (5 días) siguientes a relaciones sexuales sin protección o a un fallo del anticonceptivo.|Anticoncepción de urgencia dentro de las 120 horas (5 días) siguientes a haber mantenido relaciones sexuales sin protección
+A|Es un modulador sintético selectivo de los receptores de la progesterona, activo por vía oral, que se une con gran afinidad a los receptores de la progesterona humana.|El acetato de ulipristal es un modulador sintético selectivo y activo por vía oral de los receptores de la progesterona, que actúa uniéndose con gran afinidad a los receptores de la progesterona humana|organos-reproductores|Receptor de la progesterona
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido redondo, biconvexo de 9,0 – 9,2 mm|
+B|Tras una dosis oral única de 30 mg se absorbe rápidamente y alcanza su concentración plasmática máxima aproximadamente 1 hora (0,5-2,0 h) después.|Tras la administración oral de una dosis única de 30 mg, el acetato de ulipristal se absorbe rápidamente, alcanzando una concentración plasmática máxima de 176 ± 89 ng/ml aproximadamente 1 hora (0,5-2,0 h) después de la ingestión|
++|B|Con un desayuno rico en grasas, la Cmax media bajó casi un 45 %, el Tmax se retrasó (de una mediana de 0,75 a 3 horas) y el AUC fue un 25 % mayor.|La administración de acetato de ulipristal con un desayuno rico en grasas dio lugar a una disminución de la C máx media de casi un 45%|||con un desayuno rico en grasas
+D|Se une en un alto porcentaje (más del 98 %) a las proteínas del plasma, como la albúmina, la glucoproteína ácida alfa-1 y las lipoproteínas de alta densidad.|El acetato de ulipristal se une en un alto porcentaje (>98%) a las proteínas plasmáticas como la albúmina, la glucoproteína ácida alfa-1 y las lipoproteínas de alta densidad|sangre
++|D|Es un compuesto lipófilo que se distribuye en la leche materna.|El acetato de ulipristal es un compuesto lipófilo que se distribuye en la leche materna|||
+M|Se metaboliza en su mayor parte a derivados monodesmetilados, didesmetilados e hidroxilados; la CYP3A4 media sobre todo su metabolización.|es meta bolizado en su mayor parte a derivados monodesmetilados, didesmetilados e hidroxilados|higado
++|M|Según datos in vitro, su metabolización está mediada principalmente por la CYP3A4 y, en menor medida, por la CYP1A2 y la CYP2A6.|Los datos in vitro indican que su metabolización está mediada principalmente por la CYP3A4|||in vitro
+T|Metabolito monodesmetilado|activo|El metabolito monodesmetilado es farmacológicamente activo|Metabolito farmacológicamente activo.
+E|Tras una dosis única de 30 mg, la semivida terminal en el plasma se estima en 32,4 ± 6,3 horas, con un aclaramiento medio (CL/F) de 76,8 ± 64,0 L/h por vía oral.|Se estima que la semivida terminal del acetato de ulipristal en el plasma tras la administración de una dosis única de 30 mg es de 32,4 ± 6,3 horas|
+C|tmax|Tiempo hasta la concentración plasmática máxima|1 (0,5-2,0)|h|aproximadamente 1 hora (0,5-2,0 h) después de la ingestión|acetato de ulipristal||dosis única de 30 mg
+C|union|Unión a proteínas plasmáticas|> 98|%|El acetato de ulipristal se une en un alto porcentaje (>98%) a las proteínas plasmáticas|acetato de ulipristal
+C|semivida|Semivida terminal en plasma|32,4 ± 6,3|h|la semivida terminal del acetato de ulipristal en el plasma tras la administración de una dosis única de 30 mg es de 32,4 ± 6,3 horas|acetato de ulipristal||dosis única de 30 mg
+C|aclaramiento|Aclaramiento medio oral (CL/F)|76,8 ± 64,0|L/h|con un aclaramiento medio (CL/F) de 76,8 ± 64,0 l/h tras la administración oral|acetato de ulipristal
+R|Las más frecuentes: cefalea, náuseas, dolor abdominal y dismenorrea.|Las reacciones adversas notificadas de manera más frecuente fueron cefalea, náuseas, dolor abdominal y dismenorrea
+R|Su seguridad se evaluó en 4.718 mujeres durante el desarrollo clínico.|La seguridad del acetato de ulipristal se ha evaluado en 4.718 mujeres durante el programa de desarrollo clínico
+W|Uso ocasional|Es solo para uso ocasional y en ningún caso debe sustituir a un método anticonceptivo convencional.|organos-reproductores|En ningún caso debe sustituir a un método anticonceptivo convencional
+W|No evita el embarazo en todos los casos|No siempre evita el embarazo; ante retraso menstrual o síntomas sugestivos debe hacerse una prueba de embarazo.|organos-reproductores|El acetato de ulipristal no evita el embarazo en todos los casos

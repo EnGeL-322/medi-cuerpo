@@ -1,0 +1,70 @@
+@pirfenidona|Pirfenidona|RA|Antifibrótico (fibrosis pulmonar idiopática)|pirfenidone|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Croscarmelosa de sodio; Hipromelosa 3 mPAS (2910); Óxido de hierro amarillo (E172) (para la concentración de 267 mg); Óxido de hierro rojo (E172) (para la de 801 mg); Sílice coloidal anhidra; Fumarato de estearilo y sodio
+K|267 o 801 mg de pirfenidona por comprimido, según la ficha técnica
+U|Tratamiento de la fibrosis pulmonar idiopática (FPI) en adultos.|para el tratamiento de la fibrosis pulmonar idiopática (FPI)
+A|Su mecanismo de acción no se conoce bien; los datos indican que tiene propiedades antifibróticas y antiinflamatorias en sistemas in vitro y en modelos animales de fibrosis pulmonar.|El mecanismo de acción de pirfenidona no se conoce bien todavía. Sin embargo, los datos disponibles indican que pirfenidona tiene propiedades tanto antifibróticas como antiinflamatorias|pulmones|
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Pirfenidona Aurovitas 267 mg comprimidos EFG|
+B|No se ha determinado la biodisponibilidad absoluta en el ser humano; la comida baja la Cmax y la incidencia de náuseas y mareos es menor tras comer.|La biodisponibilidad absoluta de pirfenidona no se ha determinado en el ser humano|
++|B|Con alimentos la Cmax baja un 40 % con el comprimido y un 50 % con las cápsulas.|la administración con alimentos de cualquiera de las formulaciones redujo la C max de pirfenidona, siendo esta reducción ligeramente inferior con el comprimido de pirfenidona (en un 40%) que con las cápsulas de pirfenidona (en un 50%)|||con alimentos
+D|Se une a las proteínas del plasma humano, sobre todo a la albúmina; la unión media total varió entre el 50 % y el 58 %.|El porcentaje medio total de unión varió entre el 50% y el 58%|sangre
++|D|El volumen de distribución aparente por vía oral en el equilibrio es de unos 70 litros: la distribución en los tejidos es modesta.|El volumen de distribución medio aparente por vía oral en estado de equilibrio es de aproximadamente 70 litros|||
+M|Entre el 70 % y el 80 % se metaboliza por la CYP1A2 y, en menor proporción, por otras isoenzimas CYP (2C9, 2C19, 2D6 y 2E1).|Aproximadamente, el 70-80% de pirfenidona es metabolizada mediante el CYP1A2|higado
+T|5-carboxi-pirfenidona|activo|Los datos in vitro indican cierta actividad farmacológicamente relevante del metabolito principal (5-carboxi-pirfenidona)|Metabolito principal; la actividad in vitro es relevante solo a concentraciones muy superiores a las plasmáticas de los pacientes.
+E|Alrededor del 80 % de la dosis oral se elimina por la orina en 24 horas, casi todo como 5-carboxi-pirfenidona; menos del 1 % sale intacto.|Aproximadamente, el 80% de la dosis de pirfenidona administrada por vía oral se elimina en la orina en las 24 horas siguientes a su administración|rinones,orina
++|E|La semivida de eliminación aparente terminal fue de unas 2,4 horas en adultos sanos de más edad.|la semivida de eliminación aparente terminal fue de aproximadamente 2,4 horas|adultos sanos de más edad|dosis única
+C|union|Unión a proteínas plasmáticas|50-58|%|El porcentaje medio total de unión varió entre el 50% y el 58%|pirfenidona
+C|vd|Volumen de distribución aparente por vía oral|70 (aprox.)|L|El volumen de distribución medio aparente por vía oral en estado de equilibrio es de aproximadamente 70 litros|pirfenidona
+C|semivida|Semivida de eliminación aparente terminal|2,4 (aprox.)|h|la semivida de eliminación aparente terminal fue de aproximadamente 2,4 horas|pirfenidona|adultos sanos de más edad|dosis única
+C|orina|Dosis eliminada por la orina en 24 horas|80 (aprox.)|% de la dosis|Aproximadamente, el 80% de la dosis de pirfenidona administrada por vía oral se elimina en la orina en las 24 horas siguientes a su administración|pirfenidona y metabolitos
+R|Las más frecuentes frente a placebo: náuseas (32,4 % frente a 12,2 %), erupción cutánea (26,2 % frente a 7,7 %), diarrea (18,8 % frente a 14,4 %) y cansancio (18,5 % frente a 10,4 %).|náuseas (32,4% frente al 12,2%), erupción cutánea (26,2% frente al 7,7%), diarrea (18,8% frente al 14,4%), cansancio (18,5% frente al 10,4%)
+R|Reacción por fotosensibilidad: 9,3 % con pirfenidona frente a 1,1 % con placebo.|reacción por fotosensibilidad (9,3% frente al 1,1%)
+W|Función hepática|Se ha observado con frecuencia un aumento de las transaminasas en pacientes tratados con pirfenidona.|higado|Se ha observado frecuentemente un aumento de las transaminasas en pacientes tratados con pirfenidona
+
+@deferasirox|Deferasirox|SC|Quelante del hierro|deferasirox;Ferupantil|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Crospovidona; Estearato de magnesio; Povidona; Poloxámero; Sílice coloidal anhidra; Hipromelosa; Dióxido de titanio (E171); Macrogol; Talco; Laca de aluminio de indigotina (E132)
+K|90 o 360 mg de deferasirox por comprimido, según la ficha técnica
+U|Tratamiento de la sobrecarga crónica de hierro debida a transfusiones sanguíneas frecuentes.|tratamiento de la sobrecarga férrica crónica debida a transfusiones sanguíneas frecuentes
+A|Es un quelante activo por vía oral con gran selectividad por el hierro (III): se une al hierro con alta afinidad y promueve su excreción.|Deferasirox es un quelante activo por vía oral con una gran selectividad por el hierro (III)|sangre,higado|Hierro (III)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película|
+B|La biodisponibilidad del comprimido recubierto con película fue un 36 % mayor que la del comprimido dispersable.|La biodisponibilidad de deferasirox en comprimidos recubiertos con película fue un 36% mayor que los comprimidos dispersables|
++|B|Con el comprimido dispersable, el pico plasmático se alcanza en 1,5 a 4 horas y la biodisponibilidad absoluta es del 70 % respecto a la dosis intravenosa.|se absorbe después de la administración oral con un tiempo medio hasta la concentración plasmática máxima (t max ) de unas 1,5 a 4 horas|||comprimidos dispersables
++|B|Tras una comida rica en grasas, el AUC y la Cmax del comprimido recubierto aumentaron un 18 % y un 29 %.|Tras una comida rica en grasas, el AUC y la C max aumentó (en 18% y 29% respectivamente)|||con comida rica en grasas
+D|Se fija en una alta proporción (99 %) a las proteínas del plasma, casi exclusivamente a la albúmina, y su volumen de distribución es pequeño, de unos 14 litros en adultos.|Deferasirox se fija en una alta proporción (99%) a las proteínas plasmáticas, casi exclusivamente a la albúmina sérica, y tiene un volumen de distribución pequeño de aproximadamente 14 litros en adultos|sangre,higado
+M|La principal vía de metabolización es la glucuronidación (sobre todo por UGT1A1), con excreción biliar posterior; el metabolismo oxidativo por CYP450 es menor (alrededor del 8 %).|La principal vía de metabolización del deferasirox es la glucuronidación, con una posterior excreción biliar|higado,bilis
+T|Glucurónidos de deferasirox|desconocida|Es probable que se produzca una desconjugación de los glucuronidatos en el intestino y su posterior reabsorción (ciclo enterohepático)|Se desconjugan en el intestino y se reabsorben (ciclo enterohepático).
+E|Deferasirox y sus metabolitos se excretan sobre todo por las heces (84 % de la dosis); la excreción renal es mínima (8 %).|Deferasirox y sus metabolitos se excretan principalmente por las heces (84% de la dosis)|heces,bilis,rinones,orina
++|E|La vida media de eliminación varió de 8 a 16 horas.|La vida media de eliminación (t 1/2 ) varió de 8 a 16 horas|||
+C|tmax|Tiempo hasta el pico (comprimido dispersable)|1,5-4|h|con un tiempo medio hasta la concentración plasmática máxima (t max ) de unas 1,5 a 4 horas|deferasirox|||otra-presentacion
+C|union|Unión a proteínas plasmáticas|99|%|Deferasirox se fija en una alta proporción (99%) a las proteínas plasmáticas|deferasirox
+C|vd|Volumen de distribución|14 (aprox.)|L|un volumen de distribución pequeño de aproximadamente 14 litros en adultos|deferasirox|adultos
+C|semivida|Vida media de eliminación|8-16|h|La vida media de eliminación (t 1/2 ) varió de 8 a 16 horas|deferasirox
+C|heces|Dosis excretada por las heces|84|% de la dosis|se excretan principalmente por las heces (84% de la dosis)|deferasirox y metabolitos
+R|Las más frecuentes en el tratamiento crónico: alteraciones gastrointestinales (náuseas, vómitos, diarrea o dolor abdominal) y erupción cutánea.|incluyen alteraciones gastrointestinales (principalmente náuseas, vómitos, diarrea o dolor abdominal) y erupción cutánea
+R|En un 36 % de los pacientes se observaron aumentos de la creatinina sérica que dependían de la dosis.|en un 36% de pacientes se observaron aumentos de la creatinina sérica dosis dependientes
+W|Función renal|Se estudió solo en pacientes con creatinina sérica basal normal para la edad; en los estudios se observaron aumentos de la creatinina.|rinones|Deferasirox se ha estudiado sólo en pacientes con niveles basales de creatinina sérica dentro del intervalo normal apropiado para la edad
+
+@teriflunomida|Teriflunomida|SN|Inmunomodulador (inhibidor de la dihidroorotato deshidrogenasa)|teriflunomide|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Almidón de maíz; Hidroxipropilcelulosa (E463); Celulosa microcristalina (E460); Carboximetilalmidón sódico (tipo A); Estearato de magnesio (E470b); Sílice coloidal anhidra; Hipromelosa; Dióxido de titanio (E171); Macrogol; Laca de aluminio carmín índigo (E132)
+K|14 mg de teriflunomida por comprimido, según la ficha técnica
+U|Tratamiento de adultos y de pacientes pediátricos desde 10 años con esclerosis múltiple remitente recurrente.|con esclerosis múltiple (EM) remitente recurrente
+A|Es un inmunomodulador con propiedades antiinflamatorias que inhibe de forma selectiva y reversible la enzima mitocondrial dihidroorotato deshidrogenasa (DHO-DH).|Teriflunomida es un agente inmunomodulador con propiedades antiinflamatorias que inhibe de forma selectiva y reversible la enzima mitocondrial dehidroorotato-deshidrogenasa (DHO-DH)|sistema-inmunitario,encefalo|Dihidroorotato deshidrogenasa (DHODH)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (comprimido o comp.)|
+B|Con la administración oral repetida, el pico plasmático se alcanza entre 1 y 4 horas después de la dosis; la biodisponibilidad es alta (aproximadamente el 100 %).|está entre 1 y 4 horas después de la dosis tras la administración oral repetida de teriflunomida|
++|B|La comida no tiene un efecto clínicamente relevante en la farmacocinética.|La comida no tiene un efecto clínicamente relevante en la farmacocinética de la teriflunomida|||con comida
+D|Se une ampliamente a las proteínas del plasma (más del 99 %), probablemente a la albúmina, y se distribuye sobre todo en el plasma.|La teriflunomida está ampliamente ligada a las proteínas plasmáticas (>99%), probablemente albúmina, y se distribuye principalmente en el plasma|sangre
++|D|El volumen de distribución es de 11 litros tras una dosis intravenosa, aunque parece una subestimación: en ratas se observó una distribución amplia por los órganos.|El volumen de distribución es de 11 l tras una sola administración intravenosa (IV)|||dosis intravenosa
+M|Se metaboliza de forma moderada y es el único componente detectado en el plasma; la principal vía es la hidrólisis, y la oxidación es menor.|La principal forma de biotransformación de la teriflunomida es la hidrólisis, siendo la oxidación una forma menor|tejidos
+E|Se excreta por el tubo digestivo, sobre todo por la bilis como principio activo inalterado: tras 21 días, el 60,1 % de la dosis sale por las heces (37,5 %) y la orina (22,6 %).|La teriflunomida se excreta por el tracto gastrointestinal principalmente a través de la bilis como principio activo inalterado|bilis,heces,rinones,orina|original
++|E|La semivida estimada es de unos 19 días tras dosis repetidas.|la t1/2z fue de aproximadamente 19 días tras dosis repetidas de 14 mg|||dosis repetidas de 14 mg
+C|tmax|Tiempo hasta el pico plasmático|1-4|h|está entre 1 y 4 horas después de la dosis tras la administración oral repetida de teriflunomida|teriflunomida||administración oral repetida
+C|union|Unión a proteínas plasmáticas|> 99|%|La teriflunomida está ampliamente ligada a las proteínas plasmáticas (>99%)|teriflunomida
+C|vd|Volumen de distribución|11|L|El volumen de distribución es de 11 l tras una sola administración intravenosa (IV)|teriflunomida||dosis intravenosa|otra-via
+C|semivida|Semivida terminal|19|d|la t1/2z fue de aproximadamente 19 días tras dosis repetidas de 14 mg|teriflunomida||dosis repetidas de 14 mg
+C|heces|Dosis excretada por las heces a los 21 días|37,5|% de la dosis|el 60,1% de la dosis administrada se excreta a través de las heces (37,5%) y la orina (22,6%)|teriflunomida|||
+C|orina|Dosis excretada por la orina a los 21 días|22,6|% de la dosis|el 60,1% de la dosis administrada se excreta a través de las heces (37,5%) y la orina (22,6%)|teriflunomida|||
+R|Las más frecuentes con 7 y 14 mg: cefalea, diarrea, aumento de ALT, náuseas y alopecia.|cefalea (17,8%, 15,7%), diarrea (13,1%, 13,6%), aumento de ALT (13%, 15%), náuseas (8%, 10,7%) y alopecia (9,8%, 13,5%)
+R|La teriflunomida es el metabolito principal de la leflunomida.|Teriflunomida es el metabolito principal de leflunomida
+W|Control de las enzimas hepáticas|Las enzimas hepáticas se deben evaluar al menos cada cuatro semanas durante los primeros 6 meses de tratamiento y después de forma regular.|higado|Las enzimas hepáticas se deben evaluar al menos cada cuatro semanas durante los primeros 6 meses de tratamiento, y después regularmente

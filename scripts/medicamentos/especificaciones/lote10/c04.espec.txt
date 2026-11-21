@@ -1,0 +1,121 @@
+@midostaurina|Midostaurina|ON|Inhibidor de múltiples tirosina cinasas (FLT3, KIT)|midostaurin;Rydapt|forma=CAPSULE, LIQUID FILLED;vias=oral;familia=solido-oral
+U|Tratamiento de la leucemia mieloide aguda de nuevo diagnóstico con mutación de FLT3, con quimioterapia estándar, y de la mastocitosis sistémica avanzada, según la etiqueta.|Newly diagnosed acute myeloid leukemia (AML) that is FLT3 mutation-positive as detected by an FDA-approved test, in combination with standard cytarabine and daunorubicin induction
+A|Inhibe varias tirosina cinasas, entre ellas FLT3 natural y mutada y KIT; sus metabolitos activos principales, CGP62221 y CGP52421, también las inhiben.|midostaurin or its major human active metabolites CGP62221 and CGP52421 inhibit the activity of wild type FLT3, FLT3 mutant kinases (ITD and TKD), KIT (wild type and D816V mutant)||FLT3 y KIT
+L|Cápsula blanda: se disgrega en el tubo digestivo; se toma con alimentos.|pale orange oblong soft capsule with red ink imprint|
+B|El pico aparece entre 1 y 3 horas en ayunas; la comida reduce algo la Cmax y retrasa el pico.|The time to maximal concentrations (T max ) occurred between 1 to 3 hours post dose in the fasted state|
++|B|La Cmax bajó un 20 % con una comida estándar y un 27 % con una comida rica en grasas.|Midostaurin maximum concentrations (C max ) were reduced by 20% with a standard meal and by 27% with a high-fat meal compared to a fasted state|||con comida estándar o rica en grasas
+D|La midostaurina y sus dos metabolitos activos se unen en más del 99,8 % a las proteínas plasmáticas in vitro, sobre todo a la alfa-1 glucoproteína ácida; el volumen de distribución es de 95,2 L.|Midostaurin, CGP62221, and CGP52421 are greater than 99.8% bound to plasma protein in vitro|sangre
++|D|Volumen de distribución estimado de 95,2 L.|Midostaurin has an estimated geometric mean volume of distribution (% coefficient of variation) of 95.2 L (31%)|||
+M|Se metaboliza sobre todo por la CYP3A4.|Midostaurin is primarily metabolized by CYP3A4|higado
+T|CGP62221|activo|midostaurin or its major human active metabolites CGP62221 and CGP52421|Metabolito activo principal; semivida de unas 32 horas.
+T|CGP52421|activo|midostaurin or its major human active metabolites CGP62221 and CGP52421|Metabolito activo principal; semivida muy larga, de unas 482 horas.
+E|La excreción fecal supuso el 95 % de la dosis recuperada, casi todo como metabolitos; solo el 5 % se encontró en la orina.|Fecal excretion accounted for 95% of the recovered dose with 91% of the recovered dose excreted as metabolites and 4% of the recovered dose as unchanged midostaurin|heces
++|E|Solo el 5 % de la dosis recuperada se encontró en la orina.|Only 5% of the recovered dose was found in urine|||
++|E|La semivida terminal es de 19 horas para la midostaurina, 32 horas para CGP62221 y 482 horas para CGP52421.|The geometric mean terminal half-life (% coefficient of variation) is 19 hours (39%) for midostaurin, 32 hours (31%) for CGP62221 and 482 hours (25%) for CGP52421|||
+C|tmax|Tiempo hasta el pico en ayunas|1-3|h|The time to maximal concentrations (T max ) occurred between 1 to 3 hours post dose in the fasted state|midostaurina||en ayunas
+C|union|Unión a proteínas plasmáticas in vitro|> 99,8|%|Midostaurin, CGP62221, and CGP52421 are greater than 99.8% bound to plasma protein in vitro|midostaurina y metabolitos activos
+C|vd|Volumen de distribución estimado|95,2|L|Midostaurin has an estimated geometric mean volume of distribution (% coefficient of variation) of 95.2 L (31%)|midostaurina
+C|semivida|Semivida terminal|19|h|The geometric mean terminal half-life (% coefficient of variation) is 19 hours (39%) for midostaurin|midostaurina
+C|heces|Excreción fecal (sobre la dosis recuperada)|95|% de la dosis|Fecal excretion accounted for 95% of the recovered dose|radiactividad total
+R|En la leucemia mieloide aguda, las más frecuentes (20 % o más): neutropenia febril, náuseas, mucositis, vómitos, cefalea, petequias, dolor musculoesquelético y epistaxis, entre otras.|The most common adverse reactions (≥ 20%) were febrile neutropenia, nausea, mucositis, vomiting, headache, petechiae, musculoskeletal pain, epistaxis
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad pulmonar|Suspenderla si hay signos o síntomas de toxicidad pulmonar; ha habido casos mortales.|pulmones|Discontinue RYDAPT in patients with signs or symptoms of pulmonary toxicity|43685-7
+W|Toxicidad embriofetal|Advertir a las embarazadas del riesgo para el feto.||Advise pregnant women of the potential risk to the fetus|43685-7
+
+@quizartinib|Quizartinib|ON|Inhibidor de la tirosina cinasa FLT3|quizartinib dihydrochloride;Vanflyta|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con leucemia mieloide aguda de nuevo diagnóstico con duplicación interna en tándem de FLT3, con quimioterapia y luego en mantenimiento.|for the treatment of adult patients with newly diagnosed acute myeloid leukemia (AML) that is FLT3 internal tandem duplication (ITD)-positive
+A|Inhibe la tirosina cinasa FLT3; él y su metabolito activo AC886 se unen al dominio de unión del ATP de FLT3 y bloquean su autofosforilación.|Quizartinib is a small molecule inhibitor of the receptor tyrosine kinase FLT3||FLT3
++|A|El quizartinib y su metabolito activo AC886 se unen con afinidad similar al dominio de unión del ATP de FLT3.|Quizartinib and its major active metabolite AC886 bind to the adenosine triphosphate (ATP) binding domain of FLT3 with comparable affinity|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|17.7 mg quizartinib, white, round, film-coated, debossed with|
+B|La biodisponibilidad absoluta media de los comprimidos es del 71 % y el pico aparece hacia las 4 horas; la comida no cambia de forma relevante la exposición.|The mean (SD) absolute bioavailability of quizartinib from the tablet formulation was 71% (±7%) in healthy subjects|
++|B|La mediana del tiempo hasta el pico es de unas 4 horas para el quizartinib y de 5 a 6 horas para AC886.|time to peak concentration (median T max ) of quizartinib and AC886 measured post dose was approximately 4 hours (range 2 to 8 hours)|sujetos sanos|en ayunas
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes.|No clinically significant differences in the pharmacokinetics of quizartinib were observed when administered with a high-fat, high-calorie meal|||con una comida rica en grasas
+D|El quizartinib y AC886 se unen en un 99 % o más a las proteínas plasmáticas in vitro; el volumen de distribución en estado estacionario es de 275 L.|In vitro plasma protein binding of quizartinib and AC886 is 99% or greater|sangre
++|D|Volumen de distribución en estado estacionario estimado de 275 L en sujetos sanos.|Volume of distribution at steady state in healthy subjects was estimated to be 275 L (17%)|sujetos sanos|
+M|In vitro se metaboliza sobre todo por oxidación por la CYP3A4/5, que también forma y metaboliza AC886.|In vitro quizartinib is primarily metabolized via oxidation by CYP3A4/5 and AC886 is formed and metabolized by CYP3A4/5|higado
+T|AC886|activo|Quizartinib and its major active metabolite AC886 bind to the adenosine triphosphate (ATP) binding domain of FLT3|Metabolito activo principal, con afinidad por FLT3 similar a la del fármaco.
+E|Tras 53 mg marcados, el 76,3 % de la radiactividad se recuperó en las heces (4 % sin cambios) y el 1,64 % en la orina.|76.3% of the total radioactivity was recovered in feces (4% unchanged) and 1.64% in urine|heces,orina
++|E|El aclaramiento corporal total en sujetos sanos se estima en 2,23 L/h.|Total body clearance of quizartinib in healthy subjects was estimated to be 2.23 L/hour (29%)|sujetos sanos|
+C|biodisponibilidad|Biodisponibilidad absoluta de los comprimidos|71|%|The mean (SD) absolute bioavailability of quizartinib from the tablet formulation was 71% (±7%) in healthy subjects|quizartinib|sujetos sanos
+C|tmax|Mediana del tiempo hasta el pico|4 (aprox.)|h|median T max ) of quizartinib and AC886 measured post dose was approximately 4 hours|quizartinib|sujetos sanos|en ayunas
+C|union|Unión a proteínas plasmáticas in vitro|≥ 99|%|In vitro plasma protein binding of quizartinib and AC886 is 99% or greater|quizartinib y AC886
+C|vd|Volumen de distribución en estado estacionario|275|L|Volume of distribution at steady state in healthy subjects was estimated to be 275 L (17%)|quizartinib|sujetos sanos
+C|aclaramiento|Aclaramiento corporal total|2,23|L/h|Total body clearance of quizartinib in healthy subjects was estimated to be 2.23 L/hour (29%)|quizartinib|sujetos sanos
+C|heces|Radiactividad recuperada en las heces|76,3|% de la dosis|76.3% of the total radioactivity was recovered in feces (4% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 53 mg
+R|Las más frecuentes (más del 20 %, con laboratorio): descenso de linfocitos, potasio, albúmina y fósforo y aumento de la fosfatasa alcalina, entre otras.|The most common (>20%) adverse reactions, including laboratory abnormalities, are lymphocytes decreased, potassium decreased, albumin decreased, phosphorus decreased, alkaline phosphatase increased
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Prolongación del QT, torsades de pointes y parada cardíaca|Prolonga el QT según la dosis y la concentración; corregir el potasio y el magnesio y hacer electrocardiogramas antes y durante el tratamiento.||VANFLYTA prolongs the QT interval in a dose- and concentration-related manner|34066-1
+W|Inicio del tratamiento|No iniciarlo si el QTcF es mayor de 450 ms.||Do not initiate treatment with VANFLYTA if the QTcF interval is greater than 450 ms|43685-7
+W|Toxicidad embriofetal|Advertir del riesgo para el feto y usar anticoncepción eficaz.||Advise females of reproductive potential and males with female partners of reproductive potential of potential risk to a fetus and to use effective contraception|43685-7
+
+@ixazomib|Ixazomib|ON|Inhibidor reversible del proteasoma|ixazomib citrate;Ninlaro|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento, con lenalidomida y dexametasona, del mieloma múltiple que ha recibido al menos un tratamiento previo.|in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received at least one prior therapy
+A|Inhibe de forma reversible el proteasoma: se une sobre todo a la subunidad beta 5 del proteasoma 20S y bloquea su actividad de tipo quimotripsina.|Ixazomib preferentially binds and inhibits the chymotrypsin-like activity of the beta 5 subunit of the 20S proteasome||Subunidad beta 5 del proteasoma 20S
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo; se toma al menos una hora antes o dos después de comer.|Light orange gelatin capsule imprinted with|
+B|La mediana del tiempo hasta el pico es de 1 hora y la biodisponibilidad oral absoluta media, del 58 %.|After oral administration, the median time to achieve peak ixazomib plasma concentrations was one hour|
++|B|Biodisponibilidad oral absoluta media del 58 %, según un análisis poblacional.|The mean absolute oral bioavailability was 58%, based on population PK analysis|||
++|B|Una comida rica en grasas redujo el AUC un 28 % y la Cmax un 69 %.|a high-fat meal decreased ixazomib AUC by 28% and C max by 69%|pacientes|con una comida rica en grasas
+D|Se une en un 99 % a las proteínas plasmáticas y pasa a los glóbulos rojos (cociente sangre/plasma de 10); el volumen de distribución en estado estacionario es de 543 L.|Ixazomib is 99% bound to plasma proteins and distributes into red blood cells with a blood-to-plasma ratio of 10|sangre
++|D|Volumen de distribución en estado estacionario de 543 L.|The steady-state volume of distribution is 543 L|||
+M|Se espera que su principal vía de aclaramiento sea el metabolismo por varias enzimas CYP y proteínas no CYP.|Metabolism by multiple CYP enzymes and non-CYP proteins is expected to be the major clearance mechanism for ixazomib|
+E|Tras una dosis marcada en 5 pacientes, el 62 % de la radiactividad se excretó en la orina y el 22 % en las heces.|62% of the administered radioactivity was excreted in urine and 22% in the feces|orina,heces
++|E|La semivida terminal es de 9,5 días.|The terminal half-life (t 1/2 ) of ixazomib was 9.5 days|||
+C|tmax|Mediana del tiempo hasta el pico|1|h|the median time to achieve peak ixazomib plasma concentrations was one hour|ixazomib
+C|biodisponibilidad|Biodisponibilidad oral absoluta media|58|%|The mean absolute oral bioavailability was 58%, based on population PK analysis|ixazomib
+C|union|Unión a proteínas plasmáticas|99|%|Ixazomib is 99% bound to plasma proteins|ixazomib
+C|vd|Volumen de distribución en estado estacionario|543|L|The steady-state volume of distribution is 543 L|ixazomib
+C|semivida|Semivida terminal|9,5|días|The terminal half-life (t 1/2 ) of ixazomib was 9.5 days|ixazomib
+C|aclaramiento|Aclaramiento sistémico|1,9 (aprox.)|L/h|systemic clearance was approximately 1.9 L/hr|ixazomib
+C|orina|Radiactividad excretada en la orina|62|% de la dosis|62% of the administered radioactivity was excreted in urine|radiactividad total|pacientes con cáncer avanzado
+R|Las más frecuentes (20 % o más): trombocitopenia, neutropenia, diarrea, estreñimiento, neuropatía periférica, náuseas, edema periférico, exantema, vómitos y bronquitis.|The most common adverse reactions (≥20%) are thrombocytopenia, neutropenia, diarrhea, constipation, peripheral neuropathy, nausea, peripheral edema, rash, vomiting, and bronchitis
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Trombocitopenia|Contar las plaquetas al menos una vez al mes.|plaquetas|Monitor platelet counts at least monthly during treatment with NINLARO|43685-7
+W|Microangiopatía trombótica|Vigilar los signos y síntomas de púrpura trombótica trombocitopénica o síndrome hemolítico urémico.||Monitor for signs and symptoms of TTP/HUS|43685-7
+
+@vorinostat|Vorinostat|ON|Inhibidor de las histona desacetilasas (HDAC)|vorinostat;Zolinza|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de las manifestaciones cutáneas del linfoma cutáneo de células T progresivo, persistente o recidivante tras dos tratamientos sistémicos.|indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies
+A|Inhibe las histona desacetilasas HDAC1, HDAC2, HDAC3 y HDAC6 a concentraciones nanomolares; así se acumulan histonas acetiladas y se detiene el ciclo celular o se induce la apoptosis de algunas células tumorales.|Vorinostat inhibits the enzymatic activity of histone deacetylases HDAC1, HDAC2 and HDAC3 (Class I) and HDAC6 (Class II) at nanomolar concentrations||HDAC1, HDAC2, HDAC3 y HDAC6
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo; se toma con comida.|100 mg white, opaque, hard gelatin capsules|
+B|Con una comida rica en grasas aumenta un 33 % la cantidad absorbida y el pico se retrasa 2,5 horas respecto al ayuno.|oral administration of vorinostat with a high-fat meal resulted in an increase (33%) in the extent of absorption and a modest decrease in the rate of absorption (T max delayed 2.5 hours) compared to the fasted state|
+D|Se une en alrededor del 71 % a las proteínas del plasma humano.|Vorinostat is approximately 71% bound to human plasma proteins|sangre
+M|Sus vías principales son la glucuronidación y la hidrólisis seguida de beta-oxidación; en microsomas hepáticos humanos, la transformación por el citocromo P450 es mínima.|The major pathways of vorinostat metabolism involve glucuronidation and hydrolysis followed by|
++|M|En microsomas hepáticos humanos, la biotransformación por el citocromo P450 es mínima.|In vitro studies using human liver microsomes indicate negligible biotransformation by cytochromes P450 (CYP)|||
+T|O-glucurónido de vorinostat|inactivo|Both metabolites are pharmacologically inactive|Uno de los dos metabolitos medidos en suero.
+T|Ácido 4-anilino-4-oxobutanoico|inactivo|Both metabolites are pharmacologically inactive|Uno de los dos metabolitos medidos en suero.
+E|Se elimina sobre todo por metabolismo: menos del 1 % sale sin cambios por la orina, de modo que la excreción renal del fármaco no es relevante.|Vorinostat is eliminated predominantly through metabolism with less than 1% of the dose recovered as unchanged drug in urine|orina
++|E|La recuperación urinaria total del vorinostat y sus dos metabolitos es del 52 % de la dosis.|Total urinary recovery of vorinostat and these two metabolites averaged 52±13.3% of vorinostat dose|||
++|E|La semivida terminal media es de unas 2 horas para el vorinostat y su O-glucurónido.|The mean terminal half-life (t ½ ) was ~2.0 hours for both vorinostat and the O -glucuronide metabolite|||
+C|union|Unión a proteínas plasmáticas|71 (aprox.)|%|Vorinostat is approximately 71% bound to human plasma proteins|vorinostat
+C|semivida|Semivida terminal media|2 (aprox.)|h|The mean terminal half-life (t ½ ) was ~2.0 hours for both vorinostat and the O -glucuronide metabolite|vorinostat
+C|orina|Recuperación urinaria total (fármaco y dos metabolitos)|52|% de la dosis|Total urinary recovery of vorinostat and these two metabolites averaged 52±13.3% of vorinostat dose|vorinostat y metabolitos
+R|Las más frecuentes (20 % o más): diarrea, fatiga, náuseas, trombocitopenia, anorexia y disgeusia.|The most common adverse reactions (incidence ≥20%) are diarrhea, fatigue, nausea, thrombocytopenia, anorexia and dysgeusia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Tromboembolismo|Vigilar los signos y síntomas, sobre todo con antecedentes de episodios tromboembólicos.||Monitor for signs and symptoms of these events, particularly in patients with a prior history of thromboembolic events|43685-7
+W|Mielosupresión|Hacer hemogramas cada 2 semanas los 2 primeros meses y después cada mes.|sangre|Monitor blood counts every 2 weeks during the first 2 months of therapy and monthly thereafter|43685-7
+W|Hiperglucemia|Medir la glucosa sérica cada 2 semanas los 2 primeros meses y después cada mes.||Monitor serum glucose every 2 weeks during the first 2 months of therapy and monthly thereafter|43685-7
+
+@tazemetostat|Tazemetostat|ON|Inhibidor de la metiltransferasa EZH2|tazemetostat hydrobromide;Tazverik|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del sarcoma epitelioide avanzado no resecable desde los 16 años y del linfoma folicular recidivante o refractario, según la etiqueta.|Adults and pediatric patients aged 16 years and older with metastatic or locally advanced epithelioid sarcoma not eligible for complete resection
+A|Inhibe la metiltransferasa EZH2 y algunas de sus mutaciones de ganancia de función.|Tazemetostat is an inhibitor of the methyltransferase, EZH2, and some EZH2 gain-of-function mutations including Y646X, A682G, and A692V||EZH2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|200 mg film-coated, red, round, biconvex shape and debossed with|
+B|La biodisponibilidad oral absoluta media es de alrededor del 33 % y el pico aparece en 1 a 2 horas; una comida rica en grasas no cambia de forma relevante la exposición.|The mean absolute oral bioavailability of tazemetostat is approximately 33%|
++|B|La mediana del tiempo hasta el pico es de 1 a 2 horas.|The median time to reach the peak plasma concentration of tazemetostat is 1 to 2 hours|||
++|B|Una comida rica en grasas no tiene un efecto significativo sobre la exposición.|A high-fat, high-calorie (approximately 800 to 1000 calories) meal does not have a significant effect on tazemetostat exposure|||con una comida rica en grasas
+D|In vitro se une en un 88 % a las proteínas plasmáticas; el volumen de distribución aparente en estado estacionario es de 1230 L.|Tazemetostat is 88% bound to human plasma proteins in vitro|sangre
++|D|Volumen de distribución aparente en estado estacionario de 1230 L.|The mean (CV%) apparent volume of distribution at steady-state (V ss /F) is 1230 L (46%)|||
+M|In vitro la CYP3A lo transforma en sus metabolitos principales inactivos M5 y M3; M5 se sigue metabolizando por la CYP3A.|In vitro, tazemetostat is metabolized by CYP3A to form the inactive major metabolites M5 (EPZ-6930) and M3 (EPZ006931)|higado
+T|M5 (EPZ-6930)|inactivo|tazemetostat is metabolized by CYP3A to form the inactive major metabolites M5 (EPZ-6930) and M3 (EPZ006931)|Metabolito principal inactivo.
+T|M3 (EPZ006931)|inactivo|tazemetostat is metabolized by CYP3A to form the inactive major metabolites M5 (EPZ-6930) and M3 (EPZ006931)|Metabolito principal inactivo.
+E|Tras una dosis marcada se recuperó el 94 % de la radiactividad en 12 días: el 15 % en la orina y el 79 % en las heces.|94% of the total radioactivity was recovered over 12 days, with 15% excreted into urine and 79% into feces|orina,heces
++|E|En estado estacionario la semivida terminal es de 3,1 horas y el aclaramiento aparente, de 274 L/h.|the estimated mean (CV%) terminal elimination half-life of tazemetostat is 3.1 hours (14%) and the apparent total clearance (CL ss /F) is 274 L/h (49%)|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta media|33 (aprox.)|%|The mean absolute oral bioavailability of tazemetostat is approximately 33%|tazemetostat
+C|tmax|Mediana del tiempo hasta el pico|1-2|h|The median time to reach the peak plasma concentration of tazemetostat is 1 to 2 hours|tazemetostat
+C|union|Unión a proteínas plasmáticas in vitro|88|%|Tazemetostat is 88% bound to human plasma proteins in vitro|tazemetostat
+C|vd|Volumen de distribución aparente en estado estacionario|1230|L|apparent volume of distribution at steady-state (V ss /F) is 1230 L (46%)|tazemetostat
+C|semivida|Semivida terminal en estado estacionario|3,1|h|terminal elimination half-life of tazemetostat is 3.1 hours (14%)|tazemetostat
+C|aclaramiento|Aclaramiento total aparente|274|L/h|the apparent total clearance (CL ss /F) is 274 L/h (49%)|tazemetostat
+C|heces|Radiactividad excretada en las heces|79|% de la dosis|with 15% excreted into urine and 79% into feces|radiactividad total
+R|En el sarcoma epitelioide, las más frecuentes (20 % o más): dolor, fatiga, náuseas, disminución del apetito, vómitos y estreñimiento.|The most common (≥20%) adverse reactions in patients with epithelioid sarcoma are pain, fatigue, nausea, decreased appetite, vomiting, and constipation
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Neoplasias malignas secundarias|Vigilar a largo plazo la aparición de neoplasias malignas secundarias.||Monitor patients long-term for the development of secondary malignancies|43685-7
+W|Toxicidad embriofetal|Advertir a las embarazadas del riesgo para el feto.||Advise pregnant women of the potential risk to a fetus|43685-7

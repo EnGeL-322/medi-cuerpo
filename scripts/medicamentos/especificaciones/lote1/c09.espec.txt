@@ -1,0 +1,105 @@
+@gemfibrozilo|Gemfibrozilo|CL|Fibrato (hipolipemiante)|gemfibrozil;Lopid|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Almidón pregelatinizado de maíz; Sílice coloidal (anhidra) (E-551); Polisorbato 80 (E-433); Almidón carboximetilo de sodio (tipo A); Estearato de magnesio (E-572); Hipromelosa (E-464); Dióxido de titanio (E-171); Talco (E-553b); Simeticona; Macrogol 6000
+K|600 o 900 mg de gemfibrozilo por comprimido, según la ficha técnica
+U|Como complemento de la dieta, tratamiento de la hipertrigliceridemia grave, con o sin colesterol HDL bajo, y de otras dislipemias cuando las estatinas están contraindicadas o no se toleran.|Tratamiento de hipertrigliceridemia grave con o sin colesterol HDL bajo
+A|Su mecanismo no está claramente establecido; en el hombre estimula la lipólisis periférica de las lipoproteínas ricas en triglicéridos (VLDL y quilomicrones) al estimular la lipoproteína lipasa.|En el hombre, gemfibrozilo estimula la lipólisis periférica de las lipoproteínas ricas en triglicéridos como las VLDL y los quilomicrones (estimulando el LPL)|higado,sangre|Lipoproteína lipasa (LPL)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos recubiertos con película|
+B|Se absorbe bien en el tubo digestivo tras la administración oral, con una biodisponibilidad próxima al 100 %.|Gemfibrozilo se absorbe bien en el tracto gastro-intestinal tras su administración oral con una biodisponibilidad próxima al 100%|
++|B|Los niveles plasmáticos máximos se alcanzan en una a dos horas.|Los niveles máximos plasmáticos se alcanzan en una a dos horas|||
++|B|La presencia de alimentos altera ligeramente su biodisponibilidad.|la presencia de alimentos altera ligeramente su biodisponibilidad|||con alimentos
+D|El volumen de distribución en el equilibrio es de 9-13 litros y la unión a proteínas del gemfibrozilo y de su principal metabolito es de al menos el 97 %.|La unión a proteínas de gemfibrozilo y su principal metabolito es de al menos el 97%|sangre,higado
++|D|El volumen de distribución en el estado de equilibrio es de 9-13 litros.|El volumen de distribución en el estado de equilibrio es de 9-13 l|||
+M|Sufre oxidación de un grupo metilo del anillo, que forma sucesivamente un metabolito hidroximetilo y otro carboxilo (el principal); la glucuronidación es otra vía importante de eliminación.|Gemfibrozilo sufre una oxidación de un grupo metilo del anillo para formar sucesivamente un metabolito hidroximetilo y carboxilo (el principal metabolito)|higado
+T|Metabolito carboxilo|activo|Este metabolito tiene una baja actividad comparado con el compuesto original gemfibrozilo y una semivida de eliminación de aproximadamente 20 horas|Poca actividad frente al fármaco original; semivida de unas 20 horas.
+E|Se elimina sobre todo metabolizado: alrededor del 70 % de la dosis sale por la orina, fundamentalmente como conjugados y metabolitos.|Aproximadamente el 70% de la dosis administrada a humanos se excreta en orina, fundamentalmente como conjugados de gemfibrozilo y sus metabolitos|rinones,orina,heces
++|E|Menos del 6 % de la dosis se excreta inalterada por la orina y el 6 % aparece en las heces.|Menos del 6% de la dosis se excreta inalterada en la orina. El seis por ciento de la dosis se encuentra en las heces|||
++|E|La semivida de eliminación está entre 1,3 y 1,5 horas.|la semivida de eliminación entra en el rango de 1,3 a 1,5 horas|||
+C|biodisponibilidad|Biodisponibilidad|100 (aprox.)|%|con una biodisponibilidad próxima al 100%|gemfibrozilo
+C|tmax|Tiempo hasta el pico plasmático|1-2|h|Los niveles máximos plasmáticos se alcanzan en una a dos horas|gemfibrozilo
+C|union|Unión a proteínas|≥ 97|%|La unión a proteínas de gemfibrozilo y su principal metabolito es de al menos el 97%|gemfibrozilo y metabolito principal
+C|vd|Volumen de distribución en el equilibrio|9-13|L|El volumen de distribución en el estado de equilibrio es de 9-13 l|gemfibrozilo
+C|semivida|Semivida de eliminación|1,3-1,5|h|la semivida de eliminación entra en el rango de 1,3 a 1,5 horas|gemfibrozilo
+C|orina|Dosis excretada por la orina|70 (aprox.)|% de la dosis|Aproximadamente el 70% de la dosis administrada a humanos se excreta en orina|gemfibrozilo y metabolitos
+R|Las más comunicadas son de carácter gastrointestinal y se observaron en aproximadamente el 7 % de los pacientes.|Las reacciones adversas comunicadas con más frecuencia son de carácter gastrointestinal y se observaron en aproximadamente el 7% de los pacientes
+R|Normalmente no llevan a interrumpir el tratamiento.|Estas reacciones adversas no suelen llevar normalmente a la interrupción del tratamiento
+W|Trastornos musculares|Se han comunicado casos de miositis, miopatía y elevaciones significativas de la creatina fosfoquinasa asociadas con gemfibrozilo.|musculos|Se han comunicado casos de miositis, miopatía y elevaciones significativas de creatinin fosfoquinasa asociadas con gemfibrozilo
+W|Estatinas concomitantes|Está contraindicada la administración concomitante de gemfibrozilo y simvastatina.|musculos,higado|Está contraindicada la administración concomitante de gemfibrozilo y simvastatina
+
+@fluvastatina|Fluvastatina|CL|Estatina (inhibidor de la HMG-CoA reductasa)|fluvastatin|vias=oral;familia=solido-oral
+S|Fluvastatina sódica|20 mg de fluvastatina (como fluvastatina sódica)
+X|Lactosa monohidrato; Sílice coloidal anhidra; Crospovidona; Estearato de magnesio; Óxido de hierro rojo (E172); Óxido de hierro amarillo (E172); Dióxido de titanio (E171); Gelatina; Tinta (shellac, propilenglicol, óxido de hierro negro E172)
+K|20 o 40 mg de fluvastatina (como fluvastatina sódica) por cápsula, según la ficha técnica
+U|Tratamiento de adultos con hipercolesterolemia primaria o dislipemia mixta, como complemento de la dieta.|Tratamiento de adultos con hipercolesterolemia primaria o dislipemia mixta, como tratamiento adjunto a la dieta
+A|Es un inhibidor competitivo de la HMG-CoA reductasa, la enzima que convierte la HMG-CoA en mevalonato, precursor de los esteroles, incluido el colesterol.|La fluvastatina, agente hipocolesterolemiante obtenido por síntesis, es un inhibidor competitivo de la HMG-CoA reductasa, enzima responsable de la conversión del HMG-CoA a mevalonato|higado|HMG-CoA reductasa
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Las cápsulas de 20 mg tienen el cuerpo de color marfil opaco|
+B|Tras la administración oral de una solución a voluntarios en ayunas, se absorbe rápida y completamente (98 %).|La fluvastatina se absorbe rápida y completamente (98%) tras la administración oral de una solución en voluntarios en ayunas|
++|B|La biodisponibilidad absoluta, determinada a partir de las concentraciones en sangre sistémica, es del 24 %.|La biodisponibilidad absoluta, determinada a partir de las concentraciones en sangre sistémica, es del 24%|||
++|B|Si se administra después de la ingesta de alimentos, la absorción es más lenta.|Si se administra después de la ingesta de alimentos, la absorción es más lenta|||con alimentos
+D|Más del 98 % del fármaco circulante se une a las proteínas del plasma; actúa principalmente en el hígado, que es el órgano principal de su metabolismo.|Más de un 98% del fármaco circulante se une a proteínas plasmáticas|sangre,higado
++|D|El volumen de distribución aparente (Vz/f) es de 330 litros.|El volumen de distribución aparente (Vz/f) del fármaco es de 330 l|||
+M|Se metaboliza principalmente en el hígado, por múltiples vías alternativas del citocromo P450, por lo que su metabolismo es relativamente insensible a la inhibición de una sola isoenzima.|La fluvastatina se metaboliza principalmente en el hígado|higado
+T|Ácido N-desisopropilpropiónico|inactivo|el metabolito farmacológicamente inactivo, ácido N-desisopropilpropiónico|Metabolito circulante, farmacológicamente inactivo.
+T|Metabolitos hidroxilados|activo|Los metabolitos hidroxilados son activos, pero no circulan sistémicamente|Activos, pero no circulan en la sangre.
+E|Tras una dosis marcada, alrededor del 6 % de la radiactividad se recuperó en la orina y el 93 % en las heces; menos del 2 % del total correspondía a fluvastatina.|aprox. un 6% de la radioactividad se recuperó en orina y un 93% en heces, correspondiendo a fluvastatina menos de un 2% del total|rinones,orina,heces,bilis
++|E|Tras 40 mg por vía oral, la vida media de eliminación terminal fue de 2,3 ± 0,9 horas.|Tras la administración oral de 40 mg de fluvastatina, la vida media de eliminación terminal fue 2,3 ± 0,9 horas|||dosis oral de 40 mg
+C|biodisponibilidad|Biodisponibilidad absoluta|24|%|La biodisponibilidad absoluta, determinada a partir de las concentraciones en sangre sistémica, es del 24%|fluvastatina
+C|union|Unión a proteínas plasmáticas|> 98|%|Más de un 98% del fármaco circulante se une a proteínas plasmáticas|fluvastatina
+C|vd|Volumen de distribución aparente (Vz/f)|330|L|El volumen de distribución aparente (Vz/f) del fármaco es de 330 l|fluvastatina
+C|semivida|Vida media de eliminación terminal|2,3 ± 0,9|h|la vida media de eliminación terminal fue 2,3 ± 0,9 horas|fluvastatina||dosis oral de 40 mg
+C|heces|Radiactividad recuperada en las heces|93|% de la dosis|un 93% en heces|radiactividad total|voluntarios sanos|dosis de 3H-fluvastatina sódica
+R|Las reacciones adversas notificadas con mayor frecuencia son síntomas gastrointestinales leves, insomnio y cefalea.|Las reacciones adversas notificadas con mayor frecuencia son síntomas gastrointestinales leves, insomnio y cefalea
+R|Dentro de cada sistema de órganos, la ficha las clasifica por frecuencia, con las más frecuentes en primer lugar.|las reacciones adversas a los medicamentos se clasifican por frecuencia, con las más frecuentes en primer lugar
+W|Función hepática|Se han notificado fallos hepáticos mortales y no mortales con algunas estatinas, incluida la fluvastatina, tras la comercialización.|higado|Se han notificado casos posteriores a la comercialización de fallos hepáticos mortales y no mortales con algunas estatinas, incluida la fluvastatina
+W|Pruebas de función hepática|Se recomienda hacer pruebas de la función hepática antes de iniciar el tratamiento.|higado|se recomienda realizar pruebas de la función hepática en todos los pacientes antes de iniciar el tratamiento con fluvastatina
+
+@acenocumarol|Acenocumarol|SC|Anticoagulante antagonista de la vitamina K|acenocoumarol;nicoumalone;Sintrom|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Sílice coloidal anhidra; Almidón de maíz; Talco; Estearato de magnesio; Hipromelosa
+K|1 mg de acenocumarol por comprimido (también existe una concentración de 4 mg), según la ficha técnica
+U|Tratamiento y profilaxis de las afecciones tromboembólicas.|Tratamiento y profilaxis de las afecciones tromboembólicas
+A|Es un derivado de la cumarina que actúa como antagonista de la vitamina K: inhibe el complejo enzimático de la vitamina K epóxido reductasa (VKORC1) y así ejerce su efecto anticoagulante.|Acenocumarol es un derivado de la cumarina que actúa como antagonista de la vitamina K|sangre,higado|Vitamina K epóxido reductasa (VKORC1)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos redondos, de color blanco|
+B|Se absorbe rápidamente por vía oral, con una disponibilidad sistémica mínima del 60 %.|Acenocumarol, una mezcla racémica de los enantiómeros ópticos R(+) y S(-), se absorbe rápidamente por vía oral con una disponibilidad sistémica mínima del 60%|
++|B|La concentración plasmática máxima se alcanza al cabo de 1 a 3 horas después de una dosis única.|se alcanza al cabo de 1 a 3 horas después de una dosis única de 10 mg|||dosis única de 10 mg
+D|La mayor parte se distribuye en el plasma, con una unión a proteínas del 98,7 %, principalmente a la albúmina.|presentando una unión a proteínas del 98,7%, principalmente a la albúmina|sangre
++|D|El volumen aparente de distribución es de 0,16-0,18 L/kg para el enantiómero R(+) y de 0,22-0,34 L/kg para el S(-).|El volumen aparente de distribución es 0,16-0,18 l/kg para el enantiómero R (+) y 0,22-0,34 l/kg para el enantiómero S (-)|||
++|D|También atraviesa la barrera placentaria.|También atraviesa la barrera placenta|||
+M|Se metaboliza de forma intensiva: la hidroxilación en las posiciones 6 y 7 de ambos enantiómeros da los metabolitos mayoritarios, y la CYP2C9 es el catalizador principal.|El acenocumarol se metaboliza intensivamente|higado
+T|Metabolitos hidroxilados, carbinol y amina|inactivo|Ninguno de estos metabolitos contribuye a la actividad anticoagulante|No contribuyen a la actividad anticoagulante en el hombre, aunque son activos en modelos animales.
+E|Solo el 0,12-0,18 % de la dosis se excreta inalterado por la orina; en una semana se excreta como metabolitos y fármaco el 60 % de la dosis por la orina y el 29 % por las heces.|Únicamente un 0,12-0,18% de la dosis se excreta inalterada en orina|rinones,orina,heces
++|E|La semivida plasmática es de 8-11 horas.|El acenocumarol se elimina del plasma con una semivida plasmática de 8-11 horas|||
+C|biodisponibilidad|Disponibilidad sistémica mínima|≥ 60|%|con una disponibilidad sistémica mínima del 60%|acenocumarol
+C|tmax|Tiempo hasta la concentración plasmática máxima|1-3|h|se alcanza al cabo de 1 a 3 horas después de una dosis única de 10 mg|acenocumarol||dosis única de 10 mg
+C|union|Unión a proteínas|98,7|%|presentando una unión a proteínas del 98,7%, principalmente a la albúmina|acenocumarol
+C|semivida|Semivida plasmática|8-11|h|El acenocumarol se elimina del plasma con una semivida plasmática de 8-11 horas|acenocumarol
+C|orina|Dosis excretada por la orina en una semana|60|% de la dosis|representa el 60% de la dosis en orina y el 29% en heces|acenocumarol y metabolitos
+C|heces|Dosis excretada por las heces en una semana|29|% de la dosis|el 60% de la dosis en orina y el 29% en heces|acenocumarol y metabolitos
+R|La hemorragia en diversos órganos es una reacción adversa frecuente; su aparición se relaciona con la dosis, la edad del paciente y la enfermedad de base.|La hemorragia en diversos órganos es una reacción adversa frecuente asociada con el uso de Sintrom; su aparición está relacionada con la dosis administrada, la edad del paciente y la naturaleza de la enfermedad subyacente
+R|Entre las reacciones raras figura la hipersensibilidad.|Raras: Hipersensibilidad
+W|Insuficiencia hepática|Se tendrá especial precaución en pacientes con insuficiencia hepática leve a moderada.|higado|Se tendrá especial precaución en pacientes con insuficiencia hepática leve a moderada
+W|Insuficiencia renal|Los pacientes con insuficiencia renal presentan mayor riesgo hemorrágico que los pacientes con función renal normal.|rinones,sangre|presentan mayor riesgo hemorrágico que los pacientes con función renal normal
+
+@quinapril|Quinapril|CV|Inhibidor de la enzima conversora de la angiotensina (IECA)|quinapril;Lidaltrin|vias=oral;familia=solido-oral
+S|Hidrocloruro de quinapril|5 mg de quinapril (como hidrocloruro)
+X|Lactosa monohidrato; Carbonato de magnesio pesado (E504); Gelatina (E441); Estearato de magnesio (E572); Crospovidona; Hipromelosa (E464); Óxido de hierro rojo (E172); Óxido de hierro amarillo (E172); Dióxido de titanio (E171); Hidroxipropilcelulosa (E463); Macrogol 400; Cera candelilla (E902)
+K|5 y 20 mg de quinapril (como hidrocloruro) por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión arterial esencial, en monoterapia o asociado a diuréticos.|Lidaltrin está indicado para el tratamiento de la hipertensión arterial esencial
+A|Pertenece al grupo de los inhibidores de la enzima conversora de la angiotensina (ECA) y reduce la tensión arterial tanto en bipedestación como en sedestación, con un efecto mínimo sobre la frecuencia cardíaca.|Agentes que actúan sobre el sistema renina-angiotensina. Inhibidores de la ECA, monofármacos|vasos,corazon,rinones|Enzima conversora de la angiotensina (ECA)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Lidaltrin 5 mg comprimidos recubiertos con película|
+B|Se absorbe rápidamente, con el pico de concentración plasmática de quinapril a la hora; hasta el 60 % de una dosis oral se absorbe en el tubo digestivo.|Después de la administración oral, quinapril se absorbe rápidamente, observándose el pico de concentración plasmática de quinapril al cabo de 1 hora|
++|B|Según la recuperación de quinapril y de sus metabolitos en la orina, hasta el 60 % de una dosis oral se absorbe en el tubo digestivo.|hasta el 60% de una dosis de quinapril oral se absorbe en el tracto gastrointestinal|||
+D|Aproximadamente el 97 % del quinapril o del quinaprilato se une a las proteínas del plasma.|Aproximadamente el 97% de quinapril o quinaprilato se une a proteínas plasmáticas|sangre
++|D|En ratas, el quinapril y sus metabolitos no cruzan la barrera hematoencefálica.|Estudios en ratas indican que quinapril y sus metabolitos no cruzan la barrera hemato-encefálica|ratas|
+M|El 38 % del quinapril administrado por vía oral se transforma en quinaprilato.|El 38% del quinapril administrado oralmente se transforma en quinaprilato|higado
++|M|En la cirrosis alcohólica disminuyen las concentraciones de quinaprilato por un déficit en la desesterificación del quinapril.|Las concentraciones de quinaprilato disminuyen en pacientes con cirrosis alcohólica debido a un déficit en la desesterificación del quinapril|pacientes con cirrosis alcohólica|
+T|Quinaprilato|desconocida|El 38% del quinapril administrado oralmente se transforma en quinaprilato|Metabolito principal; la ficha no precisa aquí su actividad.
+E|El quinaprilato se elimina principalmente por vía renal y tiene una vida media de acumulación efectiva de unas 3 horas.|El quinaprilato se elimina principalmente por vía renal y tiene una vida media de acumulación efectiva de unas 3 horas|rinones,orina
++|E|El quinapril tiene una vida media aparente de eliminación de alrededor de 1 hora.|Quinapril tiene una vida media aparente de eliminación de alrededor de 1 hora|||
+C|tmax|Tiempo hasta el pico de quinapril|1|h|observándose el pico de concentración plasmática de quinapril al cabo de 1 hora|quinapril
+C|otra|Fracción absorbida (según la orina)|≤ 60|%|hasta el 60% de una dosis de quinapril oral se absorbe en el tracto gastrointestinal|quinapril
+C|union|Unión a proteínas plasmáticas|97 (aprox.)|%|Aproximadamente el 97% de quinapril o quinaprilato se une a proteínas plasmáticas|quinapril y quinaprilato
+C|semivida|Vida media aparente de eliminación|1 (aprox.)|h|Quinapril tiene una vida media aparente de eliminación de alrededor de 1 hora|quinapril
+R|Los más frecuentes: dolor de cabeza (7,2 %), vértigo (5,5 %), rinitis (3,2 %), tos (3,9 %), fatiga (3,5 %), náuseas o vómitos (2,8 %) y mialgia (2,2 %).|dolor de cabeza (7,2%); vértigo (5,5%), rinitis (3,2%), tos (3,9%), fatiga (3,5%), náuseas o vómitos (2,8%) y mialgia (2,2%)
+R|La seguridad se evaluó en más de 4.960 individuos y pacientes, y fue bien tolerado.|La seguridad de quinapril ha sido evaluada en más de 4.960 individuos y pacientes, siendo bien tolerado
+W|Angioedema|Se han descrito casos de angioedema con los inhibidores de la ECA, incluido un 0,1 % de los pacientes tratados con quinapril.|vasos,vias-respiratorias|Se han descrito casos de angioedema en pacientes tratados con inhibidores de la ECA , incluido un 0,1% de los pacientes tratados con quinapril

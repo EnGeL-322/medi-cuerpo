@@ -1,0 +1,80 @@
+@bromazepam|Bromazepam|SM|Benzodiazepina (ansiolítico)|bromazepam;Lexatin|vias=oral;familia=solido-oral
+S|-
+X|Lactosa; Almidón de maíz; Talco; Estearato magnésico; Índigo carmín E-132; Eritrosina E-127; Dióxido de titanio E-171; Gelatina; Óxido de hierro rojo E-172; Óxido de hierro amarillo E-172
+K|1,5 y 3 mg de bromazepam por cápsula, según la ficha técnica
+U|Tratamiento de enfermedades con síntomas como ansiedad, angustia, obsesiones, compulsiones, fobias e hipocondrías.|Lexatin está indicado para el tratamiento de enfermedades que cursen con síntomas tales como ansiedad, angustia, obsesiones, compulsiones, fobias e hipocondrías
+A|Sus acciones centrales están mediadas por un aumento de la neurotransmisión GABAérgica en la sinapsis inhibitoria.|Las acciones centrales de las benzodiazepinas están mediadas por un aumento de la neurotransmisión GABAérgica en la sinapsis inhibitoria|encefalo|Receptor GABA-A (modulación alostérica positiva)
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Lexatin 1,5 mg: cápsula dura opaca, de color blanco y rojo|
+B|Se absorbe rápidamente y alcanza las concentraciones plasmáticas máximas dentro de las 2 horas siguientes a la toma; la biodisponibilidad absoluta es del 60 %.|El Bromazepam se absorbe rápidamente y alcanza las concentraciones plasmáticas máximas dentro de las 2 horas siguientes a la administración por vía oral|
++|B|La ingesta de alimento puede retrasar la biodisponibilidad, aunque no se ha establecido su relevancia clínica.|La ingesta de alimento puede retrasar la biodisponibilidad del Lexatin aunque la relevancia clínica no ha sido establecida|||con alimento
+D|Se distribuye rápidamente en el organismo; la unión a proteínas del plasma es del 70 % por término medio, a la albúmina y a la glucoproteína ácida alfa-1.|La unión del bromazepam a las proteínas plasmáticas por interacción hidrófoba es del 70%, por término medio|sangre,tejidos
++|D|El volumen de distribución es de aproximadamente 50 litros.|El volumen de distribución es aproximadamente de 50 litros|||
+M|Se metaboliza generalmente en el hígado, al menos en parte por el citocromo P450; no se forman metabolitos con una semivida más larga que la del fármaco original.|El bromazepam se metaboliza generalmente en el hígado|higado
+T|3-hidroxi-bromazepam|activo|Cuantitativamente dominan dos metabolitos, el 3-hidroxi-bromazepam (menos activo que el bromazepam)|Menos activo que el bromazepam.
+T|2-(2-amino-5-bromo-3-hidroxibenzoil)piridina|inactivo|2-(2-amino-5-bromo-3-hidroxibenzoil) piridina (inactivo)|Inactivo.
+E|El metabolismo es la vía de eliminación clave: solo el 2 % de la dosis se recupera inalterado en la orina, el resto como conjugados glucurónidos.|La tasa de recuperación urinaria de bromazepam inalterado es únicamente del 2%|rinones,orina
++|E|La semivida de eliminación es de unas 20 horas y el aclaramiento renal, de aproximadamente 40 mL/min.|La semivida de eliminación del bromazepam es de unas 20 horas y el aclaramiento renal es aproximadamente de 40 ml/min|||
+C|tmax|Tiempo hasta las concentraciones máximas|≤ 2|h|alcanza las concentraciones plasmáticas máximas dentro de las 2 horas siguientes a la administración por vía oral|bromazepam
+C|biodisponibilidad|Biodisponibilidad absoluta|60|%|La biodisponibilidad absoluta del bromazepam es del 60%|bromazepam
+C|union|Unión a proteínas plasmáticas|70 (media)|%|es del 70%, por término medio|bromazepam
+C|vd|Volumen de distribución|50 (aprox.)|L|El volumen de distribución es aproximadamente de 50 litros|bromazepam
+C|semivida|Semivida de eliminación|20 (aprox.)|h|La semivida de eliminación del bromazepam es de unas 20 horas|bromazepam
+C|orina|Recuperado inalterado en la orina|2|% de la dosis|es únicamente del 2%|bromazepam
+R|Entre las reacciones de frecuencia no conocida figuran la hipersensibilidad, el shock anafiláctico y el angioedema.|Hipersensibilidad, shock anafiláctico, angioedema
+R|También se describen confusión, desorientación, alteraciones del humor, trastornos de la libido, dependencia, abuso y síndrome de abstinencia.|Confusión*,desorientación, alteraciones emocionales del humor*, trastornos de la libido, dependencia al medicamento**, abuso del medicamento**, síndrome de abstinencia**
+W|Amnesia|Las benzodiazepinas pueden inducir amnesia anterógrada.|encefalo|Las benzodiazepinas pueden inducir amnesia anterógrada
+W|Reacciones psiquiátricas y paradójicas|Pueden producir intranquilidad, agitación, irritabilidad, agresividad, ansiedad y delirios, entre otros efectos.|encefalo|Las benzodiazepinas pueden producir reacciones tales como intranquilidad, agitación, irritabilidad, agresividad,ansiedad,delirios
+
+@agomelatina|Agomelatina|SM|Antidepresivo agonista melatoninérgico y antagonista de 5-HT2C|agomelatine|vias=oral;familia=solido-oral
+S|Agomelatina-ácido cítrico (cocristal)|agomelatina-ácido cítrico equivalente 25 mg de agomelatina
+X|Dióxido de silicio coloidal; Celulosa microcristalina; Manitol; Povidona K 30; Sílice coloidal anhidra; Crospovidona; Estearil fumarato de sodio; Estearato de magnesio; Ácido esteárico; Hipromelosa; Macrogol; Dióxido de titanio (E 171); Talco; Óxido de hierro amarillo (E 172)
+K|25 mg de agomelatina (como agomelatina-ácido cítrico) por comprimido, según la ficha técnica
+U|Tratamiento de los episodios de depresión mayor en adultos.|Agomelatina está indicado para el tratamiento de episodios de depresión mayor en adultos
+A|Es un agonista melatoninérgico (receptores MT1 y MT2) y un antagonista de los receptores 5-HT2C; no tiene efectos sobre la captación de monoaminas.|Agomelatina es un agonista melatoninérgico (receptores MT 1 y MT 2 ) y un antagonista de 5-HT 2C|encefalo|Receptores MT1 y MT2 de melatonina y receptor 5-HT2C
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película, de color amarillo, oblongo, biconvexo|
+B|Se absorbe bien y de forma rápida (80 % o más) tras la administración oral; la concentración plasmática máxima se alcanza entre 1 y 2 horas.|Agomelatina se absorbe bien y de forma rápida (≥80%) después de su administración oral|
++|B|La biodisponibilidad absoluta es baja (menos del 5 % con la dosis terapéutica) y la variabilidad interindividual es importante.|La biodisponibilidad absoluta es baja (<5% para la dosis terapéutica por vía oral) y la variabilidad interindividual es importante|||
++|B|La concentración plasmática máxima se alcanza entre 1 y 2 horas tras la administración.|La concentración plasmática máxima se alcanza entre 1 a 2 horas tras la administración|||
++|B|La comida normal o rica en grasas no modifica la biodisponibilidad ni la velocidad de absorción.|La ingesta de alimentos (comida normal o rica en grasas) no modifica la biodisponibilidad ni la velocidad de absorción|||con comida normal o rica en grasas
+D|El volumen de distribución en el equilibrio es de unos 35 litros y la unión a proteínas del plasma es del 95 %, independiente de la concentración.|El volumen de distribución en equilibrio es de aproximadamente 35 l y la unión a las proteínas plasmáticas es del 95%, independientemente de la concentración|sangre,tejidos
+M|Se metaboliza rápidamente por vía oral, sobre todo por la isoenzima hepática CYP1A2, con menor contribución de la CYP2C9 y la CYP2C19.|Agomelatina se metaboliza rápidamente, después de su administración oral, principalmente mediante la isoenzima hepática CYP 1A2|higado
+T|Agomelatina hidroxilada y desmetilada|inactivo|Los principales metabolitos, agomelatina hidroxilada y desmetilada, carecen de actividad, se conjugan enseguida y se eliminan por la orina|Sin actividad; se conjugan y se eliminan por la orina.
+E|La excreción es fundamentalmente urinaria (80 %), en forma de metabolitos; la excreción urinaria del compuesto inalterado es inapreciable.|La excreción es fundamentalmente urinaria (80%) en forma de metabolitos, mientras la excreción en orina del compuesto inalterado es inapreciable|rinones,orina
++|E|La semivida media plasmática varía entre 1 y 2 horas y el aclaramiento es alto (aproximadamente 1.100 mL/min).|la semivida media plasmática varía entre 1 y 2 horas y el aclaramiento es alto (aprox. 1 100 ml/min)|||
+C|otra|Absorción tras la dosis oral|≥ 80|%|Agomelatina se absorbe bien y de forma rápida (≥80%) después de su administración oral|agomelatina
+C|biodisponibilidad|Biodisponibilidad absoluta (dosis terapéutica)|< 5|%|La biodisponibilidad absoluta es baja (<5% para la dosis terapéutica por vía oral)|agomelatina
+C|tmax|Tiempo hasta la concentración plasmática máxima|1-2|h|La concentración plasmática máxima se alcanza entre 1 a 2 horas tras la administración|agomelatina
+C|vd|Volumen de distribución en equilibrio|35 (aprox.)|L|El volumen de distribución en equilibrio es de aproximadamente 35 l|agomelatina
+C|union|Unión a proteínas plasmáticas|95|%|la unión a las proteínas plasmáticas es del 95%|agomelatina
+C|semivida|Semivida media plasmática|1-2|h|la semivida media plasmática varía entre 1 y 2 horas|agomelatina
+C|orina|Excreción urinaria (como metabolitos)|80|% de la dosis|La excreción es fundamentalmente urinaria (80%) en forma de metabolitos|agomelatina
+R|Las más frecuentes: cefalea, náuseas y mareo.|Las reacciones adversas más frecuentes fueron cefalea, náuseas y mareo
+R|Fueron normalmente de leves a moderadas y aparecieron en las dos primeras semanas de tratamiento.|Las reacciones adversas fueron normalmente de leve a moderadas y aparecieron en las dos primeras semanas de tratamiento
+W|Control de la función hepática|Se han notificado casos de daño hepático, incluida la insuficiencia hepática, con casos excepcionales mortales o con trasplante de hígado.|higado|Se han notificado casos de daño hepático, incluyendo insuficiencia hepática
+
+@imipramina|Imipramina|SM|Antidepresivo tricíclico (inhibidor no selectivo de la recaptación de monoaminas)|imipramine;Tofranil|vias=oral;familia=solido-oral
+S|Hidrocloruro de imipramina|10 mg de imipramina hidrocloruro
+X|Sílice coloidal; Almidón de maíz; Ácido esteárico; Talco; Estearato de magnesio; Hipromelosa; Acetato de vinilpirrolidona; Dióxido de titanio (E171); Povidona; Polietilenglicol; Celulosa microcristalina; Rojo óxido de hierro (E172); Sacarosa; Lactosa; Glicerol (E422, en las concentraciones de 10 y 25 mg)
+K|10 mg, y otras concentraciones, de hidrocloruro de imipramina por comprimido, según la ficha técnica
+U|Tratamiento en adultos de la depresión, las crisis de ansiedad y el dolor crónico; en niños mayores de 5 años, de la enuresis nocturna.|Adultos Depresión. Crisis de Ansiedad Dolor Crónico
+A|Se cree que su actividad terapéutica principal se basa en la inhibición de la recaptación neuronal de monoaminas; además tiene propiedades alfa-adrenolíticas, antihistamínicas y anticolinérgicas.|Se cree que la actividad terapéutica principal se basa en su capacidad de inhibir la recaptación|encefalo|Transportadores de recaptación de monoaminas
+L|Comprimido recubierto: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|10 mg: comprimido recubierto de color marrón rojizo|
+B|Se absorbe rápidamente y casi por completo en el tubo digestivo; la biodisponibilidad tiene una gran variabilidad interindividual (de 25 a 50 % aproximadamente).|La imipramina hidrocloruro se absorbe rápidamente y casi completamente del tracto gastrointestinal|
++|B|La biodisponibilidad tiene una gran variabilidad interindividual, de 25 a 50 % aproximadamente.|La biodisponibilidad de imipramina tiene una gran variabilidad interindividual (de 25 a 50% aproximadamente)|||
++|B|La ingesta de alimentos no ejerce ningún efecto sobre la absorción y la biodisponibilidad.|La ingesta de alimentos no ejerce ningún efecto sobre la absorción y la biodisponibilidad|||con alimentos
+D|La unión a proteínas del plasma es de aproximadamente el 86 %, el volumen aparente de distribución medio es de unos 21 L/kg y atraviesa la barrera hematoencefálica.|La unión a proteínas plasmáticas es del 86% aproximadamente|sangre,encefalo
++|D|El volumen aparente de distribución medio es de aproximadamente 21 L/kg.|El volumen aparente de distribución medio es de aproximadamente 21 l/kg del peso|||
++|D|Atraviesa la barrera hematoencefálica.|La imipramina atraviesa la barrera hematoencefálica|||
+M|Se metaboliza extensamente en el hígado, que interviene primero por el efecto de primer paso y después por la biotransformación; se desmetila a desipramina sobre todo por la CYP3A4, la CYP2C19 y la CYP1A2.|La imipramina se metaboliza extensamente en el hígado|higado
+T|Desipramina (desmetilimipramina)|activo|el metabolito activo principal, la desmetilimipramina o desipramina, tiene una vida media ligeramente más alta que la de la molécula parental|Metabolito activo principal.
+T|2-hidroxiimipramina y 2-hidroxidesipramina|activo|2-hidroximipramina (metabolito activo) y 2-hidroxidesipramina (metabolito activo)|Metabolitos activos que se inactivan por conjugación con ácido glucurónico.
+E|Un 80 % se excreta por la orina y alrededor del 20 % por las heces, principalmente como metabolitos.|Un 80 % se excreta por la orina y aproximadamente un 20% con las heces, principalmente como metabolitos inalterados|rinones,orina,heces,bilis
++|E|La vida media de eliminación en plasma varía entre 9 y 20 horas según la persona.|La vida media de eliminación en plasma de imipramina varia de un sujeto a otro entre 9 y 20 horas|||
+C|biodisponibilidad|Biodisponibilidad oral|25-50 (aprox.)|%|de 25 a 50% aproximadamente|imipramina
+C|union|Unión a proteínas plasmáticas|86 (aprox.)|%|La unión a proteínas plasmáticas es del 86% aproximadamente|imipramina
+C|vd|Volumen aparente de distribución medio|21 (aprox.)|L/kg|El volumen aparente de distribución medio es de aproximadamente 21 l/kg del peso|imipramina
+C|semivida|Vida media de eliminación en plasma|9-20|h|La vida media de eliminación en plasma de imipramina varia de un sujeto a otro entre 9 y 20 horas|imipramina
+C|orina|Dosis excretada por la orina|80|% de la dosis|Un 80 % se excreta por la orina|imipramina y metabolitos
+R|Las reacciones adversas suelen ser leves y pasajeras y suelen desaparecer con la continuación del tratamiento o con una reducción de la dosis.|Las reacciones adversas son generalmente leves y pasajeras, y suelen desaparecer con la continuación del tratamiento o con una reducción de la dosis
+R|Los pacientes de edad avanzada son especialmente sensibles a los efectos anticolinérgicos, neurológicos, psiquiátricos o cardiovasculares.|Los pacientes de edad avanzada son particularmente sensibles a los efectos anticolinérgicos, neurológicos, psiquiátricos o cardiovasculares
+W|Suicidio y pensamientos suicidas|La depresión se asocia a un incremento del riesgo de pensamientos suicidas, autolesiones y suicidio.|encefalo|La depresión se asocia a un incremento del riesgo de pensamientos suicidas, autolesiones y suicidio (hechos relacionados con el suicidio)

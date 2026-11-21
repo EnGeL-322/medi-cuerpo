@@ -1,0 +1,127 @@
+@pirtobrutinib|Pirtobrutinib|ON|Inhibidor no covalente de la tirosina cinasa de Bruton (BTK)|pirtobrutinib;Jaypirca|forma=TABLET, COATED;vias=oral;familia=solido-oral
+U|Tratamiento del linfoma de células del manto y de la leucemia linfocítica crónica o linfoma linfocítico de células pequeñas en las situaciones de la etiqueta.|Adult patients with relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy, including a BTK inhibitor
+A|Inhibidor no covalente de la BTK que se une a la BTK natural y a la que tiene mutaciones en C481; la BTK interviene en la proliferación, el tráfico y la adhesión de los linfocitos B.|Pirtobrutinib binds to wild type BTK and BTK harboring C481 mutations, leading to inhibition of BTK kinase activity||Tirosina cinasa de Bruton (BTK)
++|A|Es un inhibidor de BTK de molécula pequeña y no covalente.|Pirtobrutinib is a small molecule, noncovalent inhibitor of BTK||
+L|Comprimido recubierto: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The tablet film coating material contains FD&C Blue #2, hypromellose, titanium dioxide and triacetin|
+B|La biodisponibilidad absoluta tras 200 mg es del 85,5 % y la mediana del tmax de unas 2 horas; una comida grasa baja la Cmax un 23 % sin cambiar el AUC.|The absolute bioavailability of pirtobrutinib after a single oral 200 mg dose is 85.5% (range 75.9% to 90.9%)|
++|B|Una comida rica en grasas redujo la Cmax un 23 % y retrasó el tmax 1 hora, sin efecto sobre el AUC.|A high-fat meal decreased the C max of pirtobrutinib by 23% and delayed t max by 1 hour|sujetos sanos|con una comida rica en grasas
+D|Se une en un 96 % a las proteínas humanas, sin depender de la concentración; el volumen central aparente es de 35,4 L.|Human protein binding of pirtobrutinib is 96% and is independent of concentration in vitro|
++|D|Volumen de distribución central aparente medio de 35,4 L.|The mean apparent central volume of distribution of pirtobrutinib is 35.4 L|||
+M|Se metaboliza sobre todo por la CYP3A4 y por glucuronidación directa (UGT1A8 y UGT1A9) in vitro.|Pirtobrutinib is primarily metabolized by CYP3A4 and direct glucuronidation by UGT1A8 and UGT1A9, in vitro|higado
+E|Tras 200 mg marcados, el 37 % se recuperó en las heces (18 % sin cambios) y el 57 % en la orina (10 % sin cambios).|37% of the dose was recovered in feces (18% unchanged) and 57% in urine (10% unchanged)|heces,orina
++|E|La semivida efectiva es de unas 19,9 horas.|The effective half-life of pirtobrutinib is approximately 19.9 hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta|85,5|%|The absolute bioavailability of pirtobrutinib after a single oral 200 mg dose is 85.5%|pirtobrutinib
+C|tmax|Mediana del tmax|2 (aprox.)|h|The median time (range) to reach peak plasma concentration (tmax) is approximately 2 hours|pirtobrutinib
+C|union|Unión a proteínas|96|%|Human protein binding of pirtobrutinib is 96%|pirtobrutinib
+C|vd|Volumen de distribución central aparente|35,4|L|The mean apparent central volume of distribution of pirtobrutinib is 35.4 L|pirtobrutinib
+C|semivida|Semivida efectiva|19,9 (aprox.)|h|The effective half-life of pirtobrutinib is approximately 19.9 hours|pirtobrutinib
+C|orina|Dosis recuperada en la orina|57|% de la dosis|37% of the dose was recovered in feces (18% unchanged) and 57% in urine (10% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 200 mg
+R|Las más frecuentes (30 % o más, con laboratorio) son el descenso de neutrófilos y de hemoglobina.|Most common adverse reactions (≥ 30%), including laboratory abnormalities, are neutrophil count decreased and hemoglobin decreased
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Infecciones|Vigilar los signos de infección, valorarla pronto y tratarla.||Infections: Monitor for signs and symptoms of infection, evaluate promptly, and treat|43685-7
+W|Hemorragia|Vigilar el sangrado y tratarlo de forma adecuada.||Hemorrhage: Monitor for bleeding and manage appropriately|43685-7
+W|Arritmias cardíacas|Vigilar los síntomas de arritmia y tratarlos.||Cardiac Arrhythmias: Monitor for symptoms of arrhythmias and manage appropriately|43685-7
+W|Hepatotoxicidad|Vigilar la función hepática durante todo el tratamiento.|higado|Monitor hepatic function throughout treatment|43685-7
+
+@idelalisib|Idelalisib|ON|Inhibidor de la fosfatidilinositol 3-cinasa delta (PI3Kδ)|idelalisib;Zydelig|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de la leucemia linfocítica crónica en recaída, en combinación con rituximab.|Zydelig is indicated, in combination with rituximab, for the treatment of patients with relapsed chronic lymphocytic leukemia (CLL)
+A|Inhibe la PI3Kδ, expresada en linfocitos B normales y malignos; induce apoptosis, frena la proliferación y bloquea las vías del receptor B y de CXCR4/CXCR5 que llevan los linfocitos B a los ganglios y a la médula ósea.|Idelalisib is an inhibitor of phosphatidylinositol 3-kinase, PI3Kδ, which is expressed in normal and malignant B-cells||PI3Kδ
++|A|Inhibe vías que dirigen los linfocitos B a los ganglios linfáticos y a la médula ósea.|which are involved in trafficking and homing of B-cells to the lymph nodes and bone marrow|medula-osea|
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The tablet coating consists of polyethylene glycol, talc, polyvinyl alcohol, and titanium dioxide|
+B|La mediana del tmax es de 1,5 horas; una comida grasa aumenta el AUC 1,4 veces.|The median time to peak concentration (T max ) was observed at 1.5 hours|
++|B|Una comida rica en grasas aumentó el AUC 1,4 veces frente al ayuno.|increased idelalisib AUC 1.4-fold relative to fasting conditions|||con una comida rica en grasas
+D|Se une en un 84 % o más a las proteínas, sin depender de la concentración; el volumen central aparente en estado estacionario es de 23 L.|Protein binding of idelalisib is ≥ 84% with no concentration dependence|
++|D|Volumen de distribución central aparente en estado estacionario de 23 L.|The apparent central volume of distribution at steady state is 23 L|||
+M|Se metaboliza por la aldehído oxidasa y la CYP3A, con una pequeña parte por la UGT1A4.|Idelalisib is metabolized via aldehyde oxidase and CYP3A with additional minor metabolism by UGT1A4|higado
+E|Tras 150 mg marcados, el 78 % de la radiactividad se excretó en las heces y el 14 % en la orina.|Following a single 150 mg dose of radiolabeled idelalisib, 78% of the radioactivity was excreted in feces and 14% was excreted in the urine|heces,orina
++|E|La semivida de eliminación terminal poblacional es de 8,2 horas.|The population terminal elimination half-life of idelalisib is 8.2 hours|||
+C|tmax|Mediana del tmax|1,5|h|The median time to peak concentration (T max ) was observed at 1.5 hours|idelalisib
+C|union|Unión a proteínas|≥ 84|%|Protein binding of idelalisib is ≥ 84%|idelalisib
+C|vd|Volumen de distribución central aparente|23|L|The apparent central volume of distribution at steady state is 23 L|idelalisib
+C|semivida|Semivida terminal poblacional|8,2|h|The population terminal elimination half-life of idelalisib is 8.2 hours|idelalisib
+C|aclaramiento|Aclaramiento sistémico aparente|14,9|L/h|The population apparent systemic clearance at steady-state is 14.9 L/hr|idelalisib
+C|heces|Radiactividad excretada en las heces|78|% de la dosis|78% of the radioactivity was excreted in feces|radiactividad total||dosis única marcada de 150 mg
+R|Las más frecuentes (30 % o más) en combinación: diarrea, neumonía, fiebre, fatiga, exantema, tos y náuseas.|most common adverse reactions (incidence ≥30%) in patients treated with Zydelig in combination trials are diarrhea, pneumonia, pyrexia, fatigue, rash, cough, and nausea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad grave o mortal|Apareció en el 16 % de los pacientes; vigilar la función hepática antes y durante el tratamiento.|higado|Fatal and/or serious hepatotoxicity occurred in 16% of Zydelig-treated patients. Monitor hepatic function prior to and during treatment|34066-1
+W|Diarrea grave o colitis|Apareció en el 20 % de los pacientes; vigilar su aparición.||Fatal and/or serious and severe diarrhea or colitis occurred in 20% of Zydelig-treated patients|34066-1
+W|Reacciones cutáneas graves|Vigilarlas y suspender de forma definitiva si se confirman.||Severe Cutaneous Reactions : Monitor patients for the development of severe cutaneous reactions|43685-7
+W|Neutropenia|Vigilar el hemograma e interrumpir hasta su resolución.||Neutropenia : Monitor blood counts|43685-7
+
+@duvelisib|Duvelisib|ON|Inhibidor de PI3K-δ y PI3K-γ|duvelisib;Copiktra|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas en recaída o refractarios tras al menos dos líneas.|COPIKTRA is indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) after at least two prior lines of systemic therapy
+A|Inhibe la PI3K, sobre todo las isoformas δ y γ de los linfocitos B normales y malignos, y bloquea la señalización del receptor B y la quimiotaxis mediada por CXCL12.|Duvelisib is an inhibitor of PI3K with inhibitory activity predominantly against PI3K-δ and PI3K-γ isoforms expressed in normal and malignant B-cells||PI3K-δ y PI3K-γ
+L|Cápsula de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Capsule shells contain gelatin, titanium dioxide, black ink, and red iron oxide|
+B|La biodisponibilidad absoluta de 25 mg es del 42 % y la mediana del tmax de 1 a 2 horas; puede tomarse con o sin alimentos.|The absolute bioavailability of 25 mg duvelisib after a single oral dose in healthy volunteers was 42%|
++|B|Una comida rica en grasas redujo la Cmax un 37 % y el AUC un 6 %.|decreased C max by approximately 37% and decreased the AUC by approximately 6%, relative to fasting conditions|||con una comida rica en grasas
+D|Se une en más del 98 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente en estado estacionario es de 28,5 L.|Protein binding of duvelisib is greater than 98% with no concentration dependence|
++|D|Volumen de distribución aparente en estado estacionario de 28,5 L.|The geometric mean (CV%) apparent volume of distribution at steady state (V ss /F) is 28.5 L (62%)|||
+M|Se metaboliza sobre todo por la CYP3A4.|Duvelisib is primarily metabolized by cytochrome P450 CYP3A4|higado
+E|Tras 25 mg marcados, el 79 % de la radiactividad se excretó en las heces (11 % sin cambios) y el 14 % en la orina.|79% of the radioactivity was excreted in feces (11% unchanged) and 14% was excreted in the urine (< 1% unchanged)|heces,orina
++|E|La semivida de eliminación terminal es de 4,7 horas.|The geometric mean (CV%) terminal elimination half-life of duvelisib is 4.7 hours (57%)|||
+C|biodisponibilidad|Biodisponibilidad absoluta|42|%|The absolute bioavailability of 25 mg duvelisib after a single oral dose in healthy volunteers was 42%|duvelisib|voluntarios sanos
+C|tmax|Mediana del tmax|1-2|h|The median time to peak concentration (T max ) was observed at 1 to 2 hours in patients|duvelisib
+C|union|Unión a proteínas|> 98|%|Protein binding of duvelisib is greater than 98%|duvelisib
+C|vd|Volumen de distribución aparente en estado estacionario|28,5|L|apparent volume of distribution at steady state (V ss /F) is 28.5 L (62%)|duvelisib
+C|semivida|Semivida de eliminación terminal|4,7|h|terminal elimination half-life of duvelisib is 4.7 hours (57%)|duvelisib
+C|aclaramiento|Aclaramiento sistémico aparente|4,2|L/h|The geometric mean (CV%) apparent systemic clearance at steady-state is 4.2 L/hr (56%)|duvelisib
+C|heces|Radiactividad excretada en las heces|79|% de la dosis|79% of the radioactivity was excreted in feces (11% unchanged)|radiactividad total||dosis oral única marcada de 25 mg
+R|Las más frecuentes (más del 20 %): diarrea o colitis, neutropenia, exantema, fatiga, fiebre, tos, náuseas, infección respiratoria alta, neumonía, dolor musculoesquelético y anemia.|most common adverse reactions ( > 20%) are diarrhea or colitis, neutropenia, rash, fatigue, pyrexia, cough, nausea, upper respiratory infection, pneumonia, musculoskeletal pain, and anemia
+R|Entre las reacciones descritas en otras secciones figuran la mortalidad relacionada con el tratamiento y las infecciones.|Treatment-related Mortality [see Warnings and Precautions ( 5.1 )] Infections [see Warnings and Precautions ( 5.2 )]
+W|Mortalidad relacionada con el tratamiento|La mortalidad relacionada con el tratamiento fue del 15 %.||Treatment-related mortality occurred in 15% of COPIKTRA-treated patients|34066-1
+W|Infecciones graves o mortales|Aparecieron en el 31 %; vigilar los signos de infección.||Fatal and/or serious infections occurred in 31% of COPIKTRA-treated patients|34066-1
+W|Diarrea o colitis|Apareció en el 18 %; vigilar la diarrea grave o la colitis.||Fatal and/or serious diarrhea or colitis occurred in 18% of COPIKTRA-treated patients|34066-1
+W|Hepatotoxicidad|Vigilar la función hepática.|higado|Hepatotoxicity: Monitor hepatic function|43685-7
+
+@ribociclib|Ribociclib|ON|Inhibidor de las cinasas dependientes de ciclinas 4 y 6 (CDK4/6)|ribociclib succinate;Kisqali|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Succinato de ribociclib|200 mg of ribociclib free base (equivalent to 254.40 mg ribociclib succinate)
+U|Tratamiento del cáncer de mama HR+/HER2− precoz (adyuvante) o avanzado, en combinación con hormonoterapia.|in combination with an aromatase inhibitor for the adjuvant treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative stage II and III earl
+A|Inhibe CDK4 y CDK6, reduce la fosforilación de la proteína del retinoblastoma y detiene el ciclo celular en G1.|Ribociclib is an inhibitor of cyclin-dependent kinase (CDK) 4 and 6||CDK4 y CDK6
++|A|In vitro reduce la fosforilación de pRb, detiene el ciclo en G1 y disminuye la proliferación.|ribociclib decreased pRb phosphorylation, resulting in arrest in the G1 phase of the cell cycle and reduced proliferation in breast cancer-derived models||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|KISQALI film-coated tablets are supplied for oral administration|
+B|El tmax está entre 1 y 4 horas y la biodisponibilidad absoluta media es del 65,8 %; una comida grasa no produce cambios relevantes.|The mean absolute bioavailability of ribociclib after a single oral dose of 600 mg was 65.8%|
++|B|El tmax tras la toma está entre 1 y 4 horas.|The T max following KISQALI administration was between 1 and 4 hours|||
+D|Se une en alrededor del 70 % a las proteínas in vitro; el volumen de distribución aparente en estado estacionario es de 1 090 L.|Ribociclib protein binding in vitro was approximately 70% and independent of concentration|
++|D|Volumen de distribución aparente en estado estacionario de 1 090 L.|The apparent volume of distribution at steady-state (Vss/F) was 1090 L|||
+M|Sufre un metabolismo hepático extenso, sobre todo por la CYP3A4, por oxidación; el ribociclib es el 44 % de lo circulante.|Ribociclib undergoes extensive hepatic metabolism mainly via CYP3A4 in humans|higado
+T|LEQ803 (M4, N-desmetil)|desconocida|Metabolite LEQ803 represented approximately 14% and 4% of the administered dose in feces and urine, respectively|Metabolito circulante principal; la etiqueta no precisa su actividad en esta sección.
+E|De la dosis marcada se recuperó el 92 % en 22 días: el 69 % en las heces y el 23 % en la orina.|92% of the total administered radioactive dose was recovered within 22 days; 69% in feces and 23% in urine|heces,orina
++|E|La semivida efectiva media es de 32,0 horas con 600 mg en pacientes con cáncer avanzado.|The mean plasma effective half-life (CV%) was 32.0 hours (63%)|pacientes con cáncer avanzado|
+C|biodisponibilidad|Biodisponibilidad absoluta media|65,8|%|The mean absolute bioavailability of ribociclib after a single oral dose of 600 mg was 65.8%|ribociclib
+C|tmax|Tiempo hasta el pico|1-4|h|The T max following KISQALI administration was between 1 and 4 hours|ribociclib
+C|union|Unión a proteínas in vitro|70 (aprox.)|%|Ribociclib protein binding in vitro was approximately 70%|ribociclib
+C|vd|Volumen de distribución aparente en estado estacionario|1090|L|The apparent volume of distribution at steady-state (Vss/F) was 1090 L|ribociclib
+C|semivida|Semivida efectiva media|32,0|h|The mean plasma effective half-life (CV%) was 32.0 hours (63%)|ribociclib|pacientes con cáncer avanzado|600 mg
+C|aclaramiento|Aclaramiento oral aparente|25,5|L/h|the mean apparent oral clearance (CL/F) was 25.5 L/hr (66%) at steady-state|ribociclib|pacientes con cáncer avanzado|600 mg
+C|heces|Radiactividad recuperada en las heces|69|% de la dosis|92% of the total administered radioactive dose was recovered within 22 days; 69% in feces and 23% in urine|radiactividad total|adultos sanos
+R|En cáncer de mama precoz, las más frecuentes (20 % o más, con laboratorio): descensos de linfocitos, leucocitos, neutrófilos y hemoglobina, aumento de ALT y AST, infecciones y aumento de creatinina.|the most common (incidence ≥ 20%) adverse reactions, including laboratory abnormalities, are lymphocytes decreased, leukocytes decreased, neutrophils decreased, hemoglobin decreased
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Puede ser grave o mortal; vigilar los síntomas pulmonares y suspender si es recurrente o grave.|pulmones|Monitor for pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Reacciones cutáneas graves|Pueden aparecer síndrome de Stevens-Johnson, necrólisis epidérmica tóxica y DRESS; suspender de forma definitiva.||SCARs including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug-reaction with eosinophilia and systemic symptoms (DRESS) can occur with KISQALI treatment|43685-7
+W|Prolongación del QT|Prolonga el QT de forma dependiente de la concentración; hacer ECG y electrolitos antes de empezar.||KISQALI has been shown to prolong the QT interval in a concentration-dependent manner|43685-7
+
+@abemaciclib|Abemaciclib|ON|Inhibidor de las cinasas dependientes de ciclinas 4 y 6 (CDK4/6)|abemaciclib;Verzenio|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de mama HR+/HER2− precoz de alto riesgo (adyuvante) o avanzado, con hormonoterapia o en monoterapia.|in combination with endocrine therapy (tamoxifen or an aromatase inhibitor) for the adjuvant treatment of adults with hormone receptor (HR)-positive
+A|Inhibe CDK4 y CDK6; en células de cáncer de mama ER+ bloquea la fosforilación de Rb y la progresión de G1 a S, con senescencia y apoptosis.|Abemaciclib is an inhibitor of cyclin-dependent kinases 4 and 6 (CDK4 and CDK6)||CDK4 y CDK6
++|A|In vitro inhibió la fosforilación de Rb y bloqueó el paso de G1 a S, con senescencia y apoptosis.|continuous exposure to abemaciclib inhibited Rb phosphorylation and blocked progression from G1 into S phase of the cell cycle, resulting in senescence and apoptosis||
+L|Comprimido: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Color mixture ingredients—polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, iron oxide yellow, and iron oxide red|
+B|La biodisponibilidad absoluta tras 200 mg es del 45 % y la mediana del tmax de 8,0 horas; una comida grasa aumenta poco la exposición.|The absolute bioavailability of abemaciclib after a single oral dose of 200 mg is 45% (19% CV)|
++|B|La mediana del tmax es de 8,0 horas (4,1 a 24,0).|The median T max of abemaciclib is 8.0 hours (range: 4.1-24.0 hours)|||
+D|La fracción unida a proteínas es del 96,3 %; el volumen de distribución sistémico es de unos 690,3 L y en el líquido cefalorraquídeo alcanza concentraciones comparables a las plasmáticas libres.|the mean (standard deviation, SD) bound fraction was 96.3% ( 1.1 ) for abemaciclib|
++|D|Volumen de distribución sistémico de unos 690,3 L.|The geometric mean systemic volume of distribution is approximately 690.3 L (49% CV)|||
+M|El metabolismo hepático es la vía principal de aclaramiento, sobre todo por la CYP3A4; la formación de N-desetilabemaciclib (M2) es la vía principal.|Hepatic metabolism is the main route of clearance for abemaciclib|higado
+T|M2, M18 y M20|activo|concentrations of abemaciclib and its active metabolites M2 and M20 in cerebrospinal fluid are comparable to unbound plasma concentrations|Metabolitos activos (N-desetil e hidroxi derivados).
+E|Tras 150 mg marcados, alrededor del 81 % se recuperó en las heces, sobre todo como metabolitos, y el 3 % en la orina.|approximately 81% of the dose was recovered in feces and approximately 3% recovered in urine|heces,orina
++|E|La semivida plasmática media es de 18,3 horas en pacientes.|the mean plasma elimination half-life for abemaciclib in patients was 18.3 hours (72% CV)|pacientes|
+C|biodisponibilidad|Biodisponibilidad absoluta|45|%|The absolute bioavailability of abemaciclib after a single oral dose of 200 mg is 45% (19% CV)|abemaciclib
+C|tmax|Mediana del tmax|8,0|h|The median T max of abemaciclib is 8.0 hours (range: 4.1-24.0 hours)|abemaciclib
+C|union|Fracción unida a proteínas|96,3|%|the mean (standard deviation, SD) bound fraction was 96.3% ( 1.1 ) for abemaciclib|abemaciclib
+C|vd|Volumen de distribución sistémico|690,3 (aprox.)|L|The geometric mean systemic volume of distribution is approximately 690.3 L (49% CV)|abemaciclib
+C|semivida|Semivida de eliminación plasmática media|18,3|h|the mean plasma elimination half-life for abemaciclib in patients was 18.3 hours (72% CV)|abemaciclib|pacientes
+C|aclaramiento|Aclaramiento hepático|26,0|L/h|The geometric mean hepatic clearance (CL) of abemaciclib in patients was 26.0 L/h (51% CV)|abemaciclib|pacientes
+C|heces|Dosis recuperada en las heces|81 (aprox.)|% de la dosis|approximately 81% of the dose was recovered in feces|radiactividad total||dosis oral única marcada de 150 mg
+R|Las más frecuentes (20 % o más): diarrea, infecciones, neutropenia, fatiga, dolor abdominal, náuseas, leucopenia, anemia y vómitos.|Most common adverse reactions (incidence ≥20%) were diarrhea, infections, neutropenia, fatigue, abdominal pain, nausea, leukopenia, anemia, and vomiting
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Diarrea|Puede causar diarrea grave con deshidratación e infección; empezar antidiarreicos al primer signo.||VERZENIO can cause severe cases of diarrhea, associated with dehydration and infection|43685-7
+W|Neutropenia|Vigilar el hemograma antes de empezar, cada 2 semanas los 2 primeros meses y después cada mes.||Monitor complete blood counts prior to the start of VERZENIO therapy, every 2 weeks for the first 2 months|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar y vigilarlas cada dos semanas los dos primeros meses.||Perform liver function tests (LFTs) before initiating treatment with VERZENIO|43685-7

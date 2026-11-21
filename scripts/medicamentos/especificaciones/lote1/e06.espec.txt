@@ -1,0 +1,77 @@
+@risperidona|Risperidona|SM|Antipsicótico atípico|risperidone;Risperdal|doc=risperidona-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Lactosa monohidrato; Almidón de maíz; Celulosa microcristalina (E460); Hipromelosa (E464); Estearato de magnesio; Sílice coloidal anhidra; Laurilsulfato de sodio; Propilenglicol (E490)
+K|1 mg, y otras concentraciones, de risperidona por comprimido, según la ficha técnica
+U|Tratamiento de la esquizofrenia y de episodios maníacos asociados a trastornos bipolares.|RISPERDAL está indicado en el tratamiento de la esquizofrenia
+A|Es un antagonista monoaminérgico selectivo con alta afinidad por los receptores serotoninérgicos 5-HT2 y dopaminérgicos D2.|Risperidona es un antagonista monoaminérgico selectivo con propiedades únicas. Posee una alta afinidad por los receptores 5-HT 2 serotoninergicos y D 2 dopaminérgicos|encefalo|Receptores 5-HT2 y D2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|1 mg de risperidona en comprimidos biconvexos|
+B|Se absorbe completamente por vía oral y alcanza concentraciones plasmáticas máximas entre 1 y 2 horas.|Risperidona se absorbe completamente tras su administración por vía oral, alcanzando concentraciones plasmáticas máximas entre 1 y 2 horas|
++|B|La biodisponibilidad oral absoluta es del 70 %.|La biodisponibilidad oral absoluta de risperidona es del 70 % (CV=25 %)|||
++|B|Los alimentos no afectan a su absorción.|Los alimentos no afectan a su absorción|||con alimentos
+D|Se distribuye rápidamente: el volumen de distribución es de 1-2 L/kg y la unión a proteínas del plasma es del 90 % para la risperidona y del 77 % para la 9-hidroxi-risperidona.|Risperidona se distribuye rápidamente. El volumen de distribución es de 1-2 litros/kg|sangre,tejidos
++|D|La unión a proteínas del plasma es del 90 % para la risperidona y del 77 % para la 9-hidroxi-risperidona.|La unión de risperidona a proteínas plasmáticas es del 90 % y de la 9-hidroxi-risperidona del 77 %|||
+M|La CYP2D6 metaboliza la risperidona a 9-hidroxi-risperidona, de actividad farmacológica similar; otra vía es la N-desalquilación.|La CYP2D6 metaboliza la risperidona a 9-hidroxi-risperidona, que tiene actividad farmacológica similar a la de risperidona|higado
++|M|Otra vía metabólica es la N-desalquilación.|Otra vía metabólica de risperidona es la N-desalquilación|||
+T|9-hidroxi-risperidona|activo|Risperidona se metaboliza a 9-hidroxi-risperidona; éste tiene una actividad farmacológica similar a la de risperidona|Actividad farmacológica similar a la de la risperidona; ambas forman la fracción antipsicótica activa.
+E|Tras una semana de administración, el 70 % de la dosis se excreta por la orina y el 14 % por las heces.|Tras una semana de administración el 70 % de la dosis se excreta con la orina y el 14 % con las heces|rinones,orina,heces
++|E|En pacientes psicóticos, la risperidona se elimina con una semivida de unas 3 horas.|risperidona se elimina con una semivida de 3 horas aproximadamente|||pacientes psicóticos
++|E|La semivida de eliminación de la 9-hidroxi-risperidona y de la fracción antipsicótica activa es de 24 horas.|La semivida de eliminación de 9-hidroxi-risperidona y de la fracción antipsicótica activa es de 24 horas|||
+C|tmax|Tiempo hasta las concentraciones máximas|1-2|h|alcanzando concentraciones plasmáticas máximas entre 1 y 2 horas|risperidona
+C|biodisponibilidad|Biodisponibilidad oral absoluta|70|%|La biodisponibilidad oral absoluta de risperidona es del 70 %|risperidona
+C|vd|Volumen de distribución|1-2|L/kg|El volumen de distribución es de 1-2 litros/kg|risperidona
+C|union|Unión a proteínas plasmáticas|90|%|La unión de risperidona a proteínas plasmáticas es del 90 %|risperidona
+C|semivida|Semivida de eliminación de la risperidona|3 (aprox.)|h|risperidona se elimina con una semivida de 3 horas aproximadamente|risperidona|pacientes psicóticos
+C|orina|Dosis excretada por la orina en una semana|70|% de la dosis|el 70 % de la dosis se excreta con la orina|risperidona y metabolitos
+R|Las más frecuentes (10 % o más): parkinsonismo, sedación o somnolencia, cefalea e insomnio.|Las reacciones adversas (RAs) notificadas con más frecuencia (incidencia ≥ 10 %) son: Parkinsonismo, sedación/ somnolencia, cefalea e insomnio
+R|Las potencialmente dependientes de la dosis incluyen parkinsonismo y acatisia.|Las reacciones adversas (RAs) potencialmente dosis-dependientes incluyen parkinsonismo y acatisia
+W|Demencia en personas de edad avanzada|En un metaanálisis, los pacientes de edad avanzada con demencia tratados con antipsicóticos atípicos tuvieron más mortalidad que los que recibieron placebo.|encefalo|los pacientes de edad avanzada con demencia tratados con antipsicóticos atípicos, presentaron un aumento de la mortalidad
+
+@candesartan|Candesartán|CV|Antagonista de los receptores de la angiotensina II|candesartan;candesartan cilexetil;Atacand|doc=candesartan-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|Candesartán cilexetilo|4 mg de candesartán cilexetilo
+X|Carmelosa de calcio; Hidroxipropilcelulosa; Óxido de hierro CI 77491 (E172) (solo en los comprimidos de 8, 16 y 32 mg); Lactosa monohidrato; Estearato de magnesio; Almidón de maíz; Macrogol
+K|4, 8, 16 y 32 mg de candesartán cilexetilo por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión primaria en adultos, y de otras indicaciones como la hipertensión en niños de 6 a 18 años.|El tratamiento de la hipertensión primaria en adultos
+A|Pertenece al grupo de los antagonistas de la angiotensina II; la angiotensina II es la principal hormona vasoactiva del sistema renina-angiotensina-aldosterona.|Antagonistas de la angiotensina II, código ATC C09C A06|vasos,corazon,rinones|Receptores de la angiotensina II
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Atacand 4 mg son comprimidos redondos (7 mm de diámetro), de color blanco|
+B|Tras la administración oral, el candesartán cilexetilo se convierte en el principio activo candesartán; la biodisponibilidad absoluta es de aproximadamente el 40 % con una solución oral.|Tras la administración oral, el candesartán cilexetilo se convierte en el principio activo candesartán|
++|B|La biodisponibilidad absoluta estimada del comprimido es del 14 %.|La biodisponibilidad absoluta estimada del comprimido es, por lo tanto, del 14%|||
++|B|La biodisponibilidad no se ve afectada por los alimentos.|La biodisponibilidad del candesartán no se ve afectada por los alimentos|||con alimentos
+D|Se une en gran proporción a las proteínas del plasma (más del 99 %) y su volumen de distribución aparente es de 0,1 L/kg.|El candesartán se une en gran proporción a las proteínas plasmáticas (más de un 99%)|sangre
++|D|El volumen de distribución aparente es de 0,1 L/kg.|El volumen de distribución aparente del candesartán es de 0,1 l/kg|||
+M|Se elimina inalterado sobre todo por la orina y la bilis; solo una pequeña proporción se metaboliza en el hígado (CYP2C9).|El candesartán se elimina inalterado principalmente en la orina y bilis y en una pequeña proporción se elimina por metabolismo hepático (CYP2C9)|higado
+T|Metabolito inactivo del candesartán|inactivo|aproximadamente un 26% de la dosis se excreta en orina como candesartán y un 7% como un metabolito inactivo|Metabolito inactivo.
+E|Tras una dosis oral marcada, alrededor del 56 % se recupera en las heces como candesartán y un 10 % como metabolito inactivo; en la orina, el 26 % como candesartán y el 7 % como metabolito inactivo.|aproximadamente el 56% de la dosis se recupera en las heces como candesartán y un 10% como metabolito inactivo|heces,bilis,rinones,orina|original
++|E|La vida media terminal es de aproximadamente 9 horas.|La vida media terminal del candesartán es de aproximadamente 9 horas|||
++|E|La eliminación renal se produce por filtración glomerular y secreción tubular activa.|La eliminación renal de candesartán se produce por filtración glomerular y por secreción tubular activa|||
+C|biodisponibilidad|Biodisponibilidad absoluta estimada del comprimido|14|%|La biodisponibilidad absoluta estimada del comprimido es, por lo tanto, del 14%|candesartán
+C|union|Unión a proteínas plasmáticas|> 99|%|se une en gran proporción a las proteínas plasmáticas (más de un 99%)|candesartán
+C|vd|Volumen de distribución aparente|0,1|L/kg|El volumen de distribución aparente del candesartán es de 0,1 l/kg|candesartán
+C|semivida|Vida media terminal|9 (aprox.)|h|La vida media terminal del candesartán es de aproximadamente 9 horas|candesartán
+C|heces|Dosis recuperada en las heces como candesartán|56 (aprox.)|% de la dosis|aproximadamente el 56% de la dosis se recupera en las heces como candesartán|candesartán||dosis oral marcada
+R|Las reacciones adversas de los ensayos controlados fueron leves y transitorias.|Las reacciones adversas ocurridas durante los ensayos clínicos controlados fueron leves y transitorias
+R|Los abandonos por acontecimientos adversos fueron similares con candesartán cilexetilo (3,1 %) y con placebo (3,2 %).|Los abandonos durante el tratamiento debidos a acontecimientos adversos fueron similares con candesartán cilexetilo (3,1%) y placebo (3,2%)
+W|Bloqueo dual del sistema renina-angiotensina-aldosterona|Combinar inhibidores de la ECA, antagonistas de los receptores de la angiotensina II o aliskirén aumenta el riesgo de hipotensión, hiperpotasemia y disminución de la función renal.|vasos,rinones|aumenta el riesgo de hipotensión, hiperpotasemia y disminución de la función renal (incluyendo insuficiencia renal aguda)
+
+@clomipramina|Clomipramina|SM|Antidepresivo tricíclico (inhibidor de la recaptación de noradrenalina y serotonina)|clomipramine;Anafranil|vias=oral;familia=solido-oral
+S|Hidrocloruro de clomipramina|10 mg de clomipramina hidrocloruro
+X|Sacarosa; Lactosa; Gelatina; Glicerol (E-422); Estearato de magnesio; Almidón de maíz; Talco; Hipromelosa; Copovidona; Dióxido de titanio (E-171); Celulosa microcristalina; Amarillo óxido de hierro (E-172); Polietilenglicol; Povidona
+K|10 mg y 25 mg de hidrocloruro de clomipramina por comprimido, según la ficha técnica
+U|Tratamiento de la depresión, del trastorno obsesivo-compulsivo, de las fobias y de las crisis de angustia, entre otras indicaciones.|Depresión de cualquier etiología, sintomatología y gravedad
+A|Es un inhibidor de la recaptación de noradrenalina y, preferentemente, de serotonina.|Inhibidor de la recaptación de noradrenalina y preferentemente de serotonina (inhibidores no selectivos de la recaptación de las monoaminas)|encefalo|Transportadores de recaptación de noradrenalina y serotonina
+L|Comprimido recubierto: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Anafranil 10 mg son comprimidos recubiertos amarillos|
+B|Se absorbe completamente en el tubo digestivo; la biodisponibilidad sistémica de la clomipramina inalterada se reduce a casi el 50 % por el metabolismo de primer paso hepático.|La clomipramina se absorbe completamente del tracto gastrointestinal|
++|B|La biodisponibilidad sistémica de la clomipramina inalterada se reduce a casi el 50 % por el metabolismo de primer paso hepático al metabolito activo N-desmetilclomipramina.|La biodisponibilidad sistémica de la clomipramina inalterada se reduce a casi 50 % por el metabolismo de primer paso hepático al metabolito activo N- desmetilclomipramina|||
++|B|La biodisponibilidad no se ve afectada de forma significativa por la ingesta de alimentos.|La biodisponibilidad de la clomipramina no se ve afectada significativamente por la ingesta de alimentos|||con alimentos
+D|La unión a proteínas del plasma es del 97,6 %; se distribuye ampliamente por todo el cuerpo, con un volumen de distribución aparente de 12 a 17 L/kg.|La unión a proteínas plasmáticas es del 97,6 %. La clomipramina es ampliamente distribuida por todo el cuerpo, el volumen de distribución aparente es cerca de 12 a 17 L/kg de peso corporal|sangre,tejidos,encefalo
++|D|La concentración en el líquido cefalorraquídeo es casi el 2 % de la concentración plasmática.|La concentración en el líquido cefalorraquídeo es casi el 2 % de la concentración plasmática|||
+M|La ruta primaria es la desmetilación para formar el metabolito activo N-desmetilclomipramina, sobre todo por la CYP3A4, la CYP2C19 y la CYP1A2.|La ruta primaria del metabolismo de la clomipramina es la desmetilación para formar el metabolito activo, N-desmetilclomipramina|higado
++|M|La N-desmetilclomipramina puede formarse por varias enzimas P450, principalmente la CYP3A4, la CYP2C19 y la CYP1A2.|La N-desmetilclomipramina puede formarse por varios enzimas P450, principalmente por CYP3A4, CYP2C19, y CYP1A2|||
+T|N-desmetilclomipramina|activo|La ruta primaria del metabolismo de la clomipramina es la desmetilación para formar el metabolito activo, N-desmetilclomipramina|Metabolito activo principal; después se hidroxila.
+E|Alrededor de dos tercios de una dosis única se excretan como conjugados hidrosolubles por la orina y aproximadamente un tercio por las heces.|Alrededor de dos tercios de una dosis única de clomipramina se excretan en forma de conjugados hidrosolubles por la orina y aproximadamente un tercio con las heces|rinones,orina,heces
++|E|La clomipramina se elimina de la sangre con una semivida de 21 horas (rango de 12 a 36) y la N-desmetilclomipramina, con una de 36 horas.|La clomipramina se elimina de la sangre con una semivida de 21 h (rango: 12-36 h), y la N-desmetilclomipramina con una semivida de 36 h|||
+C|union|Unión a proteínas plasmáticas|97,6|%|La unión a proteínas plasmáticas es del 97,6 %|clomipramina
+C|vd|Volumen de distribución aparente|12-17 (aprox.)|L/kg|el volumen de distribución aparente es cerca de 12 a 17 L/kg de peso corporal|clomipramina
+C|semivida|Semivida de eliminación de la clomipramina|21 (12-36)|h|La clomipramina se elimina de la sangre con una semivida de 21 h (rango: 12-36 h)|clomipramina
+R|Las reacciones adversas suelen ser leves y pasajeras y suelen desaparecer con la continuación del tratamiento o con una reducción de la dosis.|Las reacciones adversas son generalmente leves y pasajeras, y suelen desaparecer con la continuación del tratamiento o con una reducción de la dosis
+R|Es a menudo difícil distinguir algunas reacciones adversas de los síntomas propios de la depresión.|Es a menudo difícil distinguir ciertas reacciones adversas de aquellos síntomas propios de la depresión
+W|Riesgo de suicidio|El riesgo de suicidio es inherente a la depresión grave y puede persistir hasta que se produzca una remisión significativa.|encefalo|El riesgo de suicidio es inherente a la depresión grave y puede persistir hasta que se produzca una remisión significativa

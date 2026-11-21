@@ -1,0 +1,118 @@
+@lorlatinib|Lorlatinib|ON|Inhibidor de cinasas ALK y ROS1 de tercera generación|lorlatinib;Lorbrena|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con cáncer de pulmón no microcítico metastásico ALK positivo.|LORBRENA ® is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive
+A|Inhibidor de cinasas activo in vitro frente a ALK y ROS1 (y otras como TRK y FAK), incluidas formas mutadas de ALK resistentes a otros inhibidores.|Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK||ALK y ROS1
+L|Comprimido recubierto con película de liberación inmediata: se disgrega en el tubo digestivo.|25 mg: 8 mm round, tan, immediate release, film-coated|
+B|La biodisponibilidad absoluta media es del 81 % y la mediana del tmax de 1,2 horas tras una dosis; una comida grasa no produce diferencias relevantes.|The mean absolute bioavailability is 81% (90% CI 76%, 86%)|
++|B|La mediana del tmax es de 1,2 horas tras una dosis única de 100 mg.|The median lorlatinib T max is 1.2 hours (0.5 to 4 hours) following a single oral 100 mg dose|||
+D|Se une en un 66 % a las proteínas plasmáticas in vitro; el cociente sangre/plasma es de 0,99.|Lorlatinib is 66% bound to plasma proteins, in vitro|sangre
+M|Se metaboliza sobre todo por la CYP3A4 y la UGT1A4; su metabolito ácido benzoico M8 es inactivo.|Lorlatinib is metabolized primarily by CYP3A4 and UGT1A4, with minor contribution from CYP2C8, CYP2C19, CYP3A5, and UGT1A3|higado
+T|M8 (ácido benzoico)|inactivo|The oxidative cleavage metabolite, M8, is pharmacologically inactive|Metabolito de escisión oxidativa; 21 % de la radiactividad circulante.
+E|Tras 100 mg marcados, el 48 % de la radiactividad se recuperó en la orina (menos del 1 % sin cambios) y el 41 % en las heces.|48% of the radioactivity was recovered in urine (<1% as unchanged) and 41% in feces (about 9% as unchanged)|orina,heces
++|E|La semivida plasmática media fue de 24 horas tras una dosis única de 100 mg.|The mean plasma half‑life (t ½ ) of lorlatinib was 24 hours (40%) after a single oral 100 mg dose of LORBRENA|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|81|%|The mean absolute bioavailability is 81% (90% CI 76%, 86%)|lorlatinib
+C|tmax|Mediana del tmax tras dosis única|1,2|h|The median lorlatinib T max is 1.2 hours (0.5 to 4 hours) following a single oral 100 mg dose|lorlatinib
+C|union|Unión a proteínas plasmáticas in vitro|66|%|Lorlatinib is 66% bound to plasma proteins, in vitro|lorlatinib
+C|semivida|Semivida plasmática media|24|h|The mean plasma half‑life (t ½ ) of lorlatinib was 24 hours (40%)|lorlatinib
+C|aclaramiento|Aclaramiento oral en estado estacionario|18|L/h|increased to 18 L/h (39%) at steady‑state, suggesting autoinduction|lorlatinib||estado estacionario
+C|orina|Radiactividad recuperada en la orina|48|% de la dosis|48% of the radioactivity was recovered in urine (<1% as unchanged)|radiactividad total||dosis oral única marcada de 100 mg
+R|Las más frecuentes (20 % o más) y alteraciones de grado 3-4: edema, neuropatía periférica, aumento de peso, efectos cognitivos, fatiga, disnea, artralgia, diarrea, efectos sobre el ánimo, hipercolesterolemia, hipertrigliceridemia y tos.|Most common (incidence ≥20%) adverse reactions and Grade 3–4 laboratory abnormalities are edema, peripheral neuropathy, weight gain, cognitive effects, fatigue, dyspnea, arthralgia, diarrhea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad grave con inductores potentes de la CYP3A|Suspender los inductores potentes de la CYP3A antes de empezar.||Discontinue strong CYP3A inducers for 3 plasma half-lives of the strong CYP3A inducer prior to initiating LORBRENA|43685-7
+W|Efectos sobre el sistema nervioso central|Incluyen convulsiones, efectos psicóticos y cambios en la cognición, el ánimo, el habla, el estado mental y el sueño.|encefalo|CNS effects include seizures, psychotic effects and changes in cognitive function, mood (including suicidal ideation), speech, mental status, and sleep|43685-7
+W|Hiperlipidemia|Iniciar o aumentar los hipolipemiantes según la gravedad.||Initiate or increase the dose of lipid-lowering agents|43685-7
+W|Bloqueo auriculoventricular|Interrumpir y reanudar a igual o menor dosis según la gravedad.||Atrioventricular Block : Withhold and resume LORBRENA at same or reduced dose based on severity|43685-7
+
+@capmatinib|Capmatinib|ON|Inhibidor de la cinasa MET|capmatinib hydrochloride;Tabrecta|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Diclorhidrato de capmatinib monohidrato|The molecular formula for capmatinib dihydrochloride monohydrate is
+U|Tratamiento de adultos con cáncer de pulmón no microcítico metastásico con una mutación que causa la omisión del exón 14 de MET.|TABRECTA is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping
+A|Inhibidor de cinasas dirigido a MET, incluida la variante mutada por omisión del exón 14, que pierde un dominio regulador y aumenta la señalización.|Capmatinib is a kinase inhibitor that targets MET, including the mutant variant produced by exon 14 skipping||Cinasa MET
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|150 mg: pale orange brown, ovaloid, curved film-coated with beveled edges|
+B|El pico se alcanza en 1 a 2 horas y se estima que se absorbe más del 70 %; una comida grasa aumenta el AUC un 46 % sin cambiar la Cmax.|The absorption of capmatinib after oral administration is estimated to be greater than 70%|
++|B|El pico plasmático se alcanzó en 1 a 2 horas en pacientes con cáncer.|capmatinib peak plasma concentrations (C max ) were reached in approximately 1 to 2 hours (T max )|pacientes con cáncer|
++|B|Una comida rica en grasas aumentó el AUC un 46 % sin cambio en la Cmax.|increased capmatinib AUC 0-INF by 46% with no change in C max compared to under fasted conditions|sujetos sanos|con una comida rica en grasas
+D|Se une en un 96 % a las proteínas plasmáticas; el volumen de distribución aparente medio en estado estacionario es de 164 L.|Capmatinib plasma protein binding is 96%, independent of capmatinib concentration|sangre
++|D|Volumen de distribución aparente medio en estado estacionario de 164 L.|The apparent mean volume of distribution at steady-state is 164 L|||
+M|Se metaboliza sobre todo por la CYP3A4 y la aldehído oxidasa.|Capmatinib is primarily metabolized by CYP3A4 and aldehyde oxidase|higado
+E|Tras una dosis marcada, el 78 % de la radiactividad se recuperó en las heces (42 % sin cambios) y el 22 % en la orina.|78% of the total radioactivity was recovered in feces with 42% as unchanged and 22% was recovered in urine with negligible as unchanged|heces,orina
++|E|La semivida de eliminación efectiva es de 6,5 horas.|The effective elimination half-life of capmatinib is 6.5 hours|||
+C|biodisponibilidad|Fracción absorbida estimada|> 70|%|The absorption of capmatinib after oral administration is estimated to be greater than 70%|capmatinib
+C|tmax|Tiempo hasta el pico|1-2 (aprox.)|h|capmatinib peak plasma concentrations (C max ) were reached in approximately 1 to 2 hours (T max )|capmatinib|pacientes con cáncer
+C|union|Unión a proteínas plasmáticas|96|%|Capmatinib plasma protein binding is 96%|capmatinib
+C|vd|Volumen de distribución aparente en estado estacionario|164|L|The apparent mean volume of distribution at steady-state is 164 L|capmatinib
+C|semivida|Semivida de eliminación efectiva|6,5|h|The effective elimination half-life of capmatinib is 6.5 hours|capmatinib
+C|aclaramiento|Aclaramiento aparente en estado estacionario|24|L/h|The mean (%CV) steady-state apparent clearance of capmatinib is 24 L/hr (82%)|capmatinib
+C|heces|Radiactividad recuperada en las heces|78|% de la dosis|78% of the total radioactivity was recovered in feces with 42% as unchanged|radiactividad total|sujetos sanos
+R|Las más frecuentes (20 % o más): edema, náuseas, dolor musculoesquelético, fatiga, vómitos, disnea, tos y disminución del apetito.|most common adverse reactions (≥ 20%) are edema, nausea, musculoskeletal pain, fatigue, vomiting, dyspnea, cough, and decreased appetite
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar síntomas pulmonares nuevos o que empeoran y suspender si se confirma.|pulmones|Monitor for new or worsening pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Hepatotoxicidad|Vigilar las pruebas hepáticas.|higado|Hepatotoxicity : Monitor liver function tests|43685-7
+W|Toxicidad pancreática|Vigilar la amilasa y la lipasa.||Pancreatic Toxicity : Monitor amylase and lipase levels|43685-7
+W|Fotosensibilidad|Puede causar reacciones de fotosensibilidad; limitar la exposición directa a la luz ultravioleta.||May cause photosensitivity reactions. Advise patients to limit direct ultraviolet exposure|43685-7
+
+@tepotinib|Tepotinib|ON|Inhibidor de la cinasa MET|tepotinib hydrochloride;Tepmetko|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con cáncer de pulmón no microcítico metastásico con alteraciones de omisión del exón 14 de MET.|TEPMETKO is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) harboring mesenchymal-epithelial transition ( MET ) exon 14 skipping alterations
+A|Inhibidor de cinasas dirigido a MET, incluidas las variantes con omisión del exón 14; inhibe la fosforilación de MET dependiente e independiente de HGF y su señalización.|Tepotinib is a kinase inhibitor that targets MET, including variants with exon 14 skipping alterations||Cinasa MET
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Tablets: 225 mg, white-pink, oval, biconvex film-coated tablets|
+B|La mediana del tmax es de 8 horas y la biodisponibilidad absoluta con alimentos del 71,6 %; una comida grasa aumenta el AUC 1,6 veces y la Cmax 2 veces.|The geometric mean (CV%) absolute bioavailability of TEPMETKO in the fed state was 71.6% (10.8%) in healthy subjects|
++|B|Una comida rica en grasas aumentó el AUC 1,6 veces y la Cmax 2 veces.|The mean AUC 0-INF of tepotinib increased by 1.6-fold and C max increased by 2-fold|||con una comida rica en grasas
+D|Se une en un 98 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente es de 1 038 L.|Protein binding of tepotinib is 98% and is independent of drug concentration at clinically relevant exposures|
++|D|Volumen de distribución aparente de 1 038 L.|The geometric mean (CV%) apparent volume of distribution (V Z /F) of tepotinib is 1,038 L (24.3%)|||
+M|Se metaboliza sobre todo por la CYP3A4 y la CYP2C8; tiene un metabolito circulante principal, M506.|Tepotinib is primarily metabolized by CYP3A4 and CYP2C8|higado
+T|M506|desconocida|The major circulating metabolite M506 accounted for about 40.4% of the total radioactivity in plasma|Metabolito circulante principal; la etiqueta no precisa su actividad en esta sección.
+E|Tras 450 mg marcados, alrededor del 85 % se recuperó en las heces (45 % sin cambios) y el 13,6 % en la orina.|approximately 85% of the dose was recovered in feces (45% unchanged) and 13.6% in urine (7% unchanged)|heces,orina
++|E|La semivida es de 32 horas y el aclaramiento aparente de 23,8 L/h en pacientes con cáncer.|The apparent clearance (CL/F) of tepotinib is 23.8 L/h (87.5%) and the half-life is 32 hours|pacientes con cáncer|
+C|biodisponibilidad|Biodisponibilidad absoluta con alimentos|71,6|%|absolute bioavailability of TEPMETKO in the fed state was 71.6% (10.8%) in healthy subjects|tepotinib|sujetos sanos|con alimentos
+C|tmax|Mediana del tmax|8|h|The median T max of tepotinib is 8 hours (range from 6 to 12 hours)|tepotinib
+C|union|Unión a proteínas|98|%|Protein binding of tepotinib is 98%|tepotinib
+C|vd|Volumen de distribución aparente|1038|L|apparent volume of distribution (V Z /F) of tepotinib is 1,038 L (24.3%)|tepotinib
+C|semivida|Semivida|32|h|the half-life is 32 hours following oral administration of TEPMETKO in patients with cancer|tepotinib|pacientes con cáncer
+C|aclaramiento|Aclaramiento aparente|23,8|L/h|The apparent clearance (CL/F) of tepotinib is 23.8 L/h (87.5%)|tepotinib|pacientes con cáncer
+C|heces|Dosis recuperada en las heces|85 (aprox.)|% de la dosis|approximately 85% of the dose was recovered in feces (45% unchanged)|radiactividad total||dosis oral única marcada de 450 mg
+R|Las más frecuentes (20 % o más): edema, náuseas, fatiga, dolor musculoesquelético, diarrea, disnea, disminución del apetito y exantema.|Most common adverse reactions (≥ 20%) were edema, nausea, fatigue, musculoskeletal pain, diarrhea, dyspnea, decreased appetite, and rash
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Interrumpir de inmediato si se sospecha y suspender si se diagnostica.||Immediately withhold TEPMETKO in patients with suspected ILD/pneumonitis|43685-7
+W|Hepatotoxicidad|Vigilar las pruebas hepáticas.|higado|Hepatotoxicity : Monitor liver function tests|43685-7
+W|Toxicidad pancreática|Vigilar la amilasa y la lipasa.||Pancreatic Toxicity : Monitor amylase and lipase|43685-7
+
+@moxidectina|Moxidectina|IN|Antihelmíntico lactona macrocíclica|moxidectin|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento de la oncocercosis por Onchocerca volvulus desde los 4 años y al menos 13 kg.|Moxidectin Tablets are indicated for the treatment of onchocerciasis due to Onchocerca volvulus in adult and pediatric patients aged 4 years and older and weighing at least 13 kg
+A|No se conoce su mecanismo frente a O. volvulus; en otros nematodos se une a canales de cloruro activados por glutamato, receptores GABA o transportadores ABC, con entrada de cloruro, hiperpolarización y parálisis muscular.|Studies with other nematodes suggest that moxidectin binds to glutamate-gated chloride channels (GluCl), gamma-aminobutyric acid (GABA) receptors and/or ATP-binding cassette (ABC) transporters|sitio-infeccion|Canales de cloruro activados por glutamato del parásito
+L|Comprimido sin recubrir: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|2 mg of moxidectin, white to pale yellow, uncoated, oval-shaped|
+B|La mediana del tmax tras 8 mg en ayunas es de 4 horas; una comida grasa aumenta la Cmax un 34 % y el AUC un 39 %.|Moxidectin mean C max and AUC increased on average by 34% and 39%, respectively, when administered with a standard high fat meal|||con una comida rica en grasas
+D|Se une en un 99,92 % a las proteínas plasmáticas humanas; el volumen de distribución aparente es de unos 2 421 L en la oncocercosis.|The plasma protein binding in humans is 99.92%|sangre
++|D|Volumen de distribución aparente medio de 2 421 L en pacientes con oncocercosis.|The apparent mean ± SD volume of distribution of moxidectin is 2421 ± 1658 L in patients with onchocerciasis|pacientes con oncocercosis|
+M|Su metabolismo hepático es mínimo.|The hepatic metabolism of moxidectin is minimal|higado|sin
+E|Tras 8 mg, el 2 % de la dosis se elimina sin cambios en las heces en 72 horas; la eliminación renal del fármaco intacto es despreciable.|2% of the dose is eliminated unchanged in the feces within the first 72 hours|heces
++|E|La semivida terminal media es de 23,3 días (559 horas) en pacientes con oncocercosis.|The mean terminal half-life of moxidectin in patients with onchocerciasis is 23.3 days (559 hours)|pacientes con oncocercosis|
+C|tmax|Mediana del tmax en ayunas|4|h|T max * (hours) 4 (2, 8) 4 (1, 4)|moxidectina|sujetos sanos|dosis única de 8 mg en ayunas
+C|union|Unión a proteínas plasmáticas|99,92|%|The plasma protein binding in humans is 99.92%|moxidectina
+C|vd|Volumen de distribución aparente medio|2421|L|The apparent mean ± SD volume of distribution of moxidectin is 2421 ± 1658 L|moxidectina|pacientes con oncocercosis
+C|semivida|Semivida terminal media|23,3|d|The mean terminal half-life of moxidectin in patients with onchocerciasis is 23.3 days|moxidectina|pacientes con oncocercosis
+C|aclaramiento|Aclaramiento total aparente|3,50 (aprox.)|L/h|The apparent mean ± SD total clearance of moxidectin is approximately 3.50 ± 1.23 L/hour|moxidectina|pacientes con oncocercosis
+R|Las más frecuentes (más del 10 %) en el ensayo 1: eosinofilia, prurito, dolor musculoesquelético, cefalea, linfocitopenia, taquicardia, exantema, dolor abdominal, hipotensión, fiebre y leucocitosis, entre otras.|most common adverse reactions (incidence > 10%) in adult and pediatric patients (12 to less than 18 years of age) in Trial 1 were eosinophilia, pruritus, musculoskeletal pain, headache
+R|Entre las reacciones descritas en otras secciones figura la hipotensión ortostática sintomática.|Symptomatic Orthostatic Hypotension [see Warnings and Precautions ( 5.2 )]
+W|Reacción de Mazzotti|Pueden aparecer reacciones cutáneas, oftalmológicas o sistémicas en la oncocercosis tras el tratamiento.||Cutaneous, Ophthalmological and/or Systemic Adverse Reactions of Varying Severity (Mazzotti Reaction )|43685-7
+W|Hipotensión ortostática sintomática|Pueden aparecer episodios, incluso con incapacidad para mantenerse de pie sin apoyo.||Episodes of symptomatic orthostatic hypotension including inability to stand without support may occur|43685-7
+W|Encefalopatía en la coinfección por Loa loa|Puede aparecer una encefalopatía grave o mortal; descartar la loiasis en zonas endémicas.||Serious or even fatal encephalopathy following treatment with Moxidectin Tablets may occur in patients co-infected with Loa loa|43685-7
+
+@nifurtimox|Nifurtimox|IN|Antiprotozoario nitrofurano (tripanocida)|nifurtimox;Lampit|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de la enfermedad de Chagas por Trypanosoma cruzi en menores de 18 años de al menos 2,5 kg.|LAMPIT is indicated in pediatric patients (birth to less than 18 years of age and weighing at least 2.5 kg) for the treatment of Chagas disease (American Trypanosomiasis) caused by Trypanosoma cruzi
+A|No se conoce del todo: nitrorreductasas lo activan a intermediarios tóxicos o especies reactivas de oxígeno que dañan el ADN y matan las formas intra y extracelulares de T. cruzi.|nifurtimox is metabolized/activated, by Type I (oxygen insensitive) and Type II (oxygen sensitive) nitoreductases (NTR) leading to production of toxic intermediate metabolites and/or reactive oxygen species|sitio-infeccion|Nitrorreductasas de T. cruzi
+L|Comprimido ranurado: se disgrega en el tubo digestivo; puede tomarse entero o disuelto.|30 mg, yellow, round, biconvex tablets, functionally scored|
+B|Con alimentos la mediana del tmax es de 4 horas; una comida grasa aumenta la Cmax un 68 % y el AUC un 71 %.|The median time to reach maximum concentration (T max ) of nifurtimox under fed conditions was 4 hours (range: 2 to 8 hours)|||con alimentos
++|B|Una comida rica en grasas aumentó la Cmax un 68 % y el AUC un 71 % frente al ayuno.|nifurtimox C max increased 68%, AUC increased 71%, and T max increased by 1 hour with a high-fat meal|pacientes con Chagas|con una comida rica en grasas
+D|Atraviesa la barrera hematoencefálica y la placentaria; la unión a proteínas plasmáticas es del 42 %.|Nifurtimox passes the blood brain barrier as well as the placental barrier|encefalo
++|D|La unión a proteínas plasmáticas es del 42 %.|The plasma proteins binding of nifurtimox is 42%|sangre|
+M|Se metaboliza sobre todo por nitrorreductasas; sus dos metabolitos principales (M-4 y M-6) son inactivos y no es sustrato de las CYP.|Metabolism of nifurtimox is primarily mediated via nitroreductases|
+T|M-4 y M-6|inactivo|Exploratory investigations identified two major pharmacologically inactive metabolites (M-4, M-6)|Metabolitos principales inactivos; semividas de unas 28 y 10 horas.
+E|Con alimentos o en ayunas, alrededor del 44 % y el 27 % de la dosis se recuperó en la orina, sobre todo como metabolitos; la eliminación biliar y fecal no se ha estudiado.|approximately 44% and 27% of the dose was recovered in urine mainly as metabolites, respectively|orina
++|E|La semivida de eliminación osciló entre 2,4 y 3,6 horas.|The mean (%CV) estimates for elimination half-life of nifurtimox ranged between 2.4–3.6 hours (12–37%)|||
+C|tmax|Mediana del tmax con alimentos|4|h|The median time to reach maximum concentration (T max ) of nifurtimox under fed conditions was 4 hours|nifurtimox||con alimentos
+C|union|Unión a proteínas plasmáticas|42|%|The plasma proteins binding of nifurtimox is 42%|nifurtimox
+C|semivida|Semivida de eliminación|2,4-3,6|h|elimination half-life of nifurtimox ranged between 2.4–3.6 hours|nifurtimox
+C|orina|Dosis recuperada en la orina con alimentos|44 (aprox.)|% de la dosis|approximately 44% and 27% of the dose was recovered in urine mainly as metabolites|nifurtimox y metabolitos||con alimentos
+R|Las más frecuentes (5 % o más): vómitos, dolor abdominal, cefalea, disminución del apetito, náuseas, fiebre y exantema.|The most frequently reported adverse reactions (≥5%) are vomiting, abdominal pain, headache, decreased appetite, nausea, pyrexia, and rash
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Puede causar daño fetal; se recomienda prueba de embarazo y anticoncepción eficaz.||Embryo-Fetal Toxicity: May cause fetal harm|43685-7
+W|Empeoramiento neurológico y psiquiátrico|Con antecedentes de lesión cerebral, convulsiones o enfermedad psiquiátrica pueden empeorar; usar bajo estrecha supervisión.|encefalo|Patients with a history of brain injury, seizures, psychiatric disease, serious behavioral alterations may experience worsening of their conditions when receiving LAMPIT|43685-7
+W|Hipersensibilidad|Se han notificado hipotensión, angioedema, disnea, prurito, exantema u otras reacciones cutáneas graves.|piel|Hypersensitivity reactions including hypotension, angioedema, dyspnea, pruritus, rash or other severe skin reactions have been reported with the use of nifurtimox|43685-7

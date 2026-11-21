@@ -1,0 +1,100 @@
+@miltefosina|Miltefosina|IN|Antileishmaniásico alquilfosfocolina|miltefosine;Impavido|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de la leishmaniasis visceral, cutánea y mucosa por las especies indicadas, desde los 12 años y 30 kg.|IMPAVIDO (miltefosine) capsules are indicated in adults and pediatric patients 12 years of age and older weighing greater than or equal to 30 kg (66 lbs)
+A|No se conoce su modo de acción exacto; probablemente interactúa con lípidos de membrana, inhibe la citocromo c oxidasa mitocondrial y provoca una muerte celular similar a la apoptosis.|The mechanism of action of miltefosine is likely to involve interaction with lipids (phospholipids and sterols), including membrane lipids, inhibition of cytochrome c oxidase (mitochondrial function), and apoptosis-like cell death|sitio-infeccion|Lípidos de membrana y citocromo c oxidasa de Leishmania
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|IMPAVIDO® (miltefosine) oral capsules are opaque, red, hard gelatin capsules|
+B|No se ha determinado la biodisponibilidad absoluta; en la leishmaniasis visceral el máximo aparece a menudo justo antes de la dosis siguiente, lo que indica una absorción a lo largo del intervalo.|indicating that the absorption of miltefosine may proceed throughout the dosing interval|
+D|La distribución no se ha estudiado en humanos; la unión a proteínas plasmáticas es del 98 %.|Human plasma protein binding of miltefosine, evaluated by an ultracentrifugation method, was 98% over the drug concentration range from 0.1 to 10 μg/mL|sangre
+M|No sufre metabolismo oxidativo por 15 citocromos P450; en hepatocitos humanos se degrada despacio por una escisión similar a la fosfolipasa D, que libera colina.|A slow metabolic breakdown could be shown in human hepatocytes, resulting in the release of choline by phospholipase D-like cleavage of the miltefosine molecule|higado
+E|En la leishmaniasis visceral se excretó en la orina menos del 0,2 % de la dosis; su semivida es larga (más de 6 días).|In visceral leishmaniasis patients, <0.2% of the administered dose was excreted into the urine|orina
++|E|Por su semivida larga (más de 6 días), no alcanzó el estado estacionario al final de los 28 días.|Due to the long half-life of miltefosine (> 6 days), trough plasma concentrations did not appear to reach a steady state at the end of treatment|||
+C|union|Unión a proteínas plasmáticas|98|%|Human plasma protein binding of miltefosine, evaluated by an ultracentrifugation method, was 98%|miltefosina
+C|semivida|Semivida|> 6|d|Due to the long half-life of miltefosine (> 6 days)|miltefosina
+C|orina|Dosis excretada en la orina|< 0,2|% de la dosis|In visceral leishmaniasis patients, <0.2% of the administered dose was excreted into the urine|miltefosina|pacientes con leishmaniasis visceral
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+R|En el ensayo de leishmaniasis visceral se notificaron reacciones graves en el 2 % de los tratados.|Serious adverse reactions were reported in 2% of IMPAVIDO recipients (6/299)
+W|Toxicidad embriofetal|Contraindicado en el embarazo; según datos animales puede causar daño fetal.||Based on animal data, miltefosine may cause fetal harm|43685-7
+W|Alteración de la calidad del semen y de la espermatogénesis|Puede alterar la fertilidad masculina.||IMPAVIDO may impair male fertility|43685-7
+
+@flucitosina|Flucitosina|IN|Antifúngico análogo de pirimidina|flucytosine;Ancobon|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento solo de infecciones graves por cepas sensibles de Candida o Cryptococcus.|Flucytosine capsules are indicated only in the treatment of serious infections caused by susceptible strains of Candida and/or Cryptococcus
+A|Entra en el hongo por la citosina permeasa y la citosina desaminasa lo convierte en fluorouracilo, cuyos metabolitos se incorporan al ARN fúngico o interfieren en la síntesis del ADN.|Flucytosine is taken up by fungal organisms via the enzyme cytosine permease. Inside the fungal cell, flucytosine is rapidly converted to fluorouracil by the enzyme cytosine deaminase|sitio-infeccion|Citosina desaminasa fúngica
+L|Cápsula: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Flucytosine capsules USP, an antifungal agent, is available as 250 mg and 500 mg capsules for oral administration|
+B|Se absorbe con rapidez y casi por completo (78 a 89 % frente a la vía intravenosa); con 2 g el pico sérico llega en 2 horas.|Flucytosine is rapidly and virtually completely absorbed following oral administration|
++|B|La biodisponibilidad comparada con la intravenosa fue del 78 % al 89 %.|showed 78% to 89% absorption of the oral dose|||
+D|Se une solo en un 2,9 a 4 % a las proteínas y atraviesa con facilidad la barrera hematoencefálica, con concentraciones clínicamente significativas en el líquido cefalorraquídeo.|Flucytosine readily penetrates the blood-brain barrier, achieving clinically significant concentrations in cerebrospinal fluid|encefalo
++|D|In vitro se une entre un 2,9 % y un 4 % a las proteínas.|In vitro studies have shown that 2.9% to 4% of flucytosine is protein-bound over the range of therapeutic concentrations found in the blood|sangre|
+M|Por vía oral no se metaboliza de forma significativa; las bacterias intestinales probablemente desaminan una pequeña parte a 5-fluorouracilo.|Flucytosine capsules are not metabolized significantly when given orally to man||sin
+T|5-Fluorouracilo|activo|Flucytosine is deaminated (probably by gut bacteria) to 5-fluorouracil|Su AUC es el 4 % de la de la flucitosina.
+E|Se excreta por el riñón por filtración glomerular, sin reabsorción tubular significativa; más del 90 % de la radiactividad oral se recuperó intacta en la orina.|Flucytosine is excreted via the kidneys by means of glomerular filtration without significant tubular reabsorption|rinones
++|E|Más del 90 % se recuperó en la orina como fármaco intacto.|More than 90% of the total radioactivity after oral administration was recovered in the urine as intact drug|orina|
++|E|La semivida en la mayoría de los sujetos sanos fue de 2,4 a 4,8 horas.|The half-life in the majority of healthy subjects ranged between 2.4 and 4.8 hours|sujetos sanos|
+C|biodisponibilidad|Fracción absorbida frente a la vía intravenosa|78-89|%|showed 78% to 89% absorption of the oral dose|flucitosina
+C|tmax|Tiempo hasta el pico tras 2 g|≤ 2|h|Peak serum concentrations of 30 to 40 mcg/mL were reached within 2 hours of administration of a 2 g oral dose to normal subjects|flucitosina|sujetos sanos|dosis oral de 2 g
+C|union|Unión a proteínas in vitro|2,9-4|%|2.9% to 4% of flucytosine is protein-bound|flucitosina
+C|semivida|Semivida|2,4-4,8|h|The half-life in the majority of healthy subjects ranged between 2.4 and 4.8 hours|flucitosina|sujetos sanos
+C|orina|Radiactividad recuperada intacta en la orina|> 90|% de la dosis|More than 90% of the total radioactivity after oral administration was recovered in the urine as intact drug|flucitosina inalterada
+R|Las reacciones se agrupan por órgano: cardiovasculares (parada cardíaca, toxicidad miocárdica), respiratorias, cutáneas y digestivas, entre otras.|The adverse reactions which have occurred during treatment with Flucytosine capsules are grouped according to organ system affected
+R|Digestivas: náuseas, vómitos, dolor abdominal, diarrea, anorexia, boca seca y úlcera duodenal.|Gastrointestinal: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer
+W|Uso en la insuficiencia renal|Usar con extrema precaución si la función renal está alterada; vigilar la situación hematológica, renal y hepática.|rinones|Use with extreme caution in patients with impaired renal function|34066-1
+W|Depresión de la médula ósea|Usar con extrema precaución en pacientes con depresión de la médula ósea.|medula-osea|Flucytosine capsules must be given with extreme caution to patients with bone marrow depression|34071-1
+
+@oteseconazol|Oteseconazol|IN|Antifúngico azólico inhibidor de la CYP51|oteseconazole;Vivjoa|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Reducción de la candidiasis vulvovaginal recurrente en mujeres con antecedentes que no tienen potencial reproductivo.|VIVJOA™ is an azole antifungal indicated to reduce the incidence of recurrent vulvovaginal candidiasis (RVVC) in females with a history of RVVC who are NOT of reproductive potential
+A|Inhibe la 14α-desmetilasa fúngica (CYP51), una enzima temprana de la síntesis de ergosterol, necesaria para la membrana del hongo; se acumulan esteroles 14-metilados.|Oteseconazole is an azole metalloenzyme inhibitor targeting the fungal sterol, 14α demethylase (CYP51)|sitio-infeccion|14α-desmetilasa fúngica (CYP51)
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|VIVJOA Capsules: 150 mg of oteseconazole in lavender hard gelatin capsules|
+B|El pico plasmático aparece en unas 5 a 10 horas; una comida grasa aumenta la Cmax un 45 % y el AUC un 36 %.|The time to peak plasma concentrations of oteseconazole was approximately 5 to 10 hours|
++|B|Con una comida rica en grasas la Cmax subió un 45 % y el AUC un 36 %.|increased C max and AUC 0-72h by 45% and 36%|||con una comida rica en grasas
+D|Se une en un 99,5 a 99,7 % a las proteínas plasmáticas; el volumen central es de unos 423 L y, en animales, la exposición vaginal es comparable a la plasmática.|Oteseconazole is 99.5-99.7% bound to plasma proteins|sangre
++|D|Volumen de distribución central de unos 423 L.|The central volume of distribution of oteseconazole is approximately 423 L|||
+M|No sufre un metabolismo significativo.|Oteseconazole does not undergo significant metabolism||sin
+E|Tras una dosis marcada, alrededor del 56 % se recuperó en las heces, sobre todo por excreción biliar, y el 26 % en la orina.|approximately 56% of the radiolabeled dose was recovered in feces primarily through biliary excretion and 26% was recovered in urine|heces,orina
++|E|La mediana de la semivida terminal es de unos 138 días.|The median terminal half-life of oteseconazole is approximately 138 days|||
+C|tmax|Tiempo hasta el pico|5-10 (aprox.)|h|The time to peak plasma concentrations of oteseconazole was approximately 5 to 10 hours|oteseconazol
+C|union|Unión a proteínas plasmáticas|99,5-99,7|%|Oteseconazole is 99.5-99.7% bound to plasma proteins|oteseconazol
+C|vd|Volumen de distribución central|423 (aprox.)|L|The central volume of distribution of oteseconazole is approximately 423 L|oteseconazol
+C|semivida|Mediana de la semivida terminal|138 (aprox.)|d|The median terminal half-life of oteseconazole is approximately 138 days|oteseconazol
+C|heces|Dosis recuperada en las heces|56 (aprox.)|% de la dosis|approximately 56% of the radiolabeled dose was recovered in feces|radiactividad total
+R|Las más frecuentes (más del 2 %) fueron cefalea y náuseas.|The most frequently reported adverse reactions (incidence > 2%) were headache and nausea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Según estudios animales puede causar daño fetal; la ventana de exposición de unos 690 días impide mitigar el riesgo, por lo que está contraindicado en mujeres con potencial reproductivo.||The drug exposure window of approximately 690 days (based on 5 times the half-life of oteseconazole) precludes adequate mitigation of the embryo-fetal toxicity risks|43685-7
+
+@gepotidacina|Gepotidacina|IN|Antibacteriano triazaacenaftileno inhibidor de topoisomerasas de tipo II|gepotidacin mesylate;Blujepa|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Mesilato de gepotidacina dihidrato|Gepotidacin mesylate dihydrate chemical structure
+U|Tratamiento de las infecciones urinarias no complicadas en mujeres y de la gonorrea urogenital no complicada por microorganismos sensibles.|Uncomplicated urinary tract infections (uUTI) in female adult an
+A|Inhibe las topoisomerasas bacterianas de tipo II, la ADN girasa y la topoisomerasa IV, y así bloquea la replicación del ADN; es bactericida.|BLUJEPA is a triazaacenaphthylene antibacterial that inhibits Type II topoisomerases including bacterial topoisomerase II (DNA gyrase) and topoisomerase IV, thereby inhibiting DNA replication|sitio-infeccion|ADN girasa y topoisomerasa IV bacterianas
+L|Comprimido recubierto con película de 750 mg: se disgrega en el tubo digestivo.|Each film coated tablet of BLUJEPA contains 750 mg of gepotidacin|
+B|La biodisponibilidad absoluta es de alrededor del 45 % y el tmax de unas 2,0 horas; una comida de grasa moderada no cambia la farmacocinética de forma significativa.|Absolute Bioavailability ~45% T max (hours) ~2.0|
+D|La unión a proteínas plasmáticas es baja (alrededor del 25 al 41 %); el volumen de distribución en estado estacionario es de unos 173 L.|Plasma Protein Binding ~25 to ~41%|
+M|Su vía principal es el metabolismo oxidativo por la CYP3A4; el metabolito principal, M4, es alrededor del 11 % del material circulante.|Oxidative metabolism mediated by CYP3A4, producing several circulating metabolites|higado
+E|Alrededor del 52 % se excreta en las heces (30 % sin cambios) y el 31 % en la orina (20 % sin cambios), principal vía para el fármaco absorbido.|Feces ~52% (30% unchanged drug) Urine ~31% (20% unchanged drug; major route of elimination for absorbed gepotidacin)|heces,orina
++|E|La semivida terminal es de unas 9,3 horas.|Terminal Half-life (hours) a 9.3 (1.3)|||
+C|biodisponibilidad|Biodisponibilidad absoluta|45 (aprox.)|%|Absolute Bioavailability ~45%|gepotidacina
+C|tmax|Tiempo hasta el pico|2,0 (aprox.)|h|T max (hours) ~2.0|gepotidacina
+C|union|Unión a proteínas plasmáticas|25-41 (aprox.)|%|Plasma Protein Binding ~25 to ~41%|gepotidacina
+C|vd|Volumen de distribución en estado estacionario|172,9|L|V ss (L) a 172.9 (42.5)|gepotidacina|pacientes con ITU no complicada|1 500 mg cada 12 h
+C|semivida|Semivida terminal|9,3|h|Terminal Half-life (hours) a 9.3 (1.3)|gepotidacina|pacientes con ITU no complicada|1 500 mg cada 12 h
+C|aclaramiento|Aclaramiento total|33,4|L/h|Total Clearance (L/hour) a 33.4 (6.7)|gepotidacina|pacientes con ITU no complicada|1 500 mg cada 12 h
+C|orina|Dosis excretada en la orina|31 (aprox.)|% de la dosis|Urine ~31% (20% unchanged drug|gepotidacina y metabolitos
+R|En la infección urinaria, las más frecuentes (1 % o más): diarrea, náuseas, dolor abdominal, flatulencia, cefalea, heces blandas, mareo, vómitos y candidiasis vulvovaginal.|most common adverse reactions occurring in ≥1% of patients are diarrhea, nausea, abdominal pain, flatulence, headache, soft feces, dizziness, vomiting, and vulvovaginal candidiasis
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Prolongación del QTc|Evitar si hay antecedentes de QTc prolongado, cardiopatía relevante o fármacos que prolongan el QTc.||Avoid use of BLUJEPA in patients with a history of QTc prolongation, or with relevant pre‑existing cardiac disease|43685-7
+
+@lenacapavir|Lenacapavir|IN|Inhibidor de la cápside del VIH-1|lenacapavir sodium;Sunlenca|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de la infección por VIH-1 multirresistente en adultos muy pretratados, en combinación con otros antirretrovirales.|in combination with other antiretroviral(s), for the treatment of HIV-1 infection in heavily treatment-experienced adults with multidrug resistant H
+A|Inhibidor multietapa y selectivo de la función de la cápside del VIH-1: se une directamente a la interfaz entre subunidades de la proteína p24 en los hexámeros.|Lenacapavir is a multistage, selective inhibitor of HIV-1 capsid function that directly binds to the interface between capsid protein (p24) subunits in hexamers|sitio-infeccion|Cápside del VIH-1 (p24)
+L|Comprimido recubierto con película de 300 mg: se disgrega en el tubo digestivo; forma parte de una pauta oral de carga antes de la vía subcutánea.|SUNLENCA tablets: Each tablet contains 300 mg of lenacapavir|
+B|Por vía oral la biodisponibilidad absoluta es baja (6 a 10 %) y el tmax de unas 4 horas, con o sin alimentos.|Absolute bioavailability 6 to 10 100|
+D|Se une en más del 98,5 % a las proteínas plasmáticas humanas; el volumen de distribución aparente tras la vía oral es de 19 240 L.|% bound to human plasma proteins >98.5|sangre
+M|Se metaboliza poco (CYP3A y UGT1A1, vías menores); el 69 % del material plasmático es fármaco inalterado.|Metabolic pathway(s) CYP3A (minor) UGT1A1 (minor)|
+E|La vía principal de eliminación es la excreción del fármaco inalterado en las heces.|Major routes of elimination Excretion of unchanged drug into feces|heces
++|E|Por vía oral la semivida es de 10 a 12 días.|t 1/2 10 to 12 days 8 to 12 weeks|||
+C|biodisponibilidad|Biodisponibilidad absoluta oral|6-10|%|Absolute bioavailability 6 to 10 100|lenacapavir
+C|tmax|Tiempo hasta el pico oral|4|h|4 hours 77 to 84 days|lenacapavir||con o sin alimentos
+C|union|Unión a proteínas plasmáticas|> 98,5|%|% bound to human plasma proteins >98.5|lenacapavir
+C|vd|Volumen de distribución aparente oral|19240|L|Apparent volume of distribution (Vd/F, L) 19240|lenacapavir
+C|semivida|Semivida oral|10-12|d|t 1/2 10 to 12 days|lenacapavir
+C|aclaramiento|Aclaramiento aparente oral|55|L/h|Clearance (mean apparent clearance, L/h) 55 4.2|lenacapavir
+R|Las más frecuentes (3 % o más) son náuseas y reacciones en el lugar de inyección.|Most common adverse reactions (incidence greater than or equal to 3%, all grades) are nausea and injection site reactions
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome de reconstitución inmunitaria|Puede requerir más evaluación y tratamiento.||Immune reconstitution syndrome: May necessitate further evaluation and treatment|43685-7
+W|Concentraciones residuales prolongadas|Puede permanecer en la circulación 12 meses o más; la falta de adherencia puede causar pérdida de respuesta y resistencias.||Residual concentrations of lenacapavir may remain in systemic circulation for up to 12 months or longer|43685-7

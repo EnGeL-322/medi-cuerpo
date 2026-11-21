@@ -1,0 +1,74 @@
+@quetiapina|Quetiapina|SM|Antipsicótico atípico|quetiapine|doc=quetiapina-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|Fumarato de quetiapina|50 mg de quetiapina (como fumarato de quetiapina)
+X|Hipromelosa; Hidrógeno fosfato cálcico dihidrato; Lactosa monohidrato; Almidón de maíz; Carboximetilalmidón sódico tipo A de patata; Estearato de magnesio; Celulosa microcristalina; Talco; Sílice coloidal anhidra; Hidroxipropilcelulosa; Dióxido de titanio (E171)
+K|50 mg de quetiapina (como fumarato de quetiapina) por comprimido (y otras concentraciones), según la ficha técnica
+U|Tratamiento de la esquizofrenia y del trastorno bipolar.|el tratamiento de la esquizofrenia
+A|Es un antipsicótico atípico: la quetiapina y su metabolito activo, la norquetiapina, interaccionan con un amplio rango de receptores de neurotransmisión.|Quetiapina es un agente antipsicótico atípico. Quetiapina y el metabolito plasmático humano activo, norquetiapina, interaccionan con un amplio rango de receptores de neurotransmisión|encefalo|Receptores de neurotransmisión (rango amplio)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Los comprimidos de Qudix 50 mg son de color blanco, redondos|
+B|Administrada por vía oral, se absorbe adecuadamente y se metaboliza extensamente.|Quetiapina, administrada oralmente, es adecuadamente absorbida y se metaboliza extensamente|
++|B|La biodisponibilidad no está afectada de forma significativa por la administración con alimentos.|La biodisponibilidad de quetiapina no está significativamente afectada por la administración con alimentos|||con alimentos
+D|Se une en un 83 % aproximadamente a las proteínas del plasma.|Quetiapina se une en un 83% aproximadamente a las proteínas plasmáticas|sangre
+M|Se metaboliza extensamente en el hígado: el compuesto original supone menos del 5 % del material relacionado con el fármaco sin alterar en orina o heces; la enzima principal es la CYP3A4.|Quetiapina se metaboliza extensamente en el hígado|higado
++|M|In vitro, la CYP3A4 es la enzima principal del metabolismo mediado por el citocromo P450; la norquetiapina también se forma y elimina sobre todo por la CYP3A4.|CYP3A4 es el enzima principal responsable del metabolismo de quetiapina mediado por el citrocromo P450|||in vitro
+T|Norquetiapina|activo|las concentraciones molares máximas en estado de equilibrio del metabolito activo nor quetiapina son el 35% de las observadas para quetiapina|Metabolito activo; en el equilibrio sus concentraciones molares máximas son el 35 % de las de la quetiapina.
+E|Alrededor del 73 % de la radiactividad se excreta por la orina y el 21 % por las heces.|Aproximadamente el 73% de la radiactividad se excreta en orina y el 21% en heces|rinones,orina,heces
++|E|Las vidas medias de eliminación de la quetiapina y de la norquetiapina son de unas 7 y 12 horas.|Las vidas medias de eliminación de quetiapina y nor quetiapina son de aproximadamente 7 y 12 horas, respectivamente|||
+C|union|Unión a proteínas plasmáticas|83 (aprox.)|%|Quetiapina se une en un 83% aproximadamente a las proteínas plasmáticas|quetiapina
+C|semivida|Vida media de eliminación de la quetiapina|7 (aprox.)|h|Las vidas medias de eliminación de quetiapina y nor quetiapina son de aproximadamente 7 y 12 horas, respectivamente|quetiapina
+C|orina|Radiactividad excretada por la orina|73 (aprox.)|% de la dosis|Aproximadamente el 73% de la radiactividad se excreta en orina|radiactividad total||quetiapina radiomarcada
+C|heces|Radiactividad excretada por las heces|21 (aprox.)|% de la dosis|el 21% en heces|radiactividad total||quetiapina radiomarcada
+R|Las más frecuentes (10 % o más): somnolencia, mareo, sequedad de boca, dolor de cabeza y síntomas de retirada.|son somnolencia, mareo, sequedad de boca, dolor de cabeza, síntomas de retirada (interrupción)
+R|También son muy frecuentes la elevación de triglicéridos y de colesterol total, la disminución del colesterol HDL y el aumento de peso.|elevación de los niveles de triglicéridos séricos, elevación del colesterol total (predominantemente de colesterol LDL), disminución del colesterol HDL, aumento de peso
+W|Población pediátrica|No está recomendada en niños y adolescentes menores de 18 años por falta de datos que avalen su uso en ese grupo de edad.|encefalo|Quetiapina no está recomendada para el uso en niños y adolescentes menores de 18 años de edad, debido a la falta de datos para avalar su uso en este grupo de edad
+
+@montelukast|Montelukast|RA|Antagonista de los receptores de leucotrienos|montelukast;Singulair|doc=montelukast-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|Montelukast sódico|montelukast sódico, equivalente a 10 mg de montelukast
+X|Celulosa microcristalina; Lactosa monohidrato; Croscarmelosa sódica; Hiprolosa (E-463); Estearato de magnesio; Hipromelosa; Dióxido de titanio (E-171); Óxido de hierro rojo y amarillo (E-172); Cera de carnauba
+K|10 mg de montelukast (como montelukast sódico) por comprimido, según la ficha técnica
+U|Tratamiento del asma como terapia adicional en pacientes con asma persistente de leve a moderado no controlada de forma adecuada con otros fármacos.|Singulair está indicado en el tratamiento del asma como terapia adicional en los pacientes con asma persistente de leve a moderado
+A|Es un antagonista de los receptores de los leucotrienos cisteinílicos, potentes mediadores proasmáticos liberados por mastocitos y eosinófilos.|Estos importantes mediadores proasmáticos se unen a los receptores de los leucotrienos cisteinílicos (CysLT)|pulmones,vias-respiratorias|Receptores de los leucotrienos cisteinílicos (CysLT)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película|
+B|Se absorbe de forma rápida tras la administración oral; con el comprimido de 10 mg, la concentración plasmática máxima se obtiene en 3 horas en adultos en ayunas.|Montelukast se absorbe de forma rápida tras su administración oral|
++|B|La biodisponibilidad oral media es del 64 %.|La biodisponibilidad oral media es del 64 %|||
++|B|La biodisponibilidad oral y la Cmax no se ven afectadas por una comida estándar.|La biodisponibilidad oral y la C max no se ven afectadas por una comida estándar|||con una comida estándar
+D|Se une en más de un 99 % a las proteínas del plasma; en ratas, su distribución a través de la barrera hematoencefálica es mínima.|Montelukast se une en más de un 99 % a las proteínas plasmáticas|sangre
++|D|En estudios con ratas, la distribución a través de la barrera hematoencefálica es mínima.|Los estudios en ratas con montelukast radiomarcado indican una distribución mínima a través de la barrera hematoencefálica|ratas|
+M|Se metaboliza ampliamente; la CYP2C8 es la enzima más importante, con una contribución menor de la CYP3A4 y la CYP2C9.|Montelukast se metaboliza ampliamente|higado
++|M|La enzima más importante en su metabolismo es la CYP2C8.|Citocromo P450 2C8 es la enzima más importante en el metabolismo de montelukast|||
+T|Metabolitos de montelukast|desconocida|La aportación de los metabolitos al efecto terapéutico de montelukast es mínima|Aportación mínima al efecto terapéutico; sus concentraciones plasmáticas son indetectables en el equilibrio.
+E|Montelukast y sus metabolitos se excretan casi exclusivamente por vía biliar: tras una dosis marcada, el 86 % de la radiactividad se recuperó en las heces en 5 días y menos del 0,2 % en la orina.|montelukast y sus metabolitos se excretan casi exclusivamente por vía biliar|bilis,heces
++|E|El aclaramiento plasmático promedio es de 45 mL/min en adultos sanos.|El aclaramiento plasmático promedio de montelukast es de 45 ml/min en adultos sanos|||
+C|biodisponibilidad|Biodisponibilidad oral media|64|%|La biodisponibilidad oral media es del 64 %|montelukast
+C|tmax|Tiempo hasta la concentración máxima|3|h|la concentración plasmática máxima media (C max ) se obtiene en 3 horas (T max ) tras la administración a adultos en ayunas|montelukast|adultos en ayunas
+C|union|Unión a proteínas plasmáticas|> 99|%|Montelukast se une en más de un 99 % a las proteínas plasmáticas|montelukast
+C|aclaramiento|Aclaramiento plasmático promedio|45|mL/min|El aclaramiento plasmático promedio de montelukast es de 45 ml/min en adultos sanos|montelukast|adultos sanos
+C|heces|Radiactividad recuperada en las heces en 5 días|86|% de la dosis|el 86 % de la radiactividad se recuperó en recogidas fecales de 5 días|radiactividad total||dosis oral de montelukast radiomarcado
+R|La ficha describe los ensayos con comprimidos de 10 mg en aproximadamente 4.000 pacientes adultos y adolescentes asmáticos de 15 años o más.|Los comprimidos recubiertos con película de 10 mg en aproximadamente 4.000 pacientes adultos y adolescentes asmáticos de 15 años de edad y mayores
+R|Las reacciones relacionadas con el tratamiento se notifican de forma frecuente (entre 1/100 y 1/10) con una incidencia mayor que con placebo.|las siguientes reacciones adversas relacionadas con el tratamiento fueron notificadas de forma frecuente
+W|No es para las crisis agudas de asma|No debe usarse montelukast oral para tratar las crisis agudas de asma; hay que tener a mano la medicación de rescate habitual.|pulmones|Debe indicarse a los pacientes que no utilicen nunca montelukast oral para tratar las crisis agudas de asma
+
+@valsartan|Valsartán|CV|Antagonista de los receptores de la angiotensina II|valsartan|doc=valsartan-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Celulosa microcristalina; Crospovidona tipo A; Sílice coloidal anhidra; Estearato de magnesio; Hipromelosa; Dióxido de titanio (E171); Macrogol 8000; Óxidos de hierro rojo, amarillo y negro (E172), según la concentración
+K|80, 160 y 320 mg de valsartán por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión arterial esencial en adultos.|Tratamiento de la hipertensión arterial esencial en adultos
+A|Es un antagonista potente y específico de los receptores de la angiotensina II con actividad por vía oral; actúa de forma selectiva sobre el receptor subtipo AT1.|Valsartán es un antagonista de los receptores de la angiotensina II (Ang II) potente y específico con actividad por vía oral. Actúa selectivamente sobre el receptor subtipo AT 1|vasos,corazon,rinones|Receptor AT1 de la angiotensina II
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|80 mg: Comprimido recubierto con película de color rojo|
+B|Tras la administración oral se alcanzan concentraciones plasmáticas máximas en 2–4 horas con los comprimidos.|se alcanzan concentraciones plasmáticas máximas de valsartán en 2–4 horas con los comprimidos|
++|B|La biodisponibilidad absoluta media es del 23 %.|La biodisponibilidad absoluta media es del 23%|||
++|B|La comida reduce el AUC un 40 % y la Cmax un 50 % aproximadamente, sin un descenso clínicamente significativo del efecto terapéutico.|La comida reduce la exposición (medida por el AUC) de valsartán en un 40% aproximadamente y la concentración plasmática máxima (C máx ) en un 50% aproximadamente|||con comida
+D|Presenta una elevada fijación a las proteínas séricas (94-97 %), sobre todo a la albúmina; el volumen de distribución en estado estacionario tras la vía intravenosa es de unos 17 litros, por lo que no se distribuye mucho a los tejidos.|Valsartán presenta una elevada fijación a las proteínas séricas (94–97%), principalmente a la albúmina sérica|sangre
++|D|El volumen de distribución en estado estacionario tras la administración intravenosa es de unos 17 litros.|El volumen de distribución de valsartán en estado estacionario tras su administración intravenosa es de unos 17 litros|||dosis intravenosa
+M|No se biotransforma mucho: solo se recupera alrededor del 20 % de la dosis en forma de metabolitos.|Valsartán no se biotransforma mucho, puesto que sólo se recupera aproximadamente el 20% de la dosis en forma de metabolitos|higado
+T|Metabolito hidroxi|inactivo|Este metabolito es farmacológicamente inactivo|Farmacológicamente inactivo; en plasma está por debajo del 10 % del AUC de valsartán.
+E|Se elimina sobre todo por excreción biliar en las heces (alrededor del 83 % de la dosis) y por vía renal (alrededor del 13 %), en su mayor parte como compuesto inalterado.|Valsartán se elimina principalmente por excreción biliar en las heces (aproximadamente el 83% de la dosis) y por vía renal en la orina (aproximadamente el 13 % de la dosis), en su mayor parte como compuesto inalterado|bilis,heces,rinones,orina|original
++|E|La semivida de valsartán es de 6 horas.|La semivida de valsartán es de 6 horas|||
+C|tmax|Tiempo hasta las concentraciones máximas|2-4|h|se alcanzan concentraciones plasmáticas máximas de valsartán en 2–4 horas con los comprimidos|valsartán
+C|biodisponibilidad|Biodisponibilidad absoluta media|23|%|La biodisponibilidad absoluta media es del 23%|valsartán
+C|union|Unión a proteínas séricas|94-97|%|Valsartán presenta una elevada fijación a las proteínas séricas (94–97%)|valsartán
+C|vd|Volumen de distribución en estado estacionario|17 (aprox.)|L|El volumen de distribución de valsartán en estado estacionario tras su administración intravenosa es de unos 17 litros|valsartán||dosis intravenosa|otra-via
+C|semivida|Semivida de valsartán|6|h|La semivida de valsartán es de 6 horas|valsartán
+C|heces|Dosis excretada por las heces|83 (aprox.)|% de la dosis|aproximadamente el 83% de la dosis|valsartán
+R|En pacientes adultos con hipertensión, la incidencia total de reacciones adversas fue comparable a la del placebo y acorde con la farmacología del valsartán.|la incidencia total de reacciones adversas al medicamento (RAMs) fue comparable a la del placebo y acorde con la farmacología de valsartán
+R|La incidencia no pareció relacionada con la dosis ni con la duración del tratamiento.|La incidencia de RAs no pareció estar relacionada con la dosis ni con la duración del tratamiento
+W|Hiperpotasemia|No se recomienda el uso concomitante de suplementos de potasio, diuréticos ahorradores de potasio ni sustitutos de la sal con potasio.|rinones,sangre|No se recomienda el uso concomitante de suplementos de potasio, diuréticos ahorradores de potasio, sustitutos de la sal que contengan potasio

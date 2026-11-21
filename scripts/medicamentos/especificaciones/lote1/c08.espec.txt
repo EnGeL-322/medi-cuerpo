@@ -1,0 +1,94 @@
+@sulpirida|Sulpirida|SM|Antipsicótico (benzamida)|sulpiride;Psicocen|vias=oral;familia=solido-oral
+S|-
+X|Lactosa; Estearato magnésico
+K|50 mg de sulpirida por cápsula, según la ficha técnica
+U|Entre otras indicaciones, tratamiento de los trastornos depresivos con síntomas psicóticos, en combinación con antidepresivos.|Tratamiento de los trastornos depresivos con síntomas psicóticos en combinación con antidepresivos
+A|Antagoniza de forma específica los receptores dopaminérgicos D2 y D3.|Sulpirida antagoniza de forma específica los receptores dopaminérgicos D2 y D3|encefalo|Receptores dopaminérgicos D2 y D3
+L|Cápsula: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Cápsulas de color naranja opaco y blanco opaco|
+B|Por vía oral se absorbe dentro de las 4,5 horas posteriores a la administración; la biodisponibilidad de las formas orales oscila entre el 25 % y el 35 %, con amplias variaciones individuales.|Por vía oral, sulpirida se absorbe dentro de las 4,5 horas posteriores a la administración|
++|B|La biodisponibilidad de las formas orales oscila entre el 25 % y el 35 %, con amplias variaciones interindividuales.|La biodisponibilidad de las formas orales oscila entre 25% y el 35%, con amplias variaciones interindividuales|||
+D|Menos del 40 % del fármaco está ligado a proteínas del plasma; difunde rápidamente por los tejidos, sobre todo por el hígado y el riñón, y poco al cerebro.|Menos de un 40% del fármaco se encuentra ligado a proteínas plasmáticas|sangre,higado,rinones
++|D|Difunde rápidamente por los tejidos corporales, en especial por el hígado y el riñón; hay poca difusión en el cerebro.|Sulpirida difunde rápidamente por los tejidos corporales, en especial por hígado y riñón|||
+M|No se metaboliza de forma activa en humanos.|Sulpirida no se metaboliza activamente en humanos||sin
+E|Se excreta principalmente por el riñón, por filtrado glomerular; el aclaramiento renal es normalmente igual al total.|Sulpirida se excreta principalmente por el riñón, por filtrado glomerular|rinones,orina|original
++|E|El 92 % de la dosis intramuscular se excreta por la orina de forma inalterada.|El 92% de la dosis intramuscular se excreta por orina de forma inalterada|||dosis intramuscular
++|E|La semivida de eliminación plasmática es de 7 horas.|La semivida de eliminación plasmática es de 7 horas|||
+C|biodisponibilidad|Biodisponibilidad de las formas orales|25-35|%|La biodisponibilidad de las formas orales oscila entre 25% y el 35%|sulpirida
+C|union|Unión a proteínas plasmáticas|< 40|%|Menos de un 40% del fármaco se encuentra ligado a proteínas plasmáticas|sulpirida
+C|vd|Volumen de distribución en el equilibrio|0,94|L/kg|El volumen de distribución en el estado de equilibrio es de 0,94 L/Kg|sulpirida
+C|semivida|Semivida de eliminación plasmática|7|h|La semivida de eliminación plasmática es de 7 horas|sulpirida
+C|orina|Dosis intramuscular excretada inalterada por la orina|92|% de la dosis|El 92% de la dosis intramuscular se excreta por orina de forma inalterada|sulpirida||dosis intramuscular|otra-via
+R|Frecuente: hiperprolactinemia.|Frecuentes: hiperprolactinemia
+R|Poco frecuente: leucopenia.|Poco frecuentes: leucopenia
+W|Prolongación del intervalo QT|Puede inducir la prolongación del intervalo QT, que puede potenciar el riesgo de arritmias ventriculares graves como las torsades de pointes.|corazon|Sulpirida puede inducir la prolongación del intervalo QT
+
+@desogestrel|Desogestrel|HE|Progestágeno (anticonceptivo oral de solo progestágeno)|desogestrel;Cerazet|vias=oral;familia=solido-oral
+S|-
+X|Sílice coloidal anhidra; Todo-rac-alfa-tocoferol; Lactosa monohidrato; Almidón de maíz; Povidona; Ácido esteárico; Hipromelosa; Macrogol 400; Talco; Dióxido de titanio (E 171)
+K|75 microgramos de desogestrel por comprimido, según la ficha técnica
+U|Anticoncepción.|Anticoncepción
+A|Es un comprimido con progestágeno solo (desogestrel) que puede usarse en mujeres que no pueden o no quieren utilizar estrógenos.|Cerazet es un comprimido con progestágeno solo, que contiene el progestágeno desogestrel|organos-reproductores|
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|El comprimido es blanco, redondo y biconvexo|
+B|El desogestrel (DSG) se absorbe rápidamente y se convierte en etonogestrel (ENG); en el estado estacionario, los niveles séricos máximos se alcanzan 1,8 horas después de la toma.|Tras la administración oral de Cerazet el desogestrel (DSG) se absorbe rápidamente y se convierte en etonogestrel (ENG)|
++|B|En estado estacionario los niveles séricos máximos se alcanzan 1,8 horas después de ingerir el comprimido y la biodisponibilidad absoluta del etonogestrel es de aproximadamente el 70 %.|los niveles séricos máximos se alcanzan 1,8 horas después de haber ingerido los comprimidos y la biodisponibilidad absoluta del ENG es aproximadamente 70%|||estado estacionario
+D|El etonogestrel se une a las proteínas del plasma en un 95,5-99 %, sobre todo a la albúmina y, en menor grado, a la globulina fijadora de hormonas sexuales (SHBG).|ENG se une a las proteínas plasmáticas en un 95,5-99%, principalmente a la albúmina y en un menor grado a la SHBG|sangre
+M|El desogestrel se metaboliza por hidroxilación y deshidrogenación al metabolito activo etonogestrel, que se metaboliza sobre todo por la CYP3A y después se conjuga con sulfato y glucurónido.|El DSG se metaboliza por hidroxilación y deshidrogenación al metabolito activo ENG|higado
+T|Etonogestrel (ENG)|activo|El DSG se metaboliza por hidroxilación y deshidrogenación al metabolito activo ENG|Metabolito activo; después se conjuga con sulfato y glucurónido.
+E|El etonogestrel y sus metabolitos, libres o conjugados, se excretan por la orina y las heces (cociente 1,5:1).|La excreción de ENG y sus metabolitos tanto como esteroides libres o como conjugados se realiza en orina y heces (cociente 1,5:1)|rinones,orina,heces
++|E|La semivida promedio del etonogestrel es de aproximadamente 30 horas.|El ENG se elimina con una semivida promedio de aproximadamente 30 horas|||
+C|tmax|Tiempo hasta el pico sérico del etonogestrel|1,8|h|los niveles séricos máximos se alcanzan 1,8 horas después de haber ingerido los comprimidos|etonogestrel||estado estacionario
+C|biodisponibilidad|Biodisponibilidad absoluta del etonogestrel|70 (aprox.)|%|la biodisponibilidad absoluta del ENG es aproximadamente 70%|etonogestrel
+C|union|Unión a proteínas plasmáticas|95,5-99|%|ENG se une a las proteínas plasmáticas en un 95,5-99%|etonogestrel
+C|semivida|Semivida promedio|30 (aprox.)|h|El ENG se elimina con una semivida promedio de aproximadamente 30 horas|etonogestrel
+R|La reacción adversa notificada con más frecuencia en los ensayos es el sangrado irregular.|La reacción adversa que se ha comunicado más frecuentemente en los ensayos clínicos es sangrado irregular
+R|Se ha citado algún tipo de sangrado irregular hasta en un 50 % de las mujeres que lo utilizan.|Se ha citado algún tipo de sangrado irregular hasta en un 50% de las mujeres que utilizan Cerazet
+W|Cáncer de mama|El riesgo de cáncer de mama aumenta en general con la edad; con los anticonceptivos orales combinados se incrementa ligeramente el riesgo de diagnóstico de cáncer de mama.|mama|El riesgo de cáncer de mama aumenta en general con la edad
+W|Factores de riesgo nuevos o que empeoran|Si se agrava una circunstancia o factor de riesgo, o aparece por primera vez, la mujer debe comunicárselo a su médico.|organos-reproductores|la mujer debe comunicárselo a su médico
+
+@perindopril|Perindopril|CV|Inhibidor de la enzima conversora de la angiotensina (IECA)|perindopril|vias=oral;familia=solido-oral
+S|Sal de terbutilamina de perindopril|perindopril sal de terbutilamina
+X|Lactosa monohidrato; Celulosa microcristalina; Hidrogenocarbonato sódico; Sílice coloidal anhidra; Estearato de magnesio
+K|4 mg de perindopril (sal de terbutilamina; equivalentes a 3,338 mg de perindopril) por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión, de la insuficiencia cardíaca sintomática y de la enfermedad coronaria estable.|Tratamiento de la hipertensión
+A|Inhibe la enzima que transforma la angiotensina I en angiotensina II (enzima conversora de la angiotensina, ECA).|El perindopril es un inhibidor de la enzima que transforma la angiotensina I en angiotensina II (enzima conversora de la angiotensina, ECA)|vasos,corazon,rinones|Enzima conversora de la angiotensina (ECA)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Perindopril Krka 4 mg comprimidos: blanco, oblongo, biconvexo|
+B|Se absorbe de forma rápida y su concentración máxima se alcanza antes de una hora.|Después de la administración oral, el perindopril se absorbe de forma rápida y su concentración máxima se alcanza antes de una hora|
++|B|La ingesta reduce la conversión a perindoprilato y, por tanto, la biodisponibilidad.|Como la ingesta reduce la conversión hacia el perindoprilato y, por ende, la biodisponibilidad|||con alimentos
+D|La unión del perindoprilato a las proteínas del plasma es del 20 %, sobre todo a la enzima convertidora de angiotensina, y depende de la concentración.|La unión del perindoprilato a las proteínas plasmáticas es del 20%, fundamentalmente a la enzima convertidora de angiotensina, pero es dependiente de la concentración|sangre
++|D|El volumen de distribución del perindoprilato no ligado es de unos 0,2 L/kg.|El volumen de distribución del perindoprilato no ligado se aproxima a 0,2 l/kg|||
+M|Es un profármaco: el 27 % de la dosis llega a la sangre como el metabolito activo perindoprilato; además, da cinco metabolitos inactivos.|alcanza la circulación sanguínea como el metabolito activo perindoprilato|higado
+T|Perindoprilato|activo|alcanza la circulación sanguínea como el metabolito activo perindoprilato|Metabolito activo; su concentración máxima se alcanza en 3 a 4 horas.
+T|Cinco metabolitos adicionales|inactivo|el perindopril da cinco metabolitos, todos ellos inactivos|Inactivos.
+E|El perindoprilato se excreta por la orina y alcanza el estado estacionario antes de 4 días.|El perindoprilato se excreta en la orina|rinones,orina
++|E|El estado estacionario se alcanza antes de 4 días.|alcanzando el estado estacionario antes de 4 días|||
+C|tmax|Tiempo hasta la concentración máxima de perindopril|< 1|h|su concentración máxima se alcanza antes de una hora|perindopril
+C|union|Unión del perindoprilato a proteínas plasmáticas|20|%|La unión del perindoprilato a las proteínas plasmáticas es del 20%|perindoprilato
+C|vd|Volumen de distribución del perindoprilato no ligado|0,2 (aprox.)|L/kg|El volumen de distribución del perindoprilato no ligado se aproxima a 0,2 l/kg|perindoprilato
+C|semivida|Semivida plasmática de perindopril|1|h|La semivida plasmática de perindopril es de 1 hora|perindopril
+R|Los acontecimientos adversos más frecuentes incluyen mareos, cefalea, parestesia, vértigo, alteraciones visuales, acúfenos, hipotensión, tos y disnea, entre otros.|Los acontecimientos adversos más frecuentes notificados en los ensayos clínicos y observados con perindopril son: mareos, cefalea, parestesia, vértigo, alteraciones visuales, acúfenos, hipotensión, tos, disnea
+R|El perfil de seguridad es coherente con el de los inhibidores de la ECA.|El perfil de seguridad de perindopril es coherente con el perfil de seguridad de los inhibidores de la ECA
+W|Hipotensión|Los inhibidores de la ECA pueden inducir una caída de la presión arterial.|vasos,corazon|Los inhibidores de la ECA pueden inducir una caída de la presión arterial
+W|Enfermedad coronaria estable|Si durante el primer mes aparece un episodio de angina de pecho inestable, se valora con cuidado el beneficio y el riesgo antes de continuar.|corazon|aparece un episodio de angina de pecho inestable (grave o no), se procederá a una cuidadosa valoración del beneficio/riesgo antes de continuar con el tratamiento
+
+@fluvoxamina|Fluvoxamina|SM|Inhibidor selectivo de la recaptación de serotonina (ISRS)|fluvoxamine;Dumirox|vias=oral;familia=solido-oral
+S|Maleato de fluvoxamina|50 mg de maleato de fluvoxamina
+X|Manitol; Almidón de maíz sin gluten; Almidón pregelatinizado; Estearilfumarato sódico; Sílice coloidal anhidra; Hipromelosa; Macrogol 6000; Talco; Dióxido de titanio (E 171)
+K|50 mg de maleato de fluvoxamina por comprimido, según la ficha técnica
+U|Tratamiento del trastorno depresivo mayor y del trastorno obsesivo compulsivo (TOC).|Trastorno depresivo mayor
+A|Su mecanismo se relaciona con la inhibición selectiva de la recaptación de serotonina por las neuronas cerebrales, con una interferencia mínima con los procesos noradrenérgicos.|El mecanismo de acción de la fluvoxamina se relaciona con la inhibición selectiva de la recaptación de serotonina por las neuronas cerebrales|encefalo|Transportador de serotonina
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos redondos, biconvexos, ranurados|
+B|Se absorbe completamente tras la administración oral; la concentración plasmática máxima se alcanza a las 3-8 horas y la biodisponibilidad media total es del 53 % por el metabolismo de primer paso.|Fluvoxamina se absorbe completamente tras la administración oral|
++|B|La farmacocinética no se altera por la ingesta de alimentos.|La farmacocinética de fluvoxamina no se altera por la ingesta de alimentos|||con alimentos
+D|In vitro, la unión a proteínas del plasma es del 80 % y el volumen de distribución en humanos es de 25 L/kg.|In vitro la unión a proteínas plasmáticas de fluvoxamina es del 80%|sangre,tejidos
+M|Sufre un intenso metabolismo en el hígado, sobre todo por desmetilación oxidativa, hasta al menos nueve metabolitos; in vitro la CYP2D6 es la isoenzima principal.|La fluvoxamina sufre un intenso metabolismo en el hígado|higado
+T|Dos metabolitos principales|inactivo|Los dos metabolitos principales son farmacológicamente inactivos|Farmacológicamente inactivos; es improbable que el resto tenga actividad.
+E|Los al menos nueve metabolitos se excretan por los riñones; la semivida plasmática es de unas 13-15 horas tras una dosis única.|transformándose como mínimo en nueve metabolitos que se excretan por los riñones|rinones,orina
++|E|La semivida plasmática es de 13-15 horas aproximadamente tras una administración única y algo más larga (17-22 horas) tras administración repetida.|La semivida plasmática es de 13-15 horas aproximadamente después de una administración única|||
+C|tmax|Tiempo hasta la concentración plasmática máxima|3-8|h|La concentración plasmática máxima se alcanza a las 3-8 horas de la toma|fluvoxamina
+C|biodisponibilidad|Biodisponibilidad total media|53|%|La biodisponibilidad total media es del 53 % debido al metabolismo de primer paso|fluvoxamina
+C|union|Unión a proteínas plasmáticas|80|%|In vitro la unión a proteínas plasmáticas de fluvoxamina es del 80%|fluvoxamina||in vitro
+C|vd|Volumen de distribución|25|L/kg|El volumen de distribución en humanos es de 25 l/kg|fluvoxamina
+C|semivida|Semivida plasmática tras una dosis única|13-15 (aprox.)|h|La semivida plasmática es de 13-15 horas aproximadamente después de una administración única|fluvoxamina
+R|Los efectos adversos de los ensayos suelen estar relacionados con la enfermedad y no necesariamente con el tratamiento.|con frecuencia están relacionadas con la enfermedad y no necesariamente relacionadas con el tratamiento
+R|Entre los trastornos endocrinos figuran la hiperprolactinemia y la secreción inadecuada de la hormona antidiurética.|Hiperprolactinemia, secreción inadecuada de la hormona antidiurética
+W|Suicidio y pensamientos suicidas|La depresión se asocia con un aumento del riesgo de pensamientos suicidas, autolesiones y suicidio, que persiste hasta la remisión.|encefalo|La depresión se asocia con un aumento del riesgo de pensamientos suicidas, autolesiones y suicidio (comportamiento suicida)

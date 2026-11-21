@@ -1,0 +1,60 @@
+@telmisartan|Telmisartán|CV|Antagonista de los receptores de la angiotensina II|telmisartan;telmisartán;Micardis|vias=oral;familia=solido-oral
+S|-
+X|Manitol (E-421); Hidróxido sódico; Meglumina; Povidona PVPK25; Kollidon CL; Lactosa de compresión directa; Estearato de magnesio
+K|20, 40 u 80 mg de telmisartán por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión esencial en adultos y reducción de la morbilidad cardiovascular en adultos con enfermedad cardiovascular aterotrombótica o diabetes tipo 2 con lesión de órgano diana.|Tratamiento de la hipertensión esencial en adultos
+A|Es un antagonista específico de los receptores de la angiotensina II (tipo AT1), activo por vía oral; se une de forma selectiva a ese receptor y su unión es de larga duración.|Telmisartán es un antagonista específico de los receptores de la angiotensina II|vasos|Receptor AT1 de la angiotensina II
++|A|Se une selectivamente al receptor AT1.|Telmisartán se une selectivamente al receptor AT 1|||
+L|Comprimido sin recubrir: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos de color blanco, cilíndricos, biconvexos, no ranurados|
+B|La absorción es rápida aunque la cantidad absorbida varía; la biodisponibilidad absoluta media es de aproximadamente el 50 %.|La biodisponibilidad absoluta media para telmisartán es de aproximadamente el 50 %|
++|B|Con alimento, la reducción del AUC varía de aproximadamente el 6 % (dosis de 40 mg) al 19 % (dosis de 160 mg).|varía de aproximadamente el 6 % (dosis de 40 mg) a aproximadamente el 19 % (dosis de 160 mg)|||con alimento
+D|Se une de forma elevada a las proteínas plasmáticas (más del 99,5 %), sobre todo a la albúmina y a la glucoproteína alfa-1 ácida.|Telmisartán se une de forma elevada a las proteínas plasmáticas (>99,5 %), principalmente a la albúmina y a la glucoproteína alfa-1 ácida|sangre
++|D|El volumen de distribución aparente medio en el estado de equilibrio es de aproximadamente 500 litros.|El volumen de distribución aparente medio en el estado de equilibrio (V dss ) es de aproximadamente 500 l|||
+M|Se metaboliza por conjugación al glucurónido de la sustancia original; el conjugado no tiene actividad farmacológica demostrada.|Telmisartán se metaboliza por conjugación al glucurónido de la sustancia original|higado
+T|Glucurónido de telmisartán|inactivo|No se ha demostrado actividad farmacológica para el conjugado|Sin actividad farmacológica demostrada.
+E|Se excreta de forma casi exclusiva por las heces, principalmente como compuesto inalterado; la excreción urinaria acumulativa es inferior al 1 % de la dosis.|telmisartán se excreta de forma casi exclusiva por las heces, principalmente como compuesto inalterado|heces,bilis|original
++|E|La vida media de eliminación terminal es superior a 20 horas.|con una vida media de eliminación terminal >20 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|50 (aprox.)|%|La biodisponibilidad absoluta media para telmisartán es de aproximadamente el 50 %|telmisartán
+C|union|Unión a proteínas plasmáticas|> 99,5|%|Telmisartán se une de forma elevada a las proteínas plasmáticas (>99,5 %)|telmisartán
+C|vd|Volumen de distribución aparente en equilibrio|500 (aprox.)|L|El volumen de distribución aparente medio en el estado de equilibrio (V dss ) es de aproximadamente 500 l|telmisartán
+C|semivida|Vida media de eliminación terminal|> 20|h|con una vida media de eliminación terminal >20 horas|telmisartán
+C|orina|Excreción urinaria acumulativa|< 1|% de la dosis|La excreción urinaria acumulativa es <1% de la dosis|telmisartán
+C|aclaramiento|Aclaramiento plasmático total|1.000 (aprox.)|mL/min|El aclaramiento plasmático total (Cltot) es elevado (aproximadamente 1.000 ml/min)|telmisartán
+R|Las reacciones graves incluyen reacción anafiláctica y angioedema (raras) e insuficiencia renal aguda.|Las reacciones adversas graves incluyen reacción anafiláctica y angioedema, que pueden ocurrir raramente
+R|La incidencia global de reacciones adversas fue comparable a la del placebo (41,4 % frente a 43,9 %) en ensayos controlados en hipertensión.|(41,4% vs. 43,9%), en ensayos controlados en pacientes tratados para la hipertensión
+W|Embarazo|No se debe iniciar ningún tratamiento con antagonistas de los receptores de la angiotensina II durante el embarazo.|organos-reproductores|No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la Angiotensina II (ARA II) durante el embarazo|
+W|Insuficiencia hepática y obstrucción biliar|No debe administrarse a pacientes con colestasis, trastornos obstructivos biliares o insuficiencia hepática grave.|higado,bilis|Telmisartán no debe administrarse a pacientes con colestasis, trastornos obstructivos biliares o insuficiencia hepática grave|
+
+@amlodipino-benazepril|Amlodipino + benazepril|CV|Combinación fija: bloqueante de canales de calcio e inhibidor de la ECA|amlodipine and benazepril;amlodipino y benazepril;Lotrel|doc=amlodipino-benazepril;comb=amlodipino,benazepril;forma=CAPSULE;vias=oral;familia=solido-oral
+S|-
+K|2,5/10, 5/10, 5/20, 5/40, 10/20 y 10/40 mg (amlodipino/benazepril) por cápsula, según la etiqueta
+U|Tratamiento de la hipertensión en pacientes no controlados adecuadamente con uno solo de los dos fármacos.|indicated for the treatment of hypertension in patients not adequately controlled on monotherapy with either agent
+A|El amlodipino es un antagonista del calcio (dihidropiridina) que inhibe la entrada de calcio al músculo liso vascular y al cardiaco; el benazepril, a través de benazeprilat, inhibe la enzima convertidora de angiotensina.|Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle|vasos,corazon|Canales de calcio (amlodipino) y enzima convertidora de angiotensina (benazepril)
++|A|El benazepril y el benazeprilat inhiben la ECA en personas y animales.|Benazepril and benazeprilat inhibit ACE in human subjects and in animals|||
+L|Cápsula: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Amlodipine and benazepril hydrochloride capsules, USP are available as follows|
+B|Tras la toma, el amlodipino alcanza su pico plasmático a las 6-12 horas y el benazepril a las 0,5-2 horas; el benazeprilat, entre 1,5 y 4 horas.|Following oral administration of amlodipine and benazepril hydrochloride, peak plasma concentrations of amlodipine are reached in 6 to 12 hours|
++|B|La velocidad y la extensión de la absorción desde la cápsula son las mismas que con los comprimidos individuales.|The rate and extent of absorption of benazepril and amlodipine from amlodipine and benazepril hydrochloride are the same as when administered as individual tablets|||
++|B|El pico plasmático de benazepril se alcanza en 0,5 a 2 horas.|the peak plasma concentrations of benazepril are reached in 0.5 to 2 hours|||
+D|El volumen de distribución aparente del amlodipino es de unos 21 L/kg y alrededor del 93 % del amlodipino circulante va unido a proteínas del plasma.|The apparent volume of distribution of amlodipine is about 21 L/kg. In vitro studies indicate that approximately 93% of circulating amlodipine is bound to plasma proteins in hypertensive patients|sangre
++|D|El volumen de distribución aparente del benazeprilat es de unos 0,7 L/kg.|The apparent volume of distribution of benazeprilat is about 0.7 L/kg|||
+M|El amlodipino se metaboliza ampliamente (alrededor del 90 %) en el hígado a metabolitos inactivos; el benazepril se transforma en benazeprilat por hidrólisis enzimática, sobre todo en el hígado.|Amlodipine is extensively (approximately 90%) metabolized in the liver to inactive metabolites|higado
++|M|El benazepril se metaboliza ampliamente y forma benazeprilat como metabolito principal.|Benazepril is extensively metabolized to form benazeprilat as the main metabolite, which occurs by enzymatic hydrolysis, mainly in the liver|||
+T|Benazeprilat|activo|The cleavage of the ester group (primarily in the liver) converts benazepril to its active metabolite, benazeprilat|Metabolito activo del benazepril.
+T|Metabolitos del amlodipino|inactivo|Amlodipine is extensively (approximately 90%) metabolized in the liver to inactive metabolites|Sin actividad.
+T|Acilglucurónidos de benazepril y benazeprilat|desconocida|Two minor metabolites are the acyl glucuronide conjugates of benazepril and benazeprilat|Metabolitos menores; la etiqueta no indica su actividad.
+E|Salen por la orina el 10 % del amlodipino sin cambios y el 60 % de sus metabolitos; el benazeprilat se elimina por los riñones y la bilis, con la vía renal como principal en función renal normal.|Ten percent of unchanged drug and 60% of amlodipine metabolites are excreted in urine|rinones,orina,bilis
++|E|El benazeprilat se elimina por los riñones y la bilis; la excreción renal es la vía principal con función renal normal.|Benazeprilat is eliminated via the kidneys and the bile; renal excretion is the main route in patients with normal renal function|||
++|E|En la orina, el benazepril supone menos del 1 % y el benazeprilat alrededor del 20 % de una dosis oral.|In the urine, benazepril accounts for less than 1% and benazeprilat for about 20% of an oral dose|||
+C|tmax|Tiempo hasta el pico plasmático del amlodipino|6 a 12|h|peak plasma concentrations of amlodipine are reached in 6 to 12 hours|amlodipino
+C|tmax|Tiempo hasta el pico plasmático del benazepril|0,5 a 2|h|the peak plasma concentrations of benazepril are reached in 0.5 to 2 hours|benazepril
+C|biodisponibilidad|Biodisponibilidad absoluta del amlodipino|64 a 90|%|Absolute bioavailability has been calculated as between 64% and 90%|amlodipino
+C|vd|Volumen de distribución del amlodipino|21 (aprox.)|L/kg|The apparent volume of distribution of amlodipine is about 21 L/kg|amlodipino
+C|vd|Volumen de distribución del benazeprilat|0,7 (aprox.)|L/kg|The apparent volume of distribution of benazeprilat is about 0.7 L/kg|benazeprilat
+C|union|Unión a proteínas del plasma del amlodipino|93 (aprox.)|%|approximately 93% of circulating amlodipine is bound to plasma proteins in hypertensive patients|amlodipino
+C|semivida|Semivida terminal de eliminación del amlodipino|30 a 50 (aprox.)|h|Amlodipine elimination from plasma is biphasic with a terminal elimination half-life of approximately 30 to 50 hours|amlodipino
+C|semivida|Semivida terminal del benazeprilat|22 (aprox.)|h|Elimination of benazeprilat is biphasic with an initial half-life of about 3 hours and a terminal half-life of about 22 hours|benazeprilat
+C|orina|Benazeprilat en la orina|20 (aprox.)|% de la dosis|In the urine, benazepril accounts for less than 1% and benazeprilat for about 20% of an oral dose|benazeprilat
+R|Los motivos más frecuentes de suspensión fueron la tos y el edema.|The most common reasons for discontinuation of therapy with amlodipine and benazepril hydrochloride were cough and edema
+R|Se suspendió el tratamiento por reacciones adversas en el 4 % de los tratados con la combinación y en el 3 % de los tratados con placebo.|Discontinuation because of adverse reactions occurred in 4% of amlodipine and benazepril hydrochloride-treated patients and 3% of placebo-treated patients
+W|Toxicidad fetal|Los fármacos que actúan directamente sobre el sistema renina-angiotensina pueden causar lesiones y muerte al feto en desarrollo.|organos-reproductores|Drugs that act directly on the renin-angiotensin system (RAS) can cause injury and death to the developing fetus|34066-1
+W|Angioedema|La etiqueta advierte de angioedema de cabeza y cuello.|vias-respiratorias|Head and Neck Angioedema|43685-7

@@ -1,0 +1,73 @@
+@metilprednisolona|Metilprednisolona|II|Glucocorticoide|methylprednisolone;Urbason|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Almidón de maíz; Talco; Estearato de magnesio; Sílice coloidal anhidra
+K|4, 16 y 40 mg de metilprednisolona por comprimido, según la ficha técnica
+U|Tratamiento de sustitución en la insuficiencia adrenal y, a dosis farmacológicas, por su acción antiinflamatoria e inmunosupresora.|Tratamiento de sustitución en la insuficiencia adrenal, para reponer la falta de hormonas endógenas
+A|Es un glucocorticoide de duración de acción intermedia, con potencia mineralocorticoide prácticamente nula; los esteroides interaccionan con receptores citoplasmáticos intracelulares específicos.|Glucocorticoide de duración de acción intermedia, con prácticamente nula potencia mineralocorticoide|sistema-inmunitario,tejidos|Receptor citoplasmático de glucocorticoides
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Urbason 4 mg comprimidos : comprimidos redondos, planos, ranurados|
+B|La biodisponibilidad oral es del 80 % y el Tmax de 90 minutos.|Su biodisponibilidad oral es del 80 % (Tmax = 90 min)|
++|B|Los alimentos retrasan la absorción pero no la reducen.|Los alimentos retrasan la absorción pero no la reducen|||con alimentos
+D|El volumen aparente de distribución es de 1,2-1,5 L/kg: se distribuye ampliamente por todo el organismo.|Su volumen aparente de distribución es de 1,2-1,5 l/kg siendo distribuida ampliamente por todo el organismo|sangre,tejidos
++|D|La unión a proteínas del plasma es del 62 %; se une solo a la albúmina, no a la transcortina.|El grado de unión a proteínas plasmáticas es del 62%, se une sólo a la albúmina pero no a la transcortina|||
++|D|Difunde a través de la barrera placentaria y a la leche.|Difunde a través de la barrera placentaria y lactosanguínea|||
+M|Se metaboliza en el hígado y da metabolitos sin actividad biológica significativa.|Es metabolizado en el hígado, dando lugar a metabolitos sin actividad biológica significativa|higado
+T|Metabolitos hepáticos|inactivo|dando lugar a metabolitos sin actividad biológica significativa|Sin actividad biológica significativa.
+E|Se elimina sobre todo por la orina; menos del 10 % se excreta inalterado.|siendo eliminado mayoritariamente con la orina, <10% se excreta en forma inalterada|rinones,orina
++|E|La semivida de eliminación es de 4-8 horas y la semivida biológica, de 18-36 horas.|Su semivida de eliminación es de 4-8 h y su semivida biológica es de 18-36 h|||
+C|biodisponibilidad|Biodisponibilidad oral|80|%|Su biodisponibilidad oral es del 80 %|metilprednisolona
+C|tmax|Tiempo hasta el pico plasmático|90|min|Su biodisponibilidad oral es del 80 % (Tmax = 90 min)|metilprednisolona
+C|vd|Volumen aparente de distribución|1,2-1,5|L/kg|Su volumen aparente de distribución es de 1,2-1,5 l/kg|metilprednisolona
+C|union|Unión a proteínas plasmáticas|62|%|El grado de unión a proteínas plasmáticas es del 62%|metilprednisolona
+C|semivida|Semivida de eliminación|4-8|h|Su semivida de eliminación es de 4-8 h|metilprednisolona
+R|En la mayor parte de los casos afectan sobre todo al sistema endocrino y al equilibrio electrolítico.|En l a mayor parte de los casos las reacciones adversas afectan principalmente al sistema endocrino y al equilibrio electrolítico
+R|Son frecuentes la distribución anormal de grasas (obesidad troncal, cara de luna llena) y el aumento de la glucemia.|Frecuentes : distribución anormal de grasas, como obesidad troncal, cara de luna llena y aumento en los niveles de glucemia
+W|Perforación intestinal|Por el riesgo de perforación intestinal con peritonitis, solo debe usarse en casos como la colitis ulcerosa grave o la diverticulitis cuando haya razones médicas importantes y con vigilancia adecuada.|intestino-delgado,intestino-grueso|Debido al riesgo de perforación intestinal con peritonitis, Urbason solo debe ser utilizado en los siguientes casos cuando existan importantes razones médicas para ello
+W|Infecciones|Puede debilitar la respuesta inmune y permitir nuevas infecciones o la activación de infecciones latentes.|sistema-inmunitario|El empleo de glucocorticoides puede debilitar la respuesta inmune, y pueden surgir nuevas infecciones
+
+@flutamida|Flutamida|ON|Antiandrógeno no esteroideo|flutamide|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Laurilsulfato sódico; Celulosa microcristalina; Almidón de maíz; Dióxido de sílice; Estearato magnésico
+K|250 mg de flutamida por comprimido, según la ficha técnica
+U|Tratamiento del carcinoma prostático avanzado en el que esté indicada la supresión de los efectos de la testosterona.|Tratamiento del carcinoma prostático avanzado en el que esté indicado la supresión de los efectos de la testosterona
+A|Es un antiandrógeno oral no esteroideo del grupo de las anilidas: ejerce su acción por inhibición de la captación de andrógenos o de la unión de estos a su receptor.|La flutamida es un antiandrogénico oral no esteroide del grupo de las anilidas|prostata|Receptor de andrógenos
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos de color amarillo brillante|
+B|Se absorbe bien tras la ingestión oral.|Flutamida se absorbe bien tras la ingestión oral|
++|B|El metabolito alfa-hidroxilado activo alcanza sus niveles plasmáticos máximos en aproximadamente dos horas.|El metabolito alfa-hidroxilado biológicamente activo alcanza niveles plasmáticos máximos aproximadamente en dos horas|||
+D|Se une en alta proporción a las proteínas (94 % a 96 %) y su metabolito activo, en una proporción del 92 % al 94 %.|Flutamida se une en alta proporción a las proteínas (94 al 96%) y su metabolito activo lo hace en una proporción del 92 al 94%|sangre
+M|Se convierte rápida y ampliamente en metabolitos: se identificaron al menos seis en el plasma hasta 8 horas después de la administración.|Los estudios con flutamida radiomarcada revelan una rápida y amplia conversión a sus metabolitos habiendo sido identificados al menos seis en el plasma hasta 8 horas después de la administración|higado
+T|Derivado alfa-hidroxilado|activo|El metabolito plasmático principal, un derivado alfa-hidroxilado biológicamente activo, representa el 23% en el plasma radiomarcado una hora después de la administración del fármaco|Metabolito plasmático principal, biológicamente activo.
+E|Aproximadamente el 45 % de la dosis se excreta por la orina y el 2 % por las heces en los dos primeros días.|Aproximadamente el 45% de la dosis administrada se excreta en la orina y el 2% en las heces, durante los primeros dos días|rinones,orina,heces
++|E|La semivida plasmática del metabolito activo es de alrededor de 6 horas en el adulto y de 8 horas en voluntarios sanos de edad avanzada.|La semivida plasmática para este metabolito es alrededor de 6 horas en el adulto y de 8 horas en voluntarios sanos de edad avanzada|||
+C|tmax|Tiempo hasta el pico del metabolito activo|2 (aprox.)|h|alcanza niveles plasmáticos máximos aproximadamente en dos horas|metabolito alfa-hidroxilado
+C|union|Unión a proteínas plasmáticas|94-96|%|Flutamida se une en alta proporción a las proteínas (94 al 96%)|flutamida
+C|semivida|Semivida plasmática del metabolito activo|6 (aprox.)|h|La semivida plasmática para este metabolito es alrededor de 6 horas en el adulto|metabolito alfa-hidroxilado|adultos
+C|orina|Dosis excretada por la orina en dos días|45 (aprox.)|% de la dosis|Aproximadamente el 45% de la dosis administrada se excreta en la orina|flutamida y metabolitos
+C|heces|Dosis excretada por las heces en dos días|2 (aprox.)|% de la dosis|el 2% en las heces|flutamida y metabolitos
+R|Las más comunicadas en monoterapia son la ginecomastia o la sensibilidad mamaria, a veces con galactorrea.|Las reacciones adversas a flutamida comunicadas más a menudo en estudios clínicos son ginecomastia y/o sensibilidad mamaria, acompañadas a veces de galactorrea
+R|Combinada con agonistas de la LHRH: sofocos, disminución de la libido, impotencia, diarrea, náuseas y vómitos.|las reacciones adversas comunicadas con mayor frecuencia durante el tratamiento combinado de flutamida con agonistas LHRH fueron sofocos, disminución de la libido, impotencia, diarrea, náuseas y vómitos
+W|Daño hepático|Se han comunicado alteraciones de las transaminasas, ictericia colestásica y necrosis y encefalopatía hepáticas.|higado|Con el uso de flutamida se han comunicado alteraciones de las transaminasas e ictericia colestática así como necrosis y encefalopatía hepáticas
+
+@levonorgestrel|Levonorgestrel|HE|Progestágeno (anticonceptivo de emergencia)|levonorgestrel;Kallya|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Lactosa monohidrato; Poloxámero 188; Croscarmelosa sódica; Estearato de magnesio (E470b)
+K|1,5 mg de levonorgestrel por comprimido, según la ficha técnica
+U|Anticoncepción de emergencia dentro de las 72 horas siguientes a relaciones sexuales sin protección o al fallo de otro método anticonceptivo.|Kallya está indicado como anticonceptivo de emergencia dentro de las 72 horas siguientes a haber mantenido relaciones sexuales sin protección
+A|Se piensa que actúa sobre todo evitando la ovulación y la fecundación si la relación ha tenido lugar en la fase preovulatoria.|se piensa que el levonorgestrel actúa principalmente evitando la ovulación y la fecundación si la relación sexual ha tenido lugar en la fase preovulatoria|organos-reproductores|
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido redondo, blanco, plano, con aproximadamente unos 6 mm|
+B|Administrado por vía oral se absorbe rápidamente y casi por completo; la biodisponibilidad absoluta es casi del 100 % de la dosis.|El levonorgestrel administrado por vía oral se absorbe rápidamente y casi por completo|
++|B|La biodisponibilidad absoluta es casi del 100 % de la dosis administrada.|La biodisponibilidad absoluta del levonorgestrel es casi del 100% de la dosis administrada|||
++|B|Tras un comprimido de 1,5 mg en mujeres sanas, se alcanzaron niveles séricos máximos de 18,5 ng/mL al cabo de 2 horas.|se alcanzaron niveles séricos máximos de levonorgestrel de 18,5 ng/ml al cabo de 2 horas|mujeres sanas|un comprimido de 1,5 mg
+D|Solo alrededor del 1,5 % de los niveles séricos totales está en forma de esteroide libre; el 65 % se une de forma específica a la globulina fijadora de hormonas sexuales (SHBG) y el resto, a la albúmina.|Sólo alrededor de un 1,5% de los niveles séricos totales está presente en forma de esteroide libre, estando un 65% unido de forma específica a la SHBG|sangre
++|D|Alrededor del 0,1 % de la dosis puede pasar al lactante a través de la leche materna.|Alrededor de un 0,1% de la dosis puede pasar al lactante a través de la leche de la madre|||
+M|Sigue las rutas conocidas del metabolismo de los esteroides: se hidroxila por las enzimas hepáticas, sobre todo la CYP3A4, y sus metabolitos se excretan tras glucuronidación.|levonorgestrel es hidroxilado por las enzimas hepáticas principalmente CYP3A4|higado
+T|Metabolitos del levonorgestrel|inactivo|No se conocen metabolitos con actividad farmacológica|No se conocen metabolitos con actividad farmacológica.
+E|No se excreta de forma inalterada, sino como metabolitos, que salen en proporciones aproximadamente iguales por la orina y por las heces.|Los metabolitos de levonogestrel se excretan en proporciones aproximadamente iguales en orina y en heces|rinones,orina,heces
++|E|La concentración disminuye con una semivida de eliminación media de aproximadamente 26 horas.|la concentración de levonorgestrel disminuye con una semivida de eliminación media de aproximadamente 26 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta|≈ 100|%|La biodisponibilidad absoluta del levonorgestrel es casi del 100% de la dosis administrada|levonorgestrel
+C|tmax|Tiempo hasta los niveles séricos máximos|2|h|se alcanzaron niveles séricos máximos de levonorgestrel de 18,5 ng/ml al cabo de 2 horas|levonorgestrel|mujeres sanas|un comprimido de 1,5 mg
+C|otra|Fracción unida de forma específica a la SHBG|65|%|estando un 65% unido de forma específica a la SHBG|levonorgestrel
+C|semivida|Semivida de eliminación media|26 (aprox.)|h|con una semivida de eliminación media de aproximadamente 26 horas|levonorgestrel
+R|La reacción adversa notificada con más frecuencia fueron las náuseas.|La reacción adversa más comúnmente notificada fueron las náuseas
+R|Entre los trastornos del sistema nervioso figuran la cefalea y el mareo.|Trastornos del sistema nervioso Cefalea Mareo
+W|Uso ocasional|Es un método de uso ocasional y en ningún caso debe sustituir a un método anticonceptivo convencional.|organos-reproductores|En ningún caso debe sustituir a un método anticonceptivo convencional
+W|No evita el embarazo en todos los casos|No siempre evita el embarazo.|organos-reproductores|La anticoncepción de emergencia no evita el embarazo en todos los casos

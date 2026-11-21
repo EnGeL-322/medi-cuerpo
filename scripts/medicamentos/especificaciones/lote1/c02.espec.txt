@@ -1,0 +1,70 @@
+@everolimus|Everolimus|II|Inmunosupresor, inhibidor de mTOR|everolimus;Certican|vias=oral;familia=solido-oral
+S|-
+X|Butilhidroxitolueno (E321); Estearato de magnesio (E470 B); Lactosa monohidrato; Hipromelosa tipo 2910; Crospovidona tipo A; Lactosa anhidra
+K|0,25, 0,5, 0,75 o 1 mg de everolimus por comprimido, según la ficha técnica
+U|Profilaxis del rechazo de órganos en adultos con riesgo inmunológico bajo o moderado que reciben un trasplante renal o cardíaco alogénico.|Certican está indicado para la profilaxis del rechazo de órganos en pacientes adultos con bajo a moderado riesgo inmunológico
+A|Inhibe la proliferación y, con ella, la expansión clonal de las células T activadas por antígenos, lo que produce el efecto inmunosupresor que previene el rechazo del injerto.|Ejerce su efecto inmunosupresor inhibiendo la proliferación, y por lo tanto, la expansión clonal de las células T activadas por antígenos|sistema-inmunitario|Diana de la rapamicina en mamíferos (mTOR)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos redondos, planos, de color blanco a amarillento, veteados y con bordes biselados|
+B|Tras la administración oral, las concentraciones máximas se alcanzan entre 1 y 2 horas después de la dosis.|las concentraciones máximas de everolimus se alcanzan entre 1 y 2 h después de la dosis|
++|B|Con una comida rica en grasas, la Cmax baja un 60 % y el AUC un 16 %.|La C max y el AUC de everolimus se reducen en un 60% y un 16% cuando la formulación en comprimidos se administra con una comida rica en grasas|||con una comida rica en grasas
+D|La unión a las proteínas del plasma es de aproximadamente el 74 % y el volumen de distribución de la fase final en pacientes con trasplante renal es de 342 ± 107 litros.|La unión a las proteínas plasmáticas es aproximadamente del 74% en voluntarios sanos|sangre
+M|Es sustrato de la CYP3A4 y de la glucoproteína P; tras la administración oral es el principal componente circulante en la sangre humana.|Everolimus es un sustrato de CYP3A4 y glicoproteína P|higado,intestino-delgado
+T|Seis metabolitos principales (tres monohidroxilados, dos de anillo abierto y un conjugado de fosfatidilcolina)|activo|mostraron aproximadamente 100 veces menos actividad que everolimus por sí mismo|Unas 100 veces menos activos que el fármaco original, que aporta la mayor parte de la actividad.
+E|Tras una dosis marcada, el 80 % de la radiactividad se recuperó en las heces y solo el 5 % en la orina; el fármaco original no se detectó en ninguna de las dos.|la mayoría (80%) de la radioactividad se recuperó de las heces y sólo una pequeña cantidad (5%) se excretó en orina|heces,rinones,orina
++|E|La semivida de eliminación es de 28 ± 7 horas.|La semivida de eliminación es de 28 ± 7 h|||
+C|tmax|Tiempo hasta el pico en sangre|1-2|h|las concentraciones máximas de everolimus se alcanzan entre 1 y 2 h después de la dosis|everolimus
+C|union|Unión a proteínas plasmáticas|74 (aprox.)|%|La unión a las proteínas plasmáticas es aproximadamente del 74%|everolimus|voluntarios sanos
+C|vd|Volumen de distribución de la fase final (Vz/F)|342 ± 107|L|El volumen de distribución asociado con la fase final (Vz/F) en los pacientes con trasplante renal de mantenimiento es de 342 ± 107 l|everolimus|pacientes con trasplante renal
+C|semivida|Semivida de eliminación|28 ± 7|h|La semivida de eliminación es de 28 ± 7 h|everolimus|pacientes trasplantados
+C|heces|Radiactividad recuperada en las heces|80|% de la dosis|la mayoría (80%) de la radioactividad se recuperó de las heces|radiactividad total|pacientes trasplantados con ciclosporina|dosis única de everolimus marcado
+R|Las más frecuentes: infecciones, anemia, hiperlipidemia, diabetes mellitus de nuevo inicio, insomnio, cefalea, hipertensión, tos, estreñimiento, náuseas, edema periférico y alteración de la cicatrización.|Las reacciones adversas más frecuentes son: infecciones, anemia, hiperlipidemia, diabetes mellitus de nuevo inicio, insomnio, cefalea, hipertensión, tos, estreñimiento, náusea, edema periférico, alteración de la cicatrización
+R|Las frecuencias derivan de ensayos controlados de 12 meses en receptores adultos de trasplantes, con inhibidores de la calcineurina y corticosteroides.|Las frecuencias de las reacciones adversas descritas a continuación derivan del análisis de incidencias de efectos notificados durante 12 meses en ensayos controlados
+W|Infecciones graves y oportunistas|Los pacientes tratados con inmunosupresores tienen mayor riesgo de infecciones oportunistas bacterianas, fúngicas, víricas y protozoarias.|sistema-inmunitario|Los pacientes tratados con inmunosupresores, incluido Certican, presentan un mayor riesgo para infecciones oportunistas
+W|Linfomas y otras neoplasias malignas|Los pacientes inmunosuprimidos tienen mayor riesgo de linfomas y de otras neoplasias malignas, sobre todo de la piel.|sistema-inmunitario,piel|poseen un mayor riesgo de desarrollar linfomas y otras neoplasias malignas
+
+@rivastigmina|Rivastigmina|SN|Inhibidor de la colinesterasa (tratamiento de la demencia)|rivastigmine|vias=oral;familia=solido-oral
+S|Hidrógeno tartrato de rivastigmina|hidrógeno tartrato de rivastigmina correspondiente a 1,5 mg de rivastigmina base
+X|Celulosa microcristalina (Avicel PH-302); Hipromelosa (Methocel E50 LV); Sílice coloidal anhidra; Estearato magnésico; Gelatina; Dióxido de titanio (E 171); Óxido de hierro amarillo (E 172); Óxido de hierro rojo (E 172, en las concentraciones de 3, 4,5 y 6 mg)
+K|1,5 mg de rivastigmina base por cápsula (como hidrógeno tartrato), según la ficha técnica
+U|Tratamiento sintomático de la demencia de Alzheimer leve a moderadamente grave y de la demencia leve a moderadamente grave de la enfermedad de Parkinson idiopática.|Tratamiento sintomático de la demencia de Alzheimer leve a moderadamente grave
+A|Es un inhibidor de la acetil- y butirilcolinesterasa de tipo carbamato: facilita la neurotransmisión colinérgica al ralentizar la degradación de la acetilcolina liberada por las neuronas colinérgicas.|Rivastigmina es un inhibidor de la acetil- y butirilcolinesterasa de tipo carbamato|encefalo|Acetilcolinesterasa y butirilcolinesterasa
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Rivastigmina VIR 1,5 mg: se presenta como cápsulas de gelatina dura|
+B|Se absorbe rápida y completamente y el pico plasmático llega al cabo de aproximadamente una hora; la biodisponibilidad absoluta tras una dosis de 3 mg es de alrededor del 36 ± 13 %.|Rivastigmina se absorbe rápida y completamente|
++|B|Con alimento, la absorción se retrasa unos 90 minutos, la Cmax baja y el AUC aumenta en torno al 30 %.|La administración de rivastigmina con alimento retrasa la absorción|||con alimento
+D|Se une a proteínas en aproximadamente un 40 %, atraviesa fácilmente la barrera hematoencefálica y su volumen aparente de distribución oscila entre 1,8 y 2,7 L/kg.|Rivastigmina se une a proteínas aproximadamente en un 40%|sangre,encefalo
++|D|Atraviesa fácilmente la barrera hematoencefálica.|Atraviesa fácilmente la barrera hematoencefálica|||
+M|Se metaboliza rápida y extensamente, sobre todo por hidrólisis mediada por la colinesterasa, hasta el metabolito decarbamilado.|Rivastigmina se metaboliza rápida y extensamente|tejidos
+T|Metabolito decarbamilado|inactivo|este metabolito muestra una inhibición mínima de la acetilcolinesterasa|Inhibe menos del 10 % de la acetilcolinesterasa in vitro.
+E|No se halló rivastigmina inalterada en la orina: la excreción renal de los metabolitos es la vía principal, con más del 90 % de una dosis marcada eliminada por el riñón en 24 horas.|la excreción renal de los metabolitos es la principal vía de eliminación|rinones,orina
++|E|Menos del 1 % de la dosis se excreta en las heces.|Menos del 1% de la dosis administrada se excreta en las heces|||
+C|tmax|Tiempo hasta el pico plasmático|1 (aprox.)|h|Las concentraciones plasmáticas máximas se alcanzan al cabo de aproximadamente una hora|rivastigmina
+C|biodisponibilidad|Biodisponibilidad absoluta (dosis de 3 mg)|36 ± 13 (aprox.)|%|La biodisponibilidad absoluta tras una dosis de 3 mg es aprox. del 36% ± 13%|rivastigmina
+C|union|Unión a proteínas|40 (aprox.)|%|Rivastigmina se une a proteínas aproximadamente en un 40%|rivastigmina
+C|orina|Eliminación renal en 24 horas|> 90|% de la dosis|la eliminación renal fue rápida y prácticamente completa (>90%) al cabo de 24 horas|rivastigmina||dosis de rivastigmina marcada con 14C
+R|Las más comunes son gastrointestinales: náuseas (38 %) y vómitos (23 %), sobre todo durante la fase de determinación de la dosis.|Las reacciones adversas del fármaco más comúnmente notificadas son reacciones gastrointestinales que incluyen náuseas (38%) y vómitos (23%)
+R|Las mujeres tratadas fueron más susceptibles que los hombres a las reacciones gastrointestinales y a la pérdida de peso.|las mujeres tratadas eran más susceptibles que los hombres a las reacciones adversas gastrointestinales del fármaco y a la pérdida de peso
+W|Dermatitis alérgica|Se han notificado casos raros de dermatitis alérgica diseminada con rivastigmina, por cualquier vía de administración.|piel|pacientes que experimentaron dermatitis alérgica (diseminada) cuando se les administró rivastigmina
+W|Reacciones adversas dependientes de la dosis|La incidencia y la gravedad de las reacciones adversas aumentan en general con las dosis elevadas.|estomago|La incidencia y gravedad de las reacciones adversas aumentan generalmente a dosis elevadas
+
+@ebastina|Ebastina|RA|Antihistamínico H1 no sedante|ebastine;Bactil|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina (E-460i); Almidón de maíz pregelatinizado; Lactosa monohidrato; Croscarmelosa sódica (E-468); Estearato de magnesio (E-572); Hipromelosa (E-464); Macrogol 6.000; Dióxido de titanio (E-171)
+K|10 mg de ebastina por comprimido, según la ficha técnica
+U|Alivio sintomático de la rinoconjuntivitis alérgica y de la urticaria con síntomas leves, en adultos y adolescentes desde 12 años.|alivio sintomático de la rinoconjuntivitis alérgica y urticaria que cursen con síntomas leves
+A|Produce una inhibición rápida y prolongada de los efectos de la histamina y se une con fuerte afinidad a los receptores H1.|Ebastina produce una inhibición rápida y prolongada de los efectos inducidos por histamina|vasos,piel|Receptor H1 de la histamina
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos circulares, de color blanco y con una cara marcada con E10|
+B|Se absorbe rápidamente y sufre un importante metabolismo de primer paso en el hígado, que da lugar a su metabolito ácido activo, la carebastina.|ebastina se absorbe rápidamente, sufriendo un importante efecto de metabolismo de primer paso hepático|
++|B|Tras una dosis oral única de 10 mg, los niveles plasmáticos máximos del metabolito se obtienen entre las 2,6 y las 4 horas.|los niveles plasmáticos máximos del metabolito se obtienen entre las 2,6 y las 4 horas|voluntarios|dosis oral única de 10 mg
+D|Tanto la ebastina como la carebastina se unen a proteínas del plasma en más del 97 %.|Tanto ebastina como carebastina muestran una elevada unión a proteínas, >97%|sangre
+M|Estudios in vitro con microsomas hepáticos humanos muestran que la ebastina se metaboliza a carebastina mediante la enzima CYP3A4.|ebastina es metabolizada a carebastina mediante el enzima CYP3A4|higado
+T|Carebastina (metabolito ácido)|activo|da lugar a la aparición de su metabolito ácido activo, carebastina|Metabolito ácido activo, formado en el primer paso hepático.
+E|Un 66 % del fármaco se excreta por la orina, principalmente como metabolitos conjugados.|siendo un 66% del fármaco excretado en orina, principalmente en forma de metabolitos conjugados|rinones,orina
++|E|La vida media del metabolito ácido está entre 15 y 19 horas.|La vida media del metabolito ácido se sitúa entre 15 y 19 h|||
+C|tmax|Tiempo hasta el pico del metabolito|2,6-4|h|los niveles plasmáticos máximos del metabolito se obtienen entre las 2,6 y las 4 horas|carebastina||dosis oral única de 10 mg
+C|union|Unión a proteínas plasmáticas|> 97|%|Tanto ebastina como carebastina muestran una elevada unión a proteínas, >97%|ebastina y carebastina
+C|semivida|Vida media del metabolito ácido|15-19|h|La vida media del metabolito ácido se sitúa entre 15 y 19 h|carebastina
+C|orina|Fármaco excretado por la orina|66|% de la dosis|siendo un 66% del fármaco excretado en orina|ebastina y metabolitos
+R|Las más frecuentes: dolor de cabeza, boca seca y somnolencia.|las reacciones adversas notificadas con mayor frecuencia fueron dolor de cabeza, boca seca y somnolencia
+R|El análisis conjunto incluyó ensayos controlados con placebo en 5.708 pacientes tratados con ebastina.|En un análisis conjunto de ensayos clínicos controlados con placebo realizados en 5.708 pacientes tratados con ebastina
+W|Riesgo cardíaco conocido|Debe evaluarse el beneficio y el riesgo en pacientes con prolongación del intervalo QT, hipocaliemia o fármacos que alarguen el QT o inhiban la CYP3A4.|corazon|Se debe evaluar la relación beneficio/riesgo de la administración del medicamento en pacientes con riesgo cardíaco conocido
+W|Insuficiencia hepática grave|Debe evaluarse la relación beneficio/riesgo en pacientes con insuficiencia hepática grave.|higado|Debe evaluarse la relación beneficio/riesgo en pacientes con insuficiencia hepática grave

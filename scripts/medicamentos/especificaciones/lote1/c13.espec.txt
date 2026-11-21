@@ -1,0 +1,103 @@
+@eprosartan|Eprosartán|CV|Antagonista de los receptores de la angiotensina II|eprosartan;Futuran|vias=oral;familia=solido-oral
+S|Mesilato de eprosartán dihidrato|Eprosartán (como mesilato de eprosartán dihidrato) 600 mg
+X|Lactosa monohidrato; Celulosa microcristalina; Almidón de maíz pregelatinizado sin gluten; Estearato de magnesio; Crospovidona; Hipromelosa; Dióxido de titanio; Macrogol 400; Polisorbato 80
+K|600 mg de eprosartán (como mesilato de eprosartán dihidrato) por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión arterial esencial.|Tratamiento de la hipertensión arterial esencial
+A|Es un antagonista de los receptores de la angiotensina II, sintético, no peptídico y activo por vía oral, que se une selectivamente al receptor AT1.|El eprosartán es un antagonista de los receptores de la angiotensina II, sintético, no peptídico, no tetrazol, no bifenilo y activo por vía oral, que se une selectivamente al receptor AT 1|vasos,corazon,rinones|Receptor AT1 de la angiotensina II
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos blancos, en forma ovalada|
+B|La biodisponibilidad absoluta tras una dosis oral única de 300 mg es de aproximadamente el 13 %, porque la absorción por vía oral es limitada.|La biodisponibilidad absoluta después de una dosis oral única de 300 mg de eprosartán es de aproximadamente un 13% debido a que la absorción por vía oral es limitada|
++|B|Las concentraciones plasmáticas máximas se alcanzan 1 o 2 horas después de una dosis oral en ayunas.|Las concentraciones plasmáticas máximas de eprosartán se alcanzan 1 o 2 horas después de una dosis oral en ayunas|||en ayunas
++|B|Con las comidas se retrasa la absorción y hay cambios poco importantes (menos del 25 %) en la Cmax y el AUC, sin repercusión clínica.|La administración de este medicamento con las comidas retrasa la absorción y produce cambios poco importantes (< 25%) en Cmáx y AUC, que carecen de repercusión clínica|||con las comidas
+D|La unión a las proteínas del plasma es elevada (aproximadamente el 98 %) y constante en el intervalo de concentraciones terapéuticas; el volumen de distribución es de unos 13 litros.|El grado de unión de eprosartán a las proteínas plasmáticas es elevado (aproximadamente un 98%) y constante en el intervalo de concentración alcanzado con dosis terapéuticas|sangre
++|D|El volumen de distribución es de unos 13 litros.|El volumen de distribución de este fármaco es de unos 13 litros|||
+M|Se metaboliza poco: en el plasma y en las heces solo se encontró eprosartán, y en la orina, cerca del 20 % de la radiactividad excretada fue un acilglucurónido y el 80 % restante, eprosartán inalterado.|en el plasma y en las heces solo se encontró eprosartán||sin
+T|Acilglucurónido de eprosartán|desconocida|En la orina, cerca del 20% de la radiactividad excretada correspondió a un acilglucurónido de eprosartán|Cerca del 20 % de la radiactividad urinaria; la ficha no precisa su actividad.
+E|Tras una dosis oral marcada, el 90 % de la radiactividad se recuperó en las heces y el 7 % en la orina; la excreción biliar y renal contribuye a la eliminación.|Tras una dosis oral de eprosartán marcado con 14 C, un 90% de la radiactividad se recuperó en las heces y un 7% en la orina|heces,bilis,rinones,orina|original
++|E|La semivida terminal de eliminación tras la administración oral es normalmente de 5 a 9 horas.|La semivida terminal de eliminación del eprosartán después de la administración oral es normalmente de 5 a 9 horas|||
++|E|La excreción biliar y renal contribuye a la eliminación.|La excreción biliar y renal contribuye a la eliminación del eprosartán|||
+C|biodisponibilidad|Biodisponibilidad absoluta (dosis de 300 mg)|13 (aprox.)|%|es de aproximadamente un 13%|eprosartán||dosis oral única de 300 mg
+C|tmax|Tiempo hasta las concentraciones máximas|1-2|h|se alcanzan 1 o 2 horas después de una dosis oral en ayunas|eprosartán||en ayunas
+C|union|Unión a proteínas plasmáticas|98 (aprox.)|%|es elevado (aproximadamente un 98%)|eprosartán
+C|vd|Volumen de distribución|13 (aprox.)|L|El volumen de distribución de este fármaco es de unos 13 litros|eprosartán
+C|semivida|Semivida terminal de eliminación|5-9|h|es normalmente de 5 a 9 horas|eprosartán
+C|heces|Radiactividad recuperada en las heces tras una dosis oral|90|% de la dosis|un 90% de la radiactividad se recuperó en las heces|radiactividad total||dosis oral de eprosartán marcado
+R|Las más frecuentes: cefalea (alrededor del 11 %) y molestias gastrointestinales inespecíficas (alrededor del 8 %).|Las reacciones adversas notificadas con mayor frecuencia en pacientes tratados con eprosartán son cefalea y molestias gastrointestinales inespecíficas, que se produjeron en aproximadamente el 11% y el 8% de los pacientes, respectivamente
+R|La tabla de la ficha recoge las reacciones de los 2316 pacientes de los ensayos clínicos.|Reacciones adversas experimentadas por los pacientes tratados con eprosartán que participaron en los ensayos clínicos (n = 2316)
+W|Insuficiencia hepática|En la insuficiencia hepática leve o moderada debe usarse con precaución por la poca experiencia disponible.|higado|En caso de insuficiencia hepática leve o moderada, eprosartán debe utilizarse con precaución debido a la poca experiencia disponible en esta población de pacientes
+
+@nimodipino|Nimodipino|SN|Bloqueante de canales de calcio (dihidropiridina)|nimodipine;Brainal|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina (E-460); Almidón de maíz pregelatinizado; Crospovidona; Povidona (E-1201); Estearato de magnesio (E-572); Hidroxipropilmetilcelulosa; Polietilenglicol 400; Dióxido de titanio (E 171)
+K|30 mg de nimodipino por comprimido, según la ficha técnica
+U|Prevención del deterioro neurológico causado por el vasoespasmo cerebral secundario a hemorragia subaracnoidea por rotura de aneurisma.|Prevención del deterioro neurológico ocasionado por vasoespasmo cerebral secundario a hemorragia subaracnoidea por rotura de aneurisma
+A|Es un antagonista del calcio indicado en la profilaxis y el tratamiento de los déficits neurológicos de tipo isquémico causados por vasoespasmo cerebral tras una hemorragia subaracnoidea.|Nimodipino (Brainal) es un antagonista del calcio indicado en la profilaxis y tratamiento de déficits neurológicos de tipo isquémico causados por vasoespasmo cerebral tras hemorragia subaracnoidea|encefalo,vasos|Canales de calcio
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película|
+B|Administrado por vía oral se absorbe casi por completo y la absorción digestiva es rápida.|El principio activo, nimodipino administrado por vía oral se absorbe casi por completo|
++|B|Las concentraciones plasmáticas máximas se alcanzan entre 30 minutos y una hora después de la administración oral.|La absorción digestiva es rápida: se alcanzan concentraciones plasmáticas máximas entre 30 minutos y una hora después de la administración oral|||
++|B|La biodisponibilidad es baja, del orden del 8-10 %, por el importante efecto de primer paso.|Su biodisponibilidad es baja, del orden del 8-10%, como consecuencia del importante efecto de primer paso que tiene lugar|||
+D|La unión a proteínas del plasma es alta (alrededor del 98 %) y el volumen de distribución es de 0,9 L/kg.|La unión a proteínas plasmáticas es alta, del orden de 98%|sangre,tejidos
++|D|El volumen de distribución es de 0,9 L/kg.|Su volumen de distribución es de 0,9 l/kg|||
++|D|Después de la administración oral e intravenosa se detecta en el líquido cefalorraquídeo a concentraciones de aproximadamente el 0,5 % de las plasmáticas.|el nimodipino se puede detectar en el líquido cefalorraquídeo (LCR) a concentraciones de aprox. 0,5% de las concentraciones plasmáticas medidas|||
+M|Se elimina por vía metabólica a través de la CYP3A4, sobre todo por deshidrogenación del anillo dihidropiridínico y o-desmetilación oxidativa; la glucuronidación es otro paso importante.|Nimodipino se elimina por vía metabólica a través de la isoenzima 3A4 del citocromo P450, principalmente, mediante la deshidrogenación del anillo dihidropiridínico y la o-desmetilación oxidativa|higado
+T|Tres metabolitos principales del plasma|inactivo|Los 3 metabolitos principales que aparecen en plasma muestran una actividad residual nula o terapéuticamente insignificante|Actividad residual nula o terapéuticamente insignificante.
+E|En el hombre, alrededor del 50 % de los metabolitos se excreta por vía renal y el 30 % por la bilis.|En el hombre, alrededor del 50% de los metabolitos se excreta por vía renal y el 30% por la bilis|rinones,orina,bilis
++|E|Su vida media es de aproximadamente una a dos horas.|Su vida media es de aproximadamente una a dos horas|||
+C|tmax|Tiempo hasta las concentraciones plasmáticas máximas|30-60|min|se alcanzan concentraciones plasmáticas máximas entre 30 minutos y una hora después de la administración oral|nimodipino
+C|biodisponibilidad|Biodisponibilidad|8-10|%|Su biodisponibilidad es baja, del orden del 8-10%|nimodipino
+C|union|Unión a proteínas plasmáticas|98 (aprox.)|%|La unión a proteínas plasmáticas es alta, del orden de 98%|nimodipino
+C|vd|Volumen de distribución|0,9|L/kg|Su volumen de distribución es de 0,9 l/kg|nimodipino
+C|semivida|Vida media|1-2 (aprox.)|h|Su vida media es de aproximadamente una a dos horas|nimodipino
+C|orina|Metabolitos excretados por vía renal|50 (aprox.)|% de la dosis|alrededor del 50% de los metabolitos se excreta por vía renal|nimodipino
+R|La reacción adversa notificada con más frecuencia es la hipotensión arterial.|La reacción adversa que se ha notificado con más frecuencia es la hipotensión arterial
+R|La hipotensión puede ocurrir en el 8 % de los pacientes tratados, pero muy raramente obliga a interrumpir el tratamiento.|Puede ocurrir en el 8% de los pacientes tratados con Brainal
+W|Hemorragia subaracnoidea de origen traumático|No debe utilizarse en pacientes con hemorragia subaracnoidea de origen traumático.|encefalo|Nimodipino no debe ser utilizado en pacientes con hemorragia subaracnoidea de origen traumático
+W|Insuficiencia renal grave|Debe evaluarse con cuidado la necesidad del tratamiento y controlarse la función renal a intervalos regulares.|rinones|deberá evaluarse cuidadosamente la necesidad del tratamiento y se realizarán controles de la función renal a intervalos regulares
+
+@cefditoreno|Cefditoreno|IN|Antibiótico cefalosporina de tercera generación|cefditoren;cefditoren pivoxil;Meiact|vias=oral;familia=solido-oral
+S|Pivoxilo de cefditoreno|245,1 mg de pivoxilo de cefditoren
+X|Caseinato de sodio; Croscarmelosa de sodio; Manitol E-421; Tripolifosfato de sodio; Estearato de magnesio; Hipromelosa; Dióxido de titanio E-171; Macrogol 400; Cera carnauba; Tinta de impresión azul
+K|200 mg de cefditoreno (como pivoxilo) por comprimido, según la ficha técnica
+U|Tratamiento de infecciones producidas por microorganismos sensibles, como la faringoamigdalitis aguda y la sinusitis.|MEIACT está indicado en el tratamiento de las siguientes infecciones producidas por microorganismos sensibles
+A|Ejerce su acción antibacteriana mediante la inhibición de la síntesis de la pared bacteriana, por su afinidad por las proteínas fijadoras de penicilina (PBP).|Cefditoreno ejerce su acción antibacteriana mediante la inhibición de la síntesis de la pared bacteriana debido a su afinidad por las proteínas fijadoras de penicilina (PBPs)|sitio-infeccion|Proteínas fijadoras de penicilina (PBP)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido blanco de forma elíptica|
+B|Cefditoreno pivoxilo se absorbe en el tubo digestivo y se hidroliza a cefditoreno por acción de esterasas.|Después de la administración oral, cefditoreno pivoxilo se absorbe en el tracto gastrointestinal y se hidroliza a cefditoreno por acción de esterasas|
++|B|La biodisponibilidad absoluta por vía oral es aproximadamente del 15-20 %.|La biodisponibilidad absoluta de cefditoreno administrado por vía oral es aproximadamente del 15-20%|||
++|B|Los alimentos incrementan la absorción: la Cmax y el AUC son aproximadamente un 50 % a un 70 % mayores que en ayunas.|La presencia de alimentos en el tracto gastrointestinal incrementa la absorción de cefditoreno pivoxilo|||con alimentos
+D|Se une en un 88 % a las proteínas del plasma; el volumen de distribución en estado estacionario es de unos 40-65 litros.|Cefditoreno se une en un 88% a proteínas plasmáticas|sangre,tejidos
++|D|El volumen de distribución en estado estacionario es relativamente independiente de la dosis (40-65 litros).|es relativamente independiente de la dosis (40- 65 litros )|||
+M|El pivoxilo se hidroliza a cefditoreno; la mayor parte del cefditoreno que aparece en las heces lo hace como metabolitos inactivos.|donde aparece la mayor parte del cefditoren administrado en forma de metabolitos inactivos|intestino-delgado
+T|Metabolitos fecales de cefditoreno|inactivo|donde aparece la mayor parte del cefditoren administrado en forma de metabolitos inactivos|Inactivos; aparecen en las heces.
+E|Hasta el 18 % de la dosis se recupera sin metabolizar en la orina; la fracción no absorbida se elimina por las heces.|Cefditoreno se recupera hasta en un 18% de la dosis administrada sin metabolizar a través de orina|rinones,orina,heces
++|E|La semivida de eliminación en plasma es de aproximadamente 1 a 1,5 horas.|La semivida de eliminación de cefditoreno en plasma es de aproximadamente 1 a 1,5 horas|||
++|E|La porción de pivalato se elimina por vía renal conjugada como pivaloilcarnitina.|La porción de pivalato se elimina por vía renal conjugado como pivaloilcarnitina|||
+C|biodisponibilidad|Biodisponibilidad absoluta|15-20|%|aproximadamente del 15-20%|cefditoreno
+C|union|Unión a proteínas plasmáticas|88|%|Cefditoreno se une en un 88% a proteínas plasmáticas|cefditoreno
+C|semivida|Semivida de eliminación en plasma|1-1,5 (aprox.)|h|es de aproximadamente 1 a 1,5 horas|cefditoreno
+C|orina|Dosis recuperada sin metabolizar en la orina|18|% de la dosis|hasta en un 18% de la dosis administrada sin metabolizar a través de orina|cefditoreno
+R|Alrededor del 24 % de los pacientes comunicó al menos una reacción adversa.|Aproximadamente el 24% de los pacientes comunicaron al menos una reacción adversa
+R|Las más comunes fueron las de tipo gastrointestinal.|Las reacciones adversas más comunes fueron las de tipo gastrointestinal
+W|Diarrea asociada a antibióticos|Se han detectado diarrea asociada a antibióticos, colitis y colitis pseudomembranosa con el uso de cefditoreno.|intestino-grueso|Se ha detectado diarrea asociada a antibióticos, colitis y colitis pseudomembranosa con el uso de cefditoreno
+W|Hipersensibilidad previa|Antes de empezar hay que preguntar por reacciones de hipersensibilidad anteriores a cefalosporinas, penicilinas u otros betalactámicos.|sistema-inmunitario|se debe solicitar información para determinar si el paciente ha tenido reacciones de hipersensibilidad anteriores
+
+@racecadotrilo|Racecadotrilo|AD|Antidiarreico (inhibidor de la encefalinasa)|racecadotril;Tiorfan|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Almidón de maíz pregelatinizado; Estearato de magnesio; Sílice coloidal anhidra; Óxido de hierro amarillo (E172); Dióxido de titanio (E171); Gelatina
+K|100 mg de racecadotrilo por cápsula, según la ficha técnica
+U|Tratamiento sintomático de la diarrea aguda en el adulto cuando no es posible el tratamiento causal.|Tiorfan está indicado para el tratamiento sintomático de la diarrea aguda en el adulto cuando no es posible el tratamiento causal
+A|Es un profármaco que se hidroliza a su metabolito activo, el tiorfán, inhibidor de la encefalinasa, una peptidasa de la membrana celular situada sobre todo en el epitelio del intestino delgado.|Racecadotrilo es un pro-fármaco que necesita hidrolizarse a su metabolito activo tiorfan, el cual es un inhibidor de la encefalinasa, peptidasa de la membrana celular situada en varios tejidos, de forma notable en el epitelio del intestino delgado|intestino-delgado|Encefalinasa
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Cápsulas de color marfil|
+B|Por vía oral se absorbe rápidamente.|Por vía oral, el racecadotrilo se absorbe rápidamente|
++|B|La biodisponibilidad no se modifica por la alimentación, pero el pico de la actividad se retrasa aproximadamente una hora y media.|La biodisponibilidad del racecadotrilo no se modifica por la alimentación pero el pico de la actividad se retrasa aproximadamente una hora y media|||con alimentación
+D|El 90 % del metabolito activo se une a las proteínas del plasma, principalmente a la albúmina; el fármaco no se une de forma significativa a las células de la sangre.|se une a las proteínas plasmáticas, principalmente a la albúmina|sangre,tejidos
++|D|El fármaco no se unió a las células de la sangre en una medida significativa.|el fármaco no se unió a células de la sangre en una medida significativa|||
+M|Se hidroliza rápidamente al metabolito activo, que a su vez se transforma en metabolitos inactivos.|El racecadotrilo se hidroliza rápidamente a (RS)-N-(1-oxo-2-(mercaptometil)-3-fenilpropil)glicina, el metabolito activo, que a su vez se transforma en metabolitos inactivos|tejidos
+T|Metabolito activo (tiorfán)|activo|el metabolito activo, que a su vez se transforma en metabolitos inactivos|Metabolito activo; se transforma después en metabolitos inactivos.
+T|Cuatro metabolitos inactivos principales|inactivo|se transforma en metabolitos inactivos identificados como sulfóxido de S-metil tiorfano, S-metil tiorfano, ácido 2-metanosulfonilometil propiónico y ácido 2-metilsulfonilometil propiónico|Inactivos.
+E|Se detectan metabolitos menores en orina y heces; la vida media, valorada como inhibición de la encefalinasa plasmática, es de aproximadamente 3 horas.|Otros metabolitos menores también fueron detectados y cuantificados en orina y heces|rinones,orina,heces
++|E|La vida media, valorada como inhibición de la encefalinasa plasmática, es de aproximadamente 3 horas.|La vida media del racecadotrilo, valorada como inhibición de la encefalinasa plasmática, es de aproximadamente 3 horas|||
+C|union|Unión del metabolito activo a proteínas plasmáticas|90|%|se une a las proteínas plasmáticas, principalmente a la albúmina|metabolito activo del racecadotrilo
+C|semivida|Vida media (como inhibición de la encefalinasa plasmática)|3 (aprox.)|h|es de aproximadamente 3 horas|racecadotrilo
+R|Hay datos de ensayos con 2.193 pacientes adultos con diarrea aguda tratados con racecadotrilo y 282 con placebo.|Se dispone de datos de estudios clínicos en 2.193 pacientes adultos con diarrea aguda tratados con racecadotrilo y 282 tratados con placebo
+R|Se han notificado reacciones cutáneas graves, incluida la reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS).|Se han notificado reacciones cutáneas adversas graves (SCAR) incluyendo reacción a fármaco con eosinofilia
+W|Diarrea crónica|No se ha estudiado lo suficiente en la diarrea crónica.|intestino-grueso|Este producto no ha sido suficientemente estudiado en la diarrea crónica
+W|Deposiciones con sangre o pus|Las deposiciones con sangre o pus y la fiebre pueden indicar bacterias invasivas u otra enfermedad grave.|intestino-grueso|La presencia de deposiciones con sangre o pus y fiebre puede indicar la presencia de bacterias invasivas causantes de la diarrea

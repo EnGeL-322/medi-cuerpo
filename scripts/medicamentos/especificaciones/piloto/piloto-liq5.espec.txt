@@ -1,0 +1,55 @@
+@ibuprofeno|Ibuprofeno|DF|Antiinflamatorio no esteroideo (AINE)|ibuprofen|doc=ibuprofeno-cinfa-suspension;anadir=1;sufijo=cinfa-suspension;recorrido=propio;familia=liquido-oral;vias=oral;formaN=suspension-oral
+S|-
+K|20 mg/mL de ibuprofeno, según la ficha técnica
+X|Glicerol (E-422); Maltitol líquido (E-965); Celulosa microcristalina; Goma xantana; Ácido cítrico anhidro; Citrato sódico; Benzoato de sodio (E-211); Polisorbato 80; Sacarina sódica; Aroma de naranja (contiene etanol y propilenglicol (E-1520)); Agua purificada
+U|Alivio sintomático de los dolores ocasionales leves o moderados y de los estados febriles en niños desde los 3 meses hasta los 12 años.|Alivio sintomático de los dolores ocasionales leves o moderados. Estados febriles
+A|Es un antiinflamatorio no esteroideo con marcadas propiedades antiinflamatorias, analgésicas y antipiréticas; su mecanismo se basa en inhibir la síntesis de prostaglandinas.|Ibuprofeno es un antiinflamatorio no esteroideo con marcadas propiedades antiinflamatorias, analgésicas, y antipiréticas|tejidos|Síntesis de prostaglandinas
++|A|Las prostaglandinas desempeñan un papel esencial en la aparición de la fiebre, del dolor y de la inflamación.|Su mecanismo de acción se basa en la inhibición de la síntesis de prostaglandinas|||
+L|Suspensión oral: el principio activo ya está en suspensión líquida, de color blanco, homogénea tras agitación.|Suspensión de color blanco o prácticamente blanco y homogénea|boca,esofago,estomago|
+B|Se absorbe rápido y de forma completa por vía oral; la biodisponibilidad es de un 80 %.|Ibuprofeno por vía oral se absorbe rápido y de forma completa. Su biodisponibilidad es de un 80%
++|B|En adultos, el tmax de la suspensión fue de 1,2 horas (como figura en la ficha, «1, 2 h») y el AUC fue de 112,0 microgramos/ml·h.|el tmax fue de 1, 2 h y el AUC fue de 112,0 microgramos/ml.h|adultos|suspensión oral
++|B|Con la comida, el pico de concentración plasmática baja un 30-50 % y se retrasa 30-60 minutos.|Cuando el medicamento es administrado durante la comida el pico de concentraciones plasmáticas se reduce en un 30-50% y el tiempo invertido para alcanzar el pico de concentraciones plasmáticas se retrasa en 30-60 minutos|||con comida
+D|El grado de unión a proteínas plasmáticas es del 90-99 %; difunde bien, pasa al líquido sinovial, atraviesa la barrera placentaria y alcanza concentraciones muy bajas en la leche materna.|El grado de unión a proteínas plasmáticas es del 90-99%|sangre,articulaciones
++|D|Difunde bien y pasa a líquido sinovial, atraviesa la barrera placentaria y alcanza concentraciones muy bajas en la leche materna.|Difunde bien y pasa a líquido sinovial, atraviesa la barrera placentaria y alcanza concentraciones muy bajas en la leche materna|||
+M|Ibuprofeno y sus metabolitos se metabolizan ampliamente en el hígado por hidroxilación y carboxilación del grupo isobutilo, y los metabolitos carecen de actividad farmacológica.|Ibuprofeno y sus metabolitos son ampliamente metabolizados en el hígado por hidroxilación y carboxilación del grupo isobutilo y sus metabolitos carecen de actividad farmacológica|higado
+T|Metabolitos hidroxilados y carboxilados|inactivo|sus metabolitos carecen de actividad farmacológica|Sin actividad farmacológica.
+E|La eliminación es sobre todo renal y se considera total al cabo de 24 horas; alrededor del 10 % sale sin cambios y el 90 % como metabolitos inactivos, sobre todo glucurónidos.|Un 10% aproximadamente se elimina de forma inalterada y un 90% se elimina en forma de metabolitos inactivos, principalmente como glucurónidos|rinones,orina
++|E|La eliminación tiene lugar principalmente a nivel renal y se considera total al cabo de 24 horas.|La eliminación de ibuprofeno tiene lugar principalmente a nivel renal y se considera total al cabo de 24 horas|||
++|E|La semivida plasmática es de unas 2 horas.|Su semivida plasmática es de unas 2 horas|||
+C|biodisponibilidad|Biodisponibilidad oral|80|%|Su biodisponibilidad es de un 80%|ibuprofeno
+C|auc|AUC de la suspensión|112,0|µg·h/mL|el tmax fue de 1, 2 h y el AUC fue de 112,0 microgramos/ml.h|ibuprofeno|adultos|suspensión oral
+C|union|Unión a proteínas plasmáticas|90-99|%|El grado de unión a proteínas plasmáticas es del 90-99%|ibuprofeno
+C|semivida|Semivida plasmática|2 (aprox.)|h|Su semivida plasmática es de unas 2 horas|ibuprofeno
+C|orina|Eliminado sin cambios|10 (aprox.)|% de la dosis|Un 10% aproximadamente se elimina de forma inalterada|ibuprofeno
+R|Las que se observan con mayor frecuencia son de naturaleza gastrointestinal.|Las reacciones adversas que se observan con mayor frecuencia son de naturaleza gastrointestinal
+R|Pueden producirse úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, sobre todo en personas de edad avanzada.|Pueden producirse úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, especialmente en los pacientes de edad avanzada
+G|Maltitol|La ficha advierte de que contiene maltitol líquido: no deben tomarlo pacientes con intolerancia hereditaria a la fructosa y puede producir un efecto laxante leve.|oral|Los pacientes con intolerancia hereditaria a la fructosa (IHF) no deben tomar este medicamento
+G|Benzoato de sodio|La ficha advierte de que el benzoato de sodio puede aumentar el riesgo de ictericia en recién nacidos.|oral|El benzoato de sodio puede aumentar el riesgo de ictericia en los recién nacidos (hasta de 4 semanas de edad)
+G|Propilenglicol|La ficha advierte de que la administración conjunta con un sustrato de la alcohol deshidrogenasa, como el etanol, puede causar reacciones adversas graves en recién nacidos.|oral|La administración conjunta con cualquier sustrato para el alcohol deshidrogenasa tal como el etanol puede provocar reacciones adversas graves en recién nacidos
+W|Enmascaramiento de infecciones|Puede enmascarar los síntomas de una infección y retrasar el inicio del tratamiento adecuado.|sitio-infeccion|Ibuprofeno puede enmascarar los síntomas de una infección, lo que puede retrasar el inicio del tratamiento adecuado|
+
+@paracetamol|Paracetamol|DF|Analgésico y antipirético|acetaminophen;acetaminofén|doc=paracetamol-kern-solucion;anadir=1;sufijo=kern-solucion;recorrido=propio;familia=liquido-oral;vias=oral;formaN=solucion-oral
+S|-
+K|100 mg/mL de paracetamol, según la ficha técnica
+X|Macrogol 600; Glicerol (E-422); Sucralosa (E-955); Enmascarador del sabor (contiene propilenglicol E-1520); Aroma de fresa (contiene propilenglicol E-1520); Rojo carmín (E-120) (contiene glucosa); Agua purificada
+U|Tratamiento sintomático de la fiebre y del dolor leve o moderado.|está indicado en el tratamiento sintomático de la fiebre y dolor leve o moderado
+A|Es un analgésico con propiedades antipiréticas; el mecanismo de la acción analgésica no está totalmente determinado y puede actuar sobre todo inhibiendo la síntesis de prostaglandinas en el sistema nervioso central.|El paracetamol es un fármaco analgésico que también posee propiedades antipiréticas|encefalo|Síntesis de prostaglandinas (mecanismo no totalmente determinado)
++|A|Puede actuar predominantemente inhibiendo la síntesis de prostaglandinas a nivel del sistema nervioso central.|El paracetamol puede actuar predominantemente inhibiendo la síntesis de prostaglandinas a nivel del sistema nervioso central|||
+L|Solución oral: líquido transparente de color rojo y olor a fresa; el principio activo ya está disuelto.|Solución transparente, de color rojo y con olor característico a fresa|boca,esofago,estomago|
+B|Por vía oral su biodisponibilidad es del 75-85 % y se absorbe amplia y rápidamente.|Por vía oral su biodisponibilidad es del 75-85%. Es absorbido amplia y rápidamente
++|B|El tiempo hasta la concentración máxima es de 0,5-2 horas, según la forma farmacéutica.|con un tiempo hasta la concentración máxima de 0,5-2 horas|||
+D|El grado de unión a proteínas plasmáticas es de alrededor del 10 %.|El grado de unión a proteínas plasmáticas es de un 10%|sangre
+M|Se metaboliza fundamentalmente en el hígado (90-95 %), con un efecto de primer paso hepático.|El paracetamol se metaboliza fundamentalmente en el hígado (90-95%)|higado
++|M|Su metabolismo experimenta un efecto de primer paso hepático.|El metabolismo del paracetamol experimenta un efecto de primer paso hepático|||
+E|Se elimina sobre todo por la orina como conjugado con ácido glucurónico y, en menor proporción, con ácido sulfúrico y cisteína; menos del 5 % se excreta sin cambios.|El paracetamol se elimina mayoritariamente en la orina como un conjugado con el ácido glucurónico, y en menor proporción con el ácido sulfúrico y la cisteína; menos del 5% se excreta en forma inalterada|rinones,orina
++|E|La semivida de eliminación es de 1,5-3 horas.|Su semivida de eliminación es de 1,5-3 horas|||
+C|biodisponibilidad|Biodisponibilidad oral|75-85|%|Por vía oral su biodisponibilidad es del 75-85%|paracetamol
+C|tmax|Tiempo hasta la concentración máxima|0,5-2|h|con un tiempo hasta la concentración máxima de 0,5-2 horas|paracetamol
+C|union|Unión a proteínas plasmáticas|10 (aprox.)|%|El grado de unión a proteínas plasmáticas es de un 10%|paracetamol
+C|semivida|Semivida de eliminación|1,5-3|h|Su semivida de eliminación es de 1,5-3 horas|paracetamol
+C|orina|Excretado sin cambios|< 5|% de la dosis|menos del 5% se excreta en forma inalterada|paracetamol
+R|Las reacciones adversas del paracetamol son, por lo general, raras o muy raras.|Las reacciones adversas del paracetamol son, por lo general, raras o muy raras
+R|Muy raras: reacciones de hipersensibilidad y hepatotoxicidad (ictericia).|Muy raras: Hepatotoxicidad (ictericia)
+G|Propilenglicol|La ficha advierte de que la administración conjunta con un sustrato de la alcohol deshidrogenasa, como el etanol, puede causar reacciones adversas graves en recién nacidos.|oral|La administración conjunta con cualquier sustrato para el alcohol deshidrogenasa tal como el etanol puede provocar reacciones adversas graves en recién nacidos
+W|Precaución en anemia y afecciones cardíacas, pulmonares o renales|Debe usarse con precaución, evitando tratamientos prolongados, en pacientes con anemia, afecciones cardíacas o pulmonares y disfunción renal grave.|sangre,corazon,pulmones,rinones|El paracetamol debe usarse con precaución, evitando tratamientos prolongados en caso de: pacientes con anemia, afecciones cardíacas afecciones pulmonares, disfunción renal grave|
+W|Acidosis metabólica con desequilibrio aniónico alto|Se han notificado casos por acidosis piroglutámica en pacientes con enfermedad grave o con deficiencia de glutatión.|sangre|Se han notificado casos de acidosis metabólica con desequilibrio aniónico alto (AMDAA) debido a acidosis piroglutámico|

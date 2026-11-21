@@ -1,0 +1,119 @@
+@encorafenib|Encorafenib|ON|Inhibidor de cinasas BRAF (V600E)|encorafenib;Braftovi|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del melanoma, del cáncer colorrectal y del cáncer de pulmón no microcítico con mutación BRAF V600E o V600K, en combinación, según la etiqueta.|BRAFTOVI is a kinase inhibitor indicated
+A|Inhibidor de cinasas dirigido a BRAF V600E y también a BRAF y CRAF naturales; las mutaciones de BRAF activan de forma continua la cinasa y estimulan el crecimiento tumoral.|Encorafenib is a kinase inhibitor that targets BRAF V600E, as well as wild-type BRAF and CRAF in in vitro cell-free assays||BRAF V600E
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Capsules: 75 mg, hard gelatin|
+B|Se absorbe al menos el 86 % de la dosis y la mediana del tmax es de 2 horas; una comida grasa baja la Cmax un 36 % sin cambiar el AUC.|The median T max of encorafenib is 2 hours. At least 86% of the dose is absorbed|
++|B|Una comida rica en grasas redujo la Cmax media un 36 % sin efecto sobre el AUC.|the mean maximum encorafenib concentration (C max ) decreased by 36% and there was no effect on AUC|||con una comida rica en grasas
+D|In vitro se une en un 86 % a las proteínas; el volumen de distribución aparente es de 164 L.|The protein binding of encorafenib is 86% in vitro|
++|D|Volumen de distribución aparente de 164 L.|The geometric mean (CV%) of apparent volume of distribution is 164 L (70%)|||
+M|Se metaboliza sobre todo por la CYP3A4 (83 %) y, en menor medida, por la CYP2C19 (16 %) y la CYP2D6 (1 %).|Encorafenib is primarily metabolized by CYP3A4 (83%) and to a lesser extent by CYP2C19 (16%) and CYP2D6 (1%)|higado
+E|Tras 100 mg marcados, el 47 % se recuperó en las heces (5 % sin cambios) y otro 47 % en la orina (2 % sin cambios).|47% (5% unchanged) of the administered dose was recovered in feces and 47% (2% unchanged) in urine|heces,orina
++|E|La semivida terminal media es de 3,5 horas; el aclaramiento aparente sube de 14 a 32 L/h en estado estacionario.|The mean (CV%) terminal half-life (t 1/2 ) of encorafenib is 3.5 hours (17%)|||
+C|tmax|Mediana del tmax|2|h|The median T max of encorafenib is 2 hours|encorafenib
+C|biodisponibilidad|Fracción absorbida|≥ 86|%|At least 86% of the dose is absorbed|encorafenib
+C|union|Unión a proteínas in vitro|86|%|The protein binding of encorafenib is 86% in vitro|encorafenib
+C|vd|Volumen de distribución aparente|164|L|The geometric mean (CV%) of apparent volume of distribution is 164 L (70%)|encorafenib
+C|semivida|Semivida terminal media|3,5|h|terminal half-life (t 1/2 ) of encorafenib is 3.5 hours (17%)|encorafenib
+C|orina|Dosis recuperada en la orina|47|% de la dosis|47% (2% unchanged) in urine|radiactividad total||dosis única marcada de 100 mg
+R|Con binimetinib en el melanoma, las más frecuentes (25 % o más): fatiga, náuseas, vómitos, dolor abdominal y artralgia.|Most common adverse reactions (≥25%) for BRAFTOVI, in combination with binimetinib, are fatigue, nausea, vomiting, abdominal pain, and arthralgia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Nuevas neoplasias primarias|Pueden aparecer cánceres cutáneos y no cutáneos; hacer evaluaciones dermatológicas antes, durante y después.||Monitor for malignancies and perform dermatologic evaluations prior to, while on therapy, and following discontinuation of treatment|43685-7
+W|Miocardiopatía|Valorar la fracción de eyección antes de empezar, al mes y después cada 2 a 3 meses.||Assess left ventricular ejection fraction (LVEF) before initiating treatment with BRAFTOVI and binimetinib|43685-7
+W|Hemorragia|Pueden producirse hemorragias graves.||Major hemorrhagic events can occur in patients receiving BRAFTOVI and binimetinib|43685-7
+
+@binimetinib|Binimetinib|ON|Inhibidor reversible de MEK1 y MEK2|binimetinib;Mektovi|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento, con encorafenib, del melanoma y del cáncer de pulmón no microcítico con mutación BRAF V600E o V600K.|MEKTOVI is a kinase inhibitor indicated
+A|Inhibe de forma reversible la actividad de MEK1 y MEK2, reguladores de la vía ERK; con el encorafenib actúa sobre dos cinasas distintas de la vía RAS/RAF/MEK/ERK.|Binimetinib is a reversible inhibitor of mitogen-activated extracellular signal regulated kinase 1 (MEK1) and MEK2 activity||MEK1 y MEK2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Tablets: 15 mg, yellow/dark yellow, unscored biconvex oval film-coated tablets|
+B|Se absorbe al menos el 50 % de la dosis, con una mediana del tmax de 1,6 horas; una comida grasa no cambia la exposición.|at least 50% of the binimetinib dose was absorbed with a median time to maximum concentration (T max ) of 1.6 hours|
+D|Se une en un 97 % a las proteínas del plasma humano; el volumen de distribución aparente es de 92 L.|Binimetinib is 97% bound to human plasma proteins and the blood-to-plasma ratio is 0.72|sangre
++|D|Volumen de distribución aparente de 92 L.|The geometric mean (CV%) of apparent volume of distribution of binimetinib is 92 L (45%)|||
+M|Su vía principal es la glucuronidación, con la UGT1A1 hasta en un 61 %; el metabolito activo M3 se forma por CYP1A2 y CYP2C19.|The primary metabolic pathway is glucuronidation with UGT1A1 contributing up to 61% of the binimetinib metabolism|
+T|M3|activo|The active metabolite M3 produced by CYP1A2 and CYP2C19 represents 8.6% of the binimetinib exposure|Metabolito activo; el 8,6 % de la exposición al binimetinib.
+E|Tras 45 mg marcados, el 62 % se recuperó en las heces (32 % sin cambios) y el 31 % en la orina (6,5 % sin cambios).|62% (32% unchanged) of the administered dose was recovered in the feces while 31% (6.5% unchanged) was recovered in the urine|heces,orina
++|E|La semivida terminal media es de 3,5 horas y el aclaramiento aparente de 20,2 L/h.|The mean (CV%) terminal half-life (t 1/2 ) of binimetinib is 3.5 hours (28.5%) and apparent clearance (CL/F) is 20.2 L/h (24%)|||
+C|biodisponibilidad|Fracción absorbida|≥ 50|%|at least 50% of the binimetinib dose was absorbed|binimetinib
+C|tmax|Mediana del tmax|1,6|h|with a median time to maximum concentration (T max ) of 1.6 hours|binimetinib
+C|union|Unión a proteínas plasmáticas|97|%|Binimetinib is 97% bound to human plasma proteins|binimetinib
+C|vd|Volumen de distribución aparente|92|L|apparent volume of distribution of binimetinib is 92 L (45%)|binimetinib
+C|semivida|Semivida terminal media|3,5|h|terminal half-life (t 1/2 ) of binimetinib is 3.5 hours (28.5%)|binimetinib
+C|aclaramiento|Aclaramiento aparente|20,2|L/h|apparent clearance (CL/F) is 20.2 L/h (24%)|binimetinib
+C|heces|Dosis recuperada en las heces|62|% de la dosis|62% (32% unchanged) of the administered dose was recovered in the feces|radiactividad total|sujetos sanos|dosis oral única marcada de 45 mg
+R|Con encorafenib en el melanoma, las más frecuentes (25 % o más): fatiga, náuseas, diarrea, vómitos y dolor abdominal.|Most common adverse reactions (≥25%) for MEKTOVI, in combination with encorafenib, are fatigue, nausea, diarrhea, vomiting, and abdominal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Miocardiopatía|Valorar la fracción de eyección antes de empezar, al mes y después cada 2 a 3 meses.||Assess left ventricular ejection fraction (LVEF) before initiating treatment, after one month of treatment, then every 2 to 3 months thereafter|43685-7
+W|Tromboembolia venosa|Pueden aparecer trombosis venosa profunda y embolia pulmonar.|pulmones|Deep vein thrombosis and pulmonary embolism can occur|43685-7
+W|Toxicidad ocular|Se han producido retinopatía serosa, oclusión de la vena retiniana y uveítis; hacer evaluaciones oftalmológicas periódicas.|ojos|Serous retinopathy, retinal vein occlusion (RVO) and uveitis have occurred|43685-7
+W|Enfermedad pulmonar intersticial|Valorar los síntomas pulmonares nuevos o progresivos sin explicación.|pulmones|Assess new or progressive unexplained pulmonary symptoms or findings for possible ILD|43685-7
+
+@apalutamida|Apalutamida|ON|Inhibidor del receptor de andrógenos|apalutamide;Erleada|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de próstata metastásico sensible a la castración y del no metastásico resistente a la castración.|ERLEADA is an androgen receptor inhibitor indicated for the treatment of patients with
+A|Inhibe el receptor de andrógenos uniéndose a su dominio de unión al ligando: impide su paso al núcleo, su unión al ADN y la transcripción mediada por el receptor.|Apalutamide is an Androgen Receptor (AR) inhibitor that binds directly to the ligand-binding domain of the AR||Receptor de andrógenos
++|A|Inhibe la translocación nuclear del receptor, su unión al ADN y la transcripción.|Apalutamide inhibits AR nuclear translocation, inhibits DNA binding, and impedes AR-mediated transcription||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; puede dispersarse en compota de manzana.|240 mg: bluish grey to grey, oval, film-coated|
+B|La biodisponibilidad absoluta es de alrededor del 100 % y la mediana del tmax de 2 horas; con una comida grasa el tmax se retrasa unas 2 horas sin cambios relevantes.|Apalutamide absolute oral bioavailability is approximately 100%|
++|B|La mediana del tmax es de 2 horas (1 a 5).|Apalutamide median (min, max) time to maximum plasma concentration (t max ) is 2 hours (1, 5 hours)|||
+D|Se une en un 96 % a las proteínas plasmáticas (95 % el N-desmetil); el volumen de distribución aparente es de unos 276 L.|Apalutamide is 96% and N-desmethyl apalutamide is 95% bound to plasma proteins|sangre
++|D|Volumen de distribución aparente de unos 276 L.|Apalutamide apparent volume of distribution is approximately 276 L|||
+M|Se metaboliza sobre todo por la CYP2C8 y la CYP3A4 a su metabolito activo N-desmetil apalutamida.|Apalutamide is primarily metabolized by CYP2C8 and CYP3A4 to form active metabolite, N-desmethyl apalutamide|higado
+T|N-desmetil apalutamida|activo|A major metabolite, N-desmethyl apalutamide, is a less potent inhibitor of AR, and exhibited one-third the activity of apalutamide|Metabolito activo con un tercio de la actividad; probablemente contribuye al efecto clínico.
+E|Hasta 70 días tras una dosis marcada, el 65 % se recuperó en la orina y el 24 % en las heces.|65% of the dose was recovered in urine (1.2% of dose as unchanged apalutamide and 2.7% as N-desmethyl apalutamide)|orina,rinones
++|E|La semivida es de unos 3 días.|Apalutamide half-life is approximately 3 days|||
+C|biodisponibilidad|Biodisponibilidad absoluta|100 (aprox.)|%|Apalutamide absolute oral bioavailability is approximately 100%|apalutamida
+C|tmax|Mediana del tmax|2|h|Apalutamide median (min, max) time to maximum plasma concentration (t max ) is 2 hours (1, 5 hours)|apalutamida
+C|union|Unión a proteínas plasmáticas|96|%|Apalutamide is 96% and N-desmethyl apalutamide is 95% bound to plasma proteins|apalutamida
+C|vd|Volumen de distribución aparente|276 (aprox.)|L|Apalutamide apparent volume of distribution is approximately 276 L|apalutamida
+C|semivida|Semivida|3 (aprox.)|d|Apalutamide half-life is approximately 3 days|apalutamida
+C|orina|Dosis recuperada en la orina en 70 días|65|% de la dosis|65% of the dose was recovered in urine|radiactividad total
+R|Las más frecuentes (10 % o más): fatiga, artralgia, exantema, disminución del apetito, caídas, pérdida de peso, hipertensión, sofocos, diarrea y fracturas.|most common adverse reactions (≥10%) are fatigue, arthralgia, rash, decreased appetite, fall, weight decreased, hypertension, hot flush, diarrhea, and fracture
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Acontecimientos cerebrovasculares y cardiovasculares isquémicos|Vigilar los signos de trastornos cerebrovasculares y de cardiopatía isquémica.||Cerebrovascular and ischemic cardiovascular events occurred in patients receiving ERLEADA|43685-7
+W|Fracturas|Valorar el riesgo de fractura y tratar con fármacos dirigidos al hueso según las guías.|huesos|Evaluate patients for fracture risk and treat patients with bone-targeted agents according to established guidelines|43685-7
+W|Convulsiones|Aparecieron en el 0,4 %; suspender de forma definitiva si aparece una convulsión.||Seizure occurred in 0.4% of patients receiving ERLEADA|43685-7
+
+@darolutamida|Darolutamida|ON|Inhibidor del receptor de andrógenos|darolutamide;Nubeqa|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de próstata no metastásico resistente a la castración y del metastásico sensible a hormonas, según la etiqueta.|NUBEQA is an androgen receptor inhibitor indicated for the treatment of adult patients with
+A|Inhibe de forma competitiva la unión de los andrógenos, el paso del receptor al núcleo y la transcripción; su metabolito principal, la cetodarolutamida, tiene una actividad similar.|Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR-mediated transcription||Receptor de andrógenos
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; se toma con comida.|Tablets (300 mg): white to off-white oval film-coated tablets|
+B|La Cmax se alcanza a unas 4 horas y la biodisponibilidad absoluta en ayunas es de alrededor del 30 %; con alimentos aumenta 2,0 a 2,5 veces.|The absolute bioavailability is approximately 30% following oral administration of a NUBEQA tablet containing 300 mg darolutamide under fasted conditions|||en ayunas
++|B|Con alimentos la biodisponibilidad aumentó entre 2,0 y 2,5 veces.|Bioavailability of darolutamide increased by 2.0- to 2.5‑fold when administered with food|||con alimentos
+D|Se une en un 92 % a las proteínas (99,8 % la cetodarolutamida), sobre todo a la albúmina; el volumen de distribución tras la vía intravenosa es de 119 L.|Protein binding is 92% for darolutamide and 99.8% for the active metabolite, ketodarolutamide|
+M|Se metaboliza sobre todo por la CYP3A4 y también por la UGT1A9 y la UGT1A1; la exposición a cetodarolutamida es 1,7 veces la del fármaco.|Darolutamide is primarily metabolized by CYP3A4, as well as by UGT1A9 and UGT1A1|higado
+T|Cetodarolutamida|activo|A major metabolite, ketodarolutamide, exhibited similar in vitro activity to darolutamide|Metabolito activo principal con actividad in vitro similar.
+E|Tras una dosis marcada en solución oral, el 63,4 % se excretó en la orina y el 32,4 % en las heces.|a total of 63.4% of darolutamide‑related material is excreted in the urine (approximately 7% unchanged) and 32.4% (approximately 30% unchanged) in the feces|orina,heces,rinones
++|E|La semivida efectiva de la darolutamida y de la cetodarolutamida es de unas 20 horas.|The effective half-life of darolutamide and ketodarolutamide is approximately 20 hours in patients|pacientes|
+C|biodisponibilidad|Biodisponibilidad absoluta en ayunas|30 (aprox.)|%|The absolute bioavailability is approximately 30%|darolutamida||en ayunas
+C|tmax|Tiempo hasta la Cmax|4 (aprox.)|h|Darolutamide C max is reached approximately 4 hours after administration of a single 600 mg oral dose|darolutamida
+C|union|Unión a proteínas|92|%|Protein binding is 92% for darolutamide|darolutamida
+C|vd|Volumen de distribución (vía intravenosa)|119|L|The apparent volume of distribution of darolutamide after intravenous administration is 119 L|darolutamida|||otra-via
+C|semivida|Semivida efectiva|20 (aprox.)|h|The effective half-life of darolutamide and ketodarolutamide is approximately 20 hours in patients|darolutamida|pacientes
+C|orina|Material excretado en la orina|63,4|% de la dosis|a total of 63.4% of darolutamide‑related material is excreted in the urine|darolutamida y metabolitos||solución oral marcada|otra-presentacion
+R|Las más frecuentes (más del 10 % y 2 % más que con placebo, con laboratorio): aumento de AST, descenso de neutrófilos, aumento de bilirrubina, fatiga y aumento de ALT.|most common adverse reactions (>10% with a ≥2% increase over placebo), including laboratory test abnormalities, are increased AST, decreased neutrophil count, increased bilirubin, fatigue, and increased ALT
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Cardiopatía isquémica|Optimizar los factores de riesgo y vigilar los signos de enfermedad coronaria.|corazon|Ischemic heart disease, including fatal cases, occurred in patients receiving NUBEQA|43685-7
+W|Convulsiones|Valorar suspenderlo si aparece una convulsión.||Consider discontinuation of NUBEQA in patients who develop a seizure during treatment|43685-7
+W|Toxicidad embriofetal|Puede causar daño fetal y pérdida del embarazo; los varones con pareja en edad fértil deben usar anticoncepción eficaz.||NUBEQA can cause fetal harm and loss of pregnancy|43685-7
+
+@gilteritinib|Gilteritinib|ON|Inhibidor de tirosina cinasas (FLT3, AXL)|gilteritinib fumarate;Xospata|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con leucemia mieloide aguda en recaída o refractaria con mutación de FLT3.|XOSPATA is a kinase inhibitor indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia (AML) with a FLT3 mutation as detected by an FDA-approved test
+A|Inhibe varios receptores tirosina cinasa, entre ellos FLT3 (con FLT3-ITD y mutaciones TKD), e induce apoptosis en células leucémicas que expresan FLT3-ITD.|Gilteritinib is a small molecule that inhibits multiple receptor tyrosine kinases, including FMS-like tyrosine kinase 3 (FLT3)||FLT3
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Tablets: 40 mg as light yellow, round-shaped, film-coated tablets|
+B|En ayunas el tmax está entre 4 y 6 horas; una comida grasa baja la Cmax un 26 % y retrasa el tmax 2 horas.|The time to maximum gilteritinib concentration (t max ) observed is approximately between 4 and 6 hours post dose in the fasted state|||en ayunas
++|B|Con una comida rica en grasas la Cmax bajó un 26 % y el AUC menos del 10 %.|gilteritinib C max decreased by 26% and AUC decreased by less than 10% when co-administered with a high-fat meal|adultos sanos|con una comida rica en grasas
+D|In vivo se une en alrededor del 94 % a las proteínas plasmáticas, sobre todo a la albúmina; los volúmenes central y periférico (1 092 y 1 100 L) indican una distribución tisular extensa.|In vivo , gilteritinib is approximately 94% bound to human plasma proteins|sangre
++|D|Los volúmenes de distribución central y periférico aparentes, de 1 092 y 1 100 L, pueden indicar una distribución extensa en los tejidos.|The population mean (%CV) estimates of apparent central and peripheral volume of distribution were 1092 L (9.22%) and 1100 L (4.99%), respectively, which may indicate extensive tissue distribution|tejidos|
+M|In vitro se metaboliza sobre todo por la CYP3A4; sus metabolitos principales son M17, M16 y M10.|Gilteritinib is primarily metabolized via CYP3A4 in vitro|higado
+E|Tras una dosis marcada se excreta en las heces (64,5 % de la dosis) y el 16,4 % se recupera en la orina.|After a single radiolabeled dose, gilteritinib is excreted in feces with 64.5% of the total administered dose recovered in feces|heces
++|E|El 16,4 % de la dosis marcada se recuperó en la orina como fármaco y metabolitos.|Of the total radiolabeled dose of gilteritinib, 16.4% was recovered in urine as unchanged drug and metabolites|orina|
++|E|La semivida estimada es de 113 horas y el aclaramiento aparente de 14,85 L/h.|The estimated half-life of gilteritinib is 113 hours, and the estimated apparent clearance is 14.85 L/h|||
+C|tmax|Tiempo hasta la concentración máxima en ayunas|4-6 (aprox.)|h|The time to maximum gilteritinib concentration (t max ) observed is approximately between 4 and 6 hours post dose in the fasted state|gilteritinib||en ayunas
+C|union|Unión a proteínas plasmáticas in vivo|94 (aprox.)|%|In vivo , gilteritinib is approximately 94% bound to human plasma proteins|gilteritinib
+C|vd|Volumen de distribución central aparente|1092|L|apparent central and peripheral volume of distribution were 1092 L (9.22%) and 1100 L (4.99%)|gilteritinib
+C|semivida|Semivida estimada|113|h|The estimated half-life of gilteritinib is 113 hours|gilteritinib
+C|aclaramiento|Aclaramiento aparente estimado|14,85|L/h|the estimated apparent clearance is 14.85 L/h|gilteritinib
+C|heces|Dosis recuperada en las heces|64,5|% de la dosis|64.5% of the total administered dose recovered in feces|radiactividad total
+R|Las más frecuentes (20 % o más): aumento de transaminasas, mialgia o artralgia, fatiga, fiebre, mucositis, edema, exantema, diarrea, disnea, náuseas y tos, entre otras.|most common adverse reactions (≥20%) are transaminase increased, myalgia/arthralgia, fatigue/malaise, fever, mucositis, edema, rash, noninfectious diarrhea, dyspnea, nausea, cough
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome de diferenciación|Puede ser mortal; si se sospecha, iniciar corticoides y vigilancia hemodinámica.||Patients treated with XOSPATA have experienced symptoms of differentiation syndrome, which can be fatal or life-threatening if not treated|34066-1
+W|Prolongación del QT|Interrumpir y reducir la dosis si el QTcF supera 500 ms; corregir la hipopotasemia y la hipomagnesemia.||Interrupt and reduce XOSPATA dosage in patients who have a QTcF >500 msec|43685-7
+W|Pancreatitis|Interrumpir y reducir la dosis si aparece pancreatitis.||Interrupt and reduce the dose in patients who develop pancreatitis|43685-7

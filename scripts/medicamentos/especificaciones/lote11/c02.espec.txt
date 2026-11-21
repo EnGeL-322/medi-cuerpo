@@ -1,0 +1,115 @@
+@tovorafenib|Tovorafenib|ON|Inhibidor de RAF de tipo II (BRAF y CRAF)|tovorafenib;Ojemda|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del glioma pediátrico de bajo grado recidivante o refractario con fusión o reordenación de BRAF o mutación BRAF V600, desde los 6 meses.|for the treatment of patients 6 months of age and older with relapsed or refractory pediatric low-grade glioma (LGG) harboring a BRAF fusion or rearrangement, or BRAF V600 mutation
+A|Inhibe las cinasas BRAF V600E, BRAF natural y CRAF natural (inhibidor de RAF de tipo II).|Tovorafenib is a Type II RAF kinase inhibitor of mutant BRAF V600E , wild-type BRAF , and wild-type CRAF kinases||BRAF y CRAF
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|orange, film-coated, oval tablets debossed with|
+B|La mediana del tiempo hasta el pico es de 3 horas; con una comida rica en grasas no cambian la Cmax ni el AUC, aunque el pico se retrasa.|Tovorafenib median (minimum, maximum) time to achieve peak plasma concentration (T max ) is 3 hours (1.5, 4 hours), following a single dose with tablets or oral suspension|
++|B|Con una comida rica en grasas no hubo diferencias clínicamente relevantes de la Cmax ni del AUC.|No clinically significant differences in tovorafenib C max and AUC were observed following administration of tablets with a high-fat meal|||con una comida rica en grasas
+D|In vitro se une en un 97,5 % a las proteínas plasmáticas; el volumen de distribución aparente es de 60 L/m².|Tovorafenib is 97.5% bound to human plasma proteins in vitro|sangre
++|D|Volumen de distribución aparente de 60 L/m².|Tovorafenib apparent volume of distribution is 60 L/m 2 (23%)|||
+M|In vitro se metaboliza sobre todo por la aldehído oxidasa y la CYP2C8; la CYP3A, la CYP2C9 y la CYP2C19 contribuyen poco.|Tovorafenib is primarily metabolized by aldehyde oxidase and CYP2C8 in vitro|
++|M|La CYP3A, la CYP2C9 y la CYP2C19 lo metabolizan en menor medida.|CYP3A, CYP2C9, and CYP2C19 metabolize tovorafenib to a minor extent|||
+E|Tras una dosis marcada, el 65 % se recuperó en las heces (8,6 % sin cambios) y el 27 % en la orina (0,2 % sin cambios).|65% of the total radiolabeled dose was recovered in the feces (8.6% unchanged) and 27% of the dose was recovered in the urine (0.2% unchanged)|heces,orina
++|E|La semivida terminal es de unas 56 horas.|Tovorafenib terminal half-life is approximately 56 hours (33%)|||
+C|tmax|Mediana del tiempo hasta el pico|3|h|time to achieve peak plasma concentration (T max ) is 3 hours (1.5, 4 hours)|tovorafenib
+C|union|Unión a proteínas plasmáticas in vitro|97,5|%|Tovorafenib is 97.5% bound to human plasma proteins in vitro|tovorafenib
+C|semivida|Semivida terminal|56 (aprox.)|h|Tovorafenib terminal half-life is approximately 56 hours (33%)|tovorafenib
+C|heces|Dosis recuperada en las heces|65|% de la dosis|65% of the total radiolabeled dose was recovered in the feces (8.6% unchanged)|radiactividad total
+R|Las más frecuentes (30 % o más): exantema, cambios de color del pelo, fatiga, infección vírica, vómitos, cefalea, hemorragia, fiebre, piel seca, estreñimiento, náuseas y dermatitis acneiforme, entre otras.|The most common adverse reactions (≥30%) were rash, hair color changes, fatigue, viral infection, vomiting, headache, hemorrhage, pyrexia, dry skin, constipation, nausea, dermatitis acneiform
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hemorragia|Vigilar los signos y síntomas de hemorragia.||Monitor for signs and symptoms of hemorrhage and evaluate as clinically indicated|43685-7
+W|Toxicidad cutánea y fotosensibilidad|Vigilar las reacciones cutáneas nuevas o que empeoran y protegerse de la luz ultravioleta.|piel|Monitor for new or worsening skin reactions|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar, al mes y después cada 3 meses.|higado|Monitor liver function tests, including ALT, AST and bilirubin, before initiation of OJEMDA, one month after initiation and then every three months thereafter|43685-7
+
+@inavolisib|Inavolisib|ON|Inhibidor de la fosfatidilinositol 3-cinasa alfa (PI3Kα)|inavolisib;Itovebi|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento, con palbociclib y fulvestrant, del cáncer de mama avanzado resistente a la hormonoterapia, con mutación de PIK3CA, receptores hormonales positivos y HER2 negativo.|for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer
+A|Inhibe la PI3K, sobre todo la isoforma alfa, y degrada la subunidad p110α mutada; así bloquea la vía de AKT en células tumorales con PIK3CA mutado.|Inavolisib is an inhibitor of phosphatidylinositol 3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα||PI3Kα
++|A|In vitro indujo la degradación de la subunidad catalítica alfa mutada de la PI3K.|inavolisib induced the degradation of mutated PI3K catalytic alpha subunit p110α|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|red and round convex-shaped with an|
+B|La biodisponibilidad oral absoluta es del 76 % y la mediana del tiempo hasta el pico, de 3 horas; la comida no cambia de forma relevante la exposición.|Inavolisib absolute oral bioavailability is 76%|
++|B|La mediana del tiempo hasta el pico en estado estacionario es de 3 horas.|Inavolisib steady-state median (min, max) time to maximum plasma concentration (T max ) is 3 hours (0.5, 4 hours)|||
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes.|No clinically significant differences in inavolisib pharmacokinetics were observed following administration of inavolisib with a high-fat meal|||con una comida rica en grasas
+D|In vitro se une solo en un 37 % a las proteínas plasmáticas; el volumen de distribución aparente es de 155 L.|Inavolisib plasma protein binding is 37% and is not concentration-dependent in vitro|sangre
++|D|Volumen de distribución aparente de 155 L.|Inavolisib apparent (oral) volume of distribution is 155 L (26%)|||
+M|Se metaboliza sobre todo por hidrólisis; in vitro la CYP3A lo metaboliza muy poco.|Inavolisib is primarily metabolized by hydrolysis|
++|M|In vitro la CYP3A lo metaboliza de forma mínima.|In vitro, inavolisib was minimally metabolized by CYP3A|||
+E|Tras una dosis marcada, el 49 % se recuperó en la orina (40 % sin cambios) y el 48 % en las heces (11 % sin cambios).|49% of the administered dose was recovered in urine (40% unchanged) and 48% in feces (11% unchanged)|orina,heces
++|E|La semivida de eliminación es de 15 horas y el aclaramiento total, de 8,8 L/h.|Inavolisib elimination half-life is 15 hours (24%) with a total clearance of 8.8 L/hr (29%)|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta|76|%|Inavolisib absolute oral bioavailability is 76%|inavolisib
+C|tmax|Mediana del tiempo hasta el pico en estado estacionario|3|h|time to maximum plasma concentration (T max ) is 3 hours (0.5, 4 hours)|inavolisib
+C|union|Unión a proteínas plasmáticas in vitro|37|%|Inavolisib plasma protein binding is 37%|inavolisib
+C|vd|Volumen de distribución aparente|155|L|Inavolisib apparent (oral) volume of distribution is 155 L (26%)|inavolisib
+C|semivida|Semivida de eliminación|15|h|Inavolisib elimination half-life is 15 hours (24%)|inavolisib
+C|aclaramiento|Aclaramiento total|8,8|L/h|with a total clearance of 8.8 L/hr (29%)|inavolisib
+C|orina|Dosis recuperada en la orina|49|% de la dosis|49% of the administered dose was recovered in urine (40% unchanged)|radiactividad total
+R|Las más frecuentes (20 % o más, con laboratorio): descenso de neutrófilos y hemoglobina, aumento de la glucosa en ayunas, descenso de plaquetas y linfocitos, estomatitis y diarrea, entre otras.|The most common (≥ 20%) adverse reactions, including laboratory abnormalities, were decreased neutrophils, decreased hemoglobin, increased fasting glucose, decreased platelets, decreased lymphocytes, stomatitis, diarrhea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hiperglucemia|Puede causar hiperglucemia grave o mortal, incluida la cetoacidosis.||Severe or fatal hyperglycemia, including ketoacidosis, can occur in patients treated with ITOVEBI|43685-7
+W|Estomatitis|Vigilar los signos y síntomas de estomatitis.||Monitor patients for signs and symptoms of stomatitis|43685-7
+W|Diarrea|Vigilar los signos y síntomas de diarrea.||Monitor patients for signs and symptoms of diarrhea|43685-7
+
+@ensartinib|Ensartinib|ON|Inhibidor de la tirosina cinasa ALK|ensartinib hydrochloride;Ensacove|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con cáncer de pulmón no microcítico avanzado ALK positivo no tratados antes con un inhibidor de ALK.|anaplastic lymphoma kinase (ALK)-positive locally advanced or metastatic non-small cell lung cancer
+A|Inhibe la cinasa ALK y también MET y ROS1; bloquea la señal de ALK y la proliferación de células con fusiones de ALK.|Ensartinib is a kinase inhibitor of anaplastic lymphoma kinase (ALK) and inhibits other kinases including MET and ROS1||ALK
+L|Cápsula dura: se disgrega en el tubo digestivo.|size 2 capsule, white opaque cap and body|
+B|La mediana del tiempo hasta el pico en estado estacionario es de 3 horas; una comida rica en grasas no cambia de forma relevante la exposición.|Ensartinib median (minimum, maximum) time to reach Cmax (Tmax) at steady state is 3 hours (2, 8 hours)|
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes frente al ayuno.|No clinically significant differences in ensartinib pharmacokinetics were observed following administration of ENSACOVE with a high-fat meal|||con una comida rica en grasas
+D|Se une en un 91,6 % a las proteínas plasmáticas; el volumen de distribución aparente es de 1720 L.|Ensartinib is 91.6% bound to human plasma protein|sangre
++|D|Volumen de distribución aparente de 1720 L.|Ensartinib mean (CV%) apparent volume of distribution is 1,720 L (42%)|||
+M|Se metaboliza sobre todo por la CYP3A.|Ensartinib is predominantly metabolized by CYP3A|higado
+E|Tras 200 mg marcados, el 91 % de la radiactividad se recuperó en las heces (38 % sin cambios) y el 10 % en la orina.|91% of the radioactivity was recovered in feces (38% as unchanged) and 10% in urine (4.4% as unchanged)|heces,orina
++|E|La semivida en estado estacionario es de 30 horas.|Ensartinib mean (standard deviation [SD]) steady-state half-life (t1/2) is 30 (20) hours|||
+C|tmax|Mediana del tiempo hasta el pico en estado estacionario|3|h|time to reach Cmax (Tmax) at steady state is 3 hours (2, 8 hours)|ensartinib
+C|union|Unión a proteínas plasmáticas|91,6|%|Ensartinib is 91.6% bound to human plasma protein|ensartinib
+C|vd|Volumen de distribución aparente|1720|L|Ensartinib mean (CV%) apparent volume of distribution is 1,720 L (42%)|ensartinib
+C|semivida|Semivida en estado estacionario|30|h|steady-state half-life (t1/2) is 30 (20) hours|ensartinib
+C|heces|Radiactividad recuperada en las heces|91|% de la dosis|91% of the radioactivity was recovered in feces (38% as unchanged)|radiactividad total||dosis oral única marcada de 200 mg
+R|Las más frecuentes (20 % o más): exantema, dolor musculoesquelético, estreñimiento, prurito, tos, náuseas, edema, vómitos, fatiga y fiebre.|Most common adverse reactions (incidence ≥20%) were rash, musculoskeletal pain, constipation, pruritus, cough, nausea, edema, vomiting, fatigue, and pyrexia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas nuevos o que empeoran, como disnea, tos o fiebre.||Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, and fever) during treatment with ENSACOVE|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas al inicio, cada 2 semanas durante el primer ciclo y después cada mes.|higado|Monitor liver function tests including ALT, AST, and total bilirubin at baseline and every 2 weeks during the first cycle of treatment with ENSACOVE|43685-7
+W|Bradicardia|Vigilar la frecuencia cardíaca con regularidad.|corazon|Monitor heart rate regularly during treatment with ENSACOVE|43685-7
+W|Alteraciones visuales|Hacer una valoración oftalmológica ante síntomas visuales nuevos o que empeoran.|ojos|Obtain an ophthalmologic evaluation in patients with new or worsening visual symptoms during treatment with ENSACOVE|43685-7
+
+@toremifeno|Toremifeno|ON|Agonista/antagonista de los receptores de estrógenos|toremifene citrate;Fareston|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de mama metastásico en mujeres posmenopáusicas con tumores con receptores de estrógenos positivos o desconocidos.|indicated for the treatment of metastatic breast cancer in postmenopausal women with estrogen-receptor positive or unknown tumors
+A|Se une a los receptores de estrógenos y puede ejercer efectos estrogénicos, antiestrogénicos o ambos; en humanos predomina la acción antiestrogénica de este tipo de derivados.|Toremifene binds to estrogen receptors and may exert estrogenic, antiestrogenic, or both activities||Receptores de estrógenos
+L|Comprimido sin recubrir: se disgrega en el tubo digestivo.|Tablet is 60 mg, round, convex, unscored, uncoated, and white, or almost white|
+B|Se absorbe bien por vía oral, sin influencia de la comida, y el pico aparece en las 3 primeras horas.|Toremifene is well absorbed after oral administration and absorption is not influenced by food|
++|B|El pico plasmático se alcanza en un plazo de 3 horas.|Peak plasma concentrations are obtained within 3 hours|||
+D|Tiene un volumen de distribución aparente de 580 L y se une en más del 99,5 % a las proteínas del suero, sobre todo a la albúmina.|Toremifene has an apparent volume of distribution of 580 L and binds extensively (>99.5%) to serum proteins, mainly albumin|sangre
+M|Se metaboliza ampliamente, sobre todo por la CYP3A4, a N-desmetiltoremifeno, también antiestrogénico pero con poca potencia antitumoral in vivo.|Toremifene is extensively metabolized, principally by CYP3A4 to N-demethyltoremifene which is also antiestrogenic but with weak in vivo antitumor potency|higado
+T|N-desmetiltoremifeno|activo|principally by CYP3A4 to N-demethyltoremifene which is also antiestrogenic but with weak in vivo antitumor potency|Antiestrogénico, con poca potencia antitumoral in vivo.
+E|Se elimina como metabolitos sobre todo por las heces; alrededor del 10 % sale por la orina en una semana.|Toremifene is eliminated as metabolites primarily in the feces, with about 10% excreted in the urine during a 1-week period|heces,orina
++|E|La eliminación es lenta, en parte por la circulación enterohepática.|Elimination of toremifene is slow, in part because of enterohepatic circulation|||
++|E|La semivida de eliminación es de unos 5 días.|an elimination half-life of about 5 days|||
+C|tmax|Tiempo hasta el pico|≤ 3|h|Peak plasma concentrations are obtained within 3 hours|toremifeno
+C|vd|Volumen de distribución aparente|580|L|Toremifene has an apparent volume of distribution of 580 L|toremifeno
+C|union|Unión a proteínas séricas|> 99,5|%|binds extensively (>99.5%) to serum proteins, mainly albumin|toremifeno
+C|semivida|Semivida de eliminación|5 (aprox.)|días|an elimination half-life of about 5 days|toremifeno
+C|aclaramiento|Aclaramiento total medio|5 (aprox.)|L/h|Mean total clearance of toremifene was approximately 5 L/h|toremifeno
+R|Las más frecuentes: sofocos, sudoración, náuseas y flujo vaginal.|Most common adverse reactions are hot flashes, sweating, nausea and vaginal discharge
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Prolongación del QT|Prolonga el QTc según la dosis y la concentración; puede causar torsade de pointes.||FARESTON has been shown to prolong the QTc interval in a dose- and concentration-related manner|34066-1
+W|Hepatotoxicidad|Se han descrito aumentos graves de transaminasas e hiperbilirrubinemia, con ictericia, hepatitis o hígado graso no alcohólico.|higado|Hepatotoxicity, both increases in the serum concentration for grade 3 and 4 transaminitis and hyperbilirubinemia, including jaundice, hepatitis, and non-alcoholic fatty liver disease|43685-7
+W|Embarazo|Puede dañar al feto; evitar el embarazo durante el tratamiento.||Fetal harm may occur when administered to a pregnant woman|43685-7
+
+@mitotano|Mitotano|ON|Citotóxico suprarrenal|mitotane;Lysodren|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento del carcinoma corticosuprarrenal inoperable, funcionante o no funcionante.|LYSODREN is indicated for the treatment of patients with inoperable, functional or nonfunctional, adrenocortical carcinoma (ACC)
+A|Su mecanismo se desconoce: modifica el metabolismo periférico de los esteroides y suprime directamente la corteza suprarrenal.|Mitotane modifies the peripheral metabolism of steroids and directly suppresses the adrenal cortex||Corteza suprarrenal
+L|Comprimido ranurado: se disgrega en el tubo digestivo.|Tablets: 500 mg white, round, biconvex, scored tablets|
+B|Tras su administración oral se absorbe el 40 % de la dosis; los datos sugieren que la comida grasa aumenta la absorción.|Following oral administration of LYSODREN, 40% of the dose is absorbed|
++|B|Con distintas formulaciones, la comida rica en grasas parece aumentar la absorción.|Data with various mitotane formulations suggest that administration with high fat food enhances absorption of mitotane|||con comida rica en grasas
+D|Se encuentra en la mayoría de los tejidos, pero se distribuye sobre todo en la grasa.|Mitotane is found in most tissues of the body; however, fat is the primary site of distribution|tejidos,tejido-adiposo
+M|Tiene metabolismo hepático y extrahepático; se transforma en un metabolito hidrosoluble y su metabolito circulante principal es el o,p'-DDA.|Mitotane metabolism includes hepatic and extrahepatic metabolism|higado
+T|o,p'-DDA (ácido 1,1-(o,p'-diclorodifenil)acético)|desconocida|Mitotane is metabolized to 1,1-(o,p'-dichlorodiphenyl) acetic acid (o,p'-DDA), as the major circulating metabolite|Metabolito circulante principal; la etiqueta no precisa su actividad.
+E|Alrededor del 10 % de la dosis aparece en la orina como metabolito hidrosoluble y entre el 1 y el 17 % sale por la bilis.|Approximately 10% of the administered dose is recovered in the urine as a water-soluble metabolite|orina
++|E|Una cantidad variable de metabolito (1-17 %) se excreta en la bilis.|A variable amount of metabolite (1%-17%) is excreted in the bile|||
++|E|Tras suspenderlo, la semivida plasmática terminal va de 18 a 159 días (mediana de 53 días).|the plasma terminal half-life ranges from 18 to 159 days (median 53 days)|||
+C|otra|Fracción absorbida|40|% de la dosis|Following oral administration of LYSODREN, 40% of the dose is absorbed|mitotano
+C|semivida|Mediana de la semivida plasmática terminal|53|días|the plasma terminal half-life ranges from 18 to 159 days (median 53 days)|mitotano||tras suspenderlo
+C|orina|Dosis recuperada en la orina como metabolito|10 (aprox.)|% de la dosis|Approximately 10% of the administered dose is recovered in the urine as a water-soluble metabolite|metabolito hidrosoluble
+R|Las más frecuentes: anorexia, molestias epigástricas, náuseas, vómitos, diarrea, mareo, vértigo, exantema, hipercolesterolemia, hipertrigliceridemia e hipotiroidismo, entre otras.|Most common adverse reactions include: anorexia, epigastric discomfort, nausea, vomiting, diarrhea, dizziness, vertigo, rash, hypercholesterolemia, hypertriglyceridemia, hypothyroidism
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Crisis suprarrenal en el shock, el traumatismo grave o la infección|Aumenta el riesgo de crisis suprarrenal en esas situaciones, que puede ser mortal; suspenderlo y dar esteroides.||Patients treated with LYSODREN are at increased risk for developing adrenal crisis in the setting of shock, severe trauma or infection that may lead to death|34066-1
+W|Toxicidad del sistema nervioso central|Hacer valoraciones conductuales y neurológicas y medir el mitotano en plasma de forma periódica.||Monitor behavioral and neurologic assessments and mitotane plasma levels at regular intervals|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar, durante el ajuste de dosis y periódicamente.|higado|Monitor liver function tests prior to starting treatment with LYSODREN, during dose titration, and periodically during treatment|43685-7

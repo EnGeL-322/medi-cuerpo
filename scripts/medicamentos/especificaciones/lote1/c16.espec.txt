@@ -1,0 +1,47 @@
+@pazopanib|Pazopanib|ON|Inhibidor de tirosina quinasas (VEGFR, PDGFR y otros)|pazopanib|vias=oral;familia=solido-oral
+S|Hidrocloruro de pazopanib|pazopanib hidrocloruro equivalente a 200 mg de pazopanib
+X|Celulosa microcristalina (E460); Carboximetilalmidón sódico (tipo A); Povidona K30 (E1201); Estearato de magnesio (E470b); Hipromelosa (E464); Dióxido de titanio (E171); Macrogol 400 (E1521); Óxido de hierro rojo (E172, solo para 200 mg); Polisorbato 80 (E433)
+K|200 mg de pazopanib (como hidrocloruro) por comprimido, según la ficha técnica
+U|Tratamiento de primera línea del carcinoma de células renales avanzado en adultos, y de otros tumores.|Pazopanib está indicado para el tratamiento de primera línea del carcinoma de células renales avanzado (CCR) en adultos
+A|Es un potente inhibidor de tirosina quinasas que inhibe varios receptores del factor de crecimiento endotelial vascular (VEGFR-1, -2 y -3) y de otros factores de crecimiento.|Pazopanib administrado por vía oral, es un potente inhibidor de tirosin kinasa (ITK) que inhibe múltiples receptores del factor de crecimiento endotelial vascular (VEGFR) -1, -2 y -3|rinones,vasos|Receptores VEGFR-1, -2 y -3 y PDGFR
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (comprimido)|
+B|Tras una dosis única de 800 mg en pacientes con tumores sólidos, la concentración plasmática máxima fue de unos 19 ± 13 µg/mL tras una mediana de 3,5 horas.|se obtuvo la concentración plasmática máxima (Cmax) de aproximadamente 19 ± 13 µg/ml tras una mediana de 3,5 horas (intervalo 1,0-11,9 horas)|
++|B|Con alimentos de alto o bajo contenido en grasa, el AUC y la Cmax aumentaron aproximadamente al doble.|La administración de pazopanib con alimentos con alto o bajo contenido en grasas produjo un incremento en el AUC y la Cmax de aproximadamente dos veces|||con alimentos
+D|La unión a proteínas del plasma humano in vivo fue superior al 99 %, independiente de la concentración entre 10 y 100 µg/mL.|La unión de pazopanib a proteínas plasmáticas humanas in vivo fue mayor del 99 %, independientemente de la concentración, en el intervalo de 10-100 µg/ml|sangre
+M|Su metabolismo está mediado sobre todo por la CYP3A4, con menor contribución de la CYP1A2 y la CYP2C8.|el metabolismo de pazopanib está mediado principalmente por CYP3A4, con menor contribución de CYP1A2 y CYP2C8|higado
+T|Cuatro metabolitos principales|activo|Los cuatro metabolitos principales de pazopanib representaban sólo el 6% de la exposición en plasma|Representan el 6 % de la exposición plasmática; uno tiene una potencia similar a la del pazopanib y el resto, de 10 a 20 veces menos.
+E|Se elimina lentamente, con una semivida media de 30,9 horas; la eliminación se produce sobre todo por las heces y la renal es inferior al 4 % de la dosis.|Pazopanib se elimina lentamente, con una semivida media de 30,9 horas tras la administración de la dosis recomendada de 800 mg|heces,bilis,rinones
+C|tmax|Mediana del tiempo hasta la concentración máxima|3,5 (1,0-11,9)|h|tras una mediana de 3,5 horas (intervalo 1,0-11,9 horas)|pazopanib|pacientes con tumores sólidos|dosis única de 800 mg
+C|union|Unión a proteínas plasmáticas|> 99|%|La unión de pazopanib a proteínas plasmáticas humanas in vivo fue mayor del 99 %|pazopanib
+C|semivida|Semivida media de eliminación|30,9|h|con una semivida media de 30,9 horas|pazopanib||dosis de 800 mg
+C|orina|Eliminación renal|< 4|% de la dosis|la eliminación renal representa <4 % de la dosis administrada|pazopanib
+R|La ficha detalla las reacciones adversas graves más importantes identificadas en los estudios de carcinoma renal y de sarcoma de tejidos blandos.|La reacciones adversas graves más importantes identificadas en los estudios de CCR y STB fueron
+R|La evaluación de seguridad del carcinoma renal incluyó a 1.149 pacientes.|fueron analizados en la evaluación global de seguridad y tolerabilidad de pazopanib (total n=1.149) en pacientes con CCR
+W|Efectos hepáticos|Se han notificado casos de insuficiencia hepática, algunos mortales, durante el uso de pazopanib.|higado|Se han notificado casos de insuficiencia hepática (incluyendo víctimas mortales) durante el uso de pazopanib
+
+@dapoxetina|Dapoxetina|UR|Inhibidor selectivo de la recaptación de serotonina (para la eyaculación precoz)|dapoxetine;Priligy|vias=oral;familia=solido-oral
+S|Clorhidrato de dapoxetina|clorhidrato de dapoxetina equivalente a 30 mg o 60 mg de dapoxetina
+X|Lactosa monohidrato; Celulosa microcristalina; Croscarmelosa sódica; Sílice anhidra coloidal; Estearato de magnesio; Hipromelosa; Dióxido de titanio (E171); Triacetina; Óxido de hierro negro (E172); Óxido de hierro amarillo (E172)
+K|30 y 60 mg de dapoxetina (como clorhidrato) por comprimido, según la ficha técnica
+U|Tratamiento de la eyaculación precoz en varones adultos de 18 a 64 años.|Priligy está indicado en el tratamiento de la eyaculación precoz (EP) en varones adultos de 18 a 64 años de edad
+A|Es un potente inhibidor selectivo de la recaptación de serotonina (ISRS), con una CI50 de 1,12 nM.|La dapoxetina es un potente inhibidor selectivo de la recaptación de serotonina (ISRS), con una CI 50 de 1,12 nM|encefalo,organos-reproductores|Transportador de serotonina
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Los comprimidos de 30 mg recubiertos con película|
+B|Se absorbe rápidamente, con concentraciones plasmáticas máximas en 1-2 horas tras la ingesta; la biodisponibilidad absoluta es del 42 % (rango 15-76 %).|La dapoxetina se absorbe rápidamente, con concentraciones plasmáticas máximas (C max ) en 1-2 horas tras la ingesta del comprimido|
++|B|La biodisponibilidad absoluta es del 42 % (rango de 15 a 76 %).|La biodisponibilidad absoluta es del 42% (rango 15-76%)|||
++|B|Una comida rica en grasas redujo moderadamente la Cmax (un 10 %) y aumentó moderadamente el AUC (un 12 %); sin significación clínica.|La ingestión de una comida rica en grasas redujo de manera moderada la C max (en un 10%) y aumentó moderadamente la AUC (en un 12%) de dapoxetina|||con una comida rica en grasas
+D|Más del 99 % se une in vitro a las proteínas del suero humano y el volumen de distribución en el equilibrio medio es de 162 litros.|Más del 99% de la dapoxetina se une in vitro a las proteínas del suero humano|sangre,tejidos
++|D|El volumen de distribución en estado de equilibrio medio es de 162 litros.|La dapoxetina tiene un volumen de distribución en estado de equilibrio medio de 162 litros|||
+M|Se elimina por varios sistemas enzimáticos del hígado y de los riñones, sobre todo la CYP2D6, la CYP3A4 y la flavina monooxigenasa (FMO1), con metabolismo presistémico de primer paso.|la dapoxetina es eliminada por varios sistemas enzimáticos del hígado y los riñones, principalmente CYP2D6, CYP3A4 y flavina monooxigenasa (FMO1)|higado,rinones
+T|N-óxido de dapoxetina|inactivo|En los estudios de unión y transporte in vitro se demuestra que el N-óxido de dapoxetina es inactivo|Inactivo; con la dapoxetina intacta es el principal metabolito circulante.
+T|Desmetildapoxetina (DMD)|activo|Los estudios de unión in vitro indican que la DMD es equipotencial a la dapoxetina|Equipotencial a la dapoxetina; menos del 3 % de los materiales circulantes.
+E|Se eliminó sobre todo por la orina, en forma de metabolitos conjugados; no se detectó fármaco activo intacto en la orina.|La dapoxetina fue eliminada principalmente por la orina, sobre todo en forma de metabolitos conjugados|rinones,orina
++|E|Tuvo una semivida inicial de aproximadamente 1,5 horas y una semivida terminal de aproximadamente 19 horas.|una semivida terminal de aproximadamente 19 horas|||
+C|tmax|Tiempo hasta las concentraciones máximas|1-2|h|concentraciones plasmáticas máximas (C max ) en 1-2 horas tras la ingesta del comprimido|dapoxetina
+C|biodisponibilidad|Biodisponibilidad absoluta|42 (15-76)|%|La biodisponibilidad absoluta es del 42% (rango 15-76%)|dapoxetina
+C|union|Unión a proteínas del suero|> 99|%|Más del 99% de la dapoxetina se une in vitro a las proteínas del suero humano|dapoxetina||in vitro
+C|vd|Volumen de distribución en estado de equilibrio medio|162|L|un volumen de distribución en estado de equilibrio medio de 162 litros|dapoxetina
+C|semivida|Semivida terminal|19 (aprox.)|h|una semivida terminal de aproximadamente 19 horas|dapoxetina
+R|Se han notificado síncope e hipotensión ortostática en ensayos clínicos.|Se han notificado síncope e hipotensión ortostática en ensayos clínicos
+R|Las que más motivaron la interrupción fueron las náuseas (2,2 % de los tratados) y los mareos (1,2 %).|Los acontecimientos adversos más frecuentes que motivaron la interrupción de la administración fueron las náuseas (2,2 % de los sujetos tratados con Priligy) y los mareos (1,2 % de los sujetos tratados con Priligy)
+W|Solo para eyaculación precoz|Está indicado únicamente en hombres con eyaculación precoz que cumplan todos los criterios de las secciones 4.1 y 5.1.|organos-reproductores|Priligy está únicamente indicado en hombres con Eyaculación Precoz que cumplan todos los criterios
+W|Disfunción eréctil con inhibidores de la PDE5|No está indicado en varones con disfunción eréctil que usen inhibidores de la PDE5.|organos-reproductores|Priligy no está indicado en varones con disfunción eréctil (DE) que estén usando inhibidores de la PDE5

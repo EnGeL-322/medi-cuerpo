@@ -1,0 +1,99 @@
+@almotriptan|Almotriptán|SN|Agonista de los receptores 5-HT1B/1D (triptán antimigrañoso)|almotriptan;Amignul|vias=oral;familia=solido-oral
+S|Malato ácido de almotriptán|Cada comprimido contiene almotriptán 12,5 mg en forma de almotriptán
+X|Manitol (E-421); Celulosa microcristalina; Povidona; Carboximetilalmidón de sodio; Fumarato de estearilo y sodio; Hipromelosa; Dióxido de titanio (E-171); Macrogol 400; Cera de carnauba
+K|12,5 mg de almotriptán por comprimido, según la ficha técnica
+U|Tratamiento agudo de la fase de cefalea de las crisis de migraña con o sin aura.|Tratamiento agudo de la fase de cefalea de las crisis de migraña con o sin aura
+A|Es un agonista selectivo de los receptores 5-HT1B y 5-HT1D, que median la vasoconstricción de ciertos vasos craneales.|Almotriptán es un agonista selectivo de los receptores 5-HT 1B y 5-HT 1D que median la vasoconstricción de ciertos vasos craneales|vasos,encefalo|Receptores 5-HT1B y 5-HT1D
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos recubiertos con película|
+B|Se absorbe bien y su biodisponibilidad oral es cercana al 70 %.|Almotriptán es bien absorbido, presentando una biodisponibilidad oral cercana al 70%|
++|B|La concentración plasmática máxima se alcanza aproximadamente entre 1,5 y 3,0 horas después de la administración.|La concentración plasmática máxima (C max ) se alcanza aproximadamente entre 1,5 y 3,0 horas después de la administración|||
++|B|La velocidad y la magnitud de la absorción no se ven afectadas por la ingesta simultánea de alimento.|La velocidad y la magnitud de la absorción no se ven afectadas por la ingesta simultánea de alimento|||con alimento
+D|Tras una dosis intravenosa en voluntarios sanos, el volumen de distribución medio fue de 195 litros.|los valores medios del volumen de distribución, aclaramiento total y semivida de eliminación fueron de 195 L , 40 L / h y 3,4 h respectivamente|sangre,tejidos
+M|La principal vía de biotransformación es la desaminación oxidativa a un metabolito indolacético, catalizada por la monoaminooxidasa (MAO-A); intervienen también las isoenzimas 3A4 y 2D6 del citocromo P450 y la flavín monooxigenasa.|La principal ruta de biotransformación es la desaminación oxidativa a un metabolito indolacético, catalizada por la monoaminooxidasa (MAO-A)|higado
+T|Metabolito indolacético|inactivo|Ninguno de los metabolitos posee actividad farmacológica significativa|Sin actividad farmacológica significativa.
+E|Más del 75 % de la dosis se elimina por la orina y el resto por las heces; aproximadamente la mitad de lo excretado es almotriptán inalterado.|Más del 75% de la dosis administrada se elimina por la orina, y el resto por las heces|rinones,orina,heces
++|E|La semivida de eliminación es de unas 3,5 horas en individuos sanos.|es de unas 3,5 horas en individuos sanos|||
+C|biodisponibilidad|Biodisponibilidad oral|70 (aprox.)|%|presentando una biodisponibilidad oral cercana al 70%|almotriptán
+C|tmax|Tiempo hasta el pico plasmático|1,5-3,0|h|se alcanza aproximadamente entre 1,5 y 3,0 horas después de la administración|almotriptán
+C|vd|Volumen de distribución|195|L|los valores medios del volumen de distribución, aclaramiento total y semivida de eliminación fueron de 195 L , 40 L / h y 3,4 h respectivamente|almotriptán|voluntarios sanos|dosis intravenosa|otra-via
+C|semivida|Semivida de eliminación|3,5 (aprox.)|h|es de unas 3,5 horas en individuos sanos|almotriptán|individuos sanos
+C|orina|Dosis eliminada por la orina|> 75|% de la dosis|Más del 75% de la dosis administrada se elimina por la orina|almotriptán y metabolitos
+R|Las más frecuentes a la dosis terapéutica: mareos, somnolencia, náuseas, vómitos y fatiga.|Las reacciones adversas más frecuentes a la dosis terapéutica fueron mareos, somnolencia, náuseas, vómitos y fatiga
+R|Ninguna reacción adversa tuvo una incidencia superior al 1,5 %.|Ninguna de las reacciones adversas tuvo una incidencia superior al 1,5%
+W|Accidentes cerebrovasculares|En pacientes tratados con agonistas 5-HT1B/1D se han notificado accidentes cerebrovasculares y otros acontecimientos cerebrovasculares.|encefalo,vasos|En pacientes tratados con agonistas 5HT 1B/1D se han notificado accidentes cerebrovasculares y otros acontecimientos cerebrovasculares
+W|Diagnóstico claro de migraña|Solo debe emplearse con un diagnóstico claro de migraña; se evita en la migraña basilar, hemipléjica u oftalmopléjica.|encefalo|Almotriptán sólo debe emplearse en casos de diagnóstico claro de migraña
+
+@vareniclina|Vareniclina|SM|Agonista parcial del receptor nicotínico α4β2 (para dejar de fumar)|varenicline;Byteqi|vias=oral;familia=solido-oral
+S|Citrato de vareniclina|vareniclina citrato equivalente a 1 mg de vareniclina
+X|Celulosa microcristalina; Almidón de maíz pregelatinizado; Estearato de magnesio (E470b); Galato de propilo (E310); Ácido cítrico; Hipromelosa (E464); Dióxido de titanio (E171); Laca de aluminio índigo carmín (E132)
+K|1 mg de vareniclina (como citrato) por comprimido, según la ficha técnica
+U|Ayudar a dejar de fumar en adultos.|Vareniclina está indicado en adultos para dejar de fumar
+A|Se une con alta afinidad y selectividad a los receptores neuronales de acetilcolina de tipo nicotínico α4β2.|Vareniclina, se une con una afinidad y selectividad alta a los receptores neuronales para acetilcolina de tipo nicotínico α4β2|encefalo|Receptor nicotínico α4β2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (10 mm x 5 mm), de forma capsular|
+B|La absorción es prácticamente completa tras la administración oral y la disponibilidad sistémica es alta; las concentraciones máximas ocurren generalmente a las 3-4 horas.|La absorción es prácticamente completa después de la administración oral y la disponibilidad sistémica es alta|
++|B|La biodisponibilidad oral no se ve afectada por los alimentos ni por la hora de administración.|La biodisponibilidad oral de vareniclina no se ve afectada por los alimentos ni por la hora de administración de la dosis|||con alimentos
+D|Se distribuye en los tejidos, incluido el cerebro; la unión a proteínas del plasma es baja (menos del 20 %) e independiente de la edad y de la función renal.|La unión de vareniclina a proteína plasmática es baja ( < 20%) e independiente tanto de la edad como de la función renal|sangre,encefalo
++|D|El volumen aparente de distribución llega a 415 litros en estado estacionario.|El volumen aparente de distribución llega a los 415 litros|||estado estacionario
+M|Experimenta un metabolismo mínimo: el 92 % se excreta sin alteraciones en la orina y menos del 10 % como metabolitos.|Vareniclina experimenta un metabolismo mínimo, el 92% es excretado sin alteraciones en la orina y menos del 10% se excreta como metabolitos||sin
+T|N-carbamoilglucurónido de vareniclina e hidroxivareniclina|desconocida|Los metabolitos menores en orina incluyen N-carbamoilglucuronido de vareniclina e hidroxivareniclina|Metabolitos menores de la orina.
+E|La eliminación renal se produce principalmente por filtración glomerular junto con secreción tubular activa a través del transportador catiónico orgánico OCT2.|La eliminación renal de vareniclina se produce principalmente por la filtración glomerular junto con secreción tubular activa|rinones,orina|original
++|E|La semivida de eliminación es de aproximadamente 24 horas.|La semivida de eliminación de vareniclina es de aproximadamente 24 horas|||
+C|tmax|Tiempo hasta el pico plasmático|3-4|h|Las concentraciones máximas de vareniclina ocurren generalmente a las 3-4 horas después de la administración|vareniclina
+C|union|Unión a proteínas plasmáticas|< 20|%|La unión de vareniclina a proteína plasmática es baja ( < 20%)|vareniclina
+C|vd|Volumen aparente de distribución|415|L|El volumen aparente de distribución llega a los 415 litros|vareniclina||estado estacionario
+C|semivida|Semivida de eliminación|24 (aprox.)|h|La semivida de eliminación de vareniclina es de aproximadamente 24 horas|vareniclina
+C|orina|Excretado sin alteraciones por la orina|92|% de la dosis|el 92% es excretado sin alteraciones en la orina|vareniclina
+R|En los estudios no se distinguió entre las reacciones asociadas al fármaco y las posiblemente asociadas a la retirada de la nicotina.|diferenciar entre las reacciones adversas asociadas al tratamiento con el fármaco en estudio y las que están posiblemente asociadas a la retirada de nicotina
+R|Dejar de fumar, con o sin tratamiento, se asocia con disforia o depresión, insomnio, irritabilidad, frustración o ira y ansiedad.|se han descrito disforia o depresión; insomnio, irritabilidad, frustración o ira; ansiedad
+W|Síntomas neuropsiquiátricos|Tras la comercialización se han notificado alteraciones del comportamiento, ansiedad, psicosis, cambios de humor, agresividad, depresión, ideación y comportamiento suicida.|encefalo|se han notificado casos de alteraciones del comportamiento o de la forma de pensar, ansiedad, psicosis, cambios de humor, comportamiento agresivo, depresión, ideación y comportamiento suicida
+W|Efecto de dejar de fumar sobre otros medicamentos|Dejar de fumar, con o sin vareniclina, puede alterar la farmacocinética o la farmacodinamia de algunos medicamentos.|higado,sangre|pueden alterar la farmacocinética o la farmacodinamia de algunos medicamentos
+
+@rupatadina|Rupatadina|RA|Antihistamínico H1 de segunda generación|rupatadine;Rupafin|vias=oral;familia=solido-oral
+S|Fumarato de rupatadina|10 mg de rupatadina (como fumarato)
+X|Almidón de maíz pregelatinizado; Celulosa microcristalina; Óxido de hierro rojo (E-172); Óxido de hierro amarillo (E-172); Lactosa monohidrato; Estearato de magnesio
+K|10 mg de rupatadina (como fumarato) por comprimido, según la ficha técnica
+U|Tratamiento sintomático de la rinitis alérgica y de la urticaria en adultos y adolescentes mayores de 12 años.|Tratamiento sintomático de la rinitis alérgica y la urticaria en adultos y adolescentes
+A|Es un antihistamínico de segunda generación, antagonista de la histamina de acción prolongada, con actividad selectiva por el receptor H1 periférico.|Rupatadina es un antihistamínico de segunda generación, antagonista de la histamina de acción prolongada, con una actividad selectiva por el receptor H 1 periférico|vias-respiratorias,piel|Receptor H1 de la histamina
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos redondos de color salmón claro|
+B|Se absorbe rápidamente tras la administración oral, con un tmax de aproximadamente 0,75 horas; la biodisponibilidad absoluta no está disponible porque nunca se administró por vía intravenosa a humanos.|Rupatadina se absorbe rápidamente después de su administración oral, con un t max de aproximadamente 0,75 horas después de la ingesta|
++|B|La ingesta de alimento aumentó la exposición sistémica (AUC) en torno a un 23 % y retrasó 1 hora el tmax; la Cmax no se afectó.|La ingesta de alimento aumentó la exposición sistémica (AUC) a rupatadina en torno a un 23%|||con comida
+D|La unión de rupatadina a las proteínas del plasma es del 98,5-99 %.|La unión de rupatadina a proteínas plasmáticas es del 98,5-99%|sangre
+M|Sufre un importante metabolismo presistémico tras la administración oral y es metabolizada principalmente por el citocromo P450 CYP3A4.|Rupatadina se somete a un importante metabolismo presistémico, cuando se administra por vía oral|higado
++|M|Los estudios in vitro con microsomas hepáticos humanos indican que se metaboliza principalmente por el CYP3A4.|rupatadina es metabolizada principalmente por el citocromo P450 (CYP3A4)|||in vitro
+T|Desloratadina y derivados hidroxilados|activo|los metabolitos activos desloratadina y otros derivados hidroxilados respectivamente representan el 27% y 48% del total de la exposición sistémica|Metabolitos activos; representan el 27 % y el 48 % de la exposición sistémica de las sustancias activas.
+E|Tras una dosis marcada, el 34,6 % de la radiactividad se recuperó en la orina y el 60,9 % en las heces en 7 días; el fármaco inalterado fue insignificante.|el 34,6% de la radiactividad administrada se recuperó en la orina y el 60,9% en heces recogidas durante 7 días|rinones,orina,heces
++|E|La concentración plasmática siguió un descenso biexponencial con una semivida de eliminación de 5,9 horas.|con una semivida de eliminación de 5,9 horas|||
+C|tmax|Tiempo hasta el pico plasmático|0,75 (aprox.)|h|con un t max de aproximadamente 0,75 horas después de la ingesta|rupatadina
+C|union|Unión a proteínas plasmáticas|98,5-99|%|La unión de rupatadina a proteínas plasmáticas es del 98,5-99%|rupatadina
+C|semivida|Semivida de eliminación|5,9|h|con una semivida de eliminación de 5,9 horas|rupatadina
+C|orina|Radiactividad recuperada en la orina|34,6|% de la dosis|el 34,6% de la radiactividad administrada se recuperó en la orina|radiactividad total||dosis de 14C-rupatadina|
+C|heces|Radiactividad recuperada en las heces|60,9|% de la dosis|el 60,9% en heces recogidas durante 7 días|radiactividad total||dosis de 14C-rupatadina|
+R|Las más frecuentes en estudios controlados: somnolencia (9,4 %), cefalea (6,9 %), fatiga (3,1 %), astenia (1,5 %), boca seca (1,2 %) y mareo (1,03 %).|Las reacciones adversas más frecuentes en los estudios clínicos controlados fueron somnolencia (9,4%), cefalea (6,9%) , fatiga (3,1%), astenia (1,5%), boca seca (1,2%) y mareo (1,03%)
+R|La mayoría fueron de leves a moderadas y normalmente no fue necesario interrumpir el tratamiento.|fueron de leves a moderadas y normalmente no fue necesaria la interrupción del tratamiento
+W|Inhibidores potentes de la CYP3A4|Debe evitarse la combinación con inhibidores potentes de la CYP3A4.|higado|Debe evitarse la combinación de rupatadina con inhibidores potentes del CYP3A4
+W|Zumo de pomelo|No se recomienda tomarla con zumo de pomelo.|estomago|No se recomienda la administración de rupatadina con zumo de pomelo
+
+@amisulprida|Amisulprida|SM|Antipsicótico (benzamida)|amisulpride;Solian|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Celulosa microcristalina; Carboximetilalmidón de sodio; Hipromelosa; Estearato de magnesio
+K|100 mg de amisulprida por comprimido, según la ficha técnica
+U|Tratamiento de la esquizofrenia.|Amisulprida está indicado para el tratamiento de la esquizofrenia
+A|Es un antipsicótico con afinidad por los subtipos D2 y D3 del receptor dopaminérgico humano y sin afinidad por los subtipos D1, D4 y D5.|Amisulprida es un agente antipsicótico con afinidad a los subtipos D 2 /D 3 del receptor dopaminérgico humano|encefalo|Receptores dopaminérgicos D2 y D3
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|SOLIAN 100 mg comprimidos / SOLIAN 200 mg comprimidos|
+B|Muestra dos picos de absorción: uno rápido, una hora después de la dosis, y otro entre 3 y 4 horas después; la biodisponibilidad absoluta es del 48 %.|amisulprida muestra dos picos de absorción: uno al que se llega rápidamente, una hora después de la dosis, y un segundo entre 3 y 4 horas después de la administración|
++|B|La biodisponibilidad absoluta es del 48 %.|La biodisponibilidad absoluta es del 48%|||
++|B|Una comida rica en hidratos de carbono reduce significativamente el AUC, el Tmax y la Cmax; tras una comida rica en grasas no se observaron cambios.|Una comida rica en hidratos de carbono (que contenga un 68% de líquidos) disminuye significativamente los siguientes parámetros de amisulprida AUC, Tmax y Cmax, pero no se observaron cambios después de una comida rica en grasas|||con comida
+D|La fijación a proteínas del plasma es baja (16 %) y el volumen de distribución es de 5,8 L/kg.|Como la fijación a proteínas plasmáticas es baja (16%)|sangre,tejidos
+M|Se metaboliza débilmente: se han identificado dos metabolitos inactivos, que suponen aproximadamente el 4 % de la dosis.|Amisulprida se metaboliza débilmente: se han identificado dos metabolitos inactivos, representando aproximadamente el 4% de la dosis|higado
+T|Dos metabolitos identificados|inactivo|se han identificado dos metabolitos inactivos|Inactivos; aproximadamente el 4 % de la dosis.
+E|Se elimina inalterada por la orina: el 50 % de una dosis intravenosa se excreta por la orina, el 90 % de ello en las primeras 24 horas.|Amisulprida se elimina inalterado por la orina|rinones,orina|original
++|E|La semivida de eliminación es de aproximadamente 12 horas tras una dosis oral.|La semivida de eliminación de amisulprida se produce aproximadamente 12 horas después de una dosis oral|||
+C|biodisponibilidad|Biodisponibilidad absoluta|48|%|La biodisponibilidad absoluta es del 48%|amisulprida
+C|union|Unión a proteínas plasmáticas|16|%|Como la fijación a proteínas plasmáticas es baja (16%)|amisulprida
+C|vd|Volumen de distribución|5,8|L/kg|El volumen de distribución es de 5,8 l/kg|amisulprida
+C|semivida|Semivida de eliminación|12 (aprox.)|h|aproximadamente 12 horas después de una dosis oral|amisulprida
+C|orina|Dosis intravenosa excretada por la orina|50|% de la dosis|El 50% de una dosis intravenosa se excreta por la orina|amisulprida||dosis intravenosa|otra-via
+R|Frecuente: aumento reversible de la prolactina plasmática, que puede dar galactorrea, amenorrea, ginecomastia, dolor en las mamas y disfunción eréctil.|Amisulprida causa un incremento de los niveles plasmáticos de prolactina que es reversible después de interrumpir la administración del fármaco
+R|Poco frecuentes: leucopenia y neutropenia; raro: agranulocitosis.|Poco frecuentes : leucopenia, neutropenia
+W|Síndrome neuroléptico maligno|Puede producirse este síndrome, una complicación potencialmente mortal con hipertermia, rigidez muscular y alteración de la conciencia.|encefalo,musculos|puede producirse síndrome neuroléptico maligno (SNM), una complicación potencialmente mortal
+W|Enfermedad de Parkinson|Debe usarse con precaución en la enfermedad de Parkinson, que puede empeorar.|encefalo|la prescripción de amisulprida debe realizarse con precaución a pacientes con enfermedad de Parkinson, ya que puede empeorar esta enfermedad

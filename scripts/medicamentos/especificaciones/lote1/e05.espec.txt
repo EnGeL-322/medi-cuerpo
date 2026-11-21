@@ -1,0 +1,77 @@
+@rosuvastatina|Rosuvastatina|CL|Estatina (inhibidor de la HMG-CoA reductasa)|rosuvastatin|doc=rosuvastatina-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|Rosuvastatina cálcica|15 mg de rosuvastatina (como rosuvastatina cálcica)
+X|Lactosa monohidrato; Celulosa microcristalina; Crospovidona; Hidrogenocarbonato de sodio; Sílice coloidal anhidra; Estearato de magnesio; Hipromelosa; Dióxido de titanio (E171); Macrogol; Talco
+K|15 mg de rosuvastatina (como rosuvastatina cálcica) por comprimido (Alzil 15 mg), según la ficha técnica
+U|Tratamiento de la hipercolesterolemia en adultos, adolescentes y niños desde 6 años.|Tratamiento de la hipercolesterolemia
+A|Es un inhibidor competitivo y selectivo de la HMG-CoA reductasa, la enzima limitante que convierte la HMG-CoA en mevalonato, precursor del colesterol.|La rosuvastatina es un inhibidor competitivo y selectivo de la HMG-CoA reductasa, la enzima limitante que convierte la 3-hidroxi-3-metilglutaril coenzima A en mevalonato, un precursor del colesterol|higado|HMG-CoA reductasa
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|15 mg: Comprimidos recubiertos con película|
+B|Las concentraciones plasmáticas máximas se alcanzan aproximadamente 5 horas después de la administración oral; la biodisponibilidad absoluta es de aproximadamente el 20 %.|Las concentraciones plasmáticas máximas de rosuvastatina se alcanzan aproximadamente 5 horas después de la administración oral|
++|B|La biodisponibilidad absoluta es de aproximadamente un 20 %.|La biodisponibilidad absoluta es de aproximadamente un 20%|||
+D|Es extensamente captada por el hígado, principal lugar de síntesis del colesterol; el volumen de distribución es de unos 134 litros y la unión a proteínas del plasma, de aproximadamente el 90 %, sobre todo a la albúmina.|La rosuvastatina es extensamente absorbida por el hígado, principal lugar de síntesis del colesterol y de aclaramiento del C-LDL|sangre,higado
++|D|El volumen de distribución es de aproximadamente 134 litros.|El volumen de distribución de la rosuvastatina es de aproximadamente 134 l|||
++|D|Se une a proteínas del plasma aproximadamente en un 90 %, principalmente a la albúmina.|La rosuvastatina se une a proteínas plasmáticas aproximadamente en un 90%, principalmente a la albúmina|||
+M|Se metaboliza de forma limitada (aproximadamente un 10 %); la isoenzima principal es la CYP2C9 y, en menor medida, la 2C19, la 3A4 y la 2D6.|La rosuvastatina se metaboliza de forma limitada (aproximadamente un 10%)|higado
+T|Metabolito N-desmetilado|activo|El metabolito N-desmetilado es aproximadamente un 50% menos activo que la rosuvastatina|Aproximadamente un 50 % menos activo que la rosuvastatina.
+T|Metabolito lactónico|inactivo|el lactónico se considera clínicamente inactivo|Clínicamente inactivo.
+E|Alrededor del 90 % se excreta inalterado en las heces (fármaco absorbido y no absorbido) y el resto, en la orina; aproximadamente el 5 % sale inalterado por la orina.|Aproximadamente un 90% de la rosuvastatina se excreta inalterada en las heces (incluyendo el principio activo absorbido y no absorbido) y el resto se excreta en orina|heces,bilis,rinones,orina|original
++|E|La semivida de eliminación plasmática es de aproximadamente 19 horas.|La semivida de eliminación plasmática es de aproximadamente 19 horas|||
+C|tmax|Tiempo hasta las concentraciones máximas|5 (aprox.)|h|se alcanzan aproximadamente 5 horas después de la administración oral|rosuvastatina
+C|biodisponibilidad|Biodisponibilidad absoluta|20 (aprox.)|%|La biodisponibilidad absoluta es de aproximadamente un 20%|rosuvastatina
+C|vd|Volumen de distribución|134 (aprox.)|L|El volumen de distribución de la rosuvastatina es de aproximadamente 134 l|rosuvastatina
+C|union|Unión a proteínas plasmáticas|90 (aprox.)|%|se une a proteínas plasmáticas aproximadamente en un 90%|rosuvastatina
+C|semivida|Semivida de eliminación plasmática|19 (aprox.)|h|La semivida de eliminación plasmática es de aproximadamente 19 horas|rosuvastatina
+C|heces|Dosis excretada inalterada por las heces|90 (aprox.)|% de la dosis|Aproximadamente un 90% de la rosuvastatina se excreta inalterada en las heces|rosuvastatina
+R|Las reacciones adversas son generalmente de carácter leve y transitorio.|Las reacciones adversas observadas con rosuvastatina son generalmente de carácter leve y transitorio
+R|En los ensayos controlados, menos del 4 % de los pacientes abandonaron el estudio por reacciones adversas.|En ensayos clínicos controlados menos del 4% de los pacientes tratados con rosuvastatina abandonaron el estudio debido a las reacciones adversas
+W|Reacciones adversas cutáneas graves|Se han notificado reacciones cutáneas graves, incluidos el síndrome de Stevens-Johnson y la reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS), potencialmente mortales.|piel|Se han notificado reacciones adversas cutáneas graves con rosuvastatina, incluido síndrome de Stevens- Johnson (SSJ) y reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS)
+
+@olanzapina|Olanzapina|SM|Antipsicótico atípico|olanzapine;Zolafren|doc=olanzapina-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Celulosa microcristalina; Lactosa monohidrato; Carboximetilalmidón sódico de patata sin gluten (tipo A); Estearato de magnesio
+K|5 y 10 mg de olanzapina por comprimido, según la ficha técnica
+U|Tratamiento de la esquizofrenia en adultos.|La olanzapina está indicada en el tratamiento de la esquizofrenia
+A|Es un agente antipsicótico, antimaníaco y estabilizador del ánimo con un amplio perfil farmacológico a través de varios sistemas de receptores.|La olanzapina es un agente antipsicótico, antimaníaco y estabilizador del ánimo que ha demostrado un amplio perfil farmacológico a través de un número de sistemas receptores|encefalo|Receptores de neurotransmisión (perfil amplio)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Zolafren 5 mg: c omprimido redondo, biconvexo y de color amarillo|
+B|Se absorbe bien tras la administración oral y la concentración plasmática máxima se alcanza en un plazo de 5 a 8 horas.|La olanzapina se absorbe bien después de su administración oral; la concentración plasmática máxima se alcanza en un plazo de 5 a 8 horas|
++|B|Su absorción no se modifica con la ingesta.|Su absorción no se modifica con la ingesta|||con alimentos
++|B|No se ha determinado la biodisponibilidad oral absoluta respecto a la administración intravenosa.|No se ha determinado la biodisponibilidad oral absoluta relacionada con la administración intravenosa|||
+D|La unión a proteínas del plasma es de aproximadamente el 93 % entre 7 y 1.000 ng/mL; se une preferentemente a la albúmina y a la glucoproteína ácida alfa-1.|La unión de la olanzapina a las proteínas plasmáticas representa aproximadamente un 93%, dentro del intervalo de concentración de 7 hasta aproximadamente 1.000 ng/ml|sangre
++|D|Se une preferentemente a la albúmina y a la glucoproteína ácida alfa-1.|Olanzapina se une preferentemente a la albúmina y a la α1-glucoproteína ácida|||
+M|Se metaboliza en el hígado por reacciones de conjugación y oxidación; el principal metabolito circulante es el 10-N-glucurónido, que no atraviesa la barrera hematoencefálica.|La olanzapina se metaboliza en el hígado a través de reacciones de conjugación y oxidación|higado
+T|10-N-glucurónido|desconocida|El principal metabolito circulante es el 10-N-glucurónido|Principal metabolito circulante; no atraviesa la barrera hematoencefálica.
+T|Metabolitos N-desmetilo y 2-hidroximetilo|activo|mostraron una actividad farmacológica in vivo significativamente menor que olanzapina en estudios en animales|Actividad farmacológica significativamente menor que la olanzapina en animales; la actividad predominante es del fármaco original.
+E|En sujetos sanos de edad avanzada la vida media de eliminación media estaba prolongada (51,8 frente a 33,8 horas) y el aclaramiento reducido (17,5 frente a 18,2 L/h) respecto a sujetos más jóvenes.|En sujetos sanos de edad avanzada (65 o más años) en comparación con sujetos más jóvenes la vida media de eliminación media estaba prolongada (51,8 frente a 33,8 horas)|
+C|tmax|Tiempo hasta la concentración plasmática máxima|5-8|h|la concentración plasmática máxima se alcanza en un plazo de 5 a 8 horas|olanzapina
+C|union|Unión a proteínas plasmáticas|93 (aprox.)|%|La unión de la olanzapina a las proteínas plasmáticas representa aproximadamente un 93%|olanzapina
+C|semivida|Vida media de eliminación media en sujetos jóvenes|33,8|h|la vida media de eliminación media estaba prolongada (51,8 frente a 33,8 horas)|olanzapina|sujetos sanos más jóvenes
+R|Las más frecuentes (1 % o más): somnolencia, aumento de peso, eosinofilia y aumento de prolactina, colesterol, glucosa y triglicéridos, entre otras.|Las reacciones notificadas más frecuentemente (observadas en ≥ 1% de los pacientes) asociadas al uso de olanzapina en ensayos clínicos fueron somnolencia, aumento de peso, eosinofilia, aumento de los niveles de prolactina
+R|También figuran discinesia, hipotensión ortostática y efectos anticolinérgicos.|discinesia, hipotensión ortostática, efectos anticolinérgicos
+W|Demencia|No está recomendada en pacientes con psicosis o trastornos del comportamiento asociados a demencia, por un aumento de la mortalidad y del riesgo de accidente cerebrovascular.|encefalo|La olanzapina no está recomendada para su uso en pacientes con psicosis y/o trastornos del comportamiento
+
+@dronedarona|Dronedarona|CV|Antiarrítmico de clase III|dronedarone|vias=oral;familia=solido-oral
+S|Hidrocloruro de dronedarona|400 mg de dronedarona (como hidrocloruro)
+X|Hipromelosa; Almidón de maíz pregelatinizado; Crospovidona; Lactosa monohidrato; Sílice coloidal anhidra; Estearato magnésico; Hipromelosa (E464); Macrogol (E1521); Dióxido de titanio (E171)
+K|400 mg de dronedarona (como hidrocloruro) por comprimido, según la ficha técnica
+U|Mantenimiento del ritmo sinusal tras una cardioversión efectiva en adultos clínicamente estables con fibrilación auricular.|Dronedarona Teva está indicado para el mantenimiento del ritmo sinusal después de una cardioversión efectiva en pacientes adultos clínicamente estables con fibrilación
+A|En animales previene la fibrilación auricular o restablece el ritmo sinusal normal según el modelo, y también previene la taquicardia y la fibrilación ventriculares en varios modelos.|En animales, dronedarona previene la fibrilación auricular o restablece el ritmo sinusal normal dependiendo del modelo utilizado|corazon|
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película (comprimido)|
+B|Con alimentos se absorbe bien (al menos un 70 %), pero por el efecto de primer paso presistémico la biodisponibilidad absoluta con la comida es del 15 %.|Sin embargo debido al efecto de primer paso metabólico presistémico, la biodisponibilidad absoluta de dronedarona (junto con la comida) es de un 15%|
++|B|La ingesta con alimentos aumenta la biodisponibilidad de 2 a 4 veces de media.|La ingesta concomitante con alimentos incrementa la biodisponibilidad de dronedarona de 2 a 4 veces de media|||con alimentos
++|B|Con alimentos, los picos de dronedarona y de su metabolito N-debutilo se alcanzan en 3-6 horas.|el pico de concentraciones plasmáticas de dronedarona y del principal metabolito circulante (metabolito N-debutilo) se alcanzan en 3-6 horas|||con alimentos
+D|La unión a proteínas del plasma in vitro es del 99,7 % para la dronedarona y del 98,5 % para su metabolito N-debutilo, sobre todo a la albúmina, y no es saturable.|La unión plasmática a proteínas de dronedarona in vitro y de su metabolito N-debutilo es de 99,7% y 98,5% respectivamente y no es saturable|sangre
++|D|Tras la vía intravenosa, el volumen de distribución en el estado estacionario varió de 1.200 a 1.400 L.|Después de la administración intravenosa el volumen de distribución en el estado estacionario (Vss) varió de 1.200 a 1.400 l|||dosis intravenosa
+M|Se metaboliza ampliamente, sobre todo por la CYP3A4; la vía principal es la N-debutilación, que forma el principal metabolito activo.|Dronedarona se metaboliza ampliamente, principalmente por el CYP 3A4|higado
+T|Metabolito N-debutilo|activo|El metabolito N-debutilo muestra actividad farmacodinámica pero es de 3 a 10 veces menos potente que dronedarona|Activo, de 3 a 10 veces menos potente que la dronedarona; contribuye a la actividad farmacológica.
+T|Metabolito ácido propanoico|inactivo|desaminación oxidativa para formar el metabolito ácido propanoico inactivo|Inactivo.
+E|Tras la administración oral de dosis marcada, alrededor del 6 % se excreta por la orina, sobre todo como metabolitos, y el 84 % por las heces, también sobre todo como metabolitos.|aproximadamente el 6% de la dosis marcada se excreta en orina principalmente como metabolitos|rinones,orina,heces,bilis
++|E|La semivida de eliminación terminal es de aproximadamente 25-30 horas y la de su metabolito N-debutilo, de 20-25 horas.|La semivida de eliminación terminal es de aproximadamente 25-30 horas y la de su metabolito N-debutilo alrededor de 20-25 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta (con la comida)|15|%|la biodisponibilidad absoluta de dronedarona (junto con la comida) es de un 15%|dronedarona||con la comida
+C|tmax|Tiempo hasta el pico plasmático (con alimentos)|3-6|h|se alcanzan en 3-6 horas|dronedarona y metabolito N-debutilo||con alimentos
+C|union|Unión a proteínas plasmáticas|99,7|%|es de 99,7% y 98,5% respectivamente y no es saturable|dronedarona||in vitro
+C|vd|Volumen de distribución en el estado estacionario|1.200-1.400|L|varió de 1.200 a 1.400 l|dronedarona||dosis intravenosa|otra-via
+C|semivida|Semivida de eliminación terminal|25-30 (aprox.)|h|La semivida de eliminación terminal es de aproximadamente 25-30 horas|dronedarona
+C|heces|Dosis marcada excretada por las heces|84 (aprox.)|% de la dosis|el 84% se excreta en heces|dronedarona y metabolitos||dosis oral marcada
+R|Las más frecuentes con 400 mg dos veces al día: diarrea (9 %) y náuseas (5 %), entre otras.|Las reacciones adversas más frecuentes observadas con dronedarona 400 mg dos veces al día en los 5 estudios fueron diarrea (9%), náuseas (5%)
+R|La interrupción temprana por reacciones adversas ocurrió en el 11,8 % de los tratados con dronedarona y en el 7,7 % con placebo.|ocurrió en el 11,8 % de los pacientes tratados con dronedarona y en el 7,7% en el grupo placebo
+W|Fibrilación auricular permanente|Un estudio en pacientes con fibrilación auricular permanente y riesgo cardiovascular se interrumpió prematuramente por un exceso de mortalidad.|corazon|Un estudio clínico en pacientes con FA permanente (FA de al menos 6 meses de duración) y riesgo de factores cardiovasculares fue interrumpido prematuramente
+W|Control de la función cardíaca, hepática y pulmonar|Durante el tratamiento se recomienda un control cuidadoso con evaluación regular de la función cardíaca, hepática y pulmonar.|corazon,higado,pulmones|Durante la administración de dronedarona se recomienda un control cuidados mediante la evaluación regular de la función cardiaca, hepática y pulmonar

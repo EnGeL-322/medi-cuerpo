@@ -1,0 +1,76 @@
+@moxonidina|Moxonidina|CV|Antihipertensivo de acción central (agonista de los receptores imidazolínicos)|moxonidine;Moxon|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Povidona K25; Crospovidona; Estearato de magnesio; Hipromelosa 2910; Etilcelulosa (solución al 30 %); Macrogol 6000; Talco; Óxido de hierro rojo (E 172); Dióxido de titanio (E 171)
+K|0,2 mg de moxonidina por comprimido (Moxon 0,2 mg), según la ficha técnica
+U|Tratamiento de la hipertensión arterial.|Moxon está indicado en el tratamiento de la hipertensión arterial
+A|Es un agonista selectivo de los receptores imidazolínicos, con acción antiadrenérgica central.|La moxonidina es un agonista selectivo de los receptores imidazolínicos|encefalo,vasos|Receptores imidazolínicos
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Moxon 0,2 mg: Comprimidos recubiertos|
+B|Tras la administración oral se absorbe rápida y completamente por el tubo digestivo superior, con un tmax de aproximadamente 1 hora.|Tras la administración oral, la moxonidina se absorbe rápida y completamente (t max aproximadamente 1 h) por el tracto gastrointestinal superior|
++|B|La biodisponibilidad absoluta es de aproximadamente el 88 %, lo que indica que no hay metabolismo de primer paso.|La biodisponibilidad absoluta es de aproximadamente 88%|||
++|B|La ingesta de alimentos no interfiere con la farmacocinética.|La ingesta de alimentos no interfiere con la farmacocinética de moxonidina|||con alimentos
+D|La unión a proteínas del plasma, determinada in vitro, fue de aproximadamente el 7,2 %.|La unión a proteínas plasmáticas, determinada in vitro, fue de aproximadamente 7,2%|sangre
+M|En el plasma humano solo se identificó de forma positiva la moxonidina deshidrogenada.|En muestras de plasma humano sólo se identificó de forma positiva moxonidina deshidrogenada|higado
+T|Moxonidina deshidrogenada|activo|La actividad farmacodinámica de la moxonidina deshidrogenada es de aproximadamente 1/10 en comparación con la moxonidina|Su actividad farmacodinámica es de aproximadamente una décima parte de la de la moxonidina.
+E|En 24 horas, el 78 % de la dosis se eliminó por la orina como moxonidina inalterada y el 13 % como moxonidina deshidrogenada.|Durante un periodo de 24 h, la dosis total se eliminó por la orina en un 78% como moxonidina inalterada y en un 13% como moxonidina deshidrogenada|rinones,orina|original
++|E|Por vía fecal se elimina menos del 1 %.|Por vía fecal se elimina menos de un 1%|||
++|E|La semivida de eliminación de la moxonidina y de sus metabolitos es de aproximadamente 2,5 y 5 horas.|La semivida de eliminación de moxonidina y sus metabolitos es de aproximadamente 2,5 y 5 horas, respectivamente|||
+C|tmax|Tiempo hasta el pico|1 (aprox.)|h|(t max aproximadamente 1 h)|moxonidina
+C|biodisponibilidad|Biodisponibilidad absoluta|88 (aprox.)|%|La biodisponibilidad absoluta es de aproximadamente 88%|moxonidina
+C|union|Unión a proteínas plasmáticas|7,2 (aprox.)|%|fue de aproximadamente 7,2%|moxonidina||in vitro
+C|semivida|Semivida de eliminación de la moxonidina|2,5 (aprox.)|h|es de aproximadamente 2,5 y 5 horas, respectivamente|moxonidina
+C|orina|Dosis eliminada por la orina como moxonidina inalterada|78|% de la dosis|en un 78% como moxonidina inalterada|moxonidina
+R|Las más frecuentes: sequedad de boca, mareo, astenia y somnolencia.|Las reacciones adversas más frecuentes descritas por aquellos que toman moxonidina incluyen sequedad de boca, mareo, astenia y somnolencia
+R|Estos síntomas disminuyen a menudo tras las primeras semanas de tratamiento.|Estos síntomas disminuyen a menudo tras las primeras semanas de tratamiento
+W|Bloqueo auriculoventricular|Se han comunicado casos de bloqueo AV de distinto grado tras la comercialización en pacientes tratados con moxonidina.|corazon|Se han comunicado casos de distinto grado de bloqueo AV durante la post-comercialización en pacientes sometidos a tratamiento con moxonidina
+
+@moclobemida|Moclobemida|SM|Antidepresivo inhibidor reversible de la monoaminooxidasa A (IRMA)|moclobemide;Manerix|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Almidón de maíz; Povidona; Carboximetilalmidón sódico (de patata); Estearato de magnesio; Hipromelosa; Etilcelulosa; Macrogol 6000; Talco; Dióxido de titanio (E 171)
+K|150 o 300 mg de moclobemida por comprimido, según la ficha técnica
+U|Tratamiento de la depresión mayor.|Tratamiento de la depresión mayor
+A|Es un antidepresivo que actúa sobre el sistema neurotransmisor monoaminérgico del cerebro mediante una inhibición reversible de la monoaminooxidasa, sobre todo del subtipo A.|La moclobemida es un antidepresivo que actúa sobre el sistema neurotransmisor cerebral monoaminérgico mediante una inhibición reversible de la monoaminooxidasa, fundamentalmente del subtipo A (IRMA)|encefalo|Monoaminooxidasa A (MAO-A)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido recubierto con película|
+B|Tras la administración oral se absorbe por completo desde el tubo digestivo hacia la circulación portal; las concentraciones máximas se alcanzan en una hora.|Tras su administración oral, la moclobemida se absorbe por completo desde el tracto gastrointestinal a la circulación portal|
++|B|Las concentraciones máximas del fármaco se alcanzan en un plazo de una hora tras la administración.|Las concentraciones máximas del fármaco se alcanzan en un plazo de una hora tras la administración|||
++|B|Por la saturación del primer paso metabólico durante la primera semana, la biodisponibilidad oral aumenta del 60 % al 80 %.|resulta en una biodisponibilidad oral que aumenta del 60 al 80% a partir de ese momento|||durante la primera semana de tratamiento
+D|Es lipofílica; el volumen de distribución es de unos 1,2 L/kg y la fijación a las proteínas del plasma, sobre todo a la albúmina, es baja (50 %).|La fijación del fármaco a las proteínas plasmáticas, especialmente a la albúmina, es baja (50%)|sangre,tejidos
++|D|El volumen de distribución es de unos 1,2 L/kg.|El volumen de distribución es de unos 1,2 L/Kg|||
+M|Se metaboliza casi por completo antes de eliminarse, sobre todo por reacciones oxidativas sobre el grupo morfolínico de la molécula.|El metabolismo se produce fundamentalmente mediante reacciones oxidativas sobre el grupo morfolínico de la molécula|higado
+T|Metabolitos activos observados in vitro y en animales|activo|Los metabolitos activos observados en los experimentos in vitro o con animales, alcanzan sólo concentraciones plasmáticas muy pequeñas en el ser humano|Activos in vitro o en animales, pero con concentraciones plasmáticas muy pequeñas en el ser humano.
+E|Se elimina rápidamente: menos del 1 % de la dosis sale inalterado por vía renal y los metabolitos también se excretan por el riñón.|Menos del 1% de la dosis se elimina inalterada por vía renal|rinones,orina
++|E|La semivida de eliminación con dosis múltiples es de aproximadamente 3 horas, entre 2 y 4 horas en la mayoría de los pacientes.|la semivida de eliminación durante dosis múltiples (300 mg dos veces al día) es aproximadamente de 3 horas|||dosis múltiples
+C|tmax|Tiempo hasta las concentraciones máximas|1 (aprox.)|h|Las concentraciones máximas del fármaco se alcanzan en un plazo de una hora tras la administración|moclobemida
+C|biodisponibilidad|Biodisponibilidad oral tras la primera semana|60-80|%|resulta en una biodisponibilidad oral que aumenta del 60 al 80% a partir de ese momento|moclobemida
+C|union|Unión a proteínas plasmáticas|50|%|es baja (50%)|moclobemida
+C|vd|Volumen de distribución|1,2 (aprox.)|L/kg|El volumen de distribución es de unos 1,2 L/Kg|moclobemida
+C|semivida|Semivida de eliminación con dosis múltiples|3 (aprox.)|h|la semivida de eliminación durante dosis múltiples (300 mg dos veces al día) es aproximadamente de 3 horas|moclobemida
+C|aclaramiento|Aclaramiento total|20-50 (aprox.)|L/h|El aclaramiento total es de aproximadamente 20-50 L/h|moclobemida
+R|Muy frecuentes: trastornos del sueño.|Muy frecuentes trastornos del sueño
+R|Muy frecuentes: mareos y cefaleas.|Mareos, cefaleas
+W|Inquietud y agitación|En los pacientes con depresión pueden aparecer signos de inquietud y agitación.|encefalo|En los pacientes con depresión pueden aparecer signos de inquietud y agitación
+W|Síntomas de esquizofrenia|Puede exacerbar los síntomas de esquizofrenia en pacientes depresivos con psicosis esquizofrénicas o esquizoafectivas.|encefalo|el tratamiento con moclobemida puede exacerbar los síntomas de esquizofrenia de pacientes depresivos con psicosis esquizofrénicas o esquizoafectivas
+
+@imidapril|Imidapril|CV|Inhibidor de la enzima conversora de la angiotensina (IECA)|imidapril;Hipertene|vias=oral;familia=solido-oral
+S|Hidrocloruro de imidapril|5 mg de hidrocloruro de imidapril
+X|Hidrógeno fosfato de calcio anhidro; Almidón pregelatinizado; Lactosa monohidrato; Croscarmelosa sódica; Diestearato de glicerol
+K|5 mg de hidrocloruro de imidapril por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión esencial en adultos.|Hipertene está indicado para el tratamiento de la hipertensión esencial en adultos
+A|Su efecto hipotensor parece obedecer fundamentalmente a la supresión del sistema renina-angiotensina-aldosterona en el plasma; es un inhibidor de la ECA.|El efecto hipotensor del imidapril en la hipertensión parece obedecer fundamentalmente a la supresión del sistema renina-angiotensina-aldosterona en plasma|vasos,corazon,rinones|Enzima conversora de la angiotensina (ECA)
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido biconvexo, oblongo, blanquecino, con un borde plano|
+B|Se absorbe con rapidez en el tubo digestivo y alcanza su concentración plasmática máxima en un plazo de dos horas.|Después de la administración oral, el imidapril se absorbe con rapidez en el tubo digestivo y alcanza su concentración plasmática máxima en un plazo de dos horas|
++|B|La absorción se acerca al 70 %.|La absorción se acerca al 70%|||
++|B|Las comidas ricas en grasas disminuyen significativamente la absorción.|Las comidas ricas en grasas disminuyen significativamente la absorción del imidapril|||con comidas ricas en grasas
+D|La unión a las proteínas fue moderada: 85 % para el imidapril y 53 % para el imidaprilato.|La unión del imidapril y el imidaprilato a las proteínas fue moderada (85% y 53%, respectivamente)|sangre
+M|Se hidroliza fundamentalmente a su metabolito activo, el imidaprilato, cuya concentración plasmática máxima se alcanza en 7 horas.|El imidapril se hidroliza fundamentalmente en su metabolito|higado
+T|Imidaprilato|activo|su metabolito farmacoló gicamente activo, el imidaprilato|Metabolito farmacológicamente activo.
+E|Tras una dosis oral marcada, cerca del 40 % de la radiactividad total se excreta por la orina y alrededor del 50 % por las heces.|cerca del 40% de la radiactividad total se excreta en la orina y alrededor del 50% en las heces|rinones,orina,heces
++|E|Las concentraciones del imidaprilato descienden de forma bifásica, con una semivida inicial de 7-9 horas y una terminal de más de 24 horas.|con una semivida inicial de 7-9 horas y una semivida terminal de más de 24 horas|||
+C|tmax|Tiempo hasta la concentración máxima del imidapril|2|h|alcanza su concentración plasmática máxima en un plazo de dos horas|imidapril
+C|otra|Absorción|70 (aprox.)|%|La absorción se acerca al 70%|imidapril
+C|union|Unión del imidapril a proteínas|85|%|La unión del imidapril y el imidaprilato a las proteínas fue moderada (85% y 53%, respectivamente)|imidapril
+C|semivida|Semivida de eliminación del imidapril|2 (aprox.)|h|con una semivida de eliminación aproximada de 2 horas|imidapril
+C|orina|Radiactividad excretada por la orina|40 (aprox.)|% de la dosis|cerca del 40% de la radiactividad total se excreta en la orina|radiactividad total||dosis oral de imidapril marcado
+C|heces|Radiactividad excretada por las heces|50 (aprox.)|% de la dosis|alrededor del 50% en las heces|radiactividad total||dosis oral de imidapril marcado
+R|En pacientes hipertensos, las reacciones adversas fueron del 34 % con imidapril y del 36 % con placebo.|La incidencia de reacciones adversas en pacientes hipertensos tratados con imidapril ha sido del 34%, y con placebo del 36%
+R|Con imidapril fueron más frecuentes la tos, los mareos, la fatiga o somnolencia, la dispepsia y los vómitos.|En el grupo de imidapril fueron más frecuentes la tos, los mareos, la fatiga/somnolencia, la dispepsia y los vómitos
+W|Hipotensión|Puede provocar un descenso acentuado de la presión arterial, sobre todo tras la primera dosis.|vasos,corazon|el imidapril puede provocar un descenso acentuado de la presión arterial, sobre todo después de la primera dosis

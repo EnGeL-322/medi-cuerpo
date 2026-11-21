@@ -1,0 +1,119 @@
+@trametinib|Trametinib|ON|Inhibidor reversible de MEK1 y MEK2|trametinib;Mekinist|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Trametinib dimetilsulfóxido|trametinib dimethyl sulfoxide
+K|0.5 mg o 2 mg por comprimido, según la etiqueta
+U|Tratamiento del melanoma con mutación BRAF V600E o V600K y, combinado con dabrafenib, de otros tumores con BRAF V600E, según la etiqueta.|unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test
+A|Inhibe de forma reversible la activación y la actividad cinasa de MEK1 y MEK2, reguladores de la vía ERK que impulsa la proliferación celular.|Trametinib is a reversible inhibitor of mitogen-activated extracellular signal-regulated kinase 1 (MEK1) and MEK2 activation and of MEK1 and MEK2 kinase activity||MEK1 y MEK2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|Yellow, ovaloid, biconvex, unscored film-coated tablets with beveled edges|
+B|La mediana del tiempo hasta el pico es de 1,5 horas y la biodisponibilidad absoluta media de los comprimidos, del 72 %.|The median time to achieve peak plasma concentrations (T max ) is 1.5 hours post-dose|
++|B|Biodisponibilidad absoluta media de los comprimidos del 72 %.|The mean absolute bioavailability of MEKINIST tablets is 72%|||
++|B|Una comida rica en grasas redujo el AUC un 24 % y la Cmax un 70 % y retrasó el pico unas 4 horas.|a high-fat, high-calorie meal (approximately 1000 calories) decreased trametinib AUC by 24%, C max by 70%, and delayed T max by approximately 4 hours|||con una comida rica en grasas
+D|Se une en un 97,4 % a las proteínas plasmáticas; el volumen de distribución aparente es de 214 L.|Trametinib is 97.4% bound to human plasma proteins|sangre
++|D|Volumen de distribución aparente de 214 L.|The apparent volume of distribution (V c /F) is 214 L|||
+M|Se metaboliza sobre todo por desacetilación, sola o con monooxigenación o glucuronidación, según estudios in vitro.|Trametinib is metabolized predominantly via deacetylation alone or with mono-oxygenation or in combination with glucuronidation biotransformation pathways in vitro|
+E|Tras una dosis marcada, más del 80 % de la radiactividad excretada se recuperó en las heces y menos del 20 % en la orina.|greater than 80% of excreted radioactivity was recovered in the feces while less than 20% of excreted radioactivity was recovered in the urine|heces,orina
++|E|La semivida de eliminación estimada es de 3,9 a 4,8 días.|The estimated elimination half-life is 3.9 to 4.8 days|||
+C|tmax|Mediana del tiempo hasta el pico|1,5|h|The median time to achieve peak plasma concentrations (T max ) is 1.5 hours post-dose|trametinib
+C|biodisponibilidad|Biodisponibilidad absoluta media de los comprimidos|72|%|The mean absolute bioavailability of MEKINIST tablets is 72%|trametinib
+C|union|Unión a proteínas plasmáticas|97,4|%|Trametinib is 97.4% bound to human plasma proteins|trametinib
+C|vd|Volumen de distribución aparente|214|L|The apparent volume of distribution (V c /F) is 214 L|trametinib
+C|semivida|Semivida de eliminación estimada|3,9-4,8|días|The estimated elimination half-life is 3.9 to 4.8 days|trametinib
+C|aclaramiento|Aclaramiento aparente|4,9|L/h|The apparent clearance is 4.9 L/h|trametinib
+R|En monoterapia, las más frecuentes (20 % o más): exantema, diarrea y linfedema.|Most common adverse reactions (≥ 20%) for MEKINIST as a single agent include rash, diarrhea, and lymphedema
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Nuevas neoplasias malignas|Vigilar la aparición de nuevos tumores antes del tratamiento, durante él y después de suspenderlo.||Monitor patients for new malignancies prior to, or while on therapy, and following discontinuation of treatment|43685-7
+W|Hemorragias|Vigilar los signos y síntomas de sangrado.||Monitor for signs and symptoms of bleeding|43685-7
+W|Colitis y perforación gastrointestinal|Vigilar de cerca la colitis y las perforaciones gastrointestinales.|intestino-grueso|Monitor patients closely for colitis and gastrointestinal perforations|43685-7
+
+@vemurafenib|Vemurafenib|ON|Inhibidor de formas mutadas de la cinasa BRAF (V600E)|vemurafenib;Zelboraf|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del melanoma con mutación BRAF V600E y de la enfermedad de Erdheim-Chester con mutación BRAF V600, según la etiqueta.|indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test
+A|Inhibe algunas formas mutadas de la cinasa BRAF, como BRAF V600E, que activan de forma constante la proliferación celular; in vitro también inhibe otras cinasas.|Vemurafenib is a low molecular weight, orally available inhibitor of some mutated forms of BRAF serine- threonine kinase, including BRAF V600E||BRAF V600E
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|Tablet: 240 mg|
+B|La biodisponibilidad media en estado estacionario es del 64 % y la mediana del tiempo hasta el pico, de 3 horas.|The mean bioavailability of vemurafenib at steady state was 64% (56% CV)|
++|B|La mediana del tiempo hasta el pico es de 3 horas con dosis repetidas.|The median time to reach maximum plasma vemurafenib concentration (T max ) was 3 hours following multiple doses|||
++|B|Con una comida rica en grasas el AUC aumentó unas 5 veces y la Cmax 2,5 veces.|a single dose of vemurafenib administered with a high-fat meal increased AUC by approximately 5-fold, increased C max by 2.5-fold|||con una comida rica en grasas
+D|Se une en más del 99 % a la albúmina y a la alfa-1 glucoproteína ácida del plasma; el volumen de distribución aparente se estima en 106 L.|Vemurafenib is highly bound (> 99%) to human albumin and alpha-1 acid glycoprotein plasma proteins|sangre
++|D|Volumen de distribución aparente poblacional estimado de 106 L.|The population apparent volume of distribution is estimated to be 106 L (with 66% inter-patient variability)|||
+M|Tras una dosis marcada, el vemurafenib inalterado supuso el 95 % de los componentes del plasma y sus metabolitos el 5 %.|vemurafenib and its metabolites represented 95% and 5% of the components in plasma over 48 hours, respectively|
+E|Tras 960 mg marcados, alrededor del 94 % de la dosis se recuperó en las heces y el 1 % en la orina.|approximately 94% of the radioactive dose was recovered in feces and approximately 1% was recovered in the urine|heces,orina
++|E|La mediana de la semivida de eliminación es de 57 horas.|The median elimination half-life estimate for vemurafenib is 57 hours (the 5th and 95th percentile range is 30 to 120 hours)|||
+C|biodisponibilidad|Biodisponibilidad media en estado estacionario|64|%|The mean bioavailability of vemurafenib at steady state was 64% (56% CV)|vemurafenib
+C|tmax|Mediana del tiempo hasta el pico|3|h|The median time to reach maximum plasma vemurafenib concentration (T max ) was 3 hours following multiple doses|vemurafenib
+C|union|Unión a proteínas plasmáticas|> 99|%|Vemurafenib is highly bound (> 99%) to human albumin and alpha-1 acid glycoprotein plasma proteins|vemurafenib
+C|vd|Volumen de distribución aparente poblacional|106|L|The population apparent volume of distribution is estimated to be 106 L|vemurafenib
+C|semivida|Mediana de la semivida de eliminación|57|h|The median elimination half-life estimate for vemurafenib is 57 hours|vemurafenib
+C|heces|Dosis recuperada en las heces|94 (aprox.)|% de la dosis|approximately 94% of the radioactive dose was recovered in feces|radiactividad total||dosis oral marcada de 960 mg
+R|En el melanoma, las más frecuentes (30 % o más): artralgia, exantema, alopecia, fatiga, fotosensibilidad, náuseas, prurito y papiloma cutáneo.|Most common adverse reactions (≥ 30%) are arthralgia, rash, alopecia, fatigue, photosensitivity reaction, nausea, pruritus, and skin papilloma
+R|En la enfermedad de Erdheim-Chester, las más frecuentes (más del 50 %): artralgia, exantema maculopapular, alopecia, fatiga, prolongación del QT y papiloma cutáneo.|Erdheim-Chester Disease: Most common adverse reactions (>50%) are arthralgia, rash maculo-papular, alopecia, fatigue, electrocardiogram QT interval prolonged, and skin papilloma
+W|Reacciones dermatológicas graves|Suspenderlo ante reacciones dermatológicas graves, como el síndrome de Stevens-Johnson o la necrólisis epidérmica tóxica.|piel|Severe Dermatologic Reactions, including Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: Discontinue ZELBORAF for severe dermatologic reactions|43685-7
+W|Prolongación del QT|Interrumpirlo si el QTc llega a 500 ms o más.||Withhold ZELBORAF for QTc of 500 ms or greater|43685-7
+W|Reacciones oftalmológicas graves|Vigilar los signos y síntomas de uveítis.|ojos|Serious Ophthalmologic Reactions: Monitor for signs and symptoms of uveitis|43685-7
+
+@cobimetinib|Cobimetinib|ON|Inhibidor reversible de MEK1 y MEK2|cobimetinib fumarate;Cotellic|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|Fumarato de cobimetinib|cobimetinib fumarate
+U|Tratamiento del melanoma con mutación BRAF V600E o V600K, combinado con vemurafenib, y en monoterapia de las neoplasias histiocíticas, según la etiqueta.|For the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, in combination with vemurafenib
+A|Inhibe de forma reversible MEK1 y MEK2, reguladores de la vía ERK que impulsa la proliferación celular.|Cobimetinib is a reversible inhibitor of mitogen-activated protein kinase (MAPK)/extracellular signal regulated kinase 1 (MEK1) and MEK2||MEK1 y MEK2
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|Tablets: 20 mg, white, round, film-coated, debossed on one side with "COB"|
+B|La biodisponibilidad absoluta es del 46 % y la mediana del tiempo hasta el pico, de 2,4 horas; una comida grasa no modificó el AUC ni la Cmax.|The absolute bioavailability of COTELLIC was 46% (90% CI: 40%, 53%) in healthy subjects|
++|B|La mediana del tiempo hasta el pico es de 2,4 horas en pacientes con cáncer.|the median time to achieve peak plasma levels (T max ) was 2.4 (range:1–24) hours|pacientes con cáncer|
++|B|Una comida rica en grasas no tuvo efecto sobre el AUC ni la Cmax.|had no effect on cobimetinib AUC and C max after a single 20 mg COTELLIC was administered to healthy subjects|sujetos sanos|con una comida rica en grasas
+D|In vitro se une en un 95 % a las proteínas plasmáticas, sin depender de la concentración; el volumen de distribución aparente es de 806 L.|Cobimetinib is 95% bound to human plasma proteins in vitro, independent of drug concentration|sangre
++|D|Volumen de distribución aparente estimado de 806 L en pacientes con cáncer.|The estimated apparent volume of distribution was 806 L in cancer patients based on a population PK analysis|pacientes con cáncer|
+M|Sus vías principales in vitro son la oxidación por la CYP3A y la glucuronidación por la UGT2B7.|CYP3A oxidation and UGT2B7 glucuronidation were the major pathways of cobimetinib metabolism in vitro|higado
+E|Tras 20 mg marcados, el 76 % de la dosis se recuperó en las heces (6,6 % sin cambios) y el 17,8 % en la orina (1,6 % sin cambios).|76% of the dose was recovered in the feces (with 6.6% as unchanged drug) and 17.8% of the dose was recovered in the urine (with 1.6% as unchanged drug)|heces,orina
++|E|La semivida media de eliminación es de 44 horas y el aclaramiento aparente, de 13,8 L/h.|the mean elimination half-life (t 1/2 ) was 44 (range: 23–70) hours and the mean apparent clearance (CL/F) was 13.8 L/h (61% CV)|pacientes con cáncer|
+C|biodisponibilidad|Biodisponibilidad absoluta|46|%|The absolute bioavailability of COTELLIC was 46%|cobimetinib|sujetos sanos
+C|tmax|Mediana del tiempo hasta el pico|2,4|h|the median time to achieve peak plasma levels (T max ) was 2.4 (range:1–24) hours|cobimetinib|pacientes con cáncer|60 mg una vez al día
+C|union|Unión a proteínas plasmáticas in vitro|95|%|Cobimetinib is 95% bound to human plasma proteins in vitro|cobimetinib
+C|vd|Volumen de distribución aparente|806|L|The estimated apparent volume of distribution was 806 L in cancer patients|cobimetinib|pacientes con cáncer
+C|semivida|Semivida media de eliminación|44|h|the mean elimination half-life (t 1/2 ) was 44 (range: 23–70) hours|cobimetinib|pacientes con cáncer
+C|heces|Dosis recuperada en las heces|76|% de la dosis|76% of the dose was recovered in the feces (with 6.6% as unchanged drug)|radiactividad total||dosis única marcada de 20 mg
+R|En el melanoma, las más frecuentes (20 % o más): diarrea, fotosensibilidad, náuseas, fiebre y vómitos.|Most common adverse reactions for COTELLIC (≥20%) are diarrhea, photosensitivity reaction, nausea, pyrexia, and vomiting
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hemorragias|Vigilar los signos y síntomas de sangrado.||Monitor for signs and symptoms of bleeding|43685-7
+W|Miocardiopatía|Puede reducir la fracción de eyección del ventrículo izquierdo; valorarla antes de empezar, al mes y después cada 3 meses.|corazon|Cardiomyopathy, defined as symptomatic and asymptomatic decline in left ventricular ejection fraction (LVEF), can occur with COTELLIC|43685-7
+W|Fotosensibilidad grave|Aconsejar que se evite la exposición al sol.||Severe Photosensitivity : Advise patients to avoid sun exposure|43685-7
+
+@crizotinib|Crizotinib|ON|Inhibidor de tirosina cinasas ALK, ROS1 y MET|crizotinib;Xalkori|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico ALK o ROS1 positivo y de otros tumores ALK positivos, según la etiqueta.|adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test
+A|Inhibe receptores de tirosina cinasas como ALK, el receptor del factor de crecimiento de hepatocitos (c-Met), ROS1 y RON.|Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON)||ALK, ROS1 y MET
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo.|hard gelatin capsule, size 1, white opaque body and pink opaque cap|
+B|La mediana del tiempo hasta el pico es de 4 a 6 horas y la biodisponibilidad absoluta media, del 43 %.|A single crizotinib capsule dose was absorbed with median time to achieve peak concentration (T max ) of 4 to 6 hours, and the mean absolute bioavailability of 43%|
++|B|Una comida rica en grasas redujo el AUC y la Cmax de la cápsula un 14 %.|A high-fat meal, reduced AUC 0-INF and maximum plasma concentration (C max ) of crizotinib each by 14% for the capsule formulation|||con una comida rica en grasas
+D|Se une en un 91 % a las proteínas plasmáticas, sin depender de la concentración; el volumen de distribución tras una dosis intravenosa es de 1772 L.|Protein binding of crizotinib is 91% and is independent of drug concentration in vitro|sangre
++|D|Volumen de distribución en estado estacionario de 1772 L tras una dosis intravenosa.|The geometric mean volume of distribution (V ss ) of crizotinib was 1772 L following a single intravenous dose|||
+M|Se metaboliza sobre todo por la CYP3A.|Crizotinib is predominantly metabolized by CYP3A|higado
+E|Tras 250 mg marcados, el 63 % de la dosis se recuperó en las heces (53 % sin cambios) y el 22 % en la orina.|63% (53% as unchanged) of the administered dose was recovered in feces and 22% (2.3% as unchanged) in urine|heces,orina
++|E|La semivida plasmática terminal aparente media es de 42 horas.|The mean apparent plasma terminal half-life of crizotinib was 42 hours following single doses of crizotinib in patients|pacientes|
+C|tmax|Mediana del tiempo hasta el pico|4-6|h|median time to achieve peak concentration (T max ) of 4 to 6 hours|crizotinib
+C|biodisponibilidad|Biodisponibilidad absoluta media|43|%|the mean absolute bioavailability of 43%|crizotinib
+C|union|Unión a proteínas plasmáticas in vitro|91|%|Protein binding of crizotinib is 91%|crizotinib
+C|vd|Volumen de distribución en estado estacionario (vía intravenosa)|1772|L|The geometric mean volume of distribution (V ss ) of crizotinib was 1772 L following a single intravenous dose|crizotinib|||otra-via
+C|semivida|Semivida plasmática terminal aparente|42|h|The mean apparent plasma terminal half-life of crizotinib was 42 hours|crizotinib|pacientes
+C|heces|Dosis recuperada en las heces|63|% de la dosis|63% (53% as unchanged) of the administered dose was recovered in feces|radiactividad total|sujetos sanos|dosis oral única marcada de 250 mg
+R|En el cáncer de pulmón, las más frecuentes (25 % o más): alteraciones visuales, náuseas, diarrea, vómitos, edema, estreñimiento, aumento de transaminasas, fatiga y neuropatía, entre otras.|The most common adverse reactions (≥25%) in adult patients with NSCLC are vision disorders, nausea, diarrhea, vomiting, edema, constipation, elevated transaminases, fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas periódicas.|higado|Monitor with periodic liver testing|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares que sugieran neumonitis.|pulmones|Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Pérdida grave de visión|Puede causar cambios visuales, incluida una pérdida grave de visión; vigilar la toxicidad ocular.|ojos|Severe Visual Loss: XALKORI can cause visual changes including severe visual loss|43685-7
+
+@ceritinib|Ceritinib|ON|Inhibidor de la tirosina cinasa ALK|ceritinib;Zykadia|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con cáncer de pulmón no microcítico metastásico ALK positivo.|indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test
+A|Inhibe sobre todo ALK, y también IGF-1R, el receptor de la insulina y ROS1; bloquea la señal de ALK y la proliferación de las células que dependen de ella.|Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1||ALK
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|150 mg film-coated tablet, light blue, round, biconvex with beveled edges|
+B|El pico se alcanza entre 4 y 6 horas tras una dosis; la comida aumenta la exposición.|peak plasma levels (C max ) of ceritinib were achieved around 4 to 6 hours|
++|B|Con comprimidos de 750 mg, una comida rica en grasas aumentó el AUC un 64 % y la Cmax un 58 %.|a high-fat meal (containing approximately 1000 calories and 58 grams of fat) increased ceritinib AUC by 64% and C max by 58%|sujetos sanos|con una comida rica en grasas
+D|Se une en un 97 % a las proteínas plasmáticas, sin depender de la concentración; el volumen de distribución aparente es de 4230 L.|Ceritinib is 97% bound to human plasma proteins, independent of drug concentration|sangre
++|D|Volumen de distribución aparente de 4230 L tras 750 mg en ayunas.|The geometric mean apparent volume of distribution (V d /F) is 4230 L following a single 750 mg ZYKADIA dose under fasted conditions in patients|pacientes|en ayunas
+M|Estudios in vitro mostraron que la CYP3A es la enzima principal de su aclaramiento metabólico.|In vitro studies demonstrated that CYP3A was the major enzyme involved in the metabolic clearance of ceritinib|higado
+E|Tras 750 mg marcados en ayunas, el 92 % de la dosis se recuperó en las heces (68 % sin cambios) y el 1,3 % en la orina.|92% of the administered dose was recovered in the feces (with 68% as unchanged parent compound) while 1.3% of the administered dose was recovered in the urine|heces,orina
++|E|La semivida plasmática terminal aparente es de 41 horas.|the geometric mean apparent plasma terminal half-life (t 1/2 ) of ceritinib was 41 hours in patients|pacientes|
+C|tmax|Tiempo hasta el pico|4-6|h|peak plasma levels (C max ) of ceritinib were achieved around 4 to 6 hours|ceritinib|pacientes
+C|union|Unión a proteínas plasmáticas|97|%|Ceritinib is 97% bound to human plasma proteins|ceritinib
+C|vd|Volumen de distribución aparente|4230|L|The geometric mean apparent volume of distribution (V d /F) is 4230 L|ceritinib|pacientes|750 mg en ayunas
+C|semivida|Semivida plasmática terminal aparente|41|h|the geometric mean apparent plasma terminal half-life (t 1/2 ) of ceritinib was 41 hours in patients|ceritinib|pacientes
+C|heces|Dosis recuperada en las heces|92|% de la dosis|92% of the administered dose was recovered in the feces|radiactividad total||dosis única marcada de 750 mg en ayunas
+R|Con 450 mg con comida, las más frecuentes (25 % o más): diarrea, náuseas, dolor abdominal, vómitos y fatiga.|The most common adverse reactions (≥ 25% incidence) in the 450 mg with food arm were diarrhea, nausea, abdominal pain, vomiting, and fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas al menos una vez al mes.|higado|Monitor liver laboratory tests at least monthly|43685-7
+W|Hiperglucemia|Vigilar la glucosa en ayunas antes de empezar y periódicamente.||Monitor fasting glucose prior to treatment and periodically thereafter|43685-7
+W|Pancreatitis|Vigilar la lipasa y la amilasa antes de empezar y periódicamente.||Monitor lipase and amylase prior to treatment and periodically thereafter as clinically indicated|43685-7

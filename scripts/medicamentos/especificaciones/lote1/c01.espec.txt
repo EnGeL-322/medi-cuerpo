@@ -1,0 +1,92 @@
+@etoricoxib|Etoricoxib|DF|Inhibidor selectivo de la COX-2 (antiinflamatorio no esteroideo)|etoricoxib;Exxiv|vias=oral;familia=solido-oral
+S|-
+X|Fosfato de calcio hidrogenado (anhidro); Croscarmelosa sódica; Estearato de magnesio; Celulosa microcristalina; Cera de carnauba; Lactosa monohidrato; Hipromelosa; Dióxido de titanio (E-171); Triacetina
+K|30, 60, 90 o 120 mg de etoricoxib por comprimido, según la ficha técnica
+U|Alivio sintomático de la artrosis, la artritis reumatoide, la espondilitis anquilosante y del dolor y la inflamación de la artritis gotosa aguda, en adultos y adolescentes desde 16 años.|para el alivio sintomático de la artrosis, la artritis reumatoide (AR), la espondilitis anquilosante y el dolor y signos de inflamación asociados a la artritis gotosa aguda
+A|Es un inhibidor selectivo de la ciclooxigenasa 2, la enzima que interviene en la síntesis de prostaglandinas; en los estudios no inhibió la ciclooxigenasa 1 ni la función de las plaquetas.|es un inhibidor por vía oral, selectivo de la ciclooxigenasa 2|articulaciones,tejidos|Ciclooxigenasa 2 (COX-2)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos recubiertos con película (comprimidos)|
+B|Se absorbe bien: la biodisponibilidad absoluta es de aproximadamente el 100 % y el pico plasmático se observó alrededor de 1 hora después de la toma en ayunas.|Administrado por vía oral, etoricoxib se absorbe bien. La biodisponibilidad absoluta es aproximadamente del 100 %|
++|B|Una comida rica en grasas no cambió el grado de absorción, pero redujo la Cmax un 36 % y retrasó el Tmax hasta 2 horas; no se considera clínicamente significativo.|resultando en un descenso del 36% en la C max y en un aumento en el T max a las 2 horas|||con una comida rica en grasas
+D|Se une a las proteínas del plasma humano en aproximadamente un 92 % y su volumen de distribución en el estado estacionario es de unos 120 litros.|Etoricoxib se une a proteínas plasmáticas humanas en aproximadamente un 92 %|sangre
+M|Se metaboliza de forma intensa, por lo que menos del 1 % de la dosis aparece en la orina como fármaco original; la vía principal, catalizada por enzimas CYP (la CYP3A4 parece contribuir), forma el derivado 6'-hidroximetilo.|Etoricoxib es intensamente metabolizado|higado
+T|Derivado 6'-carboxílico y otros metabolitos principales|inactivo|Estos metabolitos principales no demuestran actividad medible|Sin actividad medible o solo débil sobre la COX-2; ninguno inhibe la COX-1.
+E|Casi toda la eliminación es por metabolismo seguido de excreción renal: tras una dosis intravenosa marcada, el 70 % de la radiactividad salió por la orina y el 20 % por las heces, sobre todo como metabolitos.|se recuperó el 70 % de la radiactividad en orina, y el 20% en heces, principalmente como metabolitos|rinones,orina,heces
++|E|En el estado estacionario el cociente de acumulación corresponde a una semivida de unas 22 horas.|que corresponde a una semivida de unas 22 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta|100 (aprox.)|%|La biodisponibilidad absoluta es aproximadamente del 100 %|etoricoxib
+C|union|Unión a proteínas plasmáticas|92 (aprox.)|%|Etoricoxib se une a proteínas plasmáticas humanas en aproximadamente un 92 %|etoricoxib
+C|vd|Volumen de distribución en estado estacionario|120 (aprox.)|L|El volumen de distribución (V dss ) en el estado estacionario es de unos 120 litros|etoricoxib
+C|semivida|Semivida|22 (aprox.)|h|que corresponde a una semivida de unas 22 horas|etoricoxib||estado estacionario
+C|orina|Radiactividad recuperada en la orina|70|% de la dosis|se recuperó el 70 % de la radiactividad en orina|radiactividad total|sujetos sanos|dosis intravenosa marcada|otra-via
+R|Entre las reacciones gastrointestinales que lista la etiqueta figuran dolor abdominal, estreñimiento, flatulencia, gastritis, ardor de estómago, diarrea, dispepsia, náuseas, vómitos, esofagitis y úlcera bucal.|Dolor abdominal Muy frecuentes Estreñimiento, flatulencia, gastritis, ardor de estómago/reflujo ácido , diarrea, dispepsia/malestar epigástrico, náuseas, vómitos
+R|La tabla de la ficha incluye también la úlcera gastroduodenal y las úlceras pépticas con perforación y sangrado gastrointestinal.|úlcera gastroduodenal, úlceras pépticas incluyendo perforación y sangrado gastrointestinal
+W|Complicaciones gastrointestinales|Se han producido complicaciones del tracto gastrointestinal superior (perforaciones, úlceras o hemorragias); algunas tuvieron resultado mortal.|estomago,intestino-delgado|En pacientes tratados con etoricoxib, se han producido complicaciones del tracto gastrointestinal superior
+W|Retención de líquidos, edema e hipertensión|Se han observado retención de líquidos, edema e hipertensión.|corazon,vasos,rinones|se ha observado retención de líquidos, edema e hipertensión en pacientes tratados con etoricoxib
+W|Riesgo cardiovascular|Los inhibidores selectivos de la COX-2 pueden asociarse con un riesgo de acontecimientos trombóticos, sobre todo infarto de miocardio e ictus.|corazon,vasos|puede asociarse con un riesgo de acontecimientos trombóticos
+
+@ivabradina|Ivabradina|CV|Inhibidor de la corriente If del nodo sinusal (reductor de la frecuencia cardíaca)|ivabradine|vias=oral;familia=solido-oral
+S|Clorhidrato de ivabradina|ivabradina en forma de clorhidrato
+X|Lactosa monohidrato; Almidón de maíz pregelatinizado; Maltodextrina de maíz; Sílice coloidal anhidra (E551); Estearato de magnesio (E470b)
+K|5 o 7,5 mg de ivabradina por comprimido, según la ficha técnica
+U|Tratamiento sintomático de la angina de pecho crónica estable en adultos con enfermedad coronaria, ritmo sinusal normal y frecuencia cardíaca elevada.|Ivabradina está indicada en el tratamiento sintomático de la angina de pecho crónica estable en adultos con enfermedad coronaria con ritmo sinusal normal
+A|Reduce de manera exclusiva la frecuencia cardíaca: inhibe de forma selectiva y específica la corriente If del marcapasos cardíaco, que controla la despolarización espontánea del nodo sinusal.|actuando mediante la inhibición selectiva y específica de la corriente I f del marcapasos cardíaco|corazon|Corriente If del nodo sinusal
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|En condiciones fisiológicas, la ivabradina se libera rápidamente de los comprimidos|
+B|Se absorbe de forma rápida y casi completa; el pico plasmático llega en aproximadamente 1 hora en ayunas y la biodisponibilidad absoluta es de alrededor del 40 % por el efecto de primer paso intestinal y hepático.|La ivabradina se absorbe de forma rápida y casi completa tras su administración oral|
++|B|La comida retrasó la absorción en aproximadamente 1 hora y aumentó la exposición plasmática entre un 20 % y un 30 %.|La ingesta de alimentos retrasó la absorción en aproximadamente 1 hora, y aumentó la exposición plasmática de un 20% a un 30%|||con alimentos
+D|Se une en un 70 % a las proteínas del plasma y su volumen de distribución en el equilibrio se acerca a 100 litros en los pacientes.|La ivabradina se une aproximadamente en un 70% a las proteínas plasmáticas|sangre
+M|Se metaboliza ampliamente en el hígado y en el intestino por oxidación exclusiva a través del citocromo P450 3A4 (CYP3A4).|La ivabradina se metaboliza ampliamente en el hígado y en el intestino a través de la oxidación exclusiva por el citocromo P450 3A4|higado,intestino-delgado
+T|Derivado N-desmetilado (S 18982)|activo|El principal metabolito activo es el derivado N-desmetilado (S 18982), con una exposición de aproximadamente el 40% de la del fármaco precursor|Metabolito activo; su exposición es de alrededor del 40 % de la del fármaco original.
+E|Los metabolitos se excretan en un grado similar por la orina y las heces; la semivida principal en plasma es de 2 horas y la eficaz, de 11.|Los metabolitos se excretan en un grado similar por la orina y las heces|rinones,orina,heces
++|E|Aproximadamente el 4 % de una dosis oral se excreta inalterada en la orina.|Aproximadamente el 4% de una dosis oral se excreta inalterada en la orina|||
+C|tmax|Tiempo hasta el pico plasmático|1 (aprox.)|h|alcanzándose la concentración plasmática máxima en aproximadamente 1 hora cuando se administra en ayunas|ivabradina||en ayunas
+C|biodisponibilidad|Biodisponibilidad absoluta|40 (aprox.)|%|La biodisponibilidad absoluta de los comprimidos recubiertos con película es de aproximadamente un 40%|ivabradina
+C|union|Unión a proteínas plasmáticas|70 (aprox.)|%|La ivabradina se une aproximadamente en un 70% a las proteínas plasmáticas|ivabradina
+C|semivida|Semivida eficaz|11|h|una semivida eficaz de 11 horas|ivabradina
+C|orina|Excretado inalterado por la orina|4 (aprox.)|% de la dosis|Aproximadamente el 4% de una dosis oral se excreta inalterada en la orina|ivabradina
+R|Las más frecuentes, fenómenos luminosos (fosfenos) y bradicardia, dependen de la dosis y se relacionan con el efecto farmacológico.|Las reacciones adversas más frecuentes con la ivabradina, fenómenos luminosos (fosfenos) y bradicardia, son dosis dependiente y están relacionadas con el efecto farmacológico del medicamento
+R|La etiqueta incluye entre los trastornos del sistema nervioso las cefaleas, generalmente durante el primer mes de tratamiento.|Cefaleas, generalmente durante el primer mes de tratamiento
+W|Arritmias cardíacas|No es eficaz en el tratamiento o la prevención de arritmias y no se recomienda en fibrilación auricular u otras arritmias que interfieren con el nodo sinusal.|corazon|la ivabradina no se recomienda en pacientes con fibrilación auricular u otras arritmias cardíacas que interfieren con la función del nodo sinusal
+W|Solo tratamiento sintomático de la angina|No ha demostrado efectos beneficiosos sobre eventos cardiovasculares como el infarto de miocardio o la muerte cardiovascular.|corazon|ivabradina no ha demostrado efectos beneficiosos sobre eventos cardiovasculares
+
+@lercanidipino|Lercanidipino|CV|Bloqueante de canales de calcio (dihidropiridina)|lercanidipine;Lerzam|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Celulosa microcristalina; Glicolato sódico de almidón; Povidona K30; Estearato de magnesio; Hipromelosa; Talco; Dióxido de titanio (E171); Macrogol 6000; Óxido férrico (E172)
+K|10 mg de lercanidipino por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión esencial leve o moderada en adultos.|para el tratamiento de la hipertensión esencial leve o moderada
+A|Es un antagonista del calcio de las dihidropiridinas: inhibe la entrada de calcio al músculo liso y cardíaco, y su acción antihipertensiva se debe a un efecto relajante directo sobre el músculo liso vascular.|inhibe el flujo de entrada del calcio a través de la membrana al músculo liso y cardíaco|vasos,corazon|Canales de calcio
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos de 10 mg recubiertos con película|
+B|Se absorbe por completo tras la administración oral y el pico plasmático llega aproximadamente 1,5-3 horas después de la toma; por el intenso metabolismo de primer paso la biodisponibilidad absoluta es de alrededor del 10 % tras comer.|Lercanidipino se absorbe completamente después de la administración oral|
++|B|La biodisponibilidad oral aumenta cuatro veces si se ingiere hasta dos horas después de una comida rica en grasas.|La disponibilidad oral de lercanidipino aumenta cuatro veces cuando lercanidipino se ingiere hasta dos horas después de una comida rica en grasas|||con una comida rica en grasas
+D|La distribución desde el plasma a los tejidos y órganos es rápida y amplia, y la unión a proteínas del plasma supera el 98 %.|El grado de fijación a las proteínas plasmáticas de lercanidipino excede el 98%|sangre,tejidos
+M|Se metaboliza extensamente mediante CYP3A4 y no se encontró fármaco en la orina ni en las heces.|Lercanidipino se metaboliza extensamente mediante CYP3A4|higado
+T|Metabolitos de lercanidipino|inactivo|Lercanidipino se transforma predominantemente en metabolitos inactivos|Predominantemente inactivos.
+E|La eliminación es esencialmente por biotransformación: alrededor del 50 % de la dosis se excreta por la orina, sobre todo como metabolitos.|La eliminación se produce esencialmente por biotransformación|rinones,orina
++|E|La vida media terminal es de 8 a 10 horas.|la vida media terminal es de 8 a 10 horas|||
+C|tmax|Tiempo hasta el pico plasmático|1,5-3 (aprox.)|h|se producen aproximadamente 1,5-3 horas después de la administración de la dosis|lercanidipino
+C|biodisponibilidad|Biodisponibilidad absoluta tras comer|10 (aprox.)|%|la biodisponibilidad absoluta de lercanidipino administrado oralmente a pacientes que hayan comido es de alrededor de un 10%|lercanidipino||tras comer
+C|union|Unión a proteínas plasmáticas|> 98|%|El grado de fijación a las proteínas plasmáticas de lercanidipino excede el 98%|lercanidipino
+C|semivida|Vida media terminal|8-10|h|la vida media terminal es de 8 a 10 horas|lercanidipino
+R|Las más frecuentes: edema periférico, cefalea, rubefacción, taquicardia y palpitaciones.|e dema periférico, cefalea, rubefacción, taquicardia y palpitaciones
+R|La seguridad se evaluó en ensayos con placebo y en ensayos a largo plazo con 3.676 pacientes hipertensos tratados.|en un total de 3676 pacientes hipertensos que recibieron lercanidipino
+W|Insuficiencia hepática o renal grave|Está contraindicado en pacientes con insuficiencia hepática grave o insuficiencia renal grave.|higado,rinones|Lercanidipino está contraindicado en pacientes con insuficiencia hepática grave o insuficiencia renal grave
+W|Angina de pecho|Algunas dihidropiridinas pueden, raramente, producir dolor precordial o angina de pecho.|corazon|Algunas dihidropiridinas pueden, raramente, producir dolor precordial o angina de pecho
+
+@bilastina|Bilastina|RA|Antihistamínico H1 no sedante|bilastine|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Carboximetilalmidón sódico (tipo A) (derivado de patata); Sílice coloidal anhidra; Estearato magnésico
+K|20 mg de bilastina por comprimido, según la ficha técnica
+U|Tratamiento sintomático de la rinoconjuntivitis alérgica (estacional y perenne) y de la urticaria, en adultos y adolescentes desde 12 años.|Tratamiento sintomático de la rinoconjuntivitis alérgica (estacional y perenne) y de la urticaria
+A|Es un antihistamínico no sedante y de acción prolongada con afinidad antagonista selectiva por los receptores H1 periféricos y sin afinidad por los receptores muscarínicos.|Bilastina es un antihistamínico no sedante y de acción prolongada|vasos,piel|Receptor H1 de la histamina
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos blancos ovales biconvexos y ranurados|
+B|Se absorbe rápidamente tras la administración oral y la biodisponibilidad oral media es del 61 %; no se observó acumulación.|Bilastina se absorbe rápidamente tras la administración oral|
+D|Es sustrato de la glucoproteína P y del transportador OATP, y a las dosis terapéuticas se une a las proteínas del plasma en un 84-90 %.|A las dosis terapéuticas la unión de bilastina a las proteínas plasmáticas es de 84-90%|sangre
+M|No se metaboliza de forma significativa en humanos: en estudios in vitro no indujo ni inhibió las isoenzimas del CYP450.|bilastina no es significativamente metabolizada en humanos||sin
+E|Tras una dosis única marcada se recuperó casi el 95 % en orina (28,3 %) y heces (66,5 %) como bilastina inalterada; la vida media de eliminación fue de 14,5 horas.|casi el 95% de la dosis administrada fue recuperada en orina (28,3%) y heces (66,5%) como bilastina inalterada|rinones,orina,heces|original
+C|biodisponibilidad|Biodisponibilidad oral media|61|%|La biodisponibilidad oral media de bilastina es del 61%|bilastina
+C|union|Unión a proteínas plasmáticas|84-90|%|A las dosis terapéuticas la unión de bilastina a las proteínas plasmáticas es de 84-90%|bilastina
+C|semivida|Vida media de eliminación|14,5|h|La vida media de eliminación calculada en voluntarios sanos fue de 14,5 h|bilastina|voluntarios sanos
+C|orina|Recuperado en la orina|28,3|% de la dosis|recuperada en orina (28,3%) y heces (66,5%)|bilastina|voluntarios adultos sanos|dosis única de 14C-bilastina
+C|heces|Recuperado en las heces|66,5|% de la dosis|recuperada en orina (28,3%) y heces (66,5%)|bilastina|voluntarios adultos sanos|dosis única de 14C-bilastina
+R|Las más frecuentes con 20 mg: cefalea, somnolencia, mareo y fatiga, con frecuencia similar a la del placebo.|fueron cefalea, somnolencia, mareo y fatiga
+R|La incidencia global de acontecimientos adversos fue comparable a la del placebo (12,7 % frente a 12,8 %).|fue comparable a la incidencia en pacientes que recibieron placebo (12,7% frente a 12,8%)
+W|Prolongación del intervalo QT|Se han notificado casos de prolongación del intervalo QT en el electrocardiograma en pacientes que toman bilastina.|corazon|Se han notificado casos de prolongación del intervalo QT en el electrocardiograma en pacientes que toman bilastina
+W|Inhibidores de la glucoproteína P en insuficiencia renal|En insuficiencia renal moderada o grave, tomarla con inhibidores de la glucoproteína P puede aumentar los niveles de bilastina y el riesgo de efectos adversos.|rinones,sangre|puede aumentar los niveles plasmáticos de bilastina y por tanto aumentar el riesgo de efectos adversos de bilastina

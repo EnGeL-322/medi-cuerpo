@@ -1,0 +1,113 @@
+@sotorasib|Sotorasib|ON|Inhibidor covalente de KRAS G12C|sotorasib;Lumakras|forma=TABLET, COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico y del cáncer colorrectal con mutación KRAS G12C, según la etiqueta.|KRAS G12C-mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC)
+A|Inhibe KRAS G12C, forma mutada y oncogénica exclusiva del tumor: se une de forma covalente e irreversible a su cisteína y la bloquea en estado inactivo, sin afectar a KRAS normal.|Sotorasib forms an irreversible, covalent bond with the unique cysteine of KRAS G12C, locking the protein in an inactive state that prevents downstream signaling without affecting wild-type KRAS||KRAS G12C
+L|Comprimido recubierto con película de liberación inmediata: se disgrega en el tubo digestivo; puede dispersarse en agua.|Tablets: 320 mg, beige, oval-shaped, immediate release, film-coated|
+B|La mediana del tiempo hasta el pico es de 1 hora; una comida grasa aumentó el AUC un 25 %.|The median time to sotorasib peak plasma concentration is 1 hour|
++|B|Con una comida rica en grasas el AUC aumentó un 25 % frente al ayuno.|sotorasib AUC 0-24h increased by 25% compared to administration under fasted conditions|||con una comida rica en grasas
+D|In vitro se une en un 89 % a las proteínas plasmáticas; el volumen de distribución medio en estado estacionario es de 211 L.|In vitro , sotorasib plasma protein binding is 89%|sangre
++|D|Volumen de distribución medio en estado estacionario de 211 L.|The sotorasib mean volume of distribution (V d ) at steady state is 211 L (CV: 135%)|||
+M|Sus vías principales son la conjugación no enzimática y el metabolismo oxidativo por las CYP3A.|The main metabolic pathways of sotorasib are non-enzymatic conjugation and oxidative metabolism with CYP3As|higado
+E|Tras una dosis marcada, el 74 % se recuperó en las heces (53 % sin cambios) y el 6 % en la orina.|74% of the dose was recovered in feces (53% unchanged) and 6% (1% unchanged) in urine|heces,orina
++|E|La semivida terminal media es de 5 horas.|The sotorasib mean terminal elimination half-life is 5 hours (standard deviation (SD): 2)|||
+C|tmax|Mediana del tiempo hasta el pico|1|h|The median time to sotorasib peak plasma concentration is 1 hour|sotorasib
+C|union|Unión a proteínas plasmáticas in vitro|89|%|In vitro , sotorasib plasma protein binding is 89%|sotorasib
+C|vd|Volumen de distribución en estado estacionario|211|L|The sotorasib mean volume of distribution (V d ) at steady state is 211 L|sotorasib
+C|semivida|Semivida terminal media|5|h|The sotorasib mean terminal elimination half-life is 5 hours|sotorasib
+C|aclaramiento|Aclaramiento aparente en estado estacionario|26,2|L/h|the sotorasib steady state apparent clearance is 26.2 L/hr (CV: 76%)|sotorasib||960 mg al día
+C|heces|Dosis recuperada en las heces|74|% de la dosis|74% of the dose was recovered in feces (53% unchanged)|radiactividad total
+R|Las más frecuentes (20 % o más): diarrea, dolor musculoesquelético, náuseas, fatiga, hepatotoxicidad y tos.|most common adverse reactions (≥ 20%) were diarrhea, musculoskeletal pain, nausea, fatigue, hepatotoxicity, and cough
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas cada 3 semanas los 3 primeros meses y después cada mes.||Monitor liver function tests every 3 weeks for the first 3 months of treatment then once monthly as clinically indicated|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar síntomas pulmonares nuevos o que empeoran e interrumpir de inmediato si se sospecha.|pulmones|Interstitial Lung Disease (ILD)/Pneumonitis: Monitor for new or worsening pulmonary symptoms|43685-7
+
+@adagrasib|Adagrasib|ON|Inhibidor covalente irreversible de KRAS G12C|adagrasib;Krazati|forma=TABLET, COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico con mutación KRAS G12C y, en combinación, del cáncer colorrectal, según la etiqueta.|KRAZATI, as a single-agent, is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC)
+A|Inhibidor irreversible de KRAS G12C que se une de forma covalente a la cisteína mutante y la bloquea en estado inactivo, sin afectar a KRAS normal.|Adagrasib is an irreversible inhibitor of KRAS G12C that covalently binds to the mutant cysteine in KRAS G12C and locks the mutant KRAS protein in its inactive state||KRAS G12C
+L|Comprimido recubierto con película de liberación inmediata: se disgrega en el tubo digestivo.|Tablets: 200 mg, oval shaped, white to off-white, immediate release film coated tablets|
+B|La mediana del tmax es de unas 6 horas; una comida grasa no produce diferencias clínicamente significativas.|The median (min, max) T max of adagrasib is approximately 6 (6, 12) hours|
+D|In vitro se une en alrededor del 98 % a las proteínas plasmáticas humanas; el volumen de distribución aparente es de 942 L.|Human plasma protein binding of adagrasib is approximately 98% in vitro|sangre
++|D|Volumen de distribución aparente de 942 L.|The apparent volume of distribution of adagrasib is 942 L (57%)|||
+M|Tras una dosis se metaboliza sobre todo por la CYP3A4; con dosis repetidas inhibe su propio metabolismo y contribuyen otras CYP.|Adagrasib is metabolized primarily by CYP3A4 following single dose administration|higado
+E|Tras una dosis marcada, alrededor del 75 % se recuperó en las heces (14 % sin cambios) y el 4,5 % en la orina.|approximately 75% of the dose was recovered in feces (14% as unchanged) and 4.5% recovered in urine (2% as unchanged)|heces,orina
++|E|La semivida terminal es de 23 horas y el aclaramiento oral aparente de 37 L/h en pacientes.|The adagrasib terminal elimination half-life is 23 hours (16%) and the apparent oral clearance (CL/F) is 37 L/h (54%) in patients|pacientes|
+C|tmax|Mediana del tmax|6 (aprox.)|h|The median (min, max) T max of adagrasib is approximately 6 (6, 12) hours|adagrasib
+C|union|Unión a proteínas plasmáticas in vitro|98 (aprox.)|%|Human plasma protein binding of adagrasib is approximately 98% in vitro|adagrasib
+C|vd|Volumen de distribución aparente|942|L|The apparent volume of distribution of adagrasib is 942 L (57%)|adagrasib
+C|semivida|Semivida terminal|23|h|The adagrasib terminal elimination half-life is 23 hours (16%)|adagrasib|pacientes
+C|aclaramiento|Aclaramiento oral aparente|37|L/h|the apparent oral clearance (CL/F) is 37 L/h (54%) in patients|adagrasib|pacientes
+C|heces|Dosis recuperada en las heces|75 (aprox.)|% de la dosis|approximately 75% of the dose was recovered in feces (14% as unchanged)|radiactividad total
+R|Las más frecuentes (25 % o más): náuseas, diarrea, vómitos, fatiga, dolor musculoesquelético, hepatotoxicidad, alteración renal, edema, disnea y disminución del apetito.|most common adverse reactions (≥ 25%) were nausea, diarrhea, vomiting, fatigue, musculoskeletal pain, hepatotoxicity, renal impairment, edema, dyspnea, and decreased appetite
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Reacciones gastrointestinales|Vigilar diarrea, náuseas y vómitos y dar tratamiento de soporte.||Monitor patients for diarrhea, nausea and vomiting and provide supportive care as needed|43685-7
+W|Prolongación del QTc|Evitar otros fármacos que prolongan el QTc y vigilar ECG y electrolitos en pacientes de riesgo.||Avoid concomitant use of KRAZATI with other products with a known potential to prolong the QTc interval|43685-7
+W|Hepatotoxicidad|Vigilar las pruebas hepáticas antes de empezar y cada mes durante 3 meses.||Monitor liver laboratory tests prior to the start of KRAZATI and monthly for 3 months after|43685-7
+
+@selpercatinib|Selpercatinib|ON|Inhibidor selectivo de la cinasa RET|selpercatinib;Retevmo|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de tumores con fusión o mutación de RET: cáncer de pulmón no microcítico, cáncer de tiroides y otros tumores sólidos, según la etiqueta.|Adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a rearranged during transfection (RET) gene fusion
+A|Inhibidor de cinasas que inhibe RET natural y varias isoformas mutadas, además de VEGFR1 y VEGFR3; actúa sobre RET a concentraciones unas 60 veces menores que sobre FGFR1 y 2.|Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM||Cinasa RET
+L|Cápsula dura: se disgrega en el tubo digestivo; las cápsulas y los comprimidos son bioequivalentes.|The capsule and tablet dosage forms of selpercatinib are bioequivalent|
+B|La mediana del tmax es de 2 horas y la biodisponibilidad absoluta media de las cápsulas del 73 %; una comida grasa no produce diferencias significativas.|The mean absolute bioavailability of RETEVMO capsules is 73% (60% to 82%) in healthy subjects|
++|B|La mediana del tmax es de 2 horas.|The median t max of selpercatinib is 2 hours|||
+D|In vitro se une en un 96 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente es de 203 L.|Protein binding of selpercatinib is 96% in vitro and is independent of concentration|
++|D|Volumen de distribución aparente de 203 L.|The apparent volume of distribution (V ss /F) of selpercatinib is 203 L|||
+M|Se metaboliza sobre todo por la CYP3A4; el selpercatinib inalterado es el 86 % del material plasmático.|Selpercatinib is metabolized predominantly by CYP3A4|higado
+E|Tras 160 mg marcados, el 69 % se recuperó en las heces (14 % sin cambios) y el 24 % en la orina (12 % sin cambios).|69% of the administered dose was recovered in feces (14% unchanged) and 24% in urine (12% unchanged)|heces,orina
++|E|La semivida es de 32 horas en sujetos sanos y el aclaramiento aparente de 6 L/h en pacientes.|The apparent clearance (CL/F) of selpercatinib is 6 L/h in patients and the half-life is 32 hours following oral administration of RETEVMO in healthy subjects|||
+C|biodisponibilidad|Biodisponibilidad absoluta media de las cápsulas|73|%|The mean absolute bioavailability of RETEVMO capsules is 73% (60% to 82%) in healthy subjects|selpercatinib|sujetos sanos
+C|tmax|Mediana del tmax|2|h|The median t max of selpercatinib is 2 hours|selpercatinib
+C|union|Unión a proteínas in vitro|96|%|Protein binding of selpercatinib is 96% in vitro|selpercatinib
+C|vd|Volumen de distribución aparente|203|L|The apparent volume of distribution (V ss /F) of selpercatinib is 203 L|selpercatinib
+C|semivida|Semivida|32|h|the half-life is 32 hours following oral administration of RETEVMO in healthy subjects|selpercatinib|sujetos sanos
+C|aclaramiento|Aclaramiento aparente|6|L/h|The apparent clearance (CL/F) of selpercatinib is 6 L/h in patients|selpercatinib|pacientes
+C|heces|Dosis recuperada en las heces|69|% de la dosis|69% of the administered dose was recovered in feces (14% unchanged)|radiactividad total|sujetos sanos|dosis oral única marcada de 160 mg
+R|En adultos con tumores sólidos, las más frecuentes (25 % o más): dolor musculoesquelético, edema, diarrea, fatiga, boca seca, hipertensión, dolor abdominal, exantema, náuseas y estreñimiento, entre otras.|Adult patients with solid tumors: musculoskeletal pain, edema, diarrhea, fatigue, dry mouth, hypertension, abdominal pain, rash, nausea, constipation
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Vigilar ALT y AST antes de empezar, cada 2 semanas los 3 primeros meses y después cada mes.||Monitor ALT and AST prior to initiating RETEVMO, every 2 weeks during the first 3 months, then monthly thereafter|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar síntomas pulmonares nuevos o que empeoran.|pulmones|Interstitial Lung Disease (ILD)/Pneumonitis: Monitor for new or worsening pulmonary symptoms|43685-7
+W|Hipertensión|No iniciarlo con hipertensión no controlada; optimizar la presión antes de empezar.||Do not initiate RETEVMO in patients with uncontrolled hypertension|43685-7
+
+@larotrectinib|Larotrectinib|ON|Inhibidor de las cinasas TRK (TRKA, TRKB, TRKC)|larotrectinib sulfate;Vitrakvi|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos y niños con tumores sólidos con fusión del gen NTRK sin mutación de resistencia conocida, metastásicos o irresecables.|VITRAKVI is indicated for the treatment of adult and pediatric patients with solid tumors that: have a neurotrophic receptor tyrosine kinase ( NTRK ) gene fusion
+A|Inhibe las cinasas de receptores de tropomiosina TRKA, TRKB y TRKC, cuyas fusiones génicas actúan como impulsoras oncogénicas.|Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC||TRKA, TRKB y TRKC
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Capsules 25 mg: white opaque hard gelatin capsule|
+B|La biodisponibilidad absoluta media de las cápsulas es del 34 % y el pico aparece en alrededor de 1 hora; una comida grasa baja la Cmax un 35 % sin cambiar el AUC.|The mean absolute bioavailability of VITRAKVI capsules was 34% (range: 32% to 37%)|
++|B|Con una comida rica en grasas el AUC fue similar y la Cmax bajó un 35 %.|The AUC of larotrectinib was similar and the C max was reduced by 35%|sujetos sanos|con una comida rica en grasas
+D|In vitro se une en un 70 % a las proteínas del plasma humano; el volumen de distribución tras la vía intravenosa es de 48 L.|Larotrectinib is 70% bound to human plasma proteins in vitro and binding is independent of drug concentrations|sangre
+M|Se metaboliza sobre todo por la CYP3A4; en plasma, el fármaco inalterado supone el 19 % y un O-glucurónido el 26 %.|Larotrectinib is metabolized predominantly by CYP3A4|higado
+T|O-glucurónido de larotrectinib|desconocida|unchanged larotrectinib constituted 19% and an O-linked glucuronide constituted 26% of the major circulating radioactive drug components in plasma|Componente circulante principal; la etiqueta no precisa su actividad.
+E|Tras 100 mg marcados, el 58 % se recuperó en las heces (5 % sin cambios) y el 39 % en la orina (20 % sin cambios).|58% (5% unchanged) of the administered radioactivity was recovered in feces and 39% (20% unchanged) was recovered in urine|heces,orina
++|E|La semivida es de 2,9 horas y el aclaramiento aparente de 98 L/h en sujetos sanos.|The mean (CV%) clearance (CL/F) of larotrectinib is 98 (44%) L/h and the half-life is 2.9 hours|sujetos sanos|
+C|biodisponibilidad|Biodisponibilidad absoluta media de las cápsulas|34|%|The mean absolute bioavailability of VITRAKVI capsules was 34%|larotrectinib
+C|tmax|Tiempo hasta el pico|1 (aprox.)|h|peak plasma levels (C max ) of larotrectinib were achieved at approximately 1 hour after dosing|larotrectinib|pacientes adultos
+C|union|Unión a proteínas in vitro|70|%|Larotrectinib is 70% bound to human plasma proteins in vitro|larotrectinib
+C|vd|Volumen de distribución en estado estacionario (vía intravenosa)|48|L|The mean (CV%) volume of distribution (V ss ) of larotrectinib is 48 (38%) L following intravenous administration|larotrectinib|sujetos sanos||otra-via
+C|semivida|Semivida|2,9|h|the half-life is 2.9 hours following oral administration of VITRAKVI in healthy subjects|larotrectinib|sujetos sanos
+C|aclaramiento|Aclaramiento aparente|98|L/h|The mean (CV%) clearance (CL/F) of larotrectinib is 98 (44%) L/h|larotrectinib|sujetos sanos
+C|heces|Radiactividad recuperada en las heces|58|% de la dosis|58% (5% unchanged) of the administered radioactivity was recovered in feces|radiactividad total|sujetos sanos|dosis única marcada de 100 mg
+R|Las más frecuentes (20 % o más, con laboratorio): aumento de AST y ALT, anemia, hipoalbuminemia, dolor musculoesquelético, aumento de fosfatasa alcalina, leucopenia, linfopenia, neutropenia, hipocalcemia y fatiga, entre otras.|most common (≥ 20%) adverse reactions, including laboratory abnormalities, with VITRAKVI were increased AST, increased ALT, anemia, hypoalbuminemia, musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Efectos sobre el sistema nervioso central|Mareo, alteración cognitiva, trastornos del ánimo y del sueño; no conducir si hay neurotoxicidad.|encefalo|Advise patients and caretakers of the risk of CNS adverse reactions including dizziness, cognitive impairment, mood disorders, and sleep disturbances|43685-7
+W|Fracturas óseas|Valorar con rapidez los signos o síntomas de fractura.||Skeletal Fractures: Promptly evaluate patients with signs or symptoms of fractures|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar, cada 2 semanas los 2 primeros meses y después cada mes.||Obtain liver function tests (ALT, AST, ALP and bilirubin) before initiation of VITRAKVI|43685-7
+
+@entrectinib|Entrectinib|ON|Inhibidor de cinasas TRK, ROS1 y ALK|entrectinib;Rozlytrek|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico ROS1 positivo y de tumores sólidos con fusión de NTRK, según la etiqueta.|Adult patients with ROS1- positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test
+A|Inhibe las cinasas TRKA, TRKB y TRKC, ROS1 y ALK; su metabolito activo principal, M5, tiene una actividad in vitro similar.|Entrectinib is an inhibitor of the tropomyosin receptor tyrosine kinases (TRK) TRKA, TRKB, and TRKC||TRK, ROS1 y ALK
+L|Cápsula dura: se disgrega en el tubo digestivo; también puede darse como suspensión en agua o leche.|Capsules: 100 mg: Size 2 yellow opaque body and cap|
+B|La concentración máxima se alcanza 4 a 6 horas tras 600 mg; una comida grasa no tiene efecto significativo.|The maximum entrectinib plasma concentration was reached 4 – 6 hours after oral administration of a 600 mg dose|
++|B|Una comida rica en grasas no tuvo un efecto significativo sobre la exposición.|meal did not have a significant effect on entrectinib exposure of ROZLYTREK capsules|||con una comida rica en grasas
+D|El entrectinib y el M5 se unen en más del 99 % a las proteínas plasmáticas in vitro; el volumen de distribución aparente es de 551 L.|Entrectinib and its active major metabolite M5 are both > 99% bound to human plasma proteins in vitro|sangre
++|D|Volumen de distribución aparente estimado de 551 L.|The estimated apparent volume of distribution (V/F) was 551 L and 81 L for entrectinib and M5, respectively|||
+M|Se metaboliza sobre todo por la CYP3A4 (alrededor del 76 %).|Entrectinib is metabolized primarily by CYP3A4 (~76%)|higado
+T|M5|activo|The major active metabolite of entrectinib, M5, showed similar in vitro activity against TRK, ROS1, and ALK|Metabolito activo principal con actividad in vitro similar.
+E|Tras una dosis marcada, el 83 % se excretó en las heces (36 % como entrectinib y 22 % como M5) y solo el 3 % en la orina.|83% of radioactivity was excreted in feces (36% of the dose as unchanged entrectinib and 22% as M5) with minimal excretion in urine (3%)|heces,orina
++|E|El aclaramiento aparente estimado es de 19,6 L/h.|The estimated apparent clearance (CL/F) was 19.6 L/h and 52.4 L/h for entrectinib and M5|||
+C|tmax|Tiempo hasta el pico|4-6|h|The maximum entrectinib plasma concentration was reached 4 – 6 hours after oral administration of a 600 mg dose|entrectinib
+C|union|Unión a proteínas in vitro|> 99|%|Entrectinib and its active major metabolite M5 are both > 99% bound to human plasma proteins in vitro|entrectinib y M5
+C|vd|Volumen de distribución aparente|551|L|The estimated apparent volume of distribution (V/F) was 551 L|entrectinib
+C|aclaramiento|Aclaramiento aparente|19,6|L/h|The estimated apparent clearance (CL/F) was 19.6 L/h|entrectinib
+C|heces|Radiactividad excretada en las heces|83|% de la dosis|83% of radioactivity was excreted in feces|radiactividad total
+R|Las más frecuentes (20 % o más): fatiga, estreñimiento, disgeusia, edema, mareo, diarrea, náuseas, disestesia, disnea, mialgia y alteración cognitiva, entre otras.|most common adverse reactions (≥ 20%) were fatigue, constipation, dysgeusia, edema, dizziness, diarrhea, nausea, dysesthesia, dyspnea, myalgia, cognitive impairment
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Insuficiencia cardíaca congestiva|Valorar la fracción de eyección antes de empezar y vigilar los signos de insuficiencia cardíaca.||Assess left ventricular ejection fraction (LVEF) prior to initiation of ROZLYTREK|43685-7
+W|Arritmias ventriculares|Vigilar a quienes tienen o pueden tener prolongación del QRS o del QTc.||Monitor patients who have or who are at risk for QRS or QTc interval prolongation|43685-7

@@ -1,0 +1,94 @@
+@manidipino|Manidipino|CV|Bloqueante de canales de calcio (dihidropiridina)|manidipine;Artedil|vias=oral;familia=solido-oral
+S|Hidrocloruro de manidipino|Manidipino hidrocloruro, 10 mg
+X|Lactosa monohidrato; Almidón de maíz; Hidroxipropilcelulosa poco sustituida (L-HPC-31); Hidroxipropilcelulosa (HPC-L); Estearato de magnesio; Riboflavina (E-101)
+K|10 mg de hidrocloruro de manidipino por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión arterial esencial leve a moderada.|Hipertensión arterial esencial leve a moderada
+A|Es una dihidropiridina bloqueadora del canal de calcio con actividad antihipertensiva y con efectos farmacodinámicos beneficiosos sobre la función renal.|Manidipino es una dihidropiridina bloqueadora del canal de calcio con actividad antihipertensiva|vasos,rinones|Canales de calcio
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Artedil 10 mg comprimidos: comprimidos ranurados redondos de color|
+B|Tras la administración oral, las concentraciones plasmáticas máximas se alcanzan entre las 2 y las 3,5 horas; sufre efecto de primer paso.|Después de la administración oral de manidipino, las concentraciones plasmáticas máximas se alcanzan entre las 2 y las 3,5 horas|
++|B|La absorción aumenta en presencia de comida en el tracto gastrointestinal.|La absorción de manidipino aumenta en presencia de comida en el tracto gastrointestinal|||con comida
+D|La unión a proteínas del plasma es del 99 % y el producto se distribuye ampliamente por los tejidos.|La unión a proteínas plasmáticas es del 99%|sangre,tejidos
+M|Se metaboliza extensamente, principalmente a nivel hepático.|se metaboliza extensamente, principalmente a nivel hepático|higado
+E|La eliminación se realiza principalmente por las heces (63 %) y, en menor proporción, por la orina (31 %).|La eliminación se realiza principalmente a través de las heces (63%) y, en menor proporción, de la orina (31%)|heces,rinones,orina
++|E|Tras administraciones repetidas no se produce acumulación.|Después de administraciones repetidas, no se produce acumulación|||
+C|tmax|Tiempo hasta el pico plasmático|2-3,5|h|las concentraciones plasmáticas máximas se alcanzan entre las 2 y las 3,5 horas|manidipino
+C|union|Unión a proteínas plasmáticas|99|%|La unión a proteínas plasmáticas es del 99%|manidipino
+C|heces|Eliminado por las heces|63|% de la dosis|principalmente a través de las heces (63%)|manidipino y metabolitos
+C|orina|Eliminado por la orina|31|% de la dosis|de la orina (31%)|manidipino y metabolitos
+R|Las más frecuentes: palpitaciones, sofocos, edema, cefalea, vértigo y mareos.|son: palpitaciones, sofocos, edema, cefalea, vértigo y mareos
+R|Se atribuyen a sus propiedades vasodilatadoras.|Estas reacciones se atribuyen a las propiedades vasodilatadoras de manidipino
+W|Disfunción hepática moderada|Se administrará con precaución, ya que puede incrementarse el efecto antihipertensivo.|higado|En pacientes con disfunción hepática moderada, se administrará con precaución, ya que puede incrementarse el efecto antihipertensivo
+W|Disfunción ventricular izquierda|Debe administrarse con precaución en pacientes con disfunción ventricular izquierda.|corazon|debe administrarse con precaución en pacientes con disfunción ventricular izquierda
+
+@aceclofenaco|Aceclofenaco|DF|Antiinflamatorio no esteroideo (derivado del ácido acético)|aceclofenac;Gerbin|vias=oral;familia=solido-oral
+S|-
+X|Celulosa microcristalina; Croscarmelosa de sodio; Palmitoestearato de glicerol; Povidona; Hipromelosa; Polioxilo 40 estearato; Dióxido de titanio (E-171)
+K|100 mg de aceclofenaco por comprimido, según la ficha técnica
+U|Tratamiento de procesos inflamatorios y dolorosos como lumbalgia, odontalgia, periartritis escapulohumeral y reumatismo extraarticular, y tratamiento crónico de la artrosis, la artritis reumatoide y la espondilitis anquilosante.|procesos inflamatorios y dolorosos tales como lumbalgia, odontalgia, periartritis escapulohumeral y reumatismo extraarticular
+A|Es un agente no esteroideo con propiedades antiinflamatorias y analgésicas; su acción se basa en gran medida en la inhibición de la síntesis de prostaglandinas, como potente inhibidor de la ciclooxigenasa.|El modo de acción de aceclofenaco se basa en gran medida en la inhibición de la síntesis de prostaglandinas|articulaciones,tejidos|Ciclooxigenasa
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Gerbin 100 mg comprimidos recubiertos con película|
+B|Se absorbe rápida y completamente como fármaco inalterado; las concentraciones plasmáticas máximas se alcanzan aproximadamente entre 1,25 y 3,00 horas después de la ingestión.|Tras su administración oral, aceclofenaco se absorbe rápida y completamente en forma de fármaco inalterado|
++|B|Las concentraciones plasmáticas máximas se alcanzan aproximadamente entre 1,25 y 3,00 horas después de la ingestión.|Las concentraciones plasmáticas máximas se alcanzan aproximadamente de 1,25 a 3,00 horas después de la ingestión|||
+D|Se fija en gran medida a las proteínas del plasma (más del 99 %) y su volumen de distribución es de unos 25 litros.|Aceclofenaco se fija en gran medida a las proteínas (> 99 %)|sangre,articulaciones
++|D|Penetra en el líquido sinovial, donde alcanza aproximadamente el 57 % de las concentraciones plasmáticas.|Aceclofenaco penetra en el líquido sinovial, donde sus concentraciones alcanzan aproximadamente el 57 % de las del plasma|||
++|D|El volumen de distribución es de aproximadamente 25 litros.|El volumen de distribución es de aproximadamente 25 l|||
+M|Circula principalmente como fármaco inalterado; el principal metabolito detectado en el plasma es el 4-hidroxiaceclofenaco.|El principal metabolito detectado en el plasma es 4-hidroxiaceclofenaco|tejidos
+T|4-hidroxiaceclofenaco|desconocida|El principal metabolito detectado en el plasma es 4-hidroxiaceclofenaco|Principal metabolito detectado en el plasma; la ficha no precisa su actividad.
+E|Aproximadamente dos tercios de la dosis se excretan por la orina, sobre todo como hidroximetabolitos.|Aproximadamente las dos terceras partes de la dosis administrada se excretan por la orina, fundamentalmente en forma de hidroximetabolitos|rinones,orina
++|E|La vida media plasmática es de alrededor de 4 horas.|La vida media plasmática es de alrededor de 4 horas|||
+C|tmax|Tiempo hasta el pico plasmático|1,25-3,00|h|Las concentraciones plasmáticas máximas se alcanzan aproximadamente de 1,25 a 3,00 horas después de la ingestión|aceclofenaco
+C|union|Unión a proteínas|> 99|%|Aceclofenaco se fija en gran medida a las proteínas (> 99 %)|aceclofenaco
+C|vd|Volumen de distribución|25 (aprox.)|L|El volumen de distribución es de aproximadamente 25 l|aceclofenaco
+C|semivida|Vida media plasmática|4 (aprox.)|h|La vida media plasmática es de alrededor de 4 horas|aceclofenaco
+R|Las más frecuentes son de naturaleza gastrointestinal.|Las reacciones adversas que se observan con mayor frecuencia son de naturaleza gastrointestinal
+R|Pueden producirse úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, sobre todo en ancianos.|Pueden producirse úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, especialmente en los ancianos
+W|Uso con otros AINE|Debe evitarse su administración con otros antiinflamatorios no esteroideos, incluidos los inhibidores selectivos de la ciclooxigenasa-2.|estomago|También se debe evitar la administración concomitante de este medicamento con otros AINEs, incluyendo los inhibidores selectivos de la ciclo-oxigenasa-2 (Coxib)
+W|Antecedentes gastrointestinales|Se requiere vigilancia en pacientes con antecedentes que sugieran úlcera, hemorragia o perforación gastrointestinal.|estomago,intestino-delgado|Antecedentes que sugieran úlcera gastro-intestinal, hemorragia o perforación
+
+@lacidipino|Lacidipino|CV|Bloqueante de canales de calcio (dihidropiridina)|lacidipine;Lacimen|vias=oral;familia=solido-oral
+S|-
+X|Lactosa monohidrato; Lactosa desecada; Povidona K-30; Estearato de magnesio; Hipromelosa (E464); Dióxido de titanio (E171); PEG 400; Polisorbato 80
+K|4 mg de lacidipino por comprimido, según la ficha técnica
+U|Tratamiento de la hipertensión, solo o en combinación con otros antihipertensivos.|tratamiento de la hipertensión, bien solo o en combinación con otros antihipertensivos
+A|Es un antagonista de los canales del calcio potente y específico, con selectividad predominante sobre los canales del calcio del músculo liso vascular.|Lacidipino es un antagonista de los canales del calcio potente y específico, con selectividad predominante sobre los canales del calcio en el músculo liso vascular|vasos|Canales de calcio
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimidos recubiertos con película blancos|
+B|Se absorbe en pequeña proporción, aunque de forma rápida; la biodisponibilidad absoluta es por término medio de un 10 % (7-12 %).|Lacidipino se absorbe en pequeña proporción, aunque de forma rápida, por el tracto gastrointestinal tras ingestión oral|
++|B|La biodisponibilidad absoluta es por término medio de un 10 % (7-12 %).|La biodisponibilidad absoluta es por término medio de un 10% (7-12%)|||
++|B|Las concentraciones plasmáticas más elevadas se alcanzan entre los 30 y los 150 minutos.|Las concentraciones plasmáticas más elevadas se alcanzan entre los 30 y 150 minutos|||
+D|Se fija a la albúmina y a la glucoproteína alfa-1 del plasma en una proporción muy alta (más del 95 %).|en una proporción muy alta (>95%)|sangre
+M|Sufre un amplio metabolismo de primer paso hepático, en el que participa la CYP3A4; no hay evidencia de que induzca ni inhiba las enzimas hepáticas.|Sufre un amplio metabolismo de primer paso hepático (en el que está implicado el citocromo P450 CYP3A4)|higado
+T|Cuatro metabolitos principales|inactivo|Los cuatro metabolitos principales identificados carecen o apenas poseen actividad farmacológica|Carecen de actividad farmacológica o apenas la poseen.
+E|Alrededor del 70 % de la dosis se elimina como metabolitos por las heces y el resto, también como metabolitos, por la orina.|Aproximadamente un 70% de la dosis administrada se elimina en forma de metabolitos en heces y el resto, también en forma de metabolitos, en la orina|heces,rinones,orina
++|E|La vida media de eliminación es de 13 a 19 horas.|La vida media de eliminación es de 13 a 19 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|10 (7-12)|%|La biodisponibilidad absoluta es por término medio de un 10% (7-12%)|lacidipino
+C|tmax|Tiempo hasta el pico plasmático|30-150|min|Las concentraciones plasmáticas más elevadas se alcanzan entre los 30 y 150 minutos|lacidipino
+C|union|Unión a proteínas|> 95|%|en una proporción muy alta (>95%)|lacidipino
+C|semivida|Vida media de eliminación|13-19|h|La vida media de eliminación es de 13 a 19 horas|lacidipino
+C|heces|Dosis eliminada por las heces como metabolitos|70 (aprox.)|% de la dosis|Aproximadamente un 70% de la dosis administrada se elimina en forma de metabolitos en heces|lacidipino
+R|Frecuentes: dolor de cabeza y mareo, generalmente transitorios.|Frecuentes: dolor de cabeza* y mareo*
+R|Frecuentes: palpitaciones y taquicardia.|Frecuentes: palpitaciones*, taquicardia
+W|Anormalidades de los nódulos sinoauricular y auriculoventricular|Debe administrarse con precaución en pacientes con anormalidades preexistentes de estos nódulos.|corazon|Este medicamento debe administrarse con precaución a pacientes con anormalidades preexistentes en los nódulos sinoauricular y auriculoventricular
+W|Prolongación del intervalo QT|Debe usarse con precaución en pacientes con prolongación congénita o adquirida del intervalo QT.|corazon|Lacidipino debe usarse con precaución en pacientes con prolongación congénita o probadamente adquirida del intervalo QT
+
+@ketoprofeno|Ketoprofeno|DF|Antiinflamatorio no esteroideo (derivado del ácido propiónico)|ketoprofen;Fastum|vias=oral;familia=solido-oral
+S|-
+X|Almidón de maíz; Celulosa microcristalina; Talco; Estearato de magnesio; Gelatina; Agua; Dióxido de titanio (E-171); Tinta de impresión (shellac, alcohol deshidratado, alcohol isopropílico, alcohol butílico, propilenglicol, agua purificada, solución concentrada de amonio, hidróxido de potasio y óxido de hierro negro)
+K|50 mg de ketoprofeno por cápsula, según la ficha técnica
+U|Tratamiento sintomático de la artritis reumatoide, la artrosis, la espondilitis anquilosante y los episodios agudos de gota, entre otras indicaciones.|Artritis reumatoide, artrosis, espondilitis anquilosante, episodios agudos de gota
+A|Es un inhibidor de la ciclooxigenasa en los tejidos del cuerpo y, por tanto, frena la síntesis de precursores de las prostaglandinas.|El ketoprofeno es un inhibidor de la ciclooxigenasa en tejidos corporales y, por consiguiente, frena la síntesis de precursores de prostaglandinas|articulaciones,tejidos|Ciclooxigenasa
+L|Cápsula dura: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Cápsulas de gelatina dura, de color blanco|
+B|Tras la administración oral presenta una biodisponibilidad absoluta cercana al 100 %, con el pico de concentración plasmática a los 45 minutos de la toma.|Tras su administración oral, el ketoprofeno presenta una biodisponibilidad absoluta cercana al 100%, con una concentración plasmática que se alcanza a los 45 minutos de su toma oral|
+D|Presenta una fijación a proteínas plasmáticas próxima al 99 %, difunde al líquido sinovial y atraviesa las barreras hematoencefálica y placentaria.|presenta una fijación a proteínas plasmáticas próxima al 99%|sangre,articulaciones,encefalo
++|D|Atraviesa las barreras hematoencefálica y placentaria.|atraviesa las barreras hematoencefálica y placentaria|||
+M|Se metaboliza principalmente por conjugación con el ácido glucurónico y, en menor medida, por hidroxilación.|el ketoprofeno se metaboliza principalmente mediante conjugación con el ácido glucurónico y, en menor medida, mediante hidroxilación|higado
+T|Glucuronoconjugado de ketoprofeno|desconocida|el producto glucuronoconjugado representa entre el 65 y el 75% de la misma|Representa entre el 65 % y el 75 % de la dosis eliminada por la orina.
+E|Se excreta principalmente por la orina: a los 5 días, el 75-90 % de la dosis se ha excretado por vía renal y solo el 1-8 % por las heces.|El ketoprofeno se excreta principalmente por vía urinaria|rinones,orina,heces
++|E|La semivida de eliminación oscila entre 1,5 y 2 horas.|La semivida de eliminación oscila entre 1.5 a 2 horas|||
+C|biodisponibilidad|Biodisponibilidad absoluta|100 (aprox.)|%|presenta una biodisponibilidad absoluta cercana al 100%|ketoprofeno
+C|tmax|Tiempo hasta el pico plasmático|45|min|con una concentración plasmática que se alcanza a los 45 minutos de su toma oral|ketoprofeno
+C|union|Unión a proteínas plasmáticas|99 (aprox.)|%|presenta una fijación a proteínas plasmáticas próxima al 99%|ketoprofeno
+C|semivida|Semivida de eliminación|1,5-2|h|La semivida de eliminación oscila entre 1.5 a 2 horas|ketoprofeno
+R|Las más frecuentes son de naturaleza gastrointestinal.|Las reacciones adversas que se observan con mayor frecuencia son de naturaleza gastrointestinal
+R|Pueden aparecer úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, sobre todo en personas de edad avanzada.|Pueden aparecer úlceras pépticas, perforación o hemorragia gastrointestinal, en algunos casos mortales, especialmente en personas de edad avanzada
+W|Uso con otros AINE|Debe evitarse su administración con otros antiinflamatorios no esteroideos, incluidos los inhibidores selectivos de la ciclooxigenasa-2.|estomago|Se debe evitar la administración concomitante de Fastum con otros AINE, incluyendo los inhibidores selectivos de la ciclooxigenasa-2
+W|Seguridad gastrointestinal|Con los AINE, incluido el ketoprofeno, se han notificado hemorragias gastrointestinales, úlceras o perforaciones que pueden ser mortales, con o sin síntomas previos de alerta.|estomago,intestino-delgado|se han notificado hemorragias gastrointestinales, úlceras o perforaciones, que pueden ser mortales, en cualquier momento del mismo

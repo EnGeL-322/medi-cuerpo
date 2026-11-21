@@ -1,0 +1,118 @@
+@dacomitinib|Dacomitinib|ON|Inhibidor irreversible de la familia del EGFR (EGFR/HER1, HER2 y HER4)|dacomitinib;Vizimpro|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|-
+U|Tratamiento de primera línea del cáncer de pulmón no microcítico metastásico con deleción del exón 19 o sustitución L858R del exón 21 del EGFR.|VIZIMPRO is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations
+A|Inhibe de forma irreversible la actividad cinasa de la familia del EGFR (EGFR/HER1, HER2 y HER4) y de ciertas mutaciones activadoras del EGFR.|Dacomitinib is an irreversible inhibitor of the kinase activity of the human EGFR family (EGFR/HER1, HER2, and HER4) and certain EGFR activating mutations||EGFR, HER2 y HER4
+L|Comprimido recubierto con película de liberación inmediata: se disgrega en el tubo digestivo.|blue film-coated, immediate release, round biconvex tablet|
+B|La biodisponibilidad absoluta media es del 80 % y el pico aparece hacia las 6 horas; una comida rica en grasas no tiene un efecto relevante.|The mean absolute bioavailability of dacomitinib is 80% after oral administration|
++|B|La mediana del tiempo hasta el pico es de unas 6 horas tras 45 mg en pacientes con cáncer.|The median dacomitinib time to reach maximum concentration (T max ) occurred at approximately 6.0 hours (range 2.0 to 24 hours)|pacientes con cáncer|
++|B|Una comida rica en grasas no tuvo un efecto clínicamente relevante sobre su farmacocinética.|had no clinically meaningful effect on dacomitinib pharmacokinetics|||con una comida rica en grasas
+D|In vitro se une en alrededor del 98 % a las proteínas plasmáticas; el volumen de distribución es de 1889 L.|In vitro binding of dacomitinib to human plasma proteins is approximately 98%|sangre
++|D|Volumen de distribución en estado estacionario de 1889 L.|The geometric mean (CV%) volume of distribution of dacomitinib (V ss ) was 1889 L (18%)|||
+M|El metabolismo hepático es su principal vía de aclaramiento, sobre todo por oxidación y conjugación con glutatión.|Hepatic metabolism is the main route of clearance of dacomitinib, with oxidation and glutathione conjugation as the major pathways|higado
+T|O-desmetil dacomitinib|activo|the most abundant circulating metabolite was O-desmethyl dacomitinib, which had similar in vitro pharmacologic activity as dacomitinib|Metabolito circulante más abundante, con actividad in vitro similar.
+E|Tras 45 mg marcados, el 79 % de la radiactividad se recuperó en las heces (20 % como dacomitinib) y el 3 % en la orina.|79% of the radioactivity was recovered in feces (20% as dacomitinib) and 3% in urine (<1% as dacomitinib)|heces,orina
++|E|La semivida plasmática media es de 70 horas y el aclaramiento aparente, de 24,9 L/h.|the mean (CV%) plasma half-life of dacomitinib was 70 hours (21%), and the geometric mean (CV%) apparent plasma clearance of dacomitinib was 24.9 L/h (36%)|pacientes con cáncer|
+C|biodisponibilidad|Biodisponibilidad absoluta media|80|%|The mean absolute bioavailability of dacomitinib is 80% after oral administration|dacomitinib
+C|tmax|Mediana del tiempo hasta el pico|6 (aprox.)|h|The median dacomitinib time to reach maximum concentration (T max ) occurred at approximately 6.0 hours|dacomitinib|pacientes con cáncer|dosis única de 45 mg
+C|union|Unión a proteínas plasmáticas in vitro|98 (aprox.)|%|In vitro binding of dacomitinib to human plasma proteins is approximately 98%|dacomitinib
+C|vd|Volumen de distribución en estado estacionario|1889|L|The geometric mean (CV%) volume of distribution of dacomitinib (V ss ) was 1889 L (18%)|dacomitinib
+C|semivida|Semivida plasmática media|70|h|the mean (CV%) plasma half-life of dacomitinib was 70 hours (21%)|dacomitinib|pacientes con cáncer
+C|aclaramiento|Aclaramiento plasmático aparente|24,9|L/h|the geometric mean (CV%) apparent plasma clearance of dacomitinib was 24.9 L/h (36%)|dacomitinib|pacientes con cáncer
+C|heces|Radiactividad recuperada en las heces|79|% de la dosis|79% of the radioactivity was recovered in feces (20% as dacomitinib)|radiactividad total||dosis oral única marcada de 45 mg
+R|Las más frecuentes (más del 20 %): diarrea, exantema, paroniquia, estomatitis, disminución del apetito, piel seca, pérdida de peso, alopecia, tos y prurito.|Most common adverse reactions (incidence >20%) are diarrhea, rash, paronychia, stomatitis, decreased appetite, dry skin, decreased weight, alopecia, cough, and pruritus
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares que sugieran neumonitis.|pulmones|Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Diarrea|Se han producido diarreas graves y mortales; interrumpirlo ante una diarrea de grado 2 o mayor.||Severe and fatal diarrhea occurred in patients treated with VIZIMPRO|43685-7
+W|Reacciones dermatológicas|Interrumpirlo ante reacciones dermatológicas persistentes de grado 2 o de grado 3 o 4 hasta su mejoría.|piel|Withhold VIZIMPRO for persistent Grade 2 or any Grade 3 or 4 dermatologic adverse reaction until recovery|43685-7
+
+@pemigatinib|Pemigatinib|ON|Inhibidor de los receptores del factor de crecimiento de fibroblastos FGFR1, 2 y 3|pemigatinib;Pemazyre|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento del colangiocarcinoma avanzado ya tratado con fusión u otra reordenación de FGFR2 y de neoplasias mieloides o linfoides con reordenación de FGFR1, según la etiqueta.|unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as detected by an FDA-approved test
+A|Inhibe las cinasas FGFR1, 2 y 3 y bloquea su señalización en células tumorales con amplificaciones o fusiones activadoras de FGFR.|Pemigatinib is a small molecule kinase inhibitor that targets FGFR1, 2 and 3 with IC 50 values of less than 2 nM||FGFR1, FGFR2 y FGFR3
+L|Comprimido: se disgrega en el tubo digestivo.|round, white to off-white tablet debossed on one side with|
+B|La mediana del tiempo hasta el pico es de 1,13 horas; una comida rica en grasas no tiene un efecto clínicamente relevante.|The median time to achieve peak pemigatinib plasma concentration (T max ) was 1.13 (0.50-6.00) hours|
++|B|Una comida rica en grasas no tuvo un efecto clínicamente relevante sobre su farmacocinética.|had no clinically significant effect on pemigatinib pharmacokinetics|||con una comida rica en grasas
+D|In vitro se une en un 90,6 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente es de 235 L.|Protein binding of pemigatinib was 90.6% and was independent of concentration in vitro|sangre
++|D|Volumen de distribución aparente estimado de 235 L tras 13,5 mg.|The estimated apparent volume of distribution was 235 L (60.8%) following a 13.5 mg oral dose|||
+M|Se metaboliza sobre todo por la CYP3A4 in vitro.|Pemigatinib is predominantly metabolized by CYP3A4 in vitro|higado
+E|Tras 11 mg marcados, el 82,4 % de la dosis se recuperó en las heces (1,4 % sin cambios) y el 12,6 % en la orina (1 % sin cambios).|82.4% of the dose was recovered in feces (1.4% as unchanged) and 12.6% in urine (1% as unchanged)|heces,orina
++|E|La semivida de eliminación es de 15,4 horas.|The geometric mean (%CV) elimination half-life (t ½ ) of pemigatinib was 15.4 (51.6%) hours|||
+C|tmax|Mediana del tiempo hasta el pico|1,13|h|The median time to achieve peak pemigatinib plasma concentration (T max ) was 1.13 (0.50-6.00) hours|pemigatinib
+C|union|Unión a proteínas in vitro|90,6|%|Protein binding of pemigatinib was 90.6%|pemigatinib
+C|vd|Volumen de distribución aparente|235|L|The estimated apparent volume of distribution was 235 L (60.8%) following a 13.5 mg oral dose|pemigatinib
+C|semivida|Semivida de eliminación|15,4|h|elimination half-life (t ½ ) of pemigatinib was 15.4 (51.6%) hours|pemigatinib
+C|aclaramiento|Aclaramiento aparente|10,6|L/h|the geometric mean apparent clearance (CL/F) was 10.6 L/h (54%)|pemigatinib
+C|heces|Dosis recuperada en las heces|82,4|% de la dosis|82.4% of the dose was recovered in feces (1.4% as unchanged)|radiactividad total||dosis oral única marcada de 11 mg
+R|En el colangiocarcinoma, las más frecuentes (20 % o más): hiperfosfatemia, alopecia, diarrea, toxicidad ungueal, fatiga, disgeusia, náuseas, estreñimiento, estomatitis y ojo seco, entre otras.|The most common adverse reactions (incidence ≥ 20%) are hyperphosphatemia, alopecia, diarrhea, nail toxicity, fatigue, dysgeusia, nausea, constipation, stomatitis, dry eye
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Desprendimiento de retina|Hacer una exploración oftalmológica con tomografía de coherencia óptica antes de empezar y periódicamente.|ojos|Perform ophthalmological examination including optical coherence tomography (OCT) prior to initiation of therapy|43685-7
+W|Hiperfosfatemia|Vigilar el fósforo e iniciar una dieta pobre en fosfato si supera 5,5 mg/dL.||Monitor for hyperphosphatemia and initiate a low phosphate diet when serum phosphate level is > 5.5 mg/dL|43685-7
+W|Toxicidad embriofetal|Advertir a las embarazadas del riesgo para el feto.||Advise pregnant women of the potential risk to the fetus|43685-7
+
+@futibatinib|Futibatinib|ON|Inhibidor covalente de FGFR1, 2, 3 y 4|futibatinib;Lytgobi|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con colangiocarcinoma intrahepático avanzado ya tratado con fusiones u otras reordenaciones del gen FGFR2.|unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma harboring fibroblast growth factor receptor 2 (FGFR2) gene fusions or other rearrangements
+A|Inhibe las cinasas FGFR1, 2, 3 y 4 uniéndose a ellas de forma covalente, y bloquea su señalización en células tumorales con alteraciones de FGFR.|Futibatinib is a small molecule kinase inhibitor of FGFR 1, 2, 3, and 4 with IC 50 values of less than 4 nM||FGFR1-4
++|A|Se une de forma covalente al FGFR.|Futibatinib covalently binds FGFR|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|round, white, film-coated tablets debossed with|
+B|La mediana del tiempo hasta el pico es de 2 horas; con una comida rica en grasas la Cmax bajó un 42 % sin cambios relevantes del AUC.|Futibatinib median (min, max) time to maximum plasma concentration (T max ) is 2 hours (1.2, 23 hours)|
++|B|Con una comida rica en grasas la Cmax bajó un 42 % sin diferencias relevantes del AUC.|Futibatinib C max decreased by 42% with no clinically significant differences in AUC in healthy subjects|sujetos sanos|con una comida rica en grasas
+D|Se une en un 95 % a las proteínas plasmáticas, sobre todo a la albúmina; el volumen de distribución aparente es de 66 L.|Futibatinib plasma protein binding is 95%, primarily to albumin|sangre
++|D|Volumen de distribución aparente de 66 L.|The apparent (oral) volume of distribution is 66 L (18%)|||
+M|Se metaboliza sobre todo por la CYP3A y, en menor medida, por la CYP2C9 y la CYP2D6.|Futibatinib is primarily metabolized by CYP3A and to a lesser extent by CYP2C9 and CYP2D6|higado
+E|Tras 20 mg marcados, alrededor del 91 % de la dosis se recuperó en las heces y el 9 % en la orina.|approximately 91% of the dose was recovered in feces and 9% in urine|heces,orina
++|E|La semivida de eliminación es de 2,9 horas y el aclaramiento aparente, de 20 L/h.|Futibatinib elimination half-life is 2.9 hours (27%) with an apparent (oral) clearance of 20 L/hr (23%)|||
+C|tmax|Mediana del tiempo hasta el pico|2|h|Futibatinib median (min, max) time to maximum plasma concentration (T max ) is 2 hours|futibatinib
+C|union|Unión a proteínas plasmáticas|95|%|Futibatinib plasma protein binding is 95%|futibatinib
+C|vd|Volumen de distribución aparente|66|L|The apparent (oral) volume of distribution is 66 L (18%)|futibatinib
+C|semivida|Semivida de eliminación|2,9|h|Futibatinib elimination half-life is 2.9 hours (27%)|futibatinib
+C|aclaramiento|Aclaramiento aparente|20|L/h|with an apparent (oral) clearance of 20 L/hr (23%)|futibatinib
+C|heces|Dosis recuperada en las heces|91 (aprox.)|% de la dosis|approximately 91% of the dose was recovered in feces|radiactividad total||dosis oral única marcada de 20 mg
+R|Las más frecuentes (20 % o más): toxicidad ungueal, dolor musculoesquelético, estreñimiento, diarrea, fatiga, boca seca, alopecia, estomatitis, dolor abdominal y piel seca, entre otras.|Most common (≥20%) adverse reactions were nail toxicity, musculoskeletal pain, constipation, diarrhea, fatigue, dry mouth, alopecia, stomatitis, abdominal pain, dry skin
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Desprendimiento seroso de retina|Hacer una exploración oftalmológica completa con tomografía de coherencia óptica antes de empezar y periódicamente.|ojos|Perform a comprehensive ophthalmological examination including optical coherence tomography (OCT) prior to initiation of therapy|43685-7
+W|Hiperfosfatemia|Vigilar el fósforo durante todo el tratamiento.||Monitor for hyperphosphatemia throughout treatment|43685-7
+
+@alpelisib|Alpelisib|ON|Inhibidor de la fosfatidilinositol 3-cinasa alfa (PI3Kα)|alpelisib;Piqray|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento, con fulvestrant, del cáncer de mama avanzado con receptores hormonales positivos, HER2 negativo y mutación de PIK3CA, según la etiqueta.|in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer
+A|Inhibe la fosfatidilinositol 3-cinasa, sobre todo la isoforma alfa, cuya activación por mutaciones de PIK3CA impulsa la transformación celular y los tumores.|Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα||PI3Kα
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|Light pink, unscored, round and curved with beveled edges film-coated tablet|
+B|La mediana del tiempo hasta el pico es de 2 a 4 horas; la comida aumenta la exposición, por lo que se toma con alimentos.|The median time to maximum plasma concentration (T max ) ranges between 2 to 4 hours|
++|B|Con una comida rica en grasas el AUC aumentó 1,7 veces y la Cmax 1,8 veces.|Alpelisib AUC increased 1.7-fold and C max 1.8-fold following administration of a high-fat meal (985 calories with 58.1 g of fat)|||con una comida rica en grasas
+D|Se une en un 89 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente previsto es de 114 L.|Protein binding of alpelisib is 89% and is independent of concentration|sangre
++|D|Volumen de distribución aparente previsto de 114 L.|Alpelisib mean apparent volume of distribution is predicted to be 114 L (49%)|||
+M|Se metaboliza sobre todo por hidrólisis química y enzimática a su metabolito BZG791, seguida de hidroxilación mediada por la CYP3A.|Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A mediated hydroxylation|higado
+E|Tras 400 mg marcados en ayunas, el 81 % de la dosis se recuperó en las heces (36 % sin cambios) y el 14 % en la orina.|81% of the administered dose was recovered in feces (36% unchanged, 32% BZG791) and 14% (2% unchanged, 7.1% BZG791) in urine|heces,orina
++|E|La semivida prevista es de 8 a 9 horas y el aclaramiento, de 9,2 L/h con alimentos.|Alpelisib half-life is predicted to be 8 to 9 hours with clearance predicted to be 9.2 L/hr (21%) under fed conditions|||con alimentos
+C|tmax|Mediana del tiempo hasta el pico|2-4|h|The median time to maximum plasma concentration (T max ) ranges between 2 to 4 hours|alpelisib
+C|union|Unión a proteínas|89|%|Protein binding of alpelisib is 89%|alpelisib
+C|vd|Volumen de distribución aparente previsto|114|L|Alpelisib mean apparent volume of distribution is predicted to be 114 L (49%)|alpelisib
+C|semivida|Semivida prevista|8-9|h|Alpelisib half-life is predicted to be 8 to 9 hours|alpelisib
+C|aclaramiento|Aclaramiento previsto|9,2|L/h|clearance predicted to be 9.2 L/hr (21%) under fed conditions|alpelisib||con alimentos
+C|heces|Dosis recuperada en las heces|81|% de la dosis|81% of the administered dose was recovered in feces (36% unchanged, 32% BZG791)|radiactividad total||dosis única marcada de 400 mg en ayunas
+R|Las más frecuentes (20 % o más, con laboratorio): aumento de la glucosa y de la creatinina, diarrea, exantema y descenso de linfocitos, entre otras.|Most common adverse reactions, including laboratory abnormalities (all Grades, incidence ≥ 20%) were increased glucose, increased creatinine, diarrhea, rash, decreased lymphocyte count
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Reacciones adversas cutáneas graves|Puede causar reacciones cutáneas graves, como el síndrome de Stevens-Johnson o la necrólisis epidérmica tóxica.|piel|Severe Cutaneous Adverse Reactions (SCARs) : PIQRAY can cause SCARs, including Stevens-Johnson syndrome (SJS)|43685-7
+W|Hiperglucemia|Valorar la premedicación con metformina según los factores de riesgo de hiperglucemia.||Consider premedication with metformin prior to the initiation of PIQRAY based on patient risk factors for hyperglycemia|43685-7
+W|Diarrea o colitis|Vigilar la diarrea y otros síntomas de colitis, como dolor abdominal o moco o sangre en las heces.|intestino-grueso|Monitor for diarrhea and additional symptoms of colitis, including abdominal pain and mucus or blood in stool|43685-7
+
+@tivozanib|Tivozanib|ON|Inhibidor de los receptores del VEGF (VEGFR-1, -2 y -3)|tivozanib hydrochloride;Fotivda|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con carcinoma de células renales avanzado recidivante o refractario tras dos o más tratamientos sistémicos.|FOTIVDA is indicated for the treatment of adult patients with relapsed or refractory advanced renal cell carcinoma (RCC) following two or more prior systemic therapies
+A|Inhibe la fosforilación de los receptores 1, 2 y 3 del factor de crecimiento del endotelio vascular y, en modelos animales, la angiogénesis y el crecimiento tumoral.|tivozanib inhibits phosphorylation of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2 and VEGFR-3||VEGFR-1, -2 y -3
+L|Cápsula dura: se disgrega en el tubo digestivo.|bright yellow opaque cap imprinted with|
+B|La mediana del tiempo hasta el pico es de 10 horas; una comida rica en grasas no cambia de forma relevante la exposición.|The median T max of tivozanib is 10 hours with a range of 3 to 24 hours|
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes del AUC ni de la Cmax.|No clinically significant differences in tivozanib AUC or C max were observed following administration of a high fat meal|sujetos sanos|con una comida rica en grasas
+D|Se une en un 99 % o más a las proteínas, sobre todo a la albúmina; el volumen de distribución aparente es de 123 L.|Protein binding of tivozanib is ≥ 99%, primarily to albumin in vitro and is independent of concentration|sangre
++|D|Volumen de distribución aparente de 123 L.|The apparent volume of distribution (V/F) of tivozanib is 123 L|||
+M|Se metaboliza sobre todo por la CYP3A4.|Tivozanib is metabolized predominantly by CYP3A4|higado
+E|Tras 1,34 mg marcados, el 79 % de la dosis se recuperó en las heces (26 % sin cambios) y el 12 % en la orina, sin tivozanib inalterado.|79% of the administered dose was recovered in feces (26% unchanged) and 12% in urine (unchanged tivozanib not detected)|heces,orina
++|E|El aclaramiento aparente es de 0,75 L/h y la semivida, de 111 horas.|The apparent clearance (CL/F) of tivozanib is 0.75 L/h and the half-life is 111 hours|||
+C|tmax|Mediana del tiempo hasta el pico|10|h|The median T max of tivozanib is 10 hours with a range of 3 to 24 hours|tivozanib
+C|union|Unión a proteínas|≥ 99|%|Protein binding of tivozanib is ≥ 99%|tivozanib
+C|vd|Volumen de distribución aparente|123|L|The apparent volume of distribution (V/F) of tivozanib is 123 L|tivozanib
+C|semivida|Semivida|111|h|the half-life is 111 hours|tivozanib
+C|aclaramiento|Aclaramiento aparente|0,75|L/h|The apparent clearance (CL/F) of tivozanib is 0.75 L/h|tivozanib
+C|heces|Dosis recuperada en las heces|79|% de la dosis|79% of the administered dose was recovered in feces (26% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 1,34 mg
+R|Las más frecuentes (20 % o más): fatiga, hipertensión, diarrea, disminución del apetito, náuseas, disfonía, hipotiroidismo, tos y estomatitis.|The most common (≥20%) adverse reactions were fatigue, hypertension, diarrhea, decreased appetite, nausea, dysphonia, hypothyroidism, cough, and stomatitis
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical studies are conducted under widely varying conditions
+W|Hipertensión|Medir la presión arterial a las 2 semanas y después al menos una vez al mes.||Monitor blood pressure after 2 weeks and at least monthly thereafter during treatment with FOTIVDA|43685-7
+W|Perforación gastrointestinal|Suspenderlo ante una perforación gastrointestinal grave o potencialmente mortal.||Discontinue FOTIVDA for severe or life-threatening gastrointestinal perforation|43685-7
+W|Alteración de la cicatrización|No administrarlo hasta 2 semanas después de una cirugía mayor y la cicatrización adecuada de la herida.||Do not administer for at least 2 weeks following major surgery and adequate wound healing|43685-7

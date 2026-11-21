@@ -1,0 +1,109 @@
+@ospemifeno|Ospemifeno|AD|Agonista/antagonista de los receptores de estrógenos con efectos selectivos de tejido|ospemifene;Osphena|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de la dispareunia y de la sequedad vaginal moderadas o graves por atrofia vulvovaginal de la menopausia.|The treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause
+A|Agonista/antagonista de los receptores de estrógenos con efectos selectivos de tejido: activa las vías estrogénicas en unos tejidos y las bloquea en otros.|Its biological actions are mediated through binding to estrogen receptors||Receptores de estrógenos
++|A|La unión activa las vías estrogénicas en algunos tejidos y las bloquea en otros.|This binding results in activation of estrogenic pathways in some tissues (agonism) and blockade of estrogenic pathways in others (antagonism)|tejidos|
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|OSPHENA tablets are white to off-white, oval, biconvex, film coated tablets containing 60 mg of ospemifene|
+B|En ayunas el pico sérico se alcanza hacia las 2 horas; los alimentos aumentan la biodisponibilidad unas 2 a 3 veces y se debe tomar con comida.|peak median serum concentration was reached at approximately 2 hours (range: 1 to 8 hours) post-dose|
++|B|En general, los alimentos aumentaron la biodisponibilidad unas 2 a 3 veces.|In general, food increased the bioavailability of ospemifene by approximately 2-3 fold|||con alimentos
+D|Se une en más del 99 % a las proteínas séricas; el volumen de distribución aparente es de 448 L.|OSPHENA is highly (>99 percent) bound to serum proteins|sangre
++|D|Volumen de distribución aparente de 448 L.|The apparent volume of distribution is 448 L|||
+M|En microsomas hepáticos humanos se metaboliza sobre todo por la CYP3A4, la CYP2C9 y la CYP2C19; el metabolito principal es el 4-hidroxiospemifeno.|In vitro experiments with human liver microsomes indicated that ospemifene primarily undergoes metabolism via CYP3A4, CYP2C9, and CYP2C19|higado
+T|4-Hidroxiospemifeno|desconocida|The major metabolite was 4-hydroxyospemifene|Metabolito principal; la etiqueta no precisa su actividad en esta sección.
+E|Alrededor del 75 % de la dosis se excreta en las heces y el 7 % en la orina; menos del 0,2 % sale sin cambios por la orina.|approximately 75% and 7% of the dose were excreted in feces and urine, respectively|heces,orina,rinones
++|E|La semivida terminal aparente en mujeres posmenopáusicas es de unas 26 horas.|The apparent terminal half-life of ospemifene in postmenopausal women is approximately 26 hours|mujeres posmenopáusicas|
+C|tmax|Mediana del tiempo hasta el pico en ayunas|2 (aprox.)|h|peak median serum concentration was reached at approximately 2 hours (range: 1 to 8 hours) post-dose|ospemifeno|mujeres posmenopáusicas|en ayunas
+C|union|Unión a proteínas séricas|> 99|%|OSPHENA is highly (>99 percent) bound to serum proteins|ospemifeno
+C|vd|Volumen de distribución aparente|448|L|The apparent volume of distribution is 448 L|ospemifeno
+C|semivida|Semivida terminal aparente|26 (aprox.)|h|The apparent terminal half-life of ospemifene in postmenopausal women is approximately 26 hours|ospemifeno|mujeres posmenopáusicas
+C|heces|Dosis excretada en las heces|75 (aprox.)|% de la dosis|approximately 75% and 7% of the dose were excreted in feces and urine, respectively|ospemifeno y metabolitos
+R|Las más frecuentes (1 % o más): sofocos, flujo vaginal, espasmos musculares, cefalea, hiperhidrosis, sangrado vaginal y sudores nocturnos.|most common adverse reactions (≥1 percent) with OSPHENA are: hot flush, vaginal discharge, muscle spasms, headache, hyperhidrosis, vaginal hemorrhage, night sweats
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Cáncer de endometrio|En el endometrio tiene efectos agonistas estrogénicos; en una mujer con útero que usa estrógenos sin oposición aumenta el riesgo de cáncer de endometrio.|organos-reproductores|There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens|34066-1
+W|Ictus y trombosis venosa profunda|El tratamiento con estrógenos solos aumenta el riesgo de ictus y de trombosis venosa profunda.||Estrogen-alone therapy has an increased risk of stroke and deep vein thrombosis (DVT)|34066-1
+
+@relugolix|Relugolix|ON|Antagonista no peptídico del receptor de la GnRH|relugolix;Orgovyx|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con cáncer de próstata avanzado.|ORGOVYX is indicated for the treatment of adult patients with advanced prostate cancer
+A|Antagonista no peptídico del receptor de la GnRH que se une de forma competitiva a los receptores hipofisarios y reduce la liberación de LH y FSH y, con ello, la testosterona.|Relugolix is a nonpeptide GnRH receptor antagonist that competitively binds to pituitary GnRH receptors, thereby, reducing the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), and consequently testosterone||Receptor de la GnRH
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Tablets: 120 mg, light red, almond-shaped, film-coated|
+B|Es sustrato de la P-gp intestinal y su biodisponibilidad absoluta media es del 12 %; la mediana del tmax es de 2,25 horas y una comida rica en grasas no cambia su farmacocinética de forma significativa.|Relugolix is a substrate for intestinal P-gp. The mean (CV%) absolute bioavailability of relugolix is 12% (62%)|
++|B|La mediana del tiempo hasta la concentración máxima es de 2,25 horas (0,5 a 5,0).|The median (min, max) time to maximum concentration (T max ) of relugolix is 2.25 (0.5, 5.0) hours|||
+D|Se une en un 68 a 71 % a las proteínas del plasma, sobre todo a la albúmina; el cociente sangre/plasma medio es de 0,78.|Plasma protein binding of relugolix is 68 to 71%, primarily to albumin and to a lesser extent to α 1 -acid glycoprotein|sangre
+M|Se metaboliza sobre todo por la CYP3A y en menor medida por la CYP2C8.|Relugolix is metabolized primarily by CYP3A and to a lesser extent by CYP2C8|higado
+E|Tras una dosis marcada, alrededor del 81 % de la radiactividad se recuperó en las heces (4,2 % sin cambios) y el 4,1 % en la orina (2,2 % sin cambios).|approximately 81% of the radioactivity was recovered in feces with 4.2% as unchanged and 4.1% in urine with 2.2% as unchanged|heces,orina,rinones
++|E|La semivida efectiva media es de 25 horas y la terminal de 61 horas; el aclaramiento total es de 29 L/h y el renal de 8 L/h.|The mean effective half-life of relugolix is 25 hours and the mean (CV%) terminal elimination half-life is 61 (11%) hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|12|%|The mean (CV%) absolute bioavailability of relugolix is 12% (62%)|relugolix
+C|tmax|Mediana del tiempo hasta la concentración máxima|2,25|h|time to maximum concentration (T max ) of relugolix is 2.25 (0.5, 5.0) hours|relugolix
+C|union|Unión a proteínas plasmáticas|68-71|%|Plasma protein binding of relugolix is 68 to 71%|relugolix
+C|semivida|Semivida de eliminación terminal media|61|h|the mean (CV%) terminal elimination half-life is 61 (11%) hours|relugolix
+C|aclaramiento|Aclaramiento total medio|29|L/h|The mean (CV%) total clearance of relugolix is 29 (15%) L/h|relugolix
+C|heces|Radiactividad recuperada en las heces|81 (aprox.)|% de la dosis|approximately 81% of the radioactivity was recovered in feces with 4.2% as unchanged|radiactividad total||dosis oral única marcada de 80 mg
+R|Las más frecuentes (10 % o más) y alteraciones de laboratorio (15 % o más): sofocos, glucosa y triglicéridos elevados, dolor musculoesquelético, hemoglobina baja, ALT y AST elevadas, fatiga, estreñimiento y diarrea.|most common adverse reactions (≥ 10%) and laboratory abnormalities (≥ 15%) were hot flush, glucose increased, triglycerides increased, musculoskeletal pain, hemoglobin decreased
+R|La seguridad se evaluó en el estudio HERO, aleatorizado y abierto, en pacientes con cáncer de próstata avanzado.|The safety of ORGOVYX was evaluated in HERO, a randomized (2:1), open-label, clinical study in patients with advanced prostate cancer
+W|Prolongación del intervalo QT|La terapia de privación androgénica puede prolongar el intervalo QT.||Androgen deprivation therapy may prolong the QT interval|43685-7
+W|Hipersensibilidad|Puede causar reacciones de hipersensibilidad, incluido el angioedema.||ORGOVYX can cause hypersensitivity reactions, including angioedema|43685-7
+W|Toxicidad embriofetal|Puede causar daño fetal; los varones con pareja en edad fértil deben usar anticoncepción eficaz.||ORGOVYX can cause fetal harm|43685-7
+
+@fezolinetant|Fezolinetant|AD|Antagonista del receptor de neurocinina 3 (NK3)|fezolinetant;Veozah|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de los síntomas vasomotores moderados o graves de la menopausia.|VEOZAH ® is indicated for the treatment of moderate to severe vasomotor symptoms due to menopause
+A|Antagonista del receptor NK3 que bloquea la unión de la neurocinina B en la neurona KNDy para modular la actividad neuronal del centro termorregulador.|VEOZAH is a neurokinin 3 (NK3) receptor antagonist that blocks neurokinin B (NKB) binding on the kisspeptin/neurokinin B/dynorphin (KNDy) neuron to modulate neuronal activity in the thermoregulatory center||Receptor de neurocinina 3 (NK3)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Tablets: 45 mg, round, light red, film-coated tablets|
+B|La mediana del tiempo hasta la Cmax es de 1,5 horas en mujeres sanas; una comida rica en grasas no produce diferencias clínicamente significativas.|The median (range) time to reach fezolinetant C max is 1.5 (1 to 4) hours in healthy women|
+D|El volumen de distribución aparente medio es de 189 L y la unión a proteínas plasmáticas del 51 %.|The plasma protein binding of fezolinetant is 51%|sangre
++|D|Volumen de distribución aparente medio de 189 L.|The mean apparent volume of distribution (V z /F) of fezolinetant is 189 L|||
+M|Se metaboliza sobre todo por la CYP1A2 y en menor medida por la CYP2C9 y la CYP2C19; su metabolito principal, ES259564, es unas 20 veces menos potente.|Fezolinetant is primarily metabolized by CYP1A2 and to a lesser extent by CYP2C9 and CYP2C19|
+T|ES259564|activo|ES259564 is approximately 20-fold less potent than the parent|Metabolito principal en plasma, unas 20 veces menos potente que el fármaco original.
+E|El 76,9 % de la dosis se excretó en la orina (1,1 % sin cambios) y el 14,7 % en las heces (0,1 % sin cambios).|76.9% of the dose was excreted in urine (1.1% unchanged) and 14.7% in feces (0.1% unchanged)|orina,rinones,heces
++|E|La semivida efectiva es de 9,6 horas en mujeres con síntomas vasomotores.|The effective half-life (t 1/2 ) of fezolinetant is 9.6 hours in women with vasomotor symptoms|mujeres con síntomas vasomotores|
+C|tmax|Mediana del tiempo hasta la Cmax|1,5|h|The median (range) time to reach fezolinetant C max is 1.5 (1 to 4) hours in healthy women|fezolinetant|mujeres sanas
+C|vd|Volumen de distribución aparente medio|189|L|The mean apparent volume of distribution (V z /F) of fezolinetant is 189 L|fezolinetant
+C|union|Unión a proteínas plasmáticas|51|%|The plasma protein binding of fezolinetant is 51%|fezolinetant
+C|semivida|Semivida efectiva|9,6|h|The effective half-life (t 1/2 ) of fezolinetant is 9.6 hours in women with vasomotor symptoms|fezolinetant|mujeres con síntomas vasomotores
+C|aclaramiento|Aclaramiento aparente en estado estacionario|10,8|L/h|The apparent clearance at steady-state of fezolinetant is 10.8 L/h|fezolinetant
+C|orina|Dosis excretada en la orina|76,9|% de la dosis|76.9% of the dose was excreted in urine (1.1% unchanged)|fezolinetant y metabolitos
+R|Las más frecuentes (al menos 2 % y más que con placebo): dolor abdominal, diarrea, insomnio, dolor de espalda, sofocos y elevación de transaminasas hepáticas.|most common adverse reactions with VEOZAH [at least 2% in VEOZAH 45 mg and greater than placebo] are: abdominal pain, diarrhea, insomnia, back pain, hot flush, and hepatic transaminase elevation
+R|La seguridad se evaluó en tres ensayos de 52 semanas.|The safety of VEOZAH was evaluated in three 52-week c
+W|Riesgo de hepatotoxicidad|Se ha producido hepatotoxicidad tras la comercialización; hay que hacer pruebas hepáticas antes de empezar y no iniciarlo si las aminotransferasas o la bilirrubina están elevadas.||Hepatotoxicity has occurred with the use of VEOZAH in the postmarketing setting|34066-1
+W|Hepatotoxicidad e ictericia|Se han notificado casos de hepatotoxicidad e ictericia; hay que vigilar las pruebas hepáticas durante los primeros meses.||Cases of hepatotoxicity and jaundice have been reported in the postmarketing setting|43685-7
+
+@eluxadolina|Eluxadolina|DF|Agonista de los receptores opioides mu y kappa y antagonista delta|eluxadoline;Viberzi|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del síndrome del intestino irritable con diarrea en adultos.|VIBERZI is indicated in adults for the treatment of irritable bowel syndrome with diarrhea (IBS-D)
+A|Agonista del receptor opioide mu, antagonista del delta y agonista del kappa; en animales actúa sobre los receptores opioides del intestino.|Eluxadoline is a mu-opioid receptor agonist; eluxadoline is also a delta opioid receptor antagonist and a kappa opioid receptor agonist||Receptores opioides mu, delta y kappa
++|A|En animales, la eluxadolina interactúa con los receptores opioides del intestino.|In animals, eluxadoline interacts with opioid receptors in the gut||
+L|Comprimido recubierto: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|capsule-shaped tablets are coated in pale-yellow to light tan color|
+B|No se ha determinado la biodisponibilidad absoluta; la mediana del tmax fue de 1,5 horas con alimentos y de 2 horas en ayunas, y una comida grasa redujo la Cmax un 50 % y el AUC un 60 %.|Absolute bioavailability of eluxadoline has not been determined|
++|B|Con una comida rica en grasas la Cmax bajó un 50 % y el AUC un 60 %.|decreased the C max of eluxadoline by 50% and AUC by 60%|||con una comida rica en grasas
+D|La unión a proteínas plasmáticas es del 81 %.|Plasma protein binding of eluxadoline was 81%|sangre
+M|Las vías CYP y UGT participan muy poco en su metabolismo, sin impacto clínico probable sobre la exposición.|Cytochrome P450 (CYP) and UGT pathways have minimal involvement in the metabolism of eluxadoline|
+E|Tras una dosis marcada, el 82,2 % de la radiactividad se recuperó en las heces en 336 horas y menos del 1 % en la orina.|82.2% of the total radioactivity was recovered in feces within 336 hours and less than 1% was recovered in urine within 192 hours|heces,orina
++|E|La semivida de eliminación plasmática media fue de 3,7 a 6 horas.|The mean plasma elimination half-life of eluxadoline ranged from 3.7 hours to 6 hours|||
+C|tmax|Mediana del tmax con alimentos|1,5|h|The median T max value was 1.5 hours (range: 1 to 8 hours) under fed conditions|eluxadolina||con alimentos
+C|union|Unión a proteínas plasmáticas|81|%|Plasma protein binding of eluxadoline was 81%|eluxadolina
+C|semivida|Semivida de eliminación plasmática media|3,7-6|h|The mean plasma elimination half-life of eluxadoline ranged from 3.7 hours to 6 hours|eluxadolina
+C|heces|Radiactividad recuperada en las heces|82,2|% de la dosis|82.2% of the total radioactivity was recovered in feces within 336 hours|radiactividad total|varones sanos|dosis oral única marcada de 300 mg
+R|Las más frecuentes (más del 5 %) son estreñimiento, náuseas y dolor abdominal.|Most common adverse reactions (>5%) are constipation, nausea and abdominal pain
+R|Más de 1 700 pacientes con SII-D han recibido 75 o 100 mg en los ensayos.|Over 1700 patients with IBS-D have been treated with 75 or 1
+W|Pancreatitis y espasmo del esfínter de Oddi|Vigilar dolor abdominal nuevo o que empeora, o dolor biliar con elevación de enzimas hepáticas o pancreáticas; suspender de inmediato si aparecen.|pancreas|Monitor patients for new or worsening abdominal pain, with or without nausea and vomiting, or acute biliary pain with liver or pancreatic enzyme elevations|43685-7
+W|Estreñimiento|Suspender y avisar al médico si aparece estreñimiento grave.||Instruct patients to stop VIBERZI and immediately contact their healthcare provider if they develop severe constipation|43685-7
+
+@paltusotida|Paltusotida|AD|Agonista selectivo no peptídico del receptor de somatostatina 2 (SSTR2)|paltusotine;Palsonify|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con acromegalia con respuesta insuficiente a la cirugía o en quienes no es una opción.|PALSONIFY is indicated for the treatment of adults with acromegaly who had an inadequate response to surgery and/or for whom surgery is not an option
+A|Como la somatostatina natural, suprime la secreción de hormona del crecimiento y de IGF-1 mediante un agonismo selectivo del receptor de somatostatina 2.|Paltusotine exerts its pharmacological activity via selective agonism (>4000-fold) at somatostatin receptor 2 (SSTR2) and exhibits little or no affinity for other SST receptor subtypes||Receptor de somatostatina 2 (SSTR2)
++|A|Suprime la secreción de hormona del crecimiento (GH) y de IGF-1.|Similar to the natural hormone somatostatin, paltusotine suppresses growth hormone (GH) and insulin-like growth factor-1 (IGF-1) secretion||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|20 mg: pink, biconvex oval tablets|
+B|La mediana del tmax es de 1 a 4 horas; las comidas reducen mucho la absorción (una comida grasa bajó el AUC un 85 % y la Cmax un 81 %).|the median time to maximum plasma concentration (t max ) is 1 to 4 hours regardless of post dose fasting duration|
++|B|Una comida rica en grasas redujo el AUC un 85 % y la Cmax un 81 % frente al ayuno.|administration of paltusotine with a high-fat meal (800 to 1000 calories, 50% to 60% fat) reduced the AUC by 85% and the C max by 81%|||con una comida rica en grasas
+D|El volumen de distribución es de 220 L y la unión a proteínas plasmáticas del 99 %.|Paltusotine is highly plasma protein bound (99%)|sangre
++|D|Volumen de distribución de 220 L.|The volume of distribution (V z ) of paltusotine is 220 L|||
+M|Se metaboliza sobre todo en el hígado por glucuronidación (UGT1A1 y UGT1A9) y, de forma secundaria, por oxidación mediante la CYP3A4/5.|Paltusotine is metabolized primarily in the liver via glucuronidation and oxidation|higado
+E|La excreción fecal es la vía predominante: el 90 % de la radiactividad se recuperó en las heces y el 3,9 % en la orina; el fármaco sin cambios es un componente importante de las excretas.|fecal excretion was the predominant route of elimination with observed mean recovery of total administered radioactivity being 90% in feces and 3.9% in urine|heces,orina,rinones
++|E|La semivida terminal aparente es de 28 horas.|paltusotine concentration declined with apparent terminal half-life (t ½ ) of 28 hours|||
+C|tmax|Mediana del tiempo hasta la concentración máxima|1-4|h|the median time to maximum plasma concentration (t max ) is 1 to 4 hours|paltusotida
+C|vd|Volumen de distribución|220|L|The volume of distribution (V z ) of paltusotine is 220 L|paltusotida
+C|union|Unión a proteínas plasmáticas|99|%|Paltusotine is highly plasma protein bound (99%)|paltusotida
+C|semivida|Semivida terminal aparente|28|h|apparent terminal half-life (t ½ ) of 28 hours|paltusotida
+C|heces|Radiactividad recuperada en las heces|90|% de la dosis|total administered radioactivity being 90% in feces and 3.9% in urine|radiactividad total
+R|Las más frecuentes (5 % o más) son diarrea, dolor abdominal, náuseas, disminución del apetito, bradicardia sinusal, hiperglucemia, palpitaciones y gastroenteritis.|Most common adverse reactions (≥5%) are diarrhea, abdominal pain, nausea, decreased appetite, sinus bradycardia, hyperglycemia, palpitations, and gastroenteritis
+R|Entre las reacciones descritas en otras secciones figuran los cambios en las cifras de vitamina B12.|hanges in Vitamin B 12 Levels
+W|Colelitiasis y sus complicaciones|Vigilar periódicamente; si hay complicaciones de la colelitiasis, suspender y tratar.||Cholelithiasis and its Complications: Monitor periodically|43685-7
+W|Hiperglucemia e hipoglucemia|Vigilar la glucosa y ajustar el tratamiento antidiabético si hace falta.||Hyperglycemia and Hypoglycemia: Monitor glucose and adjust antidiabetic treatment as needed|43685-7
+W|Alteraciones cardiovasculares|Puede aparecer bradicardia o trastornos de la conducción.||Cardiovascular Abnormalities: Bradycardia or conduction abnormalities may occur|43685-7

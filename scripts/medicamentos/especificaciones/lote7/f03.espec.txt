@@ -1,0 +1,122 @@
+@fedratinib|Fedratinib|ON|Inhibidor selectivo de JAK2 y FLT3|fedratinib hydrochloride;Inrebic|forma=CAPSULE;vias=oral;familia=solido-oral
+S|Diclorhidrato de fedratinib monohidrato|benzenesulfonamide dihydrochloride monohydrate
+U|Tratamiento de adultos con mielofibrosis primaria o secundaria de riesgo intermedio-2 o alto.|INREBIC ® is indicated for the treatment of adult patients with intermediate-2 or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis (MF)
+A|Inhibidor oral de cinasas activo frente a JAK2 natural y mutada y frente a FLT3, con mayor actividad sobre JAK2 que sobre JAK1, JAK3 y TYK2; reduce la fosforilación de STAT3/5.|Fedratinib is an oral kinase inhibitor with activity against wild type and mutationally activated Janus Associated Kinase 2 (JAK2) and FMS-like tyrosine kinase 3 (FLT3)||JAK2 y FLT3
+L|Cápsula dura: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The capsule shell contains gelatin, red iron oxide, titanium dioxide and white ink|
+B|Con 400 mg diarios la mediana del tmax en estado estacionario es de 3 horas; las comidas aumentan poco el AUC (hasta un 24 %).|Following 400 mg once daily, fedratinib median time to peak concentrations (T max ) at steady-state is 3 hours (range: 2 to 4 hours)|
++|B|Las comidas aumentaron el AUC hasta un 24 % y la Cmax hasta un 14 %.|meal increased area under the curve over time to infinity (AUC inf ) up to 24% and C max up to 14%|||con alimentos
+D|Se une en un 92 % o más a las proteínas plasmáticas; el volumen de distribución aparente en estado estacionario es de 1 770 L.|Fedratinib is 92% or greater bound to human plasma proteins|sangre
++|D|Volumen de distribución aparente en estado estacionario de 1 770 L en mielofibrosis.|The apparent volume of distribution of fedratinib at steady-state is 1770 L in patients with myelofibrosis|pacientes con mielofibrosis|
+M|Se metaboliza por la CYP3A4, la CYP2C19 y la FMO3; el fármaco original supone alrededor del 80 % del material circulante.|Fedratinib is metabolized by CYP3A4, CYP2C19, and flavin-containing monooxygenase 3 (FMO3)|higado
+E|Tras una dosis marcada, el 77 % se excretó en las heces (23 % sin cambios) y el 5 % en la orina (3 % sin cambios).|77% (23% unchanged) of the administered dose was excreted in feces and 5% (3% unchanged) was eliminated in urine|heces,orina
++|E|La disposición es bifásica, con una semivida efectiva de 41 horas y una terminal de unas 114 horas.|an effective half-life of 41 hours, a terminal half-life of approximately 114 hours|pacientes con mielofibrosis|
+C|tmax|Mediana del tmax en estado estacionario|3|h|fedratinib median time to peak concentrations (T max ) at steady-state is 3 hours|fedratinib|pacientes con mielofibrosis|estado estacionario
+C|union|Unión a proteínas plasmáticas|≥ 92|%|Fedratinib is 92% or greater bound to human plasma proteins|fedratinib
+C|vd|Volumen de distribución aparente en estado estacionario|1770|L|The apparent volume of distribution of fedratinib at steady-state is 1770 L|fedratinib|pacientes con mielofibrosis
+C|semivida|Semivida efectiva|41|h|an effective half-life of 41 hours|fedratinib|pacientes con mielofibrosis
+C|aclaramiento|Aclaramiento aparente|13|L/h|apparent clearance (CL/F) (%CV) of 13 L/hr (51%) in patients with myelofibrosis|fedratinib|pacientes con mielofibrosis
+C|heces|Dosis excretada en las heces|77|% de la dosis|77% (23% unchanged) of the administered dose was excreted in feces|radiactividad total
+R|Las más frecuentes (20 % o más) son diarrea, náuseas, anemia y vómitos.|most common adverse reactions (≥20%) are diarrhea, nausea, anemia, and vomiting
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Encefalopatía, incluida la de Wernicke|Se han producido encefalopatías graves y mortales; medir la tiamina antes de empezar y dar tiamina oral profiláctica.||Serious and fatal encephalopathy, including Wernicke's, has occurred in patients treated with INREBIC|34066-1
+W|Anemia y trombocitopenia|Tratarlas reduciendo o interrumpiendo la dosis o con transfusión.||Anemia and Thrombocytopenia: Manage by dose reduction, interruption, or transfusion|43685-7
+W|Uveítis|Vigilar los síntomas y derivar a valoración oftalmológica.||Uveitis: Monitor for symptoms and refer for ophthalmological evaluation|43685-7
+
+@pacritinib|Pacritinib|ON|Inhibidor de cinasas (JAK2, FLT3, IRAK1, ACVR1)|pacritinib citrate;Vonjo|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con mielofibrosis de riesgo intermedio o alto y plaquetas por debajo de 50 × 10⁹/L.|VONJO is indicated for the treatment of adults with intermediate or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis (MF) with a platelet count below 50 × 10 9 /L
+A|Inhibidor oral de cinasas activo frente a JAK2 natural y mutada (V617F), FLT3 e IRAK1, y también frente a ACVR1/ALK2; no inhibe JAK1 a concentraciones clínicas.|Pacritinib is an oral kinase inhibitor with activity against wild type Janus associated kinase 2 (JAK2), mutant JAK2V617F, FMS-like tyrosine kinase 3 (FLT3), and interleukin 1 receptor associated kinase-1 (IRAK1)||JAK2, FLT3 e IRAK1
+L|Cápsula de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The gelatin capsule is bovine derived|
+B|Alcanza la Cmax en unas 4 a 5 horas; una comida grasa no tiene efecto significativo.|Pacritinib achieves C max within approximately 4 to 5 hours post-dose|
++|B|Con una comida rica en grasas no hubo efecto significativo sobre la farmacocinética.|There was no significant effect of food on the pharmacokinetics of pacritinib following oral administration of VONJO 200 mg with a high-fat meal|||con una comida rica en grasas
+D|Se une en alrededor del 98,8 % a las proteínas plasmáticas; la mediana del volumen de distribución aparente es de 229 L.|Plasma protein binding of pacritinib is approximately 98.8%|sangre
++|D|Mediana del volumen de distribución aparente en estado estacionario de 229 L en mielofibrosis.|The median (range) apparent volume of distribution of pacritinib at steady state is 229 L (156 to 591 L) in patients with MF|pacientes con mielofibrosis|
+M|Se metaboliza sobre todo por la CYP3A4; el fármaco original es el principal componente circulante y sus metabolitos M1 y M2 suponen alrededor del 10 % de la exposición cada uno.|Pacritinib is predominantly metabolized by the CYP3A4 isozyme|higado
+E|Tras 400 mg marcados en adultos sanos, el 87 % de la radiactividad se recuperó en las heces y el 6 % en la orina.|87% of the radioactivity was recovered in feces, and 6% was recovered in urine|heces,orina
++|E|La semivida efectiva media es de 27,7 horas y el aclaramiento aparente de 2,09 L/h.|The mean apparent clearance at steady-state (CV%) of pacritinib is 2.09 L/h (33.1%), and mean effective half-life (CV%) is 27.7 hours (17.0%)|||
+C|tmax|Tiempo hasta la Cmax|4-5 (aprox.)|h|Pacritinib achieves C max within approximately 4 to 5 hours post-dose|pacritinib
+C|union|Unión a proteínas plasmáticas|98,8 (aprox.)|%|Plasma protein binding of pacritinib is approximately 98.8%|pacritinib
+C|vd|Mediana del volumen de distribución aparente|229|L|The median (range) apparent volume of distribution of pacritinib at steady state is 229 L (156 to 591 L) in patients with MF|pacritinib|pacientes con mielofibrosis
+C|semivida|Semivida efectiva media|27,7|h|mean effective half-life (CV%) is 27.7 hours (17.0%)|pacritinib
+C|aclaramiento|Aclaramiento aparente en estado estacionario|2,09|L/h|The mean apparent clearance at steady-state (CV%) of pacritinib is 2.09 L/h (33.1%)|pacritinib
+C|heces|Radiactividad recuperada en las heces|87|% de la dosis|87% of the radioactivity was recovered in feces, and 6% was recovered in urine|radiactividad total|adultos sanos|dosis oral única marcada de 400 mg
+R|Las más frecuentes (20 % o más) fueron diarrea, trombocitopenia, náuseas, anemia y edema periférico.|most common adverse reactions in ≥20% of patients (N=106) were diarrhea, thrombocytopenia, nausea, anemia, and peripheral edema
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hemorragia|Evitar si hay sangrado activo y suspender antes de una cirugía programada.||Avoid use in patients with active bleeding and hold VONJO prior to any planned surgical procedures|43685-7
+W|Prolongación del intervalo QT|Evitar con QTc basal mayor de 480 ms y corregir la hipopotasemia.||Avoid use in patients with baseline QTc >480 msec|43685-7
+W|Trombosis|Pueden aparecer trombosis venosa profunda, embolia pulmonar y trombosis arterial.|pulmones|Including deep venous thrombosis, pulmonary embolism, and arterial thrombosis may occur|43685-7
+
+@momelotinib|Momelotinib|ON|Inhibidor de JAK1/JAK2 y de ACVR1|momelotinib dihydrochloride;Ojjaara|forma=TABLET;vias=oral;familia=solido-oral
+S|Diclorhidrato de momelotinib monohidrato|momelotinib dihydrochloride monohydrate
+U|Tratamiento de la mielofibrosis de riesgo intermedio o alto en adultos con anemia.|OJJAARA is indicated for the treatment of intermediate or high‑risk myelofibrosis (MF), including primary MF or secondary MF
+A|Inhibe JAK1, JAK2 y la mutante JAK2 V617F; con su metabolito M21 inhibe además ACVR1, lo que reduce la hepcidina hepática y aumenta el hierro disponible para la eritropoyesis.|Momelotinib is an inhibitor of wild type Janus Kinase 1 and 2 (JAK1/JAK2) and mutant JAK2 V617F||JAK1, JAK2 y ACVR1
++|A|La inhibición de ACVR1 reduce la expresión de hepcidina en el hígado y aumenta la disponibilidad de hierro.|which produces subsequent inhibition of liver hepcidin expression and increased iron availability|higado|
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The film coating of each tablet contains the following inactive ingredients|
+B|La mediana del tmax en estado estacionario es de 2 horas; las comidas no producen diferencias clínicamente significativas.|Median time to momelotinib C max (T max ) at steady state is 2 hours (Q1: 1 hour; Q3: 3 hours) post dose|
++|B|Con comidas ricas o pobres en grasas no hubo diferencias clínicamente significativas.|No clinically significant differences in momelotinib pharmacokinetics were observed following administration of either a high‑fat meal|sujetos sanos|con alimentos
+D|Se une en alrededor del 91 % a las proteínas plasmáticas; el volumen de distribución aparente en estado estacionario es de 984 L.|Momelotinib plasma protein binding is approximately 91% in healthy volunteers|sangre
++|D|Volumen de distribución aparente en estado estacionario de 984 L.|Momelotinib steady state apparent volume of distribution is 984 L (118%)|||
+M|Lo metabolizan varias CYP (CYP3A4 36 %, CYP2C8 19 %, CYP2C9 17 %, CYP2C19 19 % y CYP1A2 9 %); el M21 se forma por CYP y aldehído oxidasa.|Momelotinib is metabolized by multiple cytochrome P450 (CYP) enzymes including CYP3A4 (36%), CYP2C8 (19%), CYP2C9 (17%), CYP2C19 (19%), and CYP1A2 (9%)|higado
+T|M21|activo|M21 is an active human metabolite that has approximately 40% of the pharmacological activity of the parent|Metabolito activo con alrededor del 40 % de la actividad del momelotinib.
+E|Tras una dosis marcada, el 69 % de la radiactividad se excretó en las heces (13 % sin cambios) y el 28 % en la orina (menos del 1 % sin cambios).|69% (13% unchanged) of radioactivity was excreted in feces and 28% (<1% unchanged) in urine|heces,orina
++|E|La semivida de eliminación del momelotinib y del M21 es de 4 a 8 horas.|The elimination half‑life of momelotinib and the M21 metabolite is 4 to 8 hours|||
+C|tmax|Mediana del tmax en estado estacionario|2|h|Median time to momelotinib C max (T max ) at steady state is 2 hours|momelotinib|pacientes con mielofibrosis|estado estacionario
+C|union|Unión a proteínas plasmáticas|91 (aprox.)|%|Momelotinib plasma protein binding is approximately 91% in healthy volunteers|momelotinib|voluntarios sanos
+C|vd|Volumen de distribución aparente en estado estacionario|984|L|Momelotinib steady state apparent volume of distribution is 984 L (118%)|momelotinib
+C|semivida|Semivida de eliminación|4-8|h|The elimination half‑life of momelotinib and the M21 metabolite is 4 to 8 hours|momelotinib
+C|aclaramiento|Aclaramiento|103|L/h|Momelotinib clearance is 103 L/h (87%)|momelotinib
+C|heces|Radiactividad excretada en las heces|69|% de la dosis|69% (13% unchanged) of radioactivity was excreted in feces|radiactividad total
+R|Las más frecuentes (20 % o más en algún estudio): trombocitopenia, hemorragia, infección bacteriana, fatiga, mareo, diarrea y náuseas.|most common adverse reactions (≥20% in either study) are thrombocytopenia, hemorrhage, bacterial infection, fatigue, dizziness, diarrhea, and nausea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Riesgo de infecciones|No iniciarlo con una infección activa; vigilar los signos de infección, incluida la reactivación de la hepatitis B.||Do not initiate OJJAARA in patients with an active infection|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar y periódicamente.||Obtain liver tests before initiation of and periodically throughout treatment with OJJAARA|43685-7
+W|Trombocitopenia y neutropenia|Tratarlas reduciendo o interrumpiendo la dosis.||Thrombocytopenia and Neutropenia: Manage by dose reduction or interruption|43685-7
+
+@acalabrutinib|Acalabrutinib|ON|Inhibidor covalente de la tirosina cinasa de Bruton (BTK)|acalabrutinib;Calquence|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con linfoma de células del manto y con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas, según la etiqueta.|In combination with bendamustine and rituximab for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL)
+A|Inhibe la BTK: el acalabrutinib y su metabolito activo ACP-5862 forman un enlace covalente con una cisteína del sitio activo; la BTK interviene en la señalización del receptor de antígeno de los linfocitos B.|Acalabrutinib and its active metabolite, ACP-5862, form a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK enzymatic activity||Tirosina cinasa de Bruton (BTK)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The tablet coating consists of copovidone|
+B|La biodisponibilidad absoluta media es del 25 % y la mediana del tmax de 0,5 horas; una comida grasa no cambia el AUC pero baja la Cmax un 54 %.|The geometric mean absolute bioavailability of acalabrutinib was 25%|
++|B|Con una comida rica en grasas el AUC no cambió, la Cmax bajó un 54 % y el tmax se retrasó 1 a 2 horas.|did not affect the mean AUC as compared to dosing under fasted conditions. Resulting C max decreased by 54% and T max was delayed 1-2 hours|sujetos sanos|con una comida rica en grasas
+D|Se une de forma reversible en un 97,5 % a las proteínas plasmáticas (98,6 % el ACP-5862); el volumen de distribución en estado estacionario es de unos 101 L.|Reversible binding to human plasma protein of acalabrutinib and its active metabolite, ACP-5862, were 97.5% and 98.6%, respectively|sangre
++|D|Volumen de distribución en estado estacionario de unos 101 L.|steady-state volume of distribution (V ss ) of acalabrutinib and its active metabolite, ACP-5862 was approximately 101 (52%) L and 67 (32%) L|||
+M|Se metaboliza sobre todo por enzimas CYP3A y, en menor medida, por conjugación con glutatión e hidrólisis amida; el ACP-5862 es su metabolito activo principal.|Acalabrutinib is predominantly metabolized by CYP3A enzymes, and to a minor extent, by glutathione conjugation and amide hydrolysis|higado
+T|ACP-5862|activo|Acalabrutinib and its active metabolite, ACP-5862, form a covalent bond with a cysteine residue in the BTK active site|Metabolito activo principal en plasma; semivida de 6,4 horas.
+E|Tras 100 mg marcados, el 84 % se recuperó en las heces y el 12 % en la orina (menos del 2 % sin cambios en cada caso).|84% of the dose was recovered in the feces (< 2% unchanged) and 12% of the dose was recovered in the urine (< 2% unchanged)|heces,orina
++|E|La semivida terminal es de 1,4 horas para el acalabrutinib y de 6,4 horas para el ACP-5862.|terminal elimination half-life (t 1/2 ) of acalabrutinib and its active metabolite, ACP-5862, were 1.4 (50%) hours and 6.4 (37%) hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta|25|%|The geometric mean absolute bioavailability of acalabrutinib was 25%|acalabrutinib
+C|tmax|Mediana del tmax|0,5|h|time to peak plasma concentration (T max ) of acalabrutinib and its active metabolite, ACP-5862 were 0.5 (0.2, 3.0) hours|acalabrutinib
+C|union|Unión reversible a proteínas plasmáticas|97,5|%|Reversible binding to human plasma protein of acalabrutinib and its active metabolite, ACP-5862, were 97.5% and 98.6%|acalabrutinib
+C|vd|Volumen de distribución en estado estacionario|101 (aprox.)|L|was approximately 101 (52%) L and 67 (32%) L|acalabrutinib
+C|semivida|Semivida terminal|1,4|h|were 1.4 (50%) hours and 6.4 (37%) hours|acalabrutinib
+C|aclaramiento|Aclaramiento oral aparente|148|L/h|apparent oral clearance (CL/F) of acalabrutinib and its active metabolite, ACP-5862, were 148 (33%) L/hr|acalabrutinib
+C|heces|Dosis recuperada en las heces|84|% de la dosis|84% of the dose was recovered in the feces (< 2% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 100 mg
+R|Las más frecuentes (30 % o más, sin contar laboratorio): infección respiratoria alta, diarrea, cefalea y dolor musculoesquelético.|most common adverse reactions (≥ 30%), excluding laboratory abnormalities, are upper respiratory tract infection, diarrhea, headache, and musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Infecciones graves y oportunistas|Vigilar los signos de infección y tratarla pronto.||Serious and Opportunistic Infections: Monitor for signs and symptoms of infection and treat promptly|43685-7
+W|Hemorragia|Vigilar el sangrado y tratarlo de forma adecuada.||Hemorrhage: Monitor for bleeding and manage appropriately|43685-7
+W|Arritmias cardíacas|Vigilar los síntomas de arritmia y tratarlos.||Cardiac Arrhythmias: Monitor for symptoms of arrhythmias and manage|43685-7
+W|Hepatotoxicidad|Vigilar la función hepática durante todo el tratamiento.|higado|Monitor hepatic function throughout treatment|43685-7
+
+@zanubrutinib|Zanubrutinib|ON|Inhibidor covalente de la tirosina cinasa de Bruton (BTK)|zanubrutinib;Brukinsa|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con linfoma de células del manto, macroglobulinemia de Waldenström, linfoma de la zona marginal, leucemia linfocítica crónica y linfoma folicular, según la etiqueta.|Mantle cell lymphoma (MCL) who have received at least one prior therapy
+A|Inhibe la BTK formando un enlace covalente con una cisteína de su sitio activo; la BTK interviene en la proliferación, el tráfico y la adhesión de los linfocitos B.|Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity||Tirosina cinasa de Bruton (BTK)
+L|Cápsula dura: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The capsule shell contains edible black ink, gelatin, and titanium dioxide|
+B|La mediana del tmax es de 2 horas; con las cápsulas, una comida grasa apenas cambia el AUC (−7 %) y la Cmax (+3 %).|The median t max of zanubrutinib is 2 hours|
++|B|Con las cápsulas y una comida rica en grasas el AUC bajó un 7 % y la Cmax subió un 3 %.|Zanubrutinib AUC decreased 7% and C max increased 3% following administration of BRUKINSA capsules with a high-fat meal|sujetos sanos|con una comida rica en grasas
+D|Se une en alrededor del 94 % a las proteínas plasmáticas; el volumen de distribución aparente es de 537 L.|The plasma protein binding of zanubrutinib is approximately 94% and the blood-to-plasma ratio is 0.7 to 0.8|sangre
++|D|Volumen de distribución aparente de 537 L.|The geometric mean (%CV) apparent volume of distribution (Vz/F) of zanubrutinib is 537 (73%) L|||
+M|Se metaboliza sobre todo por la CYP3A.|Zanubrutinib is primarily metabolized by cytochrome P450(CYP)3A|higado
+E|Tras 320 mg marcados, alrededor del 87 % se recuperó en las heces (38 % sin cambios) y el 8 % en la orina.|approximately 87% of the dose was recovered in feces (38% unchanged) and 8% in urine (less than 1% unchanged)|heces,orina
++|E|La semivida media es de unas 2 a 4 horas tras una dosis de 160 o 320 mg.|The mean half-life (t ½ ) of zanubrutinib is approximately 2 to 4 hours following a single oral zanubrutinib dose of 160 mg or 320 mg|||
+C|tmax|Mediana del tmax|2|h|The median t max of zanubrutinib is 2 hours|zanubrutinib
+C|union|Unión a proteínas plasmáticas|94 (aprox.)|%|The plasma protein binding of zanubrutinib is approximately 94%|zanubrutinib
+C|vd|Volumen de distribución aparente|537|L|apparent volume of distribution (Vz/F) of zanubrutinib is 537 (73%) L|zanubrutinib
+C|semivida|Semivida media|2-4 (aprox.)|h|The mean half-life (t ½ ) of zanubrutinib is approximately 2 to 4 hours|zanubrutinib
+C|aclaramiento|Aclaramiento oral aparente|128|L/h|apparent oral clearance (CL/F) of zanubrutinib is 128 (58%) L/h|zanubrutinib
+C|heces|Dosis recuperada en las heces|87 (aprox.)|% de la dosis|approximately 87% of the dose was recovered in feces (38% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 320 mg
+R|Las más frecuentes (30 % o más, con laboratorio): descenso de neutrófilos y plaquetas, infección respiratoria alta, hemorragia y dolor musculoesquelético.|most common adverse reactions (≥30%), including laboratory abnormalities, are neutrophil count decreased, platelet count decreased, upper respiratory tract infection, hemorrhage, and musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hemorragia|Vigilar el sangrado y tratarlo de forma adecuada.||Hemorrhage : Monitor for bleeding and manage appropriately|43685-7
+W|Infecciones|Vigilar los signos de infección, incluidas las oportunistas.||Monitor patients for signs and symptoms of infection, including opportunistic infections, and treat as needed|43685-7
+W|Arritmias cardíacas|Vigilar los signos de arritmia y tratarlos.||Cardiac Arrhythmias : Monitor for signs and symptoms of arrhythmias and manage appropriately|43685-7
+W|Hepatotoxicidad|Vigilar la función hepática durante todo el tratamiento.|higado|Monitor hepatic function throughout treatment|43685-7

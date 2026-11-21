@@ -1,0 +1,75 @@
+@bisoprolol|Bisoprolol|CV|Betabloqueante selectivo (beta-1)|bisoprolol|doc=bisoprolol-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|Fumarato de bisoprolol|5 mg de fumarato de bisoprolol
+X|Sílice coloidal anhidra; Estearato de magnesio; Crospovidona; Celulosa microcristalina; Almidón de maíz; Hidrógeno fosfato de calcio anhidro; Dióxido de titanio (E 171); Macrogol 400; Dimeticona; Óxido de hierro amarillo (E 172); Hipromelosa
+K|5 mg de fumarato de bisoprolol por comprimido (también hay otras concentraciones), según la ficha técnica
+U|Tratamiento de la hipertensión arterial y de la angina de pecho crónica estable.|Tratamiento de la hipertensión arterial
+A|Es un bloqueante de los receptores beta-1 adrenérgicos altamente selectivo, sin actividad estimuladora ni efecto estabilizador de membrana relevante.|Bisoprolol es un bloqueante de los receptores beta 1 adrenérgicos altamente selectivo, desprovisto de actividad estimuladora y de efecto estabilizador de membrana relevante|corazon,vasos|Receptor beta-1 adrenérgico
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Emconcor 5 mg comprimidos recubiertos con película|
+B|Se absorbe en el tubo digestivo casi en su totalidad (más del 90 %).|Bisoprolol se absorbe en el tracto gastrointestinal casi en su totalidad (>90%)|
++|B|Por el escaso efecto de primer paso en el hígado (menos del 10 %), la biodisponibilidad tras la administración oral es de casi el 90 %.|Dado el escaso efecto de primer paso en el hígado (<10%) alcanza una biodisponibilidad de casi el 90% tras la administración oral|||
+D|El volumen de distribución es de 3,5 L/kg y la unión a proteínas del plasma es de aproximadamente el 30 %.|El volumen de distribución es de 3,5 l/kg. La unión a proteínas plasmáticas es de aproximadamente el 30%|sangre,tejidos
+M|El 50 % se transforma en el hígado en metabolitos inactivos, que se eliminan por los riñones.|El 50% se transforma en el hígado dando lugar a metabolitos inactivos que serán eliminados por los riñones|higado
+T|Metabolitos hepáticos|inactivo|dando lugar a metabolitos inactivos que serán eliminados por los riñones|Inactivos; se eliminan por los riñones.
+E|El otro 50 % se elimina por los riñones de forma inalterada.|El otro 50% se elimina por los riñones de forma inalterada|rinones,orina|original
++|E|La vida media plasmática es de 10-12 horas, lo que da un efecto de 24 horas tras una dosis diaria.|La vida media plasmática es de 10-12 horas|||
++|E|El aclaramiento total es de aproximadamente 15 L/h.|El aclaramiento total es de aproximadamente 15 l/h|||
+C|biodisponibilidad|Biodisponibilidad oral|90 (aprox.)|%|alcanza una biodisponibilidad de casi el 90% tras la administración oral|bisoprolol
+C|union|Unión a proteínas plasmáticas|30 (aprox.)|%|La unión a proteínas plasmáticas es de aproximadamente el 30%|bisoprolol
+C|vd|Volumen de distribución|3,5|L/kg|El volumen de distribución es de 3,5 l/kg|bisoprolol
+C|semivida|Vida media plasmática|10-12|h|La vida media plasmática es de 10-12 horas|bisoprolol
+C|aclaramiento|Aclaramiento total|15 (aprox.)|L/h|El aclaramiento total es de aproximadamente 15 l/h|bisoprolol
+R|Frecuentes: mareo y cefalea.|Frecuentes: mareo*, cefalea*
+R|Poco frecuentes: alteraciones de la conducción auriculoventricular, empeoramiento de la insuficiencia cardíaca y bradicardia.|Poco frecuentes: alteraciones de la conducción AV, empeoramiento de la insuficiencia cardiaca, bradicardia
+W|Interrupción brusca|El tratamiento no debe interrumpirse bruscamente salvo indicación clara, sobre todo en la cardiopatía isquémica.|corazon|La interrupción del tratamiento con bisoprolol no debe hacerse bruscamente a menos que esté claramente indicado
+W|Diabetes con fluctuaciones de la glucemia|Los síntomas de hipoglucemia pueden enmascararse.|sangre|Los síntomas de hipoglucemia (ej. taquicardia, palpitaciones o sudoración) pueden enmascararse
+
+@lorazepam|Lorazepam|SM|Benzodiazepina (ansiolítico)|lorazepam;Orfidal|doc=lorazepam-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Lactosa; Celulosa microcristalina; Amberlita; Estearato de magnesio
+K|1 mg de lorazepam por comprimido, según la ficha técnica
+U|Tratamiento a corto plazo de los estados de ansiedad y tensión, entre otras indicaciones.|Tratamiento a corto plazo de todos los estados de ansiedad y tensión
+A|Es una benzodiazepina con propiedades ansiolíticas, sedantes e hipnóticas; el mecanismo exacto no está dilucidado, pero se supone que actúa por su unión a receptores específicos del sistema nervioso central.|ORFIDAL (lorazepam) es una benzodiazepina con propiedades ansiolíticas, sedantes e hipnóticas|encefalo|Receptores específicos de las benzodiazepinas del sistema nervioso central
++|A|Presumiblemente las benzodiazepinas ejercen sus efectos por su unión a receptores específicos en varios lugares del sistema nervioso central.|Presumiblemente las benzodiazepinas ejercen sus efectos mediante su unión a receptores específicos en varios lugares|||
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Cada comprimido está ranurado en una de sus caras|
+B|Administrado por vía oral, se absorbe con facilidad y casi por completo.|Cuando ORFIDAL se administra oralmente se absorbe con facilidad y casi completamente|
++|B|Las concentraciones plasmáticas máximas se alcanzan a las dos horas de la administración.|Las concentraciones máximas en plasma se alcanzan a las dos horas de su administración|||
+D|A concentraciones clínicamente relevantes, el lorazepam se une en un 90 % a las proteínas del plasma.|A concentraciones clínicamente relevantes, el lorazepam se une en un 90% a las proteínas plasmáticas|sangre
+M|La principal ruta metabólica es la conjugación con ácido glucurónico, que forma el glucurónido inactivo; no se hidroxila de forma significativa ni es sustrato de las enzimas N-dealquilantes del citocromo P450.|La conjugación con el ácido glucurónico para formar el glucurónico inactivo es la principal ruta metabólica del lorazepam|higado
+T|Glucurónido de lorazepam|inactivo|No tiene metabolitos activos|Inactivo; el lorazepam no tiene metabolitos activos.
+E|El 77 % de la dosis se excreta como glucurónido por la orina.|El 77% de la dosis se excreta como glucurónido en la orina|rinones,orina
++|E|La semivida de eliminación del lorazepam no conjugado en plasma humano es de aproximadamente 12-16 horas.|La semivida de eliminación del lorazepam no conjugado en plasma humano es de aproximadamente 12-16 horas|||
+C|tmax|Tiempo hasta las concentraciones máximas|2|h|Las concentraciones máximas en plasma se alcanzan a las dos horas de su administración|lorazepam
+C|union|Unión a proteínas plasmáticas|90|%|el lorazepam se une en un 90% a las proteínas plasmáticas|lorazepam
+C|semivida|Semivida de eliminación del lorazepam no conjugado|12-16 (aprox.)|h|La semivida de eliminación del lorazepam no conjugado en plasma humano es de aproximadamente 12-16 horas|lorazepam
+C|orina|Dosis excretada como glucurónido por la orina|77|% de la dosis|El 77% de la dosis se excreta como glucurónido en la orina|lorazepam
+R|Entre los trastornos del sistema nervioso figuran la sedación y la somnolencia.|Sedación, somnolencia
+R|También se describen ataxia y mareos.|Ataxia, mareos
+W|Uso con opioides|El uso concomitante con opioides puede producir sedación profunda, depresión respiratoria, coma y muerte.|encefalo,pulmones|El uso concomitante de Orfidal 1 mg comprimidos y opioides puede producir sedación profunda, depresión respiratoria, coma y muerte
+
+@simvastatina|Simvastatina|CL|Estatina (inhibidor de la HMG-CoA reductasa)|simvastatin|doc=simvastatina-cima;anadir=1;sufijo=cima;recorrido=propio;familia=solido-oral;vias=oral
+S|-
+X|Butilhidroxianisol (E-320); Ácido ascórbico (E-300); Ácido cítrico monohidrato (E-330); Celulosa microcristalina (E-460); Almidón pregelatinizado; Estearato de magnesio (E-572); Lactosa monohidrato; Hipromelosa (E-464); Hidroxipropilcelulosa (E-463); Dióxido de titanio (E-171); Talco (E-553b); Óxido de hierro amarillo y rojo (E-172) (comprimidos de 10 y 20 mg)
+K|10 y 20 mg de simvastatina por comprimido, según la ficha técnica
+U|Tratamiento de la hipercolesterolemia primaria o de la dislipidemia mixta, como complemento de la dieta.|Tratamiento de la hipercolesterolemia primaria o dislipidemia mixta, como tratamiento complementario a la dieta
+A|Es una lactona inactiva que se hidroliza en el hígado a la forma activa beta-hidroxiácido, un potente inhibidor de la HMG-CoA reductasa.|una lactona inactiva, se hidroliza en el hígado a la correspondiente forma activa|higado|HMG-CoA reductasa
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido de 10 mg de simvastatina: comprimido recubierto con película de color|
+B|Se absorbe bien y sufre una extensa extracción hepática de primer paso.|En el hombre, simvastatina se absorbe bien y sufre una extensa extracción hepática de primer paso|
++|B|La biodisponibilidad del beta-hidroxiácido para la circulación sistémica tras una dosis oral fue inferior al 5 % de la dosis.|la biodisponibilidad del beta-hidroxiácido para la circulación sistémica después de una dosis oral de simvastatina era inferior al 5 % de la dosis|||
++|B|La concentración plasmática máxima de los inhibidores activos se alcanzó 1-2 horas después de la administración.|La concentración plasmática máxima de los inhibidores activos se alcanzó 1 - 2 horas después de la administración de simvastatina|||
++|B|El consumo concomitante de alimentos no afecta a la absorción.|El consumo concomitante de alimentos no afecta a la absorción|||con alimentos
+D|La unión a proteínas de la simvastatina y de su metabolito activo es superior al 95 %.|La unión a proteínas de simvastatina y su metabolito activo es >95 %|sangre,higado
+M|Es una lactona inactiva que se hidroliza rápidamente in vivo al beta-hidroxiácido correspondiente, un potente inhibidor de la HMG-CoA reductasa; es sustrato de la CYP3A4.|Simvastatina es una lactona inactiva que se hidroliza rápidamente in vivo al beta-hidroxiácido correspondiente, un inhibidor potente de la HMG-CoA reductasa|higado
++|M|Es sustrato de la CYP3A4.|Simvastatina es un sustrato de la CYP3A4|||
+T|Beta-hidroxiácido y cuatro metabolitos activos adicionales|activo|Los metabolitos principales de simvastatina presentes en el plasma humano son el beta-hidroxiácido y los cuatro metabolitos activos adicionales|Metabolitos principales del plasma, activos.
+E|Tras una dosis oral radiactiva, el 13 % de la radiactividad salió por la orina y el 60 % por las heces en 96 horas; en las heces hay fármaco absorbido excretado por la bilis y fármaco no absorbido.|Después de una dosis oral de simvastatina radioactiva en el hombre, el 13 % de la radioactividad se excretó en la orina y el 60 % en las heces a lo largo de 96 horas|rinones,orina,heces,bilis
++|E|Tras una inyección intravenosa del metabolito beta-hidroxiácido, su semivida es de un promedio de 1,9 horas.|Después de una inyección intravenosa del metabolito beta-hidroxiácido, su semivida es de un promedio de 1,9 horas|||inyección intravenosa del metabolito
+C|biodisponibilidad|Biodisponibilidad del beta-hidroxiácido|< 5|% de la dosis|era inferior al 5 % de la dosis|beta-hidroxiácido
+C|tmax|Tiempo hasta el pico de los inhibidores activos|1-2|h|La concentración plasmática máxima de los inhibidores activos se alcanzó 1 - 2 horas después de la administración de simvastatina|inhibidores activos
+C|union|Unión a proteínas plasmáticas|> 95|%|La unión a proteínas de simvastatina y su metabolito activo es >95 %|simvastatina y metabolito activo
+C|semivida|Semivida del beta-hidroxiácido|1,9 (promedio)|h|su semivida es de un promedio de 1,9 horas|beta-hidroxiácido||inyección intravenosa del metabolito|otra-via
+C|orina|Radiactividad excretada por la orina en 96 horas|13|% de la dosis|el 13 % de la radioactividad se excretó en la orina|radiactividad total||dosis oral de simvastatina radiactiva
+C|heces|Radiactividad excretada por las heces en 96 horas|60|% de la dosis|el 60 % en las heces a lo largo de 96 horas|radiactividad total||dosis oral de simvastatina radiactiva
+R|La ficha clasifica las frecuencias según los índices de incidencia de ensayos a largo plazo controlados con placebo.|son clasificadas en base a una evaluación de sus índices de incidencia en ensayos clínicos a largo plazo, controlados con placebo
+R|En el estudio HPS solo se registraron los acontecimientos adversos graves, como mialgia y aumentos de las transaminasas séricas y de la CK.|sólo se registraron acontecimientos adversos graves, como mialgia, aumentos en las transaminasas séricas y CK
+W|Miopatía y rabdomiólisis|Como otros inhibidores de la HMG-CoA reductasa, causa ocasionalmente miopatía.|musculos|Simvastatina, como otros inhibidores de la HMG-CoA reductasa, causa ocasionalmente miopatía
+W|Niveles plasmáticos elevados|El riesgo de miopatía aumenta con niveles altos en el plasma de actividad inhibidora de la HMG-CoA reductasa.|musculos,sangre|El riesgo de miopatía aumenta con niveles altos en plasma de actividad inhibidora de la HMG-CoA reductasa

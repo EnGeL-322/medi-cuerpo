@@ -1,0 +1,72 @@
+@vildagliptina|Vildagliptina|MD|Inhibidor de la DPP-4 (antidiabético oral)|vildagliptin|vias=oral;familia=solido-oral
+S|-
+X|Manitol (E421); Hidroxipropilcelulosa tipo EF; Hidroxipropilcelulosa de baja sustitución; Celulosa microcristalina tipo 112; Carboximetilalmidón glicolato sódico tipo A; Sílice coloidal anhidra; Fumarato de estearilo y sodio
+K|50 mg de vildagliptina por comprimido, según la ficha técnica
+U|Mejorar el control de la glucemia en adultos con diabetes mellitus tipo 2, como adyuvante a la dieta y el ejercicio.|Vildagliptina está indicada como un adyuvante a la dieta y el ejercicio para mejorar el control de la glucemia en pacientes adultos con diabetes mellitus tipo 2
+A|Inhibe de forma rápida y completa la actividad de la DPP-4, lo que aumenta los niveles de las hormonas incretinas GLP-1 y GIP, en ayunas y después de comer.|La administración de vildagliptina da lugar a una inhibición rápida y completa de la actividad de la DPP-4|pancreas,sangre|Enzima DPP-4
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido de color blanco a casi blanco o blanco amarillento|
+B|En ayunas se absorbe rápidamente y el pico plasmático se observa a las 1,7 horas; la biodisponibilidad absoluta es del 85 %.|vildagliptina se absorbe rápidamente y se observan concentraciones plasmáticas máximas a las 1,7 horas|
++|B|La comida retrasa el pico a las 2,5 horas, pero no modifica la exposición global (AUC); la Cmax baja un 19 %.|La comida retrasa ligeramente el tiempo para alcanzar la concentración plasmática máxima a las 2,5 horas, pero no modifica la exposición global|||con comida
+D|La unión a proteínas del plasma es baja (9,3 %) y se distribuye de forma equitativa entre el plasma y los eritrocitos.|La unión a proteínas plasmáticas de vildagliptina es baja (9,3%)|sangre
++|D|El volumen de distribución en estado estacionario tras la vía intravenosa es de 71 litros, lo que sugiere una distribución extravascular.|El volumen de distribución medio de vildagliptina en estado estacionario tras la administración intravenosa (Vss) es 71 litros|||dosis intravenosa
+M|El metabolismo es su principal vía de eliminación (69 % de la dosis), sobre todo por hidrólisis, y no depende de las enzimas CYP450 de forma cuantificable; el riñón podría ser un órgano importante en la hidrólisis.|El metabolismo es la principal vía de eliminación de vildagliptina en humanos, afectando a un 69% de la dosis|rinones
+T|LAY 151 (hidrólisis del grupo ciano)|inactivo|El metabolito principal (LAY 151), farmacológicamente inactivo, se obtiene por hidrólisis del grupo ciano y representa un 57% de la dosis|Farmacológicamente inactivo; supone el 57 % de la dosis.
+E|Tras una dosis oral marcada, el 85 % salió por la orina y el 15 % por las heces; la excreción renal de vildagliptina inalterada fue del 23 % de la dosis.|aproximadamente el 85% de la dosis se excretó en la orina y el 15% de la dosis se recuperó en las heces|rinones,orina,heces
++|E|La semivida de eliminación tras la administración oral es de unas 3 horas.|La semivida de eliminación tras la administración oral es de aproximadamente 3 horas|||
+C|tmax|Tiempo hasta el pico plasmático|1,7|h|vildagliptina se absorbe rápidamente y se observan concentraciones plasmáticas máximas a las 1,7 horas|vildagliptina||en ayunas
+C|biodisponibilidad|Biodisponibilidad absoluta|85|%|La biodisponibilidad absoluta es del 85%|vildagliptina
+C|union|Unión a proteínas plasmáticas|9,3|%|La unión a proteínas plasmáticas de vildagliptina es baja (9,3%)|vildagliptina
+C|vd|Volumen de distribución en estado estacionario|71|L|El volumen de distribución medio de vildagliptina en estado estacionario tras la administración intravenosa (Vss) es 71 litros|vildagliptina||dosis intravenosa|otra-via
+C|semivida|Semivida de eliminación tras la dosis oral|3 (aprox.)|h|La semivida de eliminación tras la administración oral es de aproximadamente 3 horas|vildagliptina
+C|orina|Dosis excretada por la orina|85 (aprox.)|% de la dosis|aproximadamente el 85% de la dosis se excretó en la orina|vildagliptina y metabolitos||dosis oral de 14C-vildagliptina
+R|Se ha notificado hipoglucemia en pacientes que recibían vildagliptina junto con sulfonilureas o insulina.|Se ha notificado hipoglucemia en pacientes que recibieron vildagliptina de forma concomitante con sulforilureas e insulina
+R|Se ha notificado riesgo de pancreatitis aguda con su uso.|Se ha notificado riesgo de pancreatitis aguda con el uso de vildagliptina
+W|Insuficiencia hepática|No debe utilizarse en pacientes con insuficiencia hepática, incluidos los que tienen ALT o AST más de 3 veces el límite superior normal antes del tratamiento.|higado|Vildagliptina Krka no debe utilizarse en pacientes con insuficiencia hepática
+W|No sustituye a la insulina|No es un sustituto de la insulina en pacientes que la requieran, ni se usa en diabetes tipo 1 o cetoacidosis diabética.|pancreas,sangre|Vildagliptina Krka no es un sustituto de la insulina en pacientes que requieran insulina
+
+@betahistina|Betahistina|SN|Análogo de la histamina (antivertiginoso)|betahistine;Serc|vias=oral;familia=solido-oral
+S|Dihidrocloruro de betahistina|8mg de dihidrocloruro de betahistina
+X|Celulosa microcristalina; Manitol; Ácido cítrico monohidrato; Sílice coloidal anhidra; Talco; Clorhidrato de L-cisteína monohidrato; Galato de propilo
+K|8 mg de dihidrocloruro de betahistina por comprimido, según la ficha técnica
+U|Tratamiento del síndrome de Menière, definido por la tríada de vértigo (con náuseas y vómitos), pérdida de audición y acúfenos.|Tratamiento del síndrome de Menière, definido por la tríada de síntomas
+A|Su mecanismo es solo parcialmente conocido: actúa como agonista débil del receptor H1 de la histamina y como antagonista del receptor H3, también en el tejido neuronal.|La betahistina actúa como agonista débil del receptor de la histamina H 1 y también como antagonista del receptor de la histamina H 3 también en el tejido neuronal|encefalo,nervios|Receptores H1 y H3 de la histamina
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Comprimido redondo, plano, blanco o blanquecino|
+B|Se absorbe fácilmente y casi por completo en todas las partes del tracto gastrointestinal.|La betahistina administrada por vía oral se absorbe fácilmente y casi completamente en todas las partes del tracto gastrointestinal|
++|B|Las concentraciones de betahistina inalterada alcanzan su máximo 1 hora después de la administración; con alimento la Cmax es menor, aunque la absorción total es similar.|Con alimento la Cmax es menor comparada con el estado de ayuno|||con alimento
+D|El porcentaje de betahistina unido a proteínas del plasma es inferior al 5 %.|El porcentaje de betahistina que se une a proteínas plasmáticas en sangre es inferior al 5 %|sangre
+M|Tras la absorción se metaboliza rápida y casi por completo a ácido 2-piridilacético (2-PAA), que carece de actividad farmacológica.|la betahistina se metaboliza rápidamente y casi completamente en 2-PAA|tejidos
+T|Ácido 2-piridilacético (2-PAA)|inactivo|2-PAA (que no tiene actividad farmacológica)|Sin actividad farmacológica.
+E|El 2-PAA se excreta fácilmente por la orina: se recupera aproximadamente el 85 % de la dosis original.|aproximadamente el 85 % de la dosis original se recupera en la orina|rinones,orina
++|E|La concentración de 2-PAA declina con una semivida de unas 3,5 horas.|declina con una semivida de aproximadamente 3,5 horas|||
+C|tmax|Tiempo hasta el pico de betahistina inalterada|1|h|las concentraciones plasmáticas de la betahistina inalterada alcanzan su máximo en 1 hora después de la administración|betahistina
+C|union|Unión a proteínas plasmáticas|< 5|%|El porcentaje de betahistina que se une a proteínas plasmáticas en sangre es inferior al 5 %|betahistina
+C|semivida|Semivida del metabolito 2-PAA|3,5 (aprox.)|h|declina con una semivida de aproximadamente 3,5 horas|2-PAA
+C|orina|Dosis recuperada en la orina|85 (aprox.)|% de la dosis|aproximadamente el 85 % de la dosis original se recupera en la orina|2-PAA||rango de dosis de 8 a 48 mg
+R|Frecuentes: náuseas y dispepsia.|Frecuentes: náuseas y dispepsia
+R|Frecuente: cefalea.|Frecuentes: cefalea
+W|Asma bronquial y úlcera péptica|Se recomienda vigilar con cuidado a los pacientes con asma bronquial o antecedentes de úlcera péptica.|pulmones,estomago|asma bronquial y/o historia de úlcera péptica
+
+@pramipexol|Pramipexol|SN|Agonista dopaminérgico (antiparkinsoniano)|pramipexole|vias=oral;familia=solido-oral
+S|Dihidrocloruro de pramipexol monohidrato|0.25 mg de dihidrocloruro de pramipexol
+X|Manitol (E-421); Almidón de maíz; Sílice coloidal anhidra; Povidona (E-1201); Estearato de magnesio (E-470b)
+K|0,18 mg de pramipexol base (como dihidrocloruro de pramipexol monohidrato) por comprimido, y otras concentraciones, según la ficha técnica
+U|Tratamiento de los signos y síntomas de la enfermedad de Parkinson idiopática en adultos, sola o con levodopa.|tratamiento de los signos y síntomas de la enfermedad de Parkinson idiopática, solo (sin levodopa) o en combinación con levodopa
+A|Es un agonista dopaminérgico con actividad intrínseca completa que se une con alta selectividad a los receptores de la subfamilia D2 (con afinidad preferente por los D3) y atenúa el déficit motor al estimular los receptores del cuerpo estriado.|Pramipexol es un agonista dopaminérgico con actividad intrínseca completa que se une con alta selectividad y especificidad a los receptores dopaminérgicos de la subfamilia D2|encefalo|Receptores dopaminérgicos D2 y D3
+L|Comprimido: se disgrega en el tubo digestivo y la ficha técnica no declara una liberación modificada.|Los comprimidos son blancos|
+B|La absorción es rápida y completa: la biodisponibilidad absoluta supera el 90 % y las concentraciones máximas en plasma se alcanzan entre 1 y 3 horas.|la absorción de pramipexol es rápida y completa. La biodisponibilidad absoluta es superior al 90% y las concentraciones máximas en plasma se alcanzan entre 1 y 3 horas|
++|B|Con alimentos no se redujo la magnitud de la absorción, pero sí su velocidad.|La administración conjunta con alimentos no redujo la magnitud pero sí la velocidad de absorción|||con alimentos
+D|En el ser humano la unión a proteínas es muy baja (menos del 20 %) y el volumen de distribución es grande (400 litros).|la unión a proteínas de pramipexol es muy baja (< 20%) y el volumen de distribución es grande (400 l)|sangre,tejidos
++|D|En la rata se observaron concentraciones elevadas en el tejido cerebral, unas 8 veces superiores a las del plasma.|En la rata, se observaron elevadas concentraciones en tejido cerebral|rata|
+M|Se metaboliza en el hombre solo en una pequeña proporción.|Pramipexol se metaboliza en el hombre sólo en pequeña proporción|higado
+E|La excreción renal del pramipexol inalterado es la vía principal de eliminación: alrededor del 90 % de una dosis marcada sale por el riñón y menos del 2 % por las heces.|La excreción renal de pramipexol inalterado constituye la vía principal de eliminación|rinones,orina|original
++|E|La semivida de eliminación va de 8 horas en jóvenes a 12 horas en pacientes de edad avanzada.|La semivida de eliminación (t½) oscila entre 8 horas en las personas jóvenes y 12 horas en pacientes de edad avanzada|||
+C|biodisponibilidad|Biodisponibilidad absoluta|> 90|%|La biodisponibilidad absoluta es superior al 90%|pramipexol
+C|tmax|Tiempo hasta el pico plasmático|1-3|h|las concentraciones máximas en plasma se alcanzan entre 1 y 3 horas|pramipexol
+C|union|Unión a proteínas|< 20|%|la unión a proteínas de pramipexol es muy baja (< 20%)|pramipexol
+C|vd|Volumen de distribución|400|L|el volumen de distribución es grande (400 l)|pramipexol
+C|semivida|Semivida de eliminación|8-12|h|La semivida de eliminación (t½) oscila entre 8 horas en las personas jóvenes y 12 horas en pacientes de edad avanzada|pramipexol
+C|orina|Dosis eliminada por el riñón|90 (aprox.)|% de la dosis|Aproximadamente el 90% de la dosis marcada con C 14 se elimina a través del riñón|pramipexol y metabolitos||dosis marcada con 14C
+R|Presentaron al menos una reacción adversa el 63 % de los tratados con pramipexol y el 52 % de los tratados con placebo.|El 63% de los pacientes con pramipexol y el 52% de los pacientes con placebo presentaron como mínimo una reacción adversa
+R|La mayoría de las reacciones adversas comienzan al inicio de la terapia y tienden a desaparecer en el transcurso del tratamiento.|La mayoría de las reacciones adversas normalmente comienzan al inicio de la terapia y tienden a desaparecer en el transcurso del tratamiento
+W|Alucinaciones|Son una reacción adversa conocida del tratamiento con agonistas dopaminérgicos y levodopa.|encefalo|Las alucinaciones constituyen una reacción adversa conocida en el tratamiento con agonistas dopaminérgicos y levodopa
+W|Discinesia|Con levodopa, en la enfermedad de Parkinson avanzada, pueden aparecer discinesias durante el ajuste inicial de pramipexol.|encefalo,musculos|pueden producirse discinesias durante la titulación inicial de la dosis de pramipexol

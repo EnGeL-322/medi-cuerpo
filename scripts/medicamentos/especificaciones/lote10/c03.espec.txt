@@ -1,0 +1,116 @@
+@glasdegib|Glasdegib|ON|Inhibidor de la vía Hedgehog (antagonista de Smoothened)|glasdegib;Daurismo|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento, con citarabina a dosis bajas, de la leucemia mieloide aguda de nuevo diagnóstico en adultos de 75 años o más o que no pueden recibir quimioterapia intensiva.|in combination with low-dose cytarabine, for the treatment of newly-diagnosed acute myeloid leukemia (AML) in adult patients who are ≥75 years old
+A|Se une a Smoothened, una proteína transmembrana de la vía Hedgehog, y la inhibe.|Glasdegib binds to and inhibits Smoothened, a transmembrane protein involved in hedgehog signal transduction||Smoothened (vía Hedgehog)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|round, pale orange film-coated tablet debossed with|
+B|La biodisponibilidad absoluta media es del 77 % y el pico en estado estacionario aparece entre 1,3 y 1,8 horas.|The mean absolute bioavailability of DAURISMO is 77%|
++|B|La mediana del tiempo hasta el pico en estado estacionario va de 1,3 a 1,8 horas.|glasdegib median time to peak concentrations (T max ) at steady state ranged from 1.3 hours to 1.8 hours|||
++|B|Una comida rica en grasas redujo el AUC un 16 % y la Cmax un 31 %.|reduced area under the curve over time to infinity (AUC 0-INF ) by 16% and C max by 31%|||con una comida rica en grasas
+D|In vitro se une en un 91 % a las proteínas plasmáticas; el volumen de distribución aparente es de 188 L.|Glasdegib is 91% bound to human plasma proteins in vitro|sangre
++|D|Volumen de distribución aparente de 188 L en pacientes con neoplasias hematológicas.|The geometric mean (%CV) apparent volume of distribution (V z /F) was 188 L (20%) in patients with hematologic malignancies|pacientes con neoplasias hematológicas|
+M|Se metaboliza sobre todo por la CYP3A4, con contribuciones menores de la CYP2C8 y la UGT1A9.|Glasdegib is primarily metabolized by the CYP3A4 pathway, with minor contributions by CYP2C8 and UGT1A9|higado
+E|Tras 100 mg marcados, el 49 % de la dosis se eliminó en la orina (17 % sin cambios) y el 42 % en las heces (20 % sin cambios).|49% (17% unchanged) of the administered dose was eliminated in the urine and 42% (20% unchanged) of the administered dose was eliminated in the feces|orina,heces
++|E|La semivida media es de 17,4 horas y el aclaramiento aparente, de 6,45 L/h.|Glasdegib has a mean (± SD) half-life of 17.4 h (3.7) and geometric mean (%CV) apparent clearance of 6.45 L/h (25%)|pacientes con neoplasias hematológicas|
+C|biodisponibilidad|Biodisponibilidad absoluta media|77|%|The mean absolute bioavailability of DAURISMO is 77%|glasdegib
+C|tmax|Mediana del tiempo hasta el pico en estado estacionario|1,3-1,8|h|glasdegib median time to peak concentrations (T max ) at steady state ranged from 1.3 hours to 1.8 hours|glasdegib||100 mg una vez al día
+C|union|Unión a proteínas plasmáticas in vitro|91|%|Glasdegib is 91% bound to human plasma proteins in vitro|glasdegib
+C|vd|Volumen de distribución aparente|188|L|apparent volume of distribution (V z /F) was 188 L (20%)|glasdegib|pacientes con neoplasias hematológicas
+C|semivida|Semivida media|17,4|h|Glasdegib has a mean (± SD) half-life of 17.4 h (3.7)|glasdegib|pacientes con neoplasias hematológicas
+C|aclaramiento|Aclaramiento aparente|6,45|L/h|geometric mean (%CV) apparent clearance of 6.45 L/h (25%)|glasdegib|pacientes con neoplasias hematológicas
+C|orina|Dosis eliminada en la orina|49|% de la dosis|49% (17% unchanged) of the administered dose was eliminated in the urine|radiactividad total||dosis oral única marcada de 100 mg
+R|Las más frecuentes (20 % o más): anemia, fatiga, hemorragia, neutropenia febril, dolor musculoesquelético, náuseas, edema, trombocitopenia, disnea y disminución del apetito, entre otras.|Most common adverse reactions (incidence ≥20%) are anemia, fatigue, hemorrhage, febrile neutropenia, musculoskeletal pain, nausea, edema, thrombocytopenia, dyspnea, decreased appetite
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Puede causar la muerte embriofetal o defectos congénitos graves si se toma en el embarazo.||DAURISMO can cause embryo-fetal death or severe birth defects when administered to a pregnant woman|34066-1
+W|Prolongación del QT|Vigilar el electrocardiograma y los electrolitos.||Monitor electrocardiograms (ECGs) and electrolytes|43685-7
+W|Donación de sangre|No donar sangre ni hemoderivados durante el tratamiento ni hasta 30 días después de la última dosis.|sangre|Advise patients not to donate blood or blood products while taking DAURISMO and for at least 30 days after the last dose of DAURISMO|43685-7
+
+@vismodegib|Vismodegib|ON|Inhibidor de la vía Hedgehog (antagonista de Smoothened)|vismodegib;Erivedge|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con carcinoma basocelular metastásico o localmente avanzado que no es candidato a cirugía ni a radioterapia.|ERIVEDGE is indicated for the treatment of adults with metastatic basal cell carcinoma, or with locally advanced basal cell carcinoma that has recurred following surgery
+A|Se une a Smoothened, una proteína transmembrana de la vía Hedgehog, y la inhibe.|Vismodegib binds to and inhibits Smoothened, a transmembrane protein involved in Hedgehog signal transduction||Smoothened (vía Hedgehog)
+L|Cápsula dura: se disgrega en el tubo digestivo.|printed on pink opaque body and|
+B|La biodisponibilidad absoluta tras una dosis es del 32 %; la comida no modifica la Cmax ni el AUC en estado estacionario.|The single dose absolute bioavailability of vismodegib is 32%|
++|B|La Cmax y el AUC en estado estacionario no se ven afectados por la comida.|C max and AUC 0-24hr of vismodegib at steady state are not affected by food|||con comida
+D|Se une en más del 99 % a las proteínas plasmáticas (albúmina y alfa-1 glucoproteína ácida); el volumen de distribución es de 16,4 a 26,6 L.|Vismodegib plasma protein binding in patients is > 99%|sangre
++|D|Volumen de distribución de 16,4 a 26,6 L.|The volume of distribution of vismodegib ranges from 16.4 to 26.6 L|||
+M|Sus vías metabólicas son la oxidación, la glucuronidación y la apertura del anillo de piridina.|Metabolic pathways of vismodegib in humans include oxidation, glucuronidation, and pyridine ring cleavage|
++|M|Los dos metabolitos oxidativos más abundantes en las heces se forman in vitro por la CYP2C9 y la CYP3A.|The two most abundant oxidative metabolites recovered in feces are produced in vitro by recombinant CYP2C9 and CYP3A|||
+E|Se elimina sobre todo por vía hepática: el 82 % de la dosis se recupera en las heces y el 4,4 % en la orina.|Vismodegib and its metabolites are eliminated primarily by the hepatic route with 82% of the administered dose recovered in the feces and 4.4% recovered in urine|heces,orina
++|E|La semivida estimada es de 4 días con dosis diarias continuas y de 12 días tras una dosis única.|The estimated elimination half-life (t 1/2 ) of vismodegib is 4 days after continuous once-daily dosing and 12 days after a single dose|||
+C|biodisponibilidad|Biodisponibilidad absoluta (dosis única)|32|%|The single dose absolute bioavailability of vismodegib is 32%|vismodegib
+C|union|Unión a proteínas plasmáticas|> 99|%|Vismodegib plasma protein binding in patients is > 99%|vismodegib|pacientes
+C|vd|Volumen de distribución|16,4-26,6|L|The volume of distribution of vismodegib ranges from 16.4 to 26.6 L|vismodegib
+C|semivida|Semivida de eliminación con dosis diarias|4|días|The estimated elimination half-life (t 1/2 ) of vismodegib is 4 days after continuous once-daily dosing|vismodegib||dosis diarias continuas
+C|heces|Dosis recuperada en las heces|82|% de la dosis|82% of the administered dose recovered in the feces|vismodegib y metabolitos
+R|Las más frecuentes (10 % o más): espasmos musculares, alopecia, disgeusia, pérdida de peso, fatiga, náuseas, diarrea, disminución del apetito, estreñimiento, artralgias, vómitos y ageusia.|The most common adverse reactions (incidence of ≥ 10%) are muscle spasms, alopecia, dysgeusia, weight loss, fatigue, nausea, diarrhea, decreased appetite, constipation, arthralgias, vomiting, and ageusia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Puede causar la muerte embriofetal o defectos congénitos graves si se toma en el embarazo.||ERIVEDGE can cause embryo-fetal death or severe birth defects when administered to a pregnant woman|34066-1
+W|Donación de sangre|No donar sangre ni hemoderivados durante el tratamiento ni hasta 24 meses después de la última dosis.|sangre|Advise patients not to donate blood or blood products while receiving ERIVEDGE and for 24 months after the final dose of ERIVEDGE|43685-7
+W|Reacciones adversas cutáneas graves|Suspenderlo definitivamente si aparecen.|piel|Severe Cutaneous Adverse Reactions: Permanently discontinue ERIVEDGE in patients with these reactions|43685-7
+
+@sonidegib|Sonidegib|ON|Inhibidor de la vía Hedgehog (antagonista de Smoothened)|sonidegib phosphate;Odomzo|forma=CAPSULE;vias=oral;familia=solido-oral
+S|Difosfato de sonidegib|diphosphate salt of sonidegib
+U|Tratamiento de adultos con carcinoma basocelular localmente avanzado recidivado tras cirugía o radioterapia o que no son candidatos a ellas.|indicated for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) that has recurred following surgery or radiation therapy
+A|Se une a Smoothened, una proteína transmembrana de la vía Hedgehog, y la inhibe.|Sonidegib binds to and inhibits Smoothened, a transmembrane protein involved in Hh signal transduction||Smoothened (vía Hedgehog)
+L|Cápsula dura: se disgrega en el tubo digestivo; se toma con el estómago vacío.|opaque pink colored with|
+B|La mediana del tiempo hasta el pico es de 2 a 4 horas en ayunas; una comida rica en grasas multiplica la exposición por 7,4 a 7,8.|the median time-to-peak concentration (T max ) was 2 to 4 hours|
++|B|Una comida rica en grasas aumentó la exposición (AUC y Cmax) de 7,4 a 7,8 veces.|increased exposure to sonidegib (geometric mean AUC inf and C max ) by 7.4- to 7.8-fold|||con una comida rica en grasas
+D|In vitro se une en más del 97 % a las proteínas plasmáticas; el volumen de distribución aparente en estado estacionario es de 9166 L.|Sonidegib was greater than 97% bound to human plasma proteins in vitro and the binding was concentration independent|sangre
++|D|Volumen de distribución aparente en estado estacionario de 9166 L.|The estimated apparent steady-state volume of distribution (V ss /F) was 9,166 L|||
+M|Se metaboliza sobre todo por la CYP3A.|Sonidegib is primarily metabolized by CYP3A|higado
+E|De la dosis absorbida, alrededor del 70 % se eliminó en las heces y el 30 % en la orina; sin sonidegib inalterado en la orina.|Of the absorbed dose, approximately 70% was eliminated in the feces and 30% was eliminated in the urine|heces,orina
++|E|Se elimina sobre todo por vía hepática.|Sonidegib and its metabolites are eliminated primarily by the hepatic route|||
+C|tmax|Mediana del tiempo hasta el pico|2-4|h|the median time-to-peak concentration (T max ) was 2 to 4 hours|sonidegib|pacientes con cáncer|en ayunas
+C|union|Unión a proteínas plasmáticas in vitro|> 97|%|Sonidegib was greater than 97% bound to human plasma proteins in vitro|sonidegib
+C|vd|Volumen de distribución aparente en estado estacionario|9166|L|The estimated apparent steady-state volume of distribution (V ss /F) was 9,166 L|sonidegib
+C|semivida|Semivida de eliminación estimada|28 (aprox.)|días|The elimination half-life (t 1/2 ) of sonidegib estimated from population pharmacokinetic (PK) modeling was approximately 28 days|sonidegib
+C|heces|Eliminación en las heces (sobre la dosis absorbida)|70 (aprox.)|% de la dosis|Of the absorbed dose, approximately 70% was eliminated in the feces|sonidegib y metabolitos
+R|Las más frecuentes (10 % o más): espasmos musculares, alopecia, disgeusia, fatiga, náuseas, dolor musculoesquelético, diarrea, pérdida de peso, disminución del apetito y mialgia, entre otras.|The most common adverse reactions occurring in ≥10% of patients are muscle spasms, alopecia, dysgeusia, fatigue, nausea, musculoskeletal pain, diarrhea, decreased weight, decreased appetite, myalgia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Toxicidad embriofetal|Puede causar la muerte embriofetal o defectos congénitos graves si se toma en el embarazo.||ODOMZO can cause embryo-fetal death or severe birth defects when administered to a pregnant woman|34066-1
+W|Prueba de embarazo|Comprobar que no hay embarazo antes de empezar en mujeres en edad fértil.||Verify pregnancy status of females of reproductive potential prior to initiating ODOMZO treatment|43685-7
+
+@enasidenib|Enasidenib|ON|Inhibidor de la isocitrato deshidrogenasa 2 mutada (IDH2)|enasidenib mesylate;Idhifa|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con leucemia mieloide aguda recidivante o refractaria con mutación de IDH2.|indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test
+A|Inhibe la enzima IDH2, sobre todo sus variantes mutadas; reduce el 2-hidroxiglutarato e induce la diferenciación mieloide.|Enasidenib is a small molecule inhibitor of the isocitrate dehydrogenase 2 (IDH2) enzyme||IDH2 mutada
++|A|La inhibición de la IDH2 mutada redujo el 2-hidroxiglutarato e indujo diferenciación mieloide in vitro e in vivo.|Inhibition of the mutant IDH2 enzyme by enasidenib led to decreased 2-hydroxyglutarate (2-HG) levels and induced myeloid differentiation in vitro and in vivo|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|Pale yellow to yellow oval-shaped film-coated tablet debossed|
+B|La biodisponibilidad absoluta de 100 mg es de alrededor del 57 % y la mediana del tiempo hasta el pico, de 4 horas.|The absolute bioavailability after 100 mg oral dose of enasidenib is approximately 57%|
++|B|Tras una dosis oral la mediana del tiempo hasta el pico es de 4 horas.|After a single oral dose, the median time to C max (T max ) is 4 hours|||
+D|In vitro se une en un 98,5 % a las proteínas plasmáticas, y su metabolito AGI-16903 en un 96,6 %; el volumen de distribución medio es de 55,8 L.|Human plasma protein binding of enasidenib is 98.5% and of its metabolite AGI-16903 is 96.6% in vitro|sangre
++|D|Volumen de distribución medio de 55,8 L.|The mean volume of distribution (Vd) of enasidenib is 55.8 L (CV% 29)|||
+M|Lo metabolizan varias enzimas del citocromo P450 (entre ellas la CYP3A4) y varias UGT.|Metabolism of enasidenib is mediated by multiple cytochrome P450 (CYP) enzymes (e.g., CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4)|higado
+T|AGI-16903|desconocida|AGI-16903, the N-dealkylated metabolite, represented 10% of the circulating radioactivity|Metabolito N-desalquilado; supone el 10 % de la radiactividad circulante.
+E|El 89 % se elimina en las heces y el 11 % en la orina.|Eighty-nine percent (89%) of enasidenib is eliminated in feces and 11% in the urine|heces,orina
++|E|La semivida terminal es de 7,9 días y el aclaramiento corporal total, de 0,70 L/h.|Enasidenib has a terminal half-life of 7.9 days and a mean total body clearance (CL/F) of 0.70 L/hour (CV% 62.5)|||
+C|biodisponibilidad|Biodisponibilidad absoluta (100 mg)|57 (aprox.)|%|The absolute bioavailability after 100 mg oral dose of enasidenib is approximately 57%|enasidenib
+C|tmax|Mediana del tiempo hasta el pico|4|h|the median time to C max (T max ) is 4 hours|enasidenib
+C|union|Unión a proteínas plasmáticas in vitro|98,5|%|Human plasma protein binding of enasidenib is 98.5%|enasidenib
+C|vd|Volumen de distribución medio|55,8|L|The mean volume of distribution (Vd) of enasidenib is 55.8 L|enasidenib
+C|semivida|Semivida terminal|7,9|días|Enasidenib has a terminal half-life of 7.9 days|enasidenib
+C|aclaramiento|Aclaramiento corporal total|0,70|L/h|a mean total body clearance (CL/F) of 0.70 L/hour|enasidenib
+C|heces|Dosis eliminada en las heces|89|% de la dosis|Eighty-nine percent (89%) of enasidenib is eliminated in feces|radiactividad total
+R|Las más frecuentes (20 % o más): náuseas, vómitos, diarrea, aumento de la bilirrubina y disminución del apetito.|The most common adverse reactions (≥20%) of any grade were nausea, vomiting, diarrhea, elevated bilirubin and decreased appetite
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome de diferenciación|Puede ser mortal si no se trata; ante la sospecha, iniciar corticoides y vigilancia hemodinámica.||Patients treated with IDHIFA have experienced symptoms of differentiation syndrome, which can be fatal if not treated|34066-1
+W|Toxicidad embriofetal|Advertir a las embarazadas del riesgo para el feto.||Advise pregnant women of the potential risk to the fetus|43685-7
+
+@olutasidenib|Olutasidenib|ON|Inhibidor de la isocitrato deshidrogenasa 1 mutada (IDH1)|olutasidenib;Rezlidhia|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de adultos con leucemia mieloide aguda recidivante o refractaria con una mutación sensible de IDH1.|REZLIDHIA is indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible isocitrate dehydrogenase-1 (IDH1) mutation
+A|Inhibe la isocitrato deshidrogenasa 1 mutada, que eleva el 2-hidroxiglutarato en las células leucémicas.|Olutasidenib is a small-molecule inhibitor of mutated isocitrate dehydrogenase-1 (IDH1)||IDH1 mutada
+L|Cápsula: se disgrega en el tubo digestivo; se toma con el estómago vacío.|150 mg opaque white capsules imprinted with|
+B|La mediana del tiempo hasta el pico es de unas 4 horas tras 150 mg; una comida rica en grasas aumenta la Cmax un 191 % y el AUC un 83 %.|The median (min, max) time to maximum concentration (t max ) of olutasidenib is approximately 4 (1, 8) hours following a single oral dose of 150 mg|
++|B|Con una comida rica en grasas la Cmax aumentó un 191 % y el AUC un 83 %.|olutasidenib C max increased by 191% (20.6%) and AUC inf increased by 83% (18.3%) following administration of a single 150 mg dose of olutasidenib with a high-fat meal|||con una comida rica en grasas
+D|Se une en alrededor del 93 % a las proteínas plasmáticas; el volumen de distribución aparente es de 319 L.|The plasma protein binding of olutasidenib is approximately 93%|sangre
++|D|Volumen de distribución aparente de 319 L.|The mean (CV%) apparent volume of distribution of olutasidenib is 319 (28.1%) L|||
+M|Se metaboliza sobre todo (90 %) por la CYP3A4, con contribuciones menores de otras CYP.|Olutasidenib is primarily (90%) metabolized by cytochrome P450(CYP)3A4, with minor contributions from CYP2C8, CYP2C9, CYP1A2, and CYP2C19|higado
+E|Tras 150 mg marcados en sujetos sanos, alrededor del 75 % se recuperó en las heces (35 % sin cambios) y el 17 % en la orina.|approximately 75% of olutasidenib was recovered in feces (35% unchanged) and 17% in the urine (1% unchanged)|heces,orina
++|E|La semivida es de unas 67 horas y el aclaramiento oral aparente, de 4 L/h.|of olutasidenib is approximately 67 (51.2%) hours and the mean (CV%) apparent oral clearance (CL/F) of olutasidenib is 4 (60.5%) L/h|||
+C|tmax|Mediana del tiempo hasta el pico|4 (aprox.)|h|The median (min, max) time to maximum concentration (t max ) of olutasidenib is approximately 4 (1, 8) hours|olutasidenib||dosis única de 150 mg
+C|union|Unión a proteínas plasmáticas|93 (aprox.)|%|The plasma protein binding of olutasidenib is approximately 93%|olutasidenib
+C|vd|Volumen de distribución aparente|319|L|The mean (CV%) apparent volume of distribution of olutasidenib is 319 (28.1%) L|olutasidenib
+C|semivida|Semivida|67 (aprox.)|h|of olutasidenib is approximately 67 (51.2%) hours|olutasidenib
+C|aclaramiento|Aclaramiento oral aparente|4|L/h|apparent oral clearance (CL/F) of olutasidenib is 4 (60.5%) L/h|olutasidenib
+C|heces|Dosis recuperada en las heces|75 (aprox.)|% de la dosis|approximately 75% of olutasidenib was recovered in feces (35% unchanged)|radiactividad total|sujetos sanos|dosis única marcada de 150 mg
+R|Las más frecuentes (20 % o más, con laboratorio): aumento de AST y ALT, descenso de potasio y sodio, aumento de fosfatasa alcalina y náuseas, entre otras.|The most common (≥20%) adverse reactions, including laboratory abnormalities, are aspartate aminotransferase increased, alanine aminotransferase increased, potassium decreased, sodium decreased
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome de diferenciación|Puede ser mortal; ante la sospecha, interrumpirlo e iniciar corticoides y vigilancia hemodinámica.||Differentiation syndrome, which can be fatal, can occur with REZLIDHIA treatment|34066-1
+W|Hepatotoxicidad|Vigilar con frecuencia los síntomas de disfunción hepática, como fatiga, anorexia, molestias en el hipocondrio derecho, orina oscura o ictericia.|higado|Monitor patients frequently for clinical symptoms of hepatic dysfunction such as fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice|43685-7

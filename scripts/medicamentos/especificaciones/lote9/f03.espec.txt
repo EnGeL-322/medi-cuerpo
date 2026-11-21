@@ -1,0 +1,110 @@
+@ivosidenib|Ivosidenib|ON|Inhibidor de la isocitrato deshidrogenasa 1 mutada (IDH1)|ivosidenib;Tibsovo|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de pacientes con una mutación sensible de IDH1: leucemia mieloide aguda, síndromes mielodisplásicos y colangiocarcinoma, según la etiqueta.|TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation
+A|Inhibidor de molécula pequeña dirigido a la enzima IDH1 mutada, cuyas mutaciones sensibles aumentan el 2-hidroxiglutarato en las células leucémicas.|Ivosidenib is a small molecule inhibitor that targets the mutant isocitrate dehydrogenase 1 (IDH1) enzyme||IDH1 mutada
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The tablet coating includes FD&C blue #2, hypromellose, lactose monohydrate, titanium dioxide, and triacetin|
+B|La mediana del tmax es de 2 a 3 horas; una comida grasa multiplica la Cmax por 1,98 y el AUC por 1,24.|Median T max (hr) 2 3 3 2|
++|B|Con una comida rica en grasas la Cmax aumentó 1,98 veces y el AUC 1,24 veces.|C max 1.98-fold (90% CI: 1.79, 2.19) AUC 1.24-fold (90% CI: 1.16, 1.33)|sujetos sanos|con una comida rica en grasas
+D|In vitro se une entre un 92 % y un 96 % a las proteínas; el volumen de distribución aparente en estado estacionario es de unos 400 a 700 L según la enfermedad.|In vitro protein binding 92 to 96%|
+M|Se metaboliza sobre todo por la CYP3A4, con vías menores de N-desalquilación e hidrólisis; más del 92 % de la radiactividad plasmática es ivosidenib.|Metabolic pathways Major CYP3A4 Minor N-dealkylation and hydrolytic pathways|higado
+E|Tras una dosis marcada, el 77 % se recuperó en las heces (67 % sin cambios) y el 17 % en la orina (10 % sin cambios).|Urine 17% (10% as unchanged ivosidenib) Feces 77% (67% as unchanged ivosidenib)|heces,orina
+C|tmax|Mediana del tmax en LMA en recaída|3|h|Median T max (hr) 2 3 3 2|ivosidenib|pacientes con LMA en recaída o refractaria
+C|union|Unión a proteínas in vitro|92-96|%|In vitro protein binding 92 to 96%|ivosidenib
+C|vd|Volumen de distribución aparente en estado estacionario (LMA en recaída)|403|L|Apparent volume of distribution at steady state (L) 504 (22%) 403 (35%) 552 (26%) 706 (45%)|ivosidenib|pacientes con LMA en recaída o refractaria
+C|semivida|Semivida terminal en estado estacionario (LMA en recaída)|58|h|Terminal half-life at steady state (hr) 98 (42%) 58 (42%) 96 (43%) 129 (102%)|ivosidenib|pacientes con LMA en recaída o refractaria
+C|aclaramiento|Aclaramiento aparente en estado estacionario (LMA en recaída)|5,6|L/h|Apparent clearance at steady state (L/hr) 4.6 (35%) 5.6 (35%) 5.1 (35%) 6.1 (31%)|ivosidenib|pacientes con LMA en recaída o refractaria
+C|heces|Dosis recuperada en las heces|77|% de la dosis|Feces 77% (67% as unchanged ivosidenib)|radiactividad total|sujetos sanos
+R|En la LMA, las más frecuentes (25 % o más, con laboratorio): descenso de leucocitos, diarrea, descenso de hemoglobina y plaquetas, aumento de glucosa, fatiga, aumento de fosfatasa alcalina, edema y descenso de potasio, entre otras.|most common adverse reactions including laboratory abnormalities (≥ 25%) in patients with AML are leukocytes decreased, diarrhea, hemoglobin decreased, platelets decreased, glucose increased, fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Síndrome de diferenciación en LMA y SMD|Puede ser mortal; si se sospecha, iniciar corticoides y vigilancia hemodinámica.||Patients treated with TIBSOVO have experienced symptoms of differentiation syndrome, which can be fatal|34066-1
+W|Prolongación del QTc|Vigilar ECG y electrolitos; reducir o interrumpir la dosis si se prolonga el QTc.||QTc Interval Prolongation : Monitor electrocardiograms and electrolytes|43685-7
+W|Síndrome de Guillain-Barré|Vigilar signos motores o sensitivos nuevos y suspender de forma definitiva si se diagnostica.||Monitor patients for signs and symptoms of new motor and/or sensory findings|43685-7
+
+@elacestrant|Elacestrant|ON|Antagonista y degradador del receptor de estrógenos alfa|elacestrant dihydrochloride;Orserdu|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+X|Dióxido de silicio coloidal; Crospovidona; Estearato de magnesio (no bovino); Celulosa microcristalina; Celulosa microcristalina silicificada; Cubierta Opadry II azul: alcohol polivinílico, dióxido de titanio, polietilenglicol, laca azul FD&C n.º 1 y talco
+U|Tratamiento del cáncer de mama avanzado o metastásico RE+, HER2− con mutación de ESR1 en mujeres posmenopáusicas o varones adultos tras hormonoterapia.|ORSERDU is indicated for the treatment of postmenopausal women or adult men with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)‑negative, ESR1 -mutated advanced or metastatic breast cancer
+A|Antagonista del receptor de estrógenos que se une al REα; en células de cáncer de mama RE+ inhibe la proliferación inducida por estradiol a concentraciones que degradan el REα por la vía del proteasoma.|Elacestrant is an estrogen receptor antagonist that binds to estrogen receptor-alpha (ERα)||Receptor de estrógenos alfa (REα)
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; se toma con comida.|The tablets also contain Opadry II Blue|
+B|El tmax está entre 1 y 4 horas y la biodisponibilidad oral es de alrededor del 10 %; una comida grasa aumenta la Cmax un 42 % y el AUC un 22 %.|The time to achieve peak plasma concentration (t max ) ranges from 1 to 4 hours. The elacestrant oral bioavailability is approximately 10%|
++|B|Con una comida rica en grasas la Cmax subió un 42 % y el AUC un 22 %.|increased Cmax by 42% and AUC by 22% compared to fasted administration|||con una comida rica en grasas
+D|Se une en más del 99 % a las proteínas plasmáticas; el volumen de distribución aparente estimado es de 5 800 L.|Plasma protein binding of elacestrant is >99% and independent of concentration|sangre
++|D|Volumen de distribución aparente estimado de 5 800 L.|The estimated apparent volume of distribution is 5,800 L|||
+M|Se metaboliza sobre todo por la CYP3A4 y, en menor medida, por la CYP2A6 y la CYP2C9.|Elacestrant is primarily metabolized by CYP3A4 and to a lesser extent by CYP2A6 and CYP2C9|higado
+E|Tras 345 mg marcados, el 82 % se recuperó en las heces (34 % sin cambios) y el 7,5 % en la orina.|82% was recovered in feces (34% unchanged) and 7.5% was recovered in urine (< 1% unchanged)|heces,orina
++|E|La semivida de eliminación es de 30 a 50 horas; el aclaramiento renal es de 0,14 L/h o menos.|The elimination half-life of elacestrant is 30 to 50 hours|||
+C|biodisponibilidad|Biodisponibilidad oral|10 (aprox.)|%|The elacestrant oral bioavailability is approximately 10%|elacestrant
+C|tmax|Tiempo hasta el pico|1-4|h|The time to achieve peak plasma concentration (t max ) ranges from 1 to 4 hours|elacestrant
+C|union|Unión a proteínas plasmáticas|> 99|%|Plasma protein binding of elacestrant is >99%|elacestrant
+C|vd|Volumen de distribución aparente estimado|5800|L|The estimated apparent volume of distribution is 5,800 L|elacestrant
+C|semivida|Semivida de eliminación|30-50|h|The elimination half-life of elacestrant is 30 to 50 hours|elacestrant
+C|aclaramiento|Aclaramiento medio estimado|186|L/h|The estimated mean (% CV) clearance of elacestrant is 186 L/hr (44%)|elacestrant
+C|heces|Dosis recuperada en las heces|82|% de la dosis|82% was recovered in feces (34% unchanged)|radiactividad total||dosis oral única marcada de 345 mg
+R|Las más frecuentes (más del 10 %, con laboratorio): dolor musculoesquelético, náuseas, aumento de colesterol, AST y triglicéridos, fatiga, descenso de hemoglobina, vómitos y aumento de ALT, entre otras.|most common (>10%) adverse reactions, including laboratory abnormalities, of ORSERDU were musculoskeletal pain, nausea, increased cholesterol, increased AST, increased triglycerides, fatigue
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Dislipidemia|Puede causar hipercolesterolemia e hipertrigliceridemia; vigilar el perfil lipídico.||ORSERDU may cause hypercholesterolemia and hypertriglyceridemia|43685-7
+W|Toxicidad embriofetal|Puede causar daño fetal; usar anticoncepción eficaz.||Embryo-Fetal Toxicity : ORSERDU can cause fetal harm|43685-7
+
+@capivasertib|Capivasertib|ON|Inhibidor de las tres isoformas de AKT|capivasertib;Truqap|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento, con fulvestrant, del cáncer de mama HR+, HER2− avanzado o metastásico con alteraciones de PIK3CA, AKT1 o PTEN, según la etiqueta.|in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive
+A|Inhibe las tres isoformas de la serina/treonina cinasa AKT (AKT1, AKT2 y AKT3) y la fosforilación de sus sustratos.|Capivasertib is an inhibitor of all 3 isoforms of serine/threonine kinase AKT (AKT1, AKT2 and AKT3) and inhibits phosphorylation of downstream AKT substrates||AKT1, AKT2 y AKT3
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|160 mg: beige film-coated, round, biconvex tablets|
+B|El tmax es de 1 a 2 horas y la biodisponibilidad absoluta del 29 %; las comidas no producen diferencias relevantes.|T max is approximately 1-2 hours. The absolute bioavailability is 29%|
+D|Se une en un 78 % a las proteínas plasmáticas; el volumen de distribución oral en estado estacionario es de 1 847 L.|Capivasertib plasma protein binding is 78% and the plasma-to-blood ratio is 0.71|sangre
++|D|Volumen de distribución oral en estado estacionario de 1 847 L.|The steady state oral volume of distribution is 1,847 L (36%)|||
+M|Se metaboliza sobre todo por la CYP3A4 y la UGT2B7.|Capivasertib is primarily metabolized by CYP3A4 and UGT2B7|higado
+E|Tras 400 mg marcados, el 45 % se recuperó en la orina y el 50 % en las heces; el aclaramiento renal es el 21 % del total.|the mean total recovery was 45% from urine and 50% from feces|orina,heces
++|E|La semivida es de 8,3 horas y el aclaramiento oral en estado estacionario de 50 L/h.|The half-life is 8.3 hours, and the steady-state oral clearance is 50 L/h (37% CV)|||
+C|tmax|Tiempo hasta el pico|1-2 (aprox.)|h|T max is approximately 1-2 hours|capivasertib
+C|biodisponibilidad|Biodisponibilidad absoluta|29|%|The absolute bioavailability is 29%|capivasertib
+C|union|Unión a proteínas plasmáticas|78|%|Capivasertib plasma protein binding is 78%|capivasertib
+C|vd|Volumen de distribución oral en estado estacionario|1847|L|The steady state oral volume of distribution is 1,847 L (36%)|capivasertib
+C|semivida|Semivida|8,3|h|The half-life is 8.3 hours|capivasertib
+C|aclaramiento|Aclaramiento oral en estado estacionario|50|L/h|the steady-state oral clearance is 50 L/h (37% CV)|capivasertib
+C|orina|Radiactividad recuperada en la orina|45|% de la dosis|the mean total recovery was 45% from urine and 50% from feces|radiactividad total||dosis oral única marcada de 400 mg
+R|En cáncer de mama HR+/HER2−, las más frecuentes (20 % o más, con laboratorio): diarrea, reacciones cutáneas, aumento de glucosa, descenso de linfocitos y de hemoglobina, entre otras.|HR-positive, HER2-negative breast cancer were diarrhea, cutaneous adverse reactions, increased random glucose, decreased lymphocytes, decreased hemoglobin
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hiperglucemia|Puede causar hiperglucemia grave, incluida cetoacidosis diabética mortal; medir glucosa y HbA1c antes y periódicamente.||TRUQAP can cause severe hyperglycemia, including diabetic ketoacidosis and fatal outcomes|43685-7
+W|Diarrea|Causó diarrea en la mayoría de los pacientes; aumentar los líquidos y empezar antidiarreicos.||TRUQAP caused diarrhea in most patients|43685-7
+W|Reacciones cutáneas|Vigilar los signos y síntomas de reacciones cutáneas.||Cutaneous Adverse Reactions: Monitor for signs and symptoms of cutaneous adverse reactions|43685-7
+
+@fruquintinib|Fruquintinib|ON|Inhibidor de los receptores del VEGF (VEGFR-1, -2 y -3)|fruquintinib;Fruzaqla|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer colorrectal metastásico previamente tratado con quimioterapia y terapias anti-VEGF (y anti-EGFR si procede).|FRUZAQLA is indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) who have been previously treated
+A|Inhibidor de cinasas de los receptores del VEGF 1, 2 y 3; in vitro inhibe la proliferación de células endoteliales y la formación de túbulos mediadas por VEGF.|Fruquintinib is a small molecule kinase inhibitor of vascular endothelial growth factor receptors (VEGFR)-1, -2, and -3||VEGFR-1, -2 y -3
+L|Cápsula dura de gelatina: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The 1 mg capsule shell contains FD&C Yellow No. 5 (tartrazine)|
+B|La mediana del tiempo hasta la Cmax es de unas 2 horas; una comida grasa no produce diferencias clínicamente significativas.|The fruquintinib median (min, max) time to C max is approximately 2 hours (0, 26 hours)|
+D|Se une en alrededor del 95 % a las proteínas plasmáticas; el volumen de distribución aparente es de unos 46 L.|Plasma protein binding of fruquintinib is approximately 95%|sangre
++|D|Volumen de distribución aparente medio de unos 46 L.|The mean (SD) apparent volume of distribution of fruquintinib is approximately 46 (13) L|||
+M|Se elimina sobre todo por metabolismo CYP (CYP3A y, en menor medida, CYP2C8, CYP2C9 y CYP2C19) y no CYP (sulfatación y glucuronidación).|Fruquintinib is primarily eliminated by CYP450 and non-CYP450 (i.e., sulfation and glucuronidation) metabolism|
+E|Tras 5 mg marcados, alrededor del 60 % se recuperó en la orina (0,5 % sin cambios) y el 30 % en las heces (5 % sin cambios).|approximately 60% of the dose was recovered in urine (0.5% unchanged) and 30% of the dose was recovered in feces (5% unchanged)|orina,heces,rinones
++|E|La semivida de eliminación media es de unas 42 horas.|The fruquintinib mean (SD) elimination half-life is approximately 42 (11) hours|||
+C|tmax|Mediana del tiempo hasta la Cmax|2 (aprox.)|h|The fruquintinib median (min, max) time to C max is approximately 2 hours|fruquintinib
+C|union|Unión a proteínas plasmáticas|95 (aprox.)|%|Plasma protein binding of fruquintinib is approximately 95%|fruquintinib
+C|vd|Volumen de distribución aparente medio|46 (aprox.)|L|The mean (SD) apparent volume of distribution of fruquintinib is approximately 46 (13) L|fruquintinib
+C|semivida|Semivida de eliminación media|42 (aprox.)|h|The fruquintinib mean (SD) elimination half-life is approximately 42 (11) hours|fruquintinib
+C|orina|Dosis recuperada en la orina|60 (aprox.)|% de la dosis|approximately 60% of the dose was recovered in urine (0.5% unchanged)|radiactividad total||dosis oral marcada de 5 mg
+R|Las más frecuentes (20 % o más): hipertensión, eritrodisestesia palmoplantar, proteinuria, disfonía, dolor abdominal, diarrea y astenia.|Most common adverse reactions (incidence ≥20%) are hypertension, palmar-plantar erythrodysesthesia, proteinuria, dysphonia, abdominal pain, diarrhea, and asthenia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hipertensión|Controlar la presión antes de empezar y vigilarla durante el tratamiento.||Hypertension: Control blood pressure prior to treatment and monitor during treatment|43685-7
+W|Acontecimientos hemorrágicos|Vigilar de cerca a los pacientes con riesgo de sangrado.||Closely monitor patients who are at risk for bleeding|43685-7
+W|Perforación gastrointestinal|Vigilarla periódicamente y suspender de forma definitiva si aparece.||Periodically monitor for GI perforation|43685-7
+
+@migalastat|Migalastat|MD|Chaperona farmacológica de la alfa-galactosidasa A|migalastat hydrochloride;Galafold|forma=CAPSULE;vias=oral;familia=solido-oral
+S|Clorhidrato de migalastat|123 mg of migalastat
+U|Tratamiento de adultos con enfermedad de Fabry confirmada y una variante del gen GLA susceptible según ensayo in vitro.|GALAFOLD is indicated for the treatment of adults with a confirmed diagnosis of Fabry disease and an amenable galactosidase alpha gene ( GLA ) variant
+A|Chaperona farmacológica que se une de forma reversible al sitio activo de la alfa-galactosidasa A deficiente, la estabiliza y permite su paso al lisosoma, donde se disocia para que la enzima degrade GL-3 y lyso-Gb3.|Migalastat is a pharmacological chaperone that reversibly binds to the active site of the alpha-galactosidase A (alpha-Gal A) protein||Alfa-galactosidasa A (alfa-Gal A)
++|A|La unión estabiliza la alfa-Gal A y permite su tráfico del retículo endoplásmico al lisosoma.|This binding stabilizes alpha-Gal A allowing its trafficking from the endoplasmic reticulum into the lysosome where it exerts its action||
+L|Cápsula dura: se disgrega en el tubo digestivo; se toma en ayunas, en días alternos.|Capsules: 123 mg of migalastat in a size “2” capsule|
+B|Tras 123 mg la biodisponibilidad absoluta es de alrededor del 75 % y el tmax de unas 3 horas; tomarlo cerca de las comidas reduce el AUC un 37 a 42 %.|Following a single GALAFOLD oral dose of 123 mg, the absolute bioavailability (AUC) of migalastat was approximately 75% and the time to peak plasma concentration (t max ) was approximately 3 hours|
++|B|Tomarlo una hora antes o después de una comida redujo el AUC medio entre un 37 % y un 42 %.|reduced the mean migalastat AUC 0‑∞ by 37% to 42% and C max by 15% to 39% compared to the fasting state|||con alimentos
+D|No se detectó unión a proteínas plasmáticas; el volumen de distribución aparente es de unos 89 L en pacientes con Fabry.|There was no detectable plasma protein binding following administration of [ 14 C]‑migalastat in the concentration range between 1 to 100 microM|
++|D|Volumen de distribución aparente de unos 89 L en estado estacionario en pacientes con Fabry.|The apparent volume of distribution (V z /F) of migalastat in Fabry patients was approximately 89 L (range: 77 to 133 L) at steady state|pacientes con Fabry|
+M|Es sustrato de la UDP-glucuronosiltransferasa, una vía de eliminación menor; tres O-glucurónidos suponen alrededor del 13 % de la radiactividad plasmática.|migalastat is a substrate for uridine diphosphate glucuronosyltransferase (UDPGT), a minor elimination pathway|
+E|Tras 123 mg marcados, alrededor del 77 % se recuperó en la orina y el 20 % en las heces; el migalastat inalterado fue el 62 % de la dosis en orina.|approximately 77% of the total radiolabeled dose was recovered in urine and 20% of the total radiolabeled dose was recovered in feces|orina,heces,rinones
++|E|La semivida media es de unas 4 horas y el aclaramiento aparente de 12,5 L/h.|migalastat is cleared from plasma with a mean half‑life (t ½ ) of approximately 4 hours and apparent clearance of 12.5 L/hr|||
+C|biodisponibilidad|Biodisponibilidad absoluta|75 (aprox.)|%|the absolute bioavailability (AUC) of migalastat was approximately 75%|migalastat
+C|tmax|Tiempo hasta el pico|3 (aprox.)|h|the time to peak plasma concentration (t max ) was approximately 3 hours|migalastat
+C|vd|Volumen de distribución aparente|89 (aprox.)|L|The apparent volume of distribution (V z /F) of migalastat in Fabry patients was approximately 89 L|migalastat|pacientes con Fabry
+C|semivida|Semivida media|4 (aprox.)|h|with a mean half‑life (t ½ ) of approximately 4 hours|migalastat
+C|aclaramiento|Aclaramiento aparente|12,5|L/h|apparent clearance of 12.5 L/hr|migalastat
+C|orina|Dosis recuperada en la orina|77 (aprox.)|% de la dosis|approximately 77% of the total radiolabeled dose was recovered in urine|radiactividad total|varones sanos|dosis oral marcada de 123 mg
+R|Las más frecuentes (10 % o más): cefalea, nasofaringitis, infección urinaria, náuseas y fiebre.|Most common adverse drug reactions ≥ 10% are: headache, nasopharyngitis, urinary tract infection, nausea, and pyrexia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions

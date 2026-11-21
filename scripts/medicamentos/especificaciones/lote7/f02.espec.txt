@@ -1,0 +1,118 @@
+@tucatinib|Tucatinib|ON|Inhibidor de la tirosina cinasa HER2|tucatinib;Tukysa|forma=TABLET;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de mama HER2-positivo irresecable o metastásico y del cáncer colorrectal RAS natural HER2-positivo, en combinación según la etiqueta.|in combination with trastuzumab and pertuzumab for the maintenance treatment of adult patients with unresectable locally advanced or metastatic HER2-positive breast cancer
+A|Inhibidor de la tirosina cinasa de HER2: in vitro inhibe la fosforilación de HER2 y HER3 y las vías MAPK y AKT, y frena la proliferación celular.|Tucatinib is a tyrosine kinase inhibitor of HER2||Tirosina cinasa HER2
++|A|In vitro inhibe la fosforilación de HER2 y HER3 y la señalización MAPK y AKT posterior.|tucatinib inhibits phosphorylation of HER2 and HER3, resulting in inhibition of downstream MAPK and AKT signaling and cell proliferation||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|50 mg: round, yellow, film-coated|
+B|La mediana del tiempo hasta el pico es de unas 2 horas; una comida grasa aumentó el AUC 1,5 veces sin cambiar la Cmax, sin relevancia clínica.|The median time to peak plasma concentration of tucatinib was approximately 2 hours (range 1 to 4 hours)|
++|B|Con una comida rica en grasas el AUC aumentó 1,5 veces y el tmax pasó de 1,5 a 4 horas; la Cmax no cambió.|the mean AUC 0-INF increased by 1.5-fold, the T max shifted from 1.5 hours to 4 hours, and C max was unaltered|||con una comida rica en grasas
+D|La unión a proteínas plasmáticas es del 97,1 %; en estado estacionario las concentraciones en el líquido cefalorraquídeo son comparables a las plasmáticas libres.|The plasma protein binding was 97.1% at clinically relevant concentrations|sangre
++|D|Volumen de distribución aparente de 903 L en cáncer de mama metastásico.|The geometric mean (CV%) apparent volume of distribution of tucatinib at steady-state were 903 (42) L and 829 (21) L in patients with mBC and mCRC|pacientes con cáncer|
+M|Se metaboliza sobre todo por la CYP2C8 y, en menor medida, por la CYP3A.|Tucatinib is metabolized primarily by CYP2C8 and to a lesser extent via CYP3A|higado
+E|Tras 300 mg marcados, alrededor del 86 % se recuperó en las heces (16 % sin cambios) y el 4,1 % en la orina.|approximately 86% of the total radiolabeled dose was recovered in feces (16% of the administered dose as unchanged tucatinib) and 4.1% in urine|heces,orina
++|E|En estado estacionario la semivida efectiva es de unas 11,9 horas en cáncer de mama metastásico.|At steady-state, tucatinib effective half-life was approximately 11.9 hours and geometric mean (CV%) apparent clearance was 53 (43) L/h in patients with mBC|pacientes con cáncer de mama|
+C|tmax|Mediana del tiempo hasta el pico|2 (aprox.)|h|The median time to peak plasma concentration of tucatinib was approximately 2 hours (range 1 to 4 hours)|tucatinib
+C|union|Unión a proteínas plasmáticas|97,1|%|The plasma protein binding was 97.1% at clinically relevant concentrations|tucatinib
+C|vd|Volumen de distribución aparente en estado estacionario|903|L|apparent volume of distribution of tucatinib at steady-state were 903 (42) L and 829 (21) L in patients with mBC and mCRC|tucatinib|pacientes con cáncer de mama metastásico
+C|semivida|Semivida efectiva en estado estacionario|11,9 (aprox.)|h|At steady-state, tucatinib effective half-life was approximately 11.9 hours|tucatinib|pacientes con cáncer de mama metastásico
+C|aclaramiento|Aclaramiento aparente|53|L/h|geometric mean (CV%) apparent clearance was 53 (43) L/h in patients with mBC|tucatinib|pacientes con cáncer de mama metastásico
+C|heces|Radiactividad recuperada en las heces|86 (aprox.)|% de la dosis|approximately 86% of the total radiolabeled dose was recovered in feces|radiactividad total||dosis oral única marcada de 300 mg
+R|Las más frecuentes (20 % o más) con trastuzumab y pertuzumab: diarrea, dolor musculoesquelético, hepatotoxicidad, náuseas, fatiga, exantema y vómitos.|are diarrhea, musculoskeletal pain, hepatotoxicity, nausea, fatigue, rash, and vomiting
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Puede causar hepatotoxicidad grave y mortal, sobre todo al reintroducirlo; hacer pruebas hepáticas antes y durante el tratamiento.||TUKYSA can cause severe and fatal hepatotoxicity, particularly after rechallenge|34066-1
+W|Diarrea|Puede causar diarrea grave con deshidratación, hipotensión, lesión renal aguda y muerte.||TUKYSA can cause severe diarrhea, including dehydration, hypotension, acute kidney injury, and death|43685-7
+W|Aumento de la creatinina sérica sin afectar la función renal|Puede subir la creatinina; usar otras medidas para valorar la función renal.|rinones|Use alternative measures that are not based on serum creatinine to assess renal function|43685-7
+
+@cabozantinib|Cabozantinib|ON|Inhibidor multicinasa (MET, VEGFR, AXL, RET)|cabozantinib s-malate;Cabometyx|forma=TABLET;vias=oral;familia=solido-oral
+S|(S)-Malato de cabozantinib|CABOMETYX is the ( S )-malate salt of cabozantinib
+U|Tratamiento del carcinoma de células renales avanzado y de otros tumores sólidos que recoge la etiqueta.|CABOMETYX is a kinase inhibitor indicated for the treatment of patients with advanced renal cell carcinoma (RCC)
+A|Inhibe la actividad tirosina cinasa de MET, VEGFR-1, -2 y -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 y TIE-2, implicados en la oncogénesis, la metástasis y la angiogénesis tumoral.|cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2||MET, VEGFR, AXL, RET
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|60 mg: yellow film-coated, oval shaped with no score|
+B|La mediana del tmax es de 3 a 4 horas; con una cápsula, una comida grasa aumentó la Cmax un 41 % y el AUC un 57 %.|Median time to peak cabozantinib concentrations (T max ) ranged from 3 to 4 hours post-dose|
++|B|Con una formulación en cápsula, una comida rica en grasas aumentó la Cmax un 41 % y el AUC un 57 %.|Cabozantinib C max and AUC increased by 41% and 57%, respectively, following a high-fat meal relative to fasted conditions|sujetos sanos|con una comida rica en grasas
+D|Se une en un 99,7 % o más a las proteínas del plasma humano; el volumen de distribución oral es de unos 319 L.|Cabozantinib is highly protein bound in human plasma (≥99.7%)|sangre
++|D|Volumen de distribución oral de unos 319 L.|The oral volume of distribution (V z /F) of cabozantinib is approximately 319 L|||
+M|Es sustrato de la CYP3A4 in vitro.|Cabozantinib is a substrate of CYP3A4 in vitro|higado
+E|Tras una dosis marcada se recuperó el 81 % en 48 días: el 54 % en las heces y el 27 % en la orina.|Approximately 54% was recovered in feces and 27% in urine|heces,orina
++|E|La semivida terminal prevista es de unas 99 horas y el aclaramiento de 2,2 L/h.|The predicted terminal half-life is approximately 99 hours and the clearance (CL/F) at steady-state is estimated to be 2.2 L/hr|||
+C|tmax|Mediana del tmax|3-4|h|Median time to peak cabozantinib concentrations (T max ) ranged from 3 to 4 hours post-dose|cabozantinib
+C|union|Unión a proteínas plasmáticas|≥ 99,7|%|Cabozantinib is highly protein bound in human plasma (≥99.7%)|cabozantinib
+C|vd|Volumen de distribución oral|319 (aprox.)|L|The oral volume of distribution (V z /F) of cabozantinib is approximately 319 L|cabozantinib
+C|semivida|Semivida terminal prevista|99 (aprox.)|h|The predicted terminal half-life is approximately 99 hours|cabozantinib
+C|aclaramiento|Aclaramiento en estado estacionario|2,2|L/h|the clearance (CL/F) at steady-state is estimated to be 2.2 L/hr|cabozantinib
+C|heces|Radiactividad recuperada en las heces|54 (aprox.)|% de la dosis|Approximately 54% was recovered in feces and 27% in urine|radiactividad total|sujetos sanos
+R|Con nivolumab, las más frecuentes (20 % o más): diarrea, fatiga, hepatotoxicidad, eritrodisestesia palmoplantar, estomatitis, exantema, hipertensión, hipotiroidismo y dolor musculoesquelético, entre otras.|most common adverse reactions reported in ≥20% of patients treated with CABOMETYX and nivolumab were diarrhea, fatigue, hepatotoxicity, PPE, stomatitis, rash, hypertension, hypothyroidism, musculoskeletal pain
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hemorragia|No administrarlo si hay antecedentes recientes de hemorragia.||Hemorrhage: Do not administer CABOMETYX if recent history of hemorrhage|43685-7
+W|Perforaciones y fístulas|Vigilar los síntomas; suspender ante una fístula o perforación de grado 4.||Discontinue CABOMETYX for Grade 4 fistula or perforation|43685-7
+W|Hipertensión y crisis hipertensiva|Vigilar la presión arterial con regularidad; suspender en una crisis hipertensiva.||Monitor blood pressure regularly|43685-7
+W|Insuficiencia cardíaca|Vigilar los signos y síntomas de insuficiencia cardíaca durante el tratamiento.|corazon|Cardiac Failure: Monitor patients for signs and symptoms of cardiac failure throughout treatment|43685-7
+
+@lenvatinib|Lenvatinib|ON|Inhibidor multicinasa (VEGFR1-3, FGFR1-4, PDGFRα, KIT, RET)|lenvatinib mesylate;Lenvima|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer diferenciado de tiroides refractario al yodo radiactivo y de otros tumores que recoge la etiqueta (renal, hepatocelular, endometrial).|For the treatment of adult patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer (DTC)
+A|Inhibe las cinasas de los receptores del VEGF (VEGFR1, VEGFR2 y VEGFR3) y otras implicadas en la angiogénesis y el crecimiento tumoral, como FGFR1-4, PDGFRα, KIT y RET.|Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4)||VEGFR1-3 y FGFR1-4
+L|Cápsula dura: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|Capsules: 4 mg: yellowish-red body and yellowish-red cap|
+B|El tmax suele estar entre 1 y 4 horas; una comida grasa no cambia la magnitud de la absorción, pero retrasa el tmax de 2 a 4 horas.|The time to peak plasma concentration (T max ) typically occurred from 1 to 4 hours post-dose|
++|B|Una comida rica en grasas no cambió la magnitud de la absorción, pero retrasó la mediana del tmax de 2 a 4 horas.|did not affect the extent of absorption, but decreased the rate of absorption and delayed the median T max from 2 hours to 4 hours|||con una comida rica en grasas
+D|Se une en un 97 a 99 % a las proteínas, sin depender de la concentración; el volumen de distribución en estado estacionario es de 97 L.|Protein binding of lenvatinib is 97% to 99%, which is independent of concentration, and is not impacted by hepatic or renal function|
++|D|Volumen de distribución en estado estacionario predicho por el modelo de 97 L.|Model-predicted geometric mean steady state volume of distribution is 97 L|||
+M|Sus vías metabólicas principales son enzimáticas (CYP3A y aldehído oxidasa) y no enzimáticas.|The main metabolic pathways for lenvatinib in humans were identified as enzymatic (CYP3A and aldehyde oxidase) and non-enzymatic processes|higado
+E|Diez días después de una dosis marcada se había eliminado alrededor del 64 % en las heces y el 25 % en la orina.|Ten days after a single administration of radiolabeled lenvatinib, approximately 64% and 25% of the radiolabel were eliminated in the feces and urine, respectively|heces,orina
++|E|La semivida de eliminación terminal es de unas 28 horas.|The terminal elimination half-life of lenvatinib was approximately 28 hours|||
+C|tmax|Tiempo hasta el pico|1-4|h|The time to peak plasma concentration (T max ) typically occurred from 1 to 4 hours post-dose|lenvatinib
+C|union|Unión a proteínas|97-99|%|Protein binding of lenvatinib is 97% to 99%|lenvatinib
+C|vd|Volumen de distribución en estado estacionario|97|L|Model-predicted geometric mean steady state volume of distribution is 97 L|lenvatinib
+C|semivida|Semivida de eliminación terminal|28 (aprox.)|h|The terminal elimination half-life of lenvatinib was approximately 28 hours|lenvatinib
+C|heces|Radiactividad eliminada en las heces en 10 días|64 (aprox.)|% de la dosis|approximately 64% and 25% of the radiolabel were eliminated in the feces and urine|radiactividad total
+R|En monoterapia para cáncer de tiroides (30 % o más): hipertensión, fatiga, diarrea, artralgia o mialgia, disminución del apetito y del peso, náuseas, estomatitis y cefalea, entre otras.|LENVIMA as single agent DTC (incidence ≥30%) hypertension, fatigue, diarrhea, arthralgia/myalgia, decreased appetite, decreased weight, nausea, stomatitis, headache
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hipertensión|Controlar la presión antes de empezar y vigilarla durante el tratamiento.||Control blood pressure prior to treatment and monitor during treatment|43685-7
+W|Disfunción cardíaca|Valorar la fracción de eyección basal y vigilar los signos de insuficiencia cardíaca.|corazon|Monitor for symptoms or signs of heart failure and, if present, assess LVEF|43685-7
+W|Hepatotoxicidad|Vigilar la función hepática antes y durante el tratamiento.|higado|Monitor liver function prior to treatment and periodically during treatment|43685-7
+W|Insuficiencia o alteración renal|Interrumpir o suspender ante una insuficiencia renal de grado 3 o 4.|rinones|Withhold or discontinue for Grade 3 or 4 renal failure or impairment|43685-7
+
+@regorafenib|Regorafenib|ON|Inhibidor multicinasa (VEGFR, TIE2, KIT, RET, RAF)|regorafenib;Stivarga|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+S|-
+U|Tratamiento del cáncer colorrectal metastásico, del tumor del estroma gastrointestinal y del carcinoma hepatocelular previamente tratados.|STIVARGA is a kinase inhibitor indicated for the treatment of adult patients with: • Metastatic colorectal cancer (CRC) who have been previously treated
+A|Inhibe múltiples cinasas de membrana e intracelulares implicadas en la oncogénesis, la angiogénesis tumoral, la metástasis y la inmunidad tumoral; también lo hacen sus metabolitos activos M-2 y M-5.|Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, metastasis and tumor immunity||VEGFR, TIE2, KIT, RET, RAF
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo y la etiqueta no declara una liberación modificada.|The mean relative bioavailability of tablets compared to an oral solution is 69% to 83%|
+B|Tras 160 mg alcanza el pico a una mediana de 4 horas; la biodisponibilidad relativa frente a solución oral es del 69 al 83 % y una comida grasa aumenta el AUC un 48 %.|regorafenib reaches a geometric mean peak plasma level (C max ) of 2.5 µg/mL at a median time of 4 hours|
++|B|Una comida rica en grasas aumentó el AUC medio un 48 %.|A high-fat meal (945 calories and 54.6 g fat) increased the mean AUC of regorafenib by 48%|varones sanos|con una comida rica en grasas
+D|Se une en un 99,5 % a las proteínas del plasma humano y sufre circulación enterohepática, con varios picos plasmáticos en 24 horas.|Regorafenib is highly bound (99.5%) to human plasma proteins|sangre
++|D|Sufre circulación enterohepática, con varios picos de concentración a lo largo del intervalo de 24 horas.|Regorafenib undergoes enterohepatic circulation with multiple plasma concentration peaks observed across the 24-hour dosing interval|higado|
+M|Se metaboliza por la CYP3A4 y la UGT1A9; M-2 y M-5 son metabolitos activos.|Regorafenib is metabolized by CYP3A4 and UGT1A9|higado
+T|M-2 y M-5|activo|regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT|Metabolitos activos principales; la semivida de M-5 es de unas 51 horas.
+E|Alrededor del 71 % de una dosis marcada se excretó en las heces y el 19 % en la orina (17 % como glucurónidos) en 12 días.|Approximately 71% of a radiolabeled dose was excreted in feces (47% as parent compound, 24% as metabolites) and 19% of the dose was excreted in urine (17% as glucuronides)|heces,orina
++|E|La semivida de eliminación del regorafenib es de 28 horas.|the geometric mean (minimum to maximum) elimination half-lives for regorafenib and the M-2 metabolite in plasma are 28 hours (14 to 58 hours) and 25 hours (14 to 32 hours)|||
+C|tmax|Mediana del tiempo hasta el pico|4|h|regorafenib reaches a geometric mean peak plasma level (C max ) of 2.5 µg/mL at a median time of 4 hours|regorafenib|pacientes con tumores sólidos
+C|biodisponibilidad|Biodisponibilidad relativa frente a solución oral|69-83|%|The mean relative bioavailability of tablets compared to an oral solution is 69% to 83%|regorafenib
+C|union|Unión a proteínas plasmáticas|99,5|%|Regorafenib is highly bound (99.5%) to human plasma proteins|regorafenib
+C|semivida|Semivida de eliminación|28|h|elimination half-lives for regorafenib and the M-2 metabolite in plasma are 28 hours (14 to 58 hours)|regorafenib
+C|heces|Dosis excretada en las heces|71 (aprox.)|% de la dosis|Approximately 71% of a radiolabeled dose was excreted in feces|regorafenib y metabolitos||solución oral marcada|otra-presentacion
+R|Las más frecuentes (20 % o más): dolor, síndrome mano-pie, astenia o fatiga, diarrea, disminución del apetito, hipertensión, infección, disfonía, hiperbilirrubinemia, fiebre, mucositis, pérdida de peso, exantema y náuseas.|most common adverse reactions (≥20%) are pain (including gastrointestinal and abdominal pain), HFSR, asthenia/fatigue, diarrhea, decreased appetite/food intake, hypertension, infection, dysphonia
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Se ha producido hepatotoxicidad grave y a veces mortal; vigilar la función hepática antes y durante el tratamiento.|higado|Monitor hepatic function prior to and during treatment|34066-1
+W|Hemorragia|Suspender de forma definitiva ante una hemorragia grave o potencialmente mortal.||Permanently discontinue STIVARGA for severe or life-threatening hemorrhage|43685-7
+W|Isquemia e infarto cardíacos|Interrumpir ante una isquemia o un infarto cardíaco nuevo o agudo.|corazon|Withhold STIVARGA for new or acute cardiac ischemia/infarction|43685-7
+
+@vandetanib|Vandetanib|ON|Inhibidor multicinasa (RET, VEGFR, EGFR)|vandetanib;Caprelsa|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer medular de tiroides sintomático o progresivo, irresecable, localmente avanzado o metastásico.|CAPRELSA is a kinase inhibitor indicated for the treatment of symptomatic or progressive medullary thyroid cancer
+A|Inhibe la actividad tirosina cinasa de las familias EGFR y VEGFR, RET, BRK, TIE2 y miembros de las familias EPH y Src; su metabolito N-desmetilado tiene una actividad similar.|vandetanib inhibits the tyrosine kinase activity of the EGFR and VEGFR families, RET, BRK, TIE2, and members of the EPH receptor and Src kinase families||RET, VEGFR y EGFR
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; la absorción es lenta.|Following oral administration of CAPRELSA, absorption is slow|
+B|Se absorbe despacio: el pico aparece a una mediana de 6 horas y los alimentos no afectan la exposición.|absorption is slow with peak plasma concentrations typically achieved at a median of 6 hours, range 4 to 10 hours, after dosing|
++|B|La exposición no se ve afectada por los alimentos.|Exposure to vandetanib is unaffected by food|||con alimentos
+D|Se une a la albúmina sérica y a la alfa-1-glucoproteína ácida (alrededor del 90 % in vitro); el volumen de distribución medio es de unos 7 450 L.|Vandetanib binds to human serum albumin and α1-acid-glycoprotein with in vitro protein binding being approximately 90%|
++|D|Volumen de distribución medio de unos 7 450 L y semivida plasmática mediana de 19 días.|a mean volume of distribution of approximately 7450 L, and a median plasma half-life of 19 days|pacientes con cáncer medular de tiroides|
+M|La CYP3A4 produce N-desmetil-vandetanib y las FMO1 y FMO3 producen el N-óxido.|N-desmethyl-vandetanib is primarily produced by CYP3A4 and vandetanib-N-oxide by flavin-containing monooxygenase enzymes FMO1 and FMO3|higado
+T|N-desmetil-vandetanib|activo|the N-desmethyl metabolite of the drug, representing 7 to 17.1% of vandetanib exposure, has similar inhibitory activity to the parent compound|Metabolito con actividad inhibidora similar sobre VEGFR y EGFR.
+E|En 21 días se recuperó alrededor del 69 % de una dosis marcada: el 44 % en las heces y el 25 % en la orina; la excreción es lenta.|approximately 69% was recovered with 44% in feces and 25% in urine|heces,orina
+C|tmax|Mediana del tiempo hasta el pico|6|h|peak plasma concentrations typically achieved at a median of 6 hours, range 4 to 10 hours|vandetanib
+C|union|Unión a proteínas in vitro|90 (aprox.)|%|in vitro protein binding being approximately 90%|vandetanib
+C|vd|Volumen de distribución medio|7450 (aprox.)|L|a mean volume of distribution of approximately 7450 L|vandetanib|pacientes con cáncer medular de tiroides
+C|semivida|Semivida plasmática mediana|19|d|a median plasma half-life of 19 days|vandetanib|pacientes con cáncer medular de tiroides
+C|aclaramiento|Aclaramiento medio|13,2 (aprox.)|L/h|a mean clearance of approximately 13.2 L/h|vandetanib|pacientes con cáncer medular de tiroides
+C|heces|Dosis recuperada en las heces en 21 días|44|% de la dosis|approximately 69% was recovered with 44% in feces and 25% in urine|radiactividad total
+R|Las más frecuentes (más del 20 % y 5 % más que con placebo): diarrea o colitis, exantema, dermatitis acneiforme, hipertensión, náuseas, cefalea, infecciones respiratorias altas y disminución del apetito.|The most common adverse drug reactions (>20%) seen with CAPRELSA and with a between-arm difference of ≥5 % have been diarrhea/colitis, rash, acneiform dermatitis, hypertension, nausea, headache
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Prolongación del QT, torsades de pointes y muerte súbita|Puede prolongar el QT; se han producido torsades de pointes y muerte súbita.||Torsades de pointes and sudden death have occurred in patients receiving CAPRELSA|34066-1
+W|Reacciones cutáneas graves|Incluyen necrólisis epidérmica tóxica y síndrome de Stevens-Johnson, algunas mortales.|piel|Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome, some fatal|43685-7
+W|Enfermedad pulmonar intersticial|Incluye casos mortales; investigar los síntomas respiratorios inexplicados.||Interstitial lung disease (ILD), including fatalities: investigate unexplained non-specific respiratory signs and symptoms|43685-7

@@ -1,0 +1,122 @@
+@vorasidenib|Vorasidenib|ON|Inhibidor de las isocitrato deshidrogenasas 1 y 2 (IDH1 e IDH2)|vorasidenib;Voranigo|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento del astrocitoma u oligodendroglioma de grado 2 con mutación sensible de IDH1 o IDH2 tras la cirugía, desde los 12 años.|for the treatment of adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible isocitrate dehydrogenase-1 (IDH1) or isocitrate dehydrogenase-2 (IDH2) mutation
+A|Inhibe las enzimas IDH1 e IDH2, naturales y mutadas; en modelos tumorales con IDH mutada reduce el 2-hidroxiglutarato.|Vorasidenib is a small molecule inhibitor that targets isocitrate dehydrogenase-1 and 2 (IDH1 and IDH2) enzymes||IDH1 e IDH2
++|A|En modelos tumorales con IDH1 o IDH2 mutadas redujo la producción de 2-hidroxiglutarato.|vorasidenib decreased production of 2-hydroxyglutarate (2-HG)|||
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo; se toma con el estómago vacío.|White to off-white, round film-coated tablet imprinted with|
+B|La biodisponibilidad absoluta media es del 34 % y el pico aparece hacia las 2 horas; la comida aumenta la exposición.|The mean absolute bioavailability of vorasidenib is 34%|
++|B|La mediana del tiempo hasta el pico en estado estacionario es de 2 horas.|The median (minimum, maximum) time to maximum plasma concentrations (t max ) at steady state is 2 hours (0.5 to 4 hours)|||
++|B|Una comida rica en grasas multiplicó la Cmax por 3,1 y el AUC por 1,4.|meal increased vorasidenib C max 3.1-fold and AUC 1.4-fold, compared to the fasting conditions|||con una comida rica en grasas
+D|In vitro se une en un 97 % a las proteínas del plasma humano; el volumen de distribución en estado estacionario es de 3930 L.|The protein binding is 97% in human plasma independent of vorasidenib concentrations in vitro|sangre
++|D|Volumen de distribución en estado estacionario de 3930 L.|The mean (CV%) volume of distribution at steady state of vorasidenib is 3,930 L (40%)|||
+M|Se metaboliza sobre todo por la CYP1A2, con contribuciones menores de otras CYP; las vías no CYP pueden aportar hasta un 30 %.|Vorasidenib is primarily metabolized by CYP1A2 with minor contributions from CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A|
++|M|Las vías no dependientes del CYP pueden aportar hasta un 30 % de su metabolismo.|Non-CYP pathways may contribute up to 30% of its metabolism|||
+E|Tras una dosis marcada, el 85 % se recuperó en las heces (56 % sin cambios) y el 4,5 % en la orina.|85% of the dose was recovered in feces (56% unchanged) and 4.5% was recovered in urine|heces,orina
++|E|La semivida terminal en estado estacionario es de 10 días y el aclaramiento oral, de 14 L/h.|The mean (CV%) steady state terminal half-life is 10 days (57%) and oral clearance is 14 L/h (56%)|||
+C|biodisponibilidad|Biodisponibilidad absoluta media|34|%|The mean absolute bioavailability of vorasidenib is 34%|vorasidenib
+C|tmax|Mediana del tiempo hasta el pico en estado estacionario|2|h|time to maximum plasma concentrations (t max ) at steady state is 2 hours (0.5 to 4 hours)|vorasidenib
+C|union|Unión a proteínas plasmáticas in vitro|97|%|The protein binding is 97% in human plasma|vorasidenib
+C|vd|Volumen de distribución en estado estacionario|3930|L|volume of distribution at steady state of vorasidenib is 3,930 L (40%)|vorasidenib
+C|semivida|Semivida terminal en estado estacionario|10|días|The mean (CV%) steady state terminal half-life is 10 days (57%)|vorasidenib
+C|aclaramiento|Aclaramiento oral|14|L/h|oral clearance is 14 L/h (56%)|vorasidenib
+C|heces|Dosis recuperada en las heces|85|% de la dosis|85% of the dose was recovered in feces (56% unchanged)|radiactividad total
+R|Las más frecuentes (15 % o más): fatiga, cefalea, COVID-19, dolor musculoesquelético, diarrea, náuseas y convulsiones.|The most common (≥15%) adverse reactions include fatigue, headache, COVID-19, musculoskeletal pain, diarrhea, nausea, and seizure
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Hepatotoxicidad|Hacer pruebas hepáticas cada 2 semanas los 2 primeros meses y después cada mes durante 2 años.|higado|Monitor liver function tests every 2 weeks during the first 2 months of treatment, then monthly for the first 2 years of treatment|43685-7
+W|Toxicidad embriofetal|Advertir del riesgo para el feto a las embarazadas y a las mujeres en edad fértil.||Advise pregnant women and females of reproductive potential of the potential risk to a fetus|43685-7
+
+@repotrectinib|Repotrectinib|ON|Inhibidor de tirosina cinasas ROS1 y TRK|repotrectinib;Augtyro|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico ROS1 positivo y de tumores sólidos con fusión de NTRK, según la etiqueta.|adult patients with locally advanced or metastatic ROS1- positive non-small cell lung cancer (NSCLC)
+A|Inhibe la cinasa ROS1 y las cinasas TRKA, TRKB y TRKC, cuyas proteínas de fusión impulsan el crecimiento tumoral.|Repotrectinib is an inhibitor of proto-oncogene tyrosine-protein kinase ROS1 (ROS1) and of the tropomyosin receptor tyrosine kinases (TRKs) TRKA, TRKB, and TRKC||ROS1, TRKA, TRKB y TRKC
+L|Cápsula dura de liberación inmediata: se disgrega en el tubo digestivo.|Capsules: 40 mg, white, opaque, immediate release, Size 0, hard shell capsule|
+B|La biodisponibilidad absoluta es del 45,7 % y el pico aparece a las 2-3 horas; una comida rica en grasas no cambia de forma relevante la exposición.|The geometric mean (CV%) absolute bioavailability of repotrectinib is 45.7% (19.6%)|
++|B|El pico aparece hacia las 2-3 horas tras una dosis única en ayunas.|Peak repotrectinib concentration occurred at approximately 2 to 3 hours post a single oral dose of 40 mg to 240 mg|||en ayunas
++|B|Una comida rica en grasas no produjo diferencias clínicamente relevantes.|No clinically significant differences in repotrectinib pharmacokinetics were observed in patients with cancer following administration of a high-fat meal|pacientes con cáncer|con una comida rica en grasas
+D|Se une en un 95,4 % a las proteínas plasmáticas; el volumen de distribución aparente es de 432 L.|AUGTYRO binding to plasma protein was 95.4%|sangre
++|D|Volumen de distribución aparente de 432 L tras 160 mg en pacientes con cáncer.|The geometric mean (CV%) apparent volume of distribution (Vz/F) was 432 L (55.9 %) in patients with cancer|pacientes con cáncer|
+M|Se metaboliza sobre todo por la CYP3A4, seguida de glucuronidación; induce su propio metabolismo.|Repotrectinib is primarily metabolized by CYP3A4 followed by secondary glucuronidation|higado
++|M|La farmacocinética en estado estacionario depende del tiempo por autoinducción de la CYP3A4.|Steady state PK was time-dependent with an autoinduction of CYP3A4|||
+E|Tras 160 mg marcados, el 88,8 % se recuperó en las heces (50,6 % sin cambios) y el 4,84 % en la orina.|4.84% (0.56% as unchanged) was recovered in urine and 88.8% (50.6% unchanged) in feces|orina,heces
++|E|La semivida terminal media tras una dosis es de unas 60,7 horas en pacientes con cáncer.|The repotrectinib mean terminal half-life is approximately 60.7 h for patients with cancer following a single dose|pacientes con cáncer|
+C|biodisponibilidad|Biodisponibilidad absoluta|45,7|%|The geometric mean (CV%) absolute bioavailability of repotrectinib is 45.7% (19.6%)|repotrectinib
+C|tmax|Tiempo hasta el pico|2-3 (aprox.)|h|Peak repotrectinib concentration occurred at approximately 2 to 3 hours post a single oral dose|repotrectinib||en ayunas
+C|union|Unión a proteínas plasmáticas|95,4|%|AUGTYRO binding to plasma protein was 95.4%|repotrectinib
+C|vd|Volumen de distribución aparente|432|L|apparent volume of distribution (Vz/F) was 432 L (55.9 %) in patients with cancer|repotrectinib|pacientes con cáncer
+C|semivida|Semivida terminal media (dosis única)|60,7 (aprox.)|h|The repotrectinib mean terminal half-life is approximately 60.7 h for patients with cancer following a single dose|repotrectinib|pacientes con cáncer
+C|aclaramiento|Aclaramiento oral aparente|15,9|L/h|The geometric mean (CV%) apparent oral clearance (CL/F) was 15.9 L/h (45.5%)|repotrectinib|pacientes con cáncer
+C|heces|Dosis recuperada en las heces|88,8|% de la dosis|88.8% (50.6% unchanged) in feces|radiactividad total||dosis oral única marcada de 160 mg
+R|Las más frecuentes (20 % o más): mareo, disgeusia, neuropatía periférica, estreñimiento, disnea, fatiga, ataxia, alteración cognitiva, debilidad muscular y náuseas.|The most common adverse reactions (≥20%) were dizziness, dysgeusia, peripheral neuropathy, constipation, dyspnea, fatigue, ataxia, cognitive impairment, muscular weakness, and nausea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Reacciones adversas del sistema nervioso central|Advertir del riesgo de reacciones del sistema nervioso central; no conducir si aparecen.|encefalo|Advise patients and caregivers of the risk of CNS adverse reactions with AUGTYRO|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares nuevos o que empeoran.|pulmones|Monitor patients for new or worsening pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas cada 2 semanas el primer mes y después cada mes.|higado|Monitor liver function tests, including ALT, AST and bilirubin, every 2 weeks during the first month of treatment|43685-7
+
+@selumetinib|Selumetinib|ON|Inhibidor de MEK1 y MEK2|selumetinib;Koselugo|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento de la neurofibromatosis de tipo 1 con neurofibromas plexiformes sintomáticos inoperables, desde 1 año de edad.|for the treatment of adult and pediatric patients 1 year of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN)
+A|Inhibe MEK1 y MEK2, reguladores de la vía ERK, que a menudo está activada en los tumores.|Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2)||MEK1 y MEK2
+L|Cápsula dura: se disgrega en el tubo digestivo.|white to off-white, opaque, hard capsule sealed with a clear band|
+B|La biodisponibilidad oral absoluta es del 62 % y la mediana del tiempo hasta el pico, de 1,5 horas; la comida no cambia de forma relevante la exposición.|Selumetinib absolute oral bioavailability is 62%|
++|B|La mediana del tiempo hasta el pico es de 1,5 horas.|Selumetinib median (min, max) time to maximum plasma concentrations (Tmax) is 1.5 (0.22, 6.0) hours|||
++|B|Una comida pobre o rica en grasas no produjo diferencias clínicamente relevantes.|No clinically significant differences in selumetinib pharmacokinetics were observed following administration of low fat (400-500 calories) or high-fat (800-1000 calories) meal|||con comida pobre o rica en grasas
+D|Se une en un 98,4 % a las proteínas plasmáticas, sobre todo a la albúmina.|The plasma protein binding is 98.4% (primarily albumin)|sangre
++|D|El volumen de distribución aparente va de 40 a 3710 L en el intervalo de dosis estudiado.|Selumetinib apparent volume of distribution across a dose range of 20 mg/m 2 to 30 mg/m 2 (0.8 to 1.2 times the recommended dosage) ranges from 40 L-3710 L|||
+M|Se metaboliza sobre todo por la CYP3A4 y, en menor medida, por otras CYP; también se glucuronida por la UGT1A1 y la UGT1A3.|Selumetinib is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C19, CYP1A2, CYP2C9, CYP2E1, and CYP3A5|higado
++|M|También se glucuronida por la UGT1A1 y la UGT1A3.|Selumetinib also undergoes glucuronidation by UGT1A1 and UGT1A3|||
+T|N-desmetil selumetinib|activo|The active metabolite, N desmethyl selumetinib, is generated by CYP2C19 and CYP1A2|Metabolito activo, formado por la CYP2C19 y la CYP1A2.
+E|Tras 75 mg marcados en adultos sanos, el 59 % de la dosis se recuperó en las heces (19 % sin cambios) y el 33 % en la orina.|59% of the dose was recovered in feces (19% as unchanged) and 33% in urine (< 1% as parent)|heces,orina
++|E|La semivida de eliminación es de 9 horas.|Selumetinib elimination half-life is 9 (28) hours|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta|62|%|Selumetinib absolute oral bioavailability is 62%|selumetinib
+C|tmax|Mediana del tiempo hasta el pico|1,5|h|Selumetinib median (min, max) time to maximum plasma concentrations (Tmax) is 1.5 (0.22, 6.0) hours|selumetinib
+C|union|Unión a proteínas plasmáticas|98,4|%|The plasma protein binding is 98.4% (primarily albumin)|selumetinib
+C|semivida|Semivida de eliminación|9|h|Selumetinib elimination half-life is 9 (28) hours|selumetinib
+C|heces|Dosis recuperada en las heces|59|% de la dosis|59% of the dose was recovered in feces (19% as unchanged)|radiactividad total|adultos sanos|dosis única marcada de 75 mg
+R|En adultos, las más frecuentes (40 % o más): exantema, dermatitis acneiforme y diarrea.|Most common adverse reactions in adult patients (≥ 40%) are rash (all), dermatitis acneiform, and diarrhea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Disfunción ventricular izquierda|Valorar la fracción de eyección por ecocardiograma antes de empezar, cada 3 meses el primer año y después cada 6 meses.|corazon|Assess ejection fraction by echocardiogram prior to initiating treatment, every 3 months during the first year of treatment|43685-7
+W|Toxicidad ocular|Hacer exploraciones oftalmológicas completas antes de empezar, periódicamente y ante cambios visuales.|ojos|Conduct comprehensive ophthalmic assessments prior to initiating KOSELUGO, at regular intervals during treatment, and for new or worsening visual changes|43685-7
+W|Aumento de la creatina fosfocinasa|Medir la CPK sérica antes de empezar y periódicamente.||Obtain serum CPK prior to initiating KOSELUGO, periodically during treatment, and as clinically indicated|43685-7
+
+@lazertinib|Lazertinib|ON|Inhibidor del EGFR con mutaciones activadoras|lazertinib;Lazcluze|forma=TABLET, FILM COATED;vias=oral;familia=solido-oral
+U|Tratamiento de primera línea, con amivantamab, del cáncer de pulmón no microcítico avanzado con deleciones del exón 19 o sustitución L858R del exón 21 del EGFR.|for the first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R substitution mutations
+A|Inhibe el EGFR con deleciones del exón 19 o sustitución L858R del exón 21 a concentraciones menores que el EGFR normal.|Lazertinib is a kinase inhibitor of epidermal growth factor receptor (EGFR) that inhibits EGFR exon 19 deletions and exon 21 L858R substitution mutations at lower concentrations than wild-type EGFR||EGFR mutado
+L|Comprimido recubierto con película: se disgrega en el tubo digestivo.|yellow, oval film-coated tablet, debossed with|
+B|Una comida rica en grasas no tuvo un efecto clínicamente relevante sobre su farmacocinética frente al ayuno.|A high-fat meal (800 to 1000 kcal, approximately 50% fat) did not have a clinically significant effect on lazertinib pharmacokinetics compared to that under fasted conditions|
+D|Se une en alrededor del 99,2 % a las proteínas plasmáticas; el volumen de distribución aparente es de 2680 L.|Lazertinib is approximately 99.2% bound to human plasma proteins|sangre
++|D|Volumen de distribución aparente medio de 2680 L.|The mean apparent volume of distribution is 2680 L (51%)|||
+M|Se metaboliza sobre todo por conjugación con glutatión, enzimática o no, y también por la CYP3A4.|Lazertinib is primarily metabolized by glutathione conjugation, either enzymatic via glutathione-S-transferase (GST) or non-enzymatic, as well as by CYP3A4|higado
+E|Tras una dosis marcada, alrededor del 86 % se recuperó en las heces (menos del 5 % sin cambios) y el 4 % en la orina.|approximately 86% of the dose was recovered in feces (< 5% as unchanged) and 4% in urine (< 0.2% as unchanged)|heces,orina
++|E|La semivida terminal media es de 3,7 días.|The mean terminal half-life is 3.7 days (56%)|||
+C|union|Unión a proteínas plasmáticas|99,2 (aprox.)|%|Lazertinib is approximately 99.2% bound to human plasma proteins|lazertinib
+C|vd|Volumen de distribución aparente|2680|L|The mean apparent volume of distribution is 2680 L (51%)|lazertinib
+C|semivida|Semivida terminal media|3,7|días|The mean terminal half-life is 3.7 days (56%)|lazertinib
+C|aclaramiento|Aclaramiento aparente|36,4|L/h|The mean apparent clearance is 36.4 L/h (47%)|lazertinib
+C|heces|Dosis recuperada en las heces|86 (aprox.)|% de la dosis|approximately 86% of the dose was recovered in feces|radiactividad total
+R|Con amivantamab, las más frecuentes (20 % o más): exantema, toxicidad ungueal, reacción a la infusión del amivantamab, dolor musculoesquelético, edema, estomatitis, tromboembolia venosa, parestesias, fatiga y diarrea, entre otras.|The most common adverse reactions (≥ 20%) were rash, nail toxicity, infusion-related reaction (amivantamab), musculoskeletal pain, edema, stomatitis, VTE, paresthesia, fatigue, diarrhea
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Episodios tromboembólicos venosos|Vigilar los signos y síntomas de tromboembolia venosa y tratarla.||Monitor for signs and symptoms of VTE and treat as medically appropriate|43685-7
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas nuevos o que empeoran, como disnea, tos o fiebre.||Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, fever)|43685-7
+W|Reacciones dermatológicas|Limitar la exposición al sol durante el tratamiento y hasta 2 meses después.||Instruct patients to limit sun exposure during and for 2 months after treatment with LAZCLUZE in combination with amivantamab|43685-7
+W|Hepatotoxicidad|Hacer pruebas hepáticas antes de empezar y durante el tratamiento.|higado|Perform liver function tests (including ALT, AST, and total bilirubin) before initiation of LAZCLUZE and during treatment, as clinically indicated|43685-7
+
+@pralsetinib|Pralsetinib|ON|Inhibidor selectivo de la cinasa RET|pralsetinib;Gavreto|forma=CAPSULE;vias=oral;familia=solido-oral
+U|Tratamiento del cáncer de pulmón no microcítico metastásico con fusión de RET y del cáncer de tiroides con fusión de RET, según la etiqueta.|Adult patients with metastatic rearranged during transfection (RET ) fusion-positive non-small cell lung cancer as detected by an FDA approved test (NSCLC)
+A|Inhibe la cinasa RET natural y sus fusiones y mutaciones oncogénicas a concentraciones muy bajas.|Pralsetinib is a kinase inhibitor of wild-type RET and oncogenic RET fusions||Cinasa RET
+L|Cápsula dura de hipromelosa: se disgrega en el tubo digestivo; se toma con el estómago vacío.|light blue, opaque, hard hydroxypropyl methylcellulose (HPMC) capsule printed with|
+B|La mediana del tiempo hasta el pico es de 2 a 4 horas; una comida rica en grasas duplica la Cmax y el AUC.|The median time to peak concentration (T max ) ranged from 2 to 4 hours following single doses of pralsetinib 60 mg to 600 mg|
++|B|Con una comida rica en grasas la Cmax aumentó 2,0 veces y el AUC 2,2 veces.|the mean C max of pralsetinib was increased by 2.0-fold, the mean AUC 0-INF was increased by 2.2-fold|||con una comida rica en grasas
+D|Se une en un 97 % a las proteínas, sin depender de la concentración; el volumen de distribución aparente es de 303 L.|Protein binding of pralsetinib is 97% and is independent of concentration|sangre
++|D|Volumen de distribución aparente de 303 L.|The mean (CV%) apparent volume of distribution (Vd/F) of pralsetinib is 303 L (68%)|||
+M|In vitro se metaboliza sobre todo por la CYP3A4 y, en menor medida, por la CYP2D6 y la CYP1A2.|Pralsetinib is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2, in vitro|higado
+E|Tras una dosis marcada, alrededor del 73 % se recuperó en las heces (66 % sin cambios) y el 6 % en la orina.|pralsetinib was recovered in feces and 6% (4.8% as unchanged) was recovered in urine|heces,orina
++|E|La semivida plasmática es de 16 horas tras una dosis y de 20 horas con dosis repetidas.|plasma elimination half-life (T ½ ) of pralsetinib is 16 hours (10) following single doses and 20 hours (12) following multiple doses of pralsetinib|||
+C|tmax|Mediana del tiempo hasta el pico|2-4|h|The median time to peak concentration (T max ) ranged from 2 to 4 hours|pralsetinib
+C|union|Unión a proteínas|97|%|Protein binding of pralsetinib is 97%|pralsetinib
+C|vd|Volumen de distribución aparente|303|L|apparent volume of distribution (Vd/F) of pralsetinib is 303 L (68%)|pralsetinib
+C|semivida|Semivida plasmática (dosis repetidas)|20|h|20 hours (12) following multiple doses of pralsetinib|pralsetinib||dosis repetidas
+C|aclaramiento|Aclaramiento oral aparente en estado estacionario|11|L/h|The mean (CV%) apparent oral clearance (CL/F) of pralsetinib is 11 L/h (66%) at steady state|pralsetinib
+C|heces|Dosis recuperada en las heces|73 (aprox.)|% de la dosis|Approximately 73% (66% as unchanged) of the total administered radioactive dose|radiactividad total||dosis oral única marcada de 310 mg
+R|Las más frecuentes (25 % o más): dolor musculoesquelético, estreñimiento, hipertensión, diarrea, fatiga, edema, fiebre y tos.|The most common adverse reactions (≥ 25%) were musculoskeletal pain, constipation, hypertension, diarrhea, fatigue, edema, pyrexia and cough
+R|Las tasas de los ensayos dependen de sus condiciones y no se pueden comparar directamente con las de otros fármacos.|Because clinical trials are conducted under widely varying conditions
+W|Infecciones graves, incluidas las oportunistas|Puede aumentar el riesgo de infecciones bacterianas, fúngicas, víricas y oportunistas graves, que pueden ser mortales.||GAVRETO may increase the risk for serious infections, including bacterial, fungal, viral and opportunistic infections, which can lead to hospitalization or death|34066-1
+W|Enfermedad pulmonar intersticial o neumonitis|Vigilar los síntomas pulmonares que sugieran neumonitis.|pulmones|Monitor for pulmonary symptoms indicative of ILD/pneumonitis|43685-7
+W|Hipertensión|No iniciarlo con hipertensión no controlada.||Do not initiate GAVRETO in patients with uncontrolled hypertension|43685-7
+W|Hepatotoxicidad|Medir AST y ALT antes de empezar, cada 2 semanas los 3 primeros meses y después cada mes.||Monitor AST and ALT prior to initiating GAVRETO, every 2 weeks during the first 3 months, then monthly thereafter|43685-7

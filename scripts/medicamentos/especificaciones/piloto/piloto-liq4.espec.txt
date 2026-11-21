@@ -1,0 +1,47 @@
+@metoclopramida|Metoclopramida|AD|Procinético y antiemético (antagonista de la dopamina)|metoclopramide;Reglan|doc=metoclopramida-solucion;anadir=1;sufijo=solucion;recorrido=propio;familia=liquido-oral;vias=oral;formaN=solucion-oral
+S|-
+K|5 mg/5 mL de metoclopramida (como clorhidrato), según la etiqueta
+U|Tratamiento de corta duración (4 a 12 semanas) del reflujo gastroesofágico sintomático documentado en adultos que no responden al tratamiento convencional.|Metoclopramide Oral Solution is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux who fail to respond to conventional therapy
+A|Estimula la motilidad del tubo digestivo superior sin estimular las secreciones gástricas, biliares ni pancreáticas; su modo de acción no está claro.|Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary or pancreatic secretions|estomago,duodeno,encefalo|Receptores de dopamina (efecto antiemético)
++|A|Sus propiedades antieméticas parecen deberse a su antagonismo de los receptores de dopamina centrales y periféricos.|properties of metoclopramide appear to be a result of its antagonism of central and peripheral dopamine receptors|||
+L|Solución oral: líquido que ya contiene el principio activo disuelto.|Metoclopramide is rapidly and well absorbed|boca,esofago,estomago|
+B|Se absorbe con rapidez y bien; la biodisponibilidad oral absoluta, frente a una dosis intravenosa, es del 80 % ± 15,5 %.|the absolute oral bioavailability of metoclopramide is 80% ±15.5%
++|B|El pico plasmático se produce a la 1-2 horas de una dosis oral única.|Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose|||
+D|No se une de forma extensa a proteínas del plasma (alrededor del 30 %) y su volumen de distribución es alto (unos 3,5 L/kg), lo que indica una amplia distribución a los tejidos.|The drug is not extensively bound to plasma proteins (about 30%)|sangre,tejidos
++|D|El volumen de distribución corporal total es alto (unos 3,5 L/kg).|The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues|||
+M|De la fracción eliminada por la orina, alrededor de la mitad es metoclopramida libre o conjugada.|Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide|rinones
+E|Alrededor del 85 % de la radiactividad de una dosis oral aparece en la orina en 72 horas; la semivida de eliminación media con función renal normal es de 5 a 6 horas.|Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours|rinones,orina
++|E|La semivida de eliminación media con función renal normal es de 5 a 6 horas.|The average elimination half-life in individuals with normal renal function is 5 to 6 hours|||
+C|biodisponibilidad|Biodisponibilidad oral absoluta|80 ± 15,5|%|the absolute oral bioavailability of metoclopramide is 80% ±15.5%|metoclopramida
+C|tmax|Tiempo hasta el pico plasmático|1 a 2|h|Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose|metoclopramida
+C|union|Unión a proteínas del plasma|30 (aprox.)|%|The drug is not extensively bound to plasma proteins (about 30%)|metoclopramida
+C|vd|Volumen de distribución corporal total|3,5 (aprox.)|L/kg|The whole body volume of distribution is high (about 3.5 L/kg)|metoclopramida
+C|semivida|Semivida de eliminación media|5 a 6|h|The average elimination half-life in individuals with normal renal function is 5 to 6 hours|metoclopramida|personas con función renal normal
+C|orina|Radiactividad de una dosis oral en la orina en 72 h|85 (aprox.)|% de la dosis|Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours|radiactividad total
+R|Inquietud, somnolencia, fatiga y laxitud aparecen en alrededor del 10 % de los pacientes.|Restlessness, drowsiness, fatigue, and lassitude occur in approximately 10% of patients
+R|La incidencia de reacciones adversas se correlaciona con la dosis y la duración del tratamiento.|In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration
+W|Discinesia tardía|El tratamiento con metoclopramida puede causar discinesia tardía, un trastorno grave del movimiento que a menudo es irreversible.|encefalo|Treatment with metoclopramide can cause tardive dyskinesia, a serious movement disorder that is often irreversible|34066-1
+
+@lamivudina|Lamivudina|IN|Antirretroviral (análogo de nucleósido)|lamivudine;Epivir;3TC|doc=lamivudina-solucion;forma=SOLUTION;anadir=1;sufijo=solucion;recorrido=propio;familia=liquido-oral;vias=oral;formaN=solucion-oral
+S|-
+K|10 mg/mL de lamivudina, según la etiqueta
+U|Infección por el VIH-1, en combinación con otros antirretrovirales.|EPIVIR is a nucleoside analogue indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection
+A|La etiqueta la describe como un agente antirretroviral y remite a su sección de microbiología para el mecanismo.|Lamivudine is an antiretroviral agent|sistema-inmunitario|
+L|Solución oral: líquido que ya contiene el principio activo disuelto.|Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution|boca,esofago,estomago|
+B|La biodisponibilidad absoluta en 12 adultos fue del 86 % ± 16 % con el comprimido de 150 mg y del 87 % ± 13 % con la solución oral.|Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution
++|B|La absorción fue más lenta con comida (Tmax 3,2 ± 1,3 horas) que en ayunas (Tmax 0,9 ± 0,3 horas).|Absorption of lamivudine was slower in the fed state (T max : 3.2 ± 1.3 hours) compared with the fasted state (T max : 0.9 ± 0.3 hours)|||con comida
+D|El volumen de distribución aparente tras una dosis intravenosa fue de 1,3 ± 0,4 L/kg, lo que indica distribución a los espacios extravasculares; la unión a proteínas del plasma es inferior al 36 %.|The apparent volume of distribution after IV administration of lamivudine to 20 subjects was 1.3 ± 0.4 L per kg|sangre,tejidos
++|D|La unión de la lamivudina a proteínas plasmáticas humanas es inferior al 36 %.|Binding of lamivudine to human plasma proteins is less than 36%|||
+M|El metabolismo es una vía menor de eliminación; el único metabolito conocido es el trans-sulfóxido y no se metaboliza de forma significativa por el citocromo P450.|Metabolism of lamivudine is a minor route of elimination|higado
+T|Metabolito trans-sulfóxido|desconocida|the only known metabolite of lamivudine is the trans-sulfoxide metabolite (approximately 5% of an oral dose after 12 hours)|Alrededor del 5 % de una dosis oral a las 12 horas; la etiqueta no indica su actividad.
+E|La mayor parte de la lamivudina se elimina sin cambios por la orina mediante secreción catiónica orgánica activa.|The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion|rinones,orina|original
++|E|La semivida de eliminación media observada fue de 5 a 7 horas.|the observed mean elimination half-life (t½) ranged from 5 to 7 hours|||
+C|biodisponibilidad|Biodisponibilidad absoluta de la solución oral|87 ± 13|%|Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution|lamivudina|12 adultos
+C|tmax|Tiempo hasta el pico en ayunas|0,9 ± 0,3|h|compared with the fasted state (T max : 0.9 ± 0.3 hours)|lamivudina||en ayunas|otra-presentacion
+C|vd|Volumen de distribución aparente|1,3 ± 0,4|L/kg|The apparent volume of distribution after IV administration of lamivudine to 20 subjects was 1.3 ± 0.4 L per kg|lamivudina|20 sujetos|dosis intravenosa|otra-via
+C|union|Unión a proteínas del plasma|< 36|%|Binding of lamivudine to human plasma proteins is less than 36%|lamivudina
+C|semivida|Semivida de eliminación media observada|5 a 7|h|the observed mean elimination half-life (t½) ranged from 5 to 7 hours|lamivudina
+R|Las más frecuentes (incidencia ≥ 15 %) en adultos: dolor de cabeza, náuseas, malestar y fatiga, síntomas nasales, diarrea y tos.|The most common reported adverse reactions (incidence greater than or equal to 15%) in adults were headache, nausea, malaise and fatigue, nasal signs and symptoms, diarrhea, and cough
+R|La etiqueta describe además las exacerbaciones de la hepatitis B, la acidosis láctica con hepatomegalia grave y la pancreatitis.|The following adverse reactions are discussed in other sections of the labeling
+W|Exacerbaciones de la hepatitis B|Se han descrito exacerbaciones agudas graves de la hepatitis B en pacientes coinfectados por VHB y VIH-1 que han suspendido el fármaco.|higado|Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and human immunodeficiency virus (HIV-1) and have discontinued EPIVIR|34066-1
+W|Acidosis láctica y hepatomegalia con esteatosis|La etiqueta advierte de acidosis láctica y hepatomegalia grave con esteatosis.|higado,sangre|Lactic Acidosis and Severe Hepatomegaly with Steatosis|43685-7

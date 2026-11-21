@@ -1,0 +1,4946 @@
+{
+ "estructuras": {
+  "craneo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA46565"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2772",
+     "nombre": "Hyoid bone"
+    },
+    {
+     "fj": "FJ3199",
+     "nombre": "Ethmoid"
+    },
+    {
+     "fj": "FJ3200",
+     "nombre": "Frontal bone"
+    },
+    {
+     "fj": "FJ3201",
+     "nombre": "Hyoid bone"
+    },
+    {
+     "fj": "FJ3263",
+     "nombre": "Left inferior nasal concha"
+    },
+    {
+     "fj": "FJ3265",
+     "nombre": "Left lacrimal bone"
+    },
+    {
+     "fj": "FJ3269",
+     "nombre": "Left maxilla"
+    },
+    {
+     "fj": "FJ3272",
+     "nombre": "Left nasal bone"
+    },
+    {
+     "fj": "FJ3273",
+     "nombre": "Left palatine bone"
+    },
+    {
+     "fj": "FJ3274",
+     "nombre": "Left parietal bone"
+    },
+    {
+     "fj": "FJ3281",
+     "nombre": "Left temporal bone"
+    },
+    {
+     "fj": "FJ3287",
+     "nombre": "Left zygomatic bone"
+    },
+    {
+     "fj": "FJ3289",
+     "nombre": "Mandible"
+    },
+    {
+     "fj": "FJ3309",
+     "nombre": "Occipital bone"
+    },
+    {
+     "fj": "FJ3369",
+     "nombre": "Right inferior nasal concha"
+    },
+    {
+     "fj": "FJ3371",
+     "nombre": "Right lacrimal bone"
+    },
+    {
+     "fj": "FJ3375",
+     "nombre": "Right maxilla"
+    },
+    {
+     "fj": "FJ3378",
+     "nombre": "Right nasal bone"
+    },
+    {
+     "fj": "FJ3379",
+     "nombre": "Right palatine bone"
+    },
+    {
+     "fj": "FJ3380",
+     "nombre": "Right parietal bone"
+    },
+    {
+     "fj": "FJ3386",
+     "nombre": "Right temporal bone"
+    },
+    {
+     "fj": "FJ3392",
+     "nombre": "Right zygomatic bone"
+    },
+    {
+     "fj": "FJ3394",
+     "nombre": "Sphenoid bone"
+    },
+    {
+     "fj": "FJ3395",
+     "nombre": "Vomer"
+    }
+   ],
+   "triangulosOrigen": 129486,
+   "triangulos": 22289,
+   "centro": [
+    -0.0009,
+    1.525,
+    0.1016
+   ],
+   "min": [
+    -0.0762,
+    1.4219,
+    -0.018
+   ],
+   "max": [
+    0.0749,
+    1.6362,
+    0.1895
+   ]
+  },
+  "columna": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13478"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3154",
+     "nombre": "Tenth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3155",
+     "nombre": "Eleventh thoracic vertebra"
+    },
+    {
+     "fj": "FJ3156",
+     "nombre": "Twelfth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3157",
+     "nombre": "First lumbar vertebra"
+    },
+    {
+     "fj": "FJ3158",
+     "nombre": "First thoracic vertebra"
+    },
+    {
+     "fj": "FJ3159",
+     "nombre": "Second lumbar vertebra"
+    },
+    {
+     "fj": "FJ3160",
+     "nombre": "Second thoracic vertebra"
+    },
+    {
+     "fj": "FJ3161",
+     "nombre": "Third cervical vertebra"
+    },
+    {
+     "fj": "FJ3162",
+     "nombre": "Third lumbar vertebra"
+    },
+    {
+     "fj": "FJ3163",
+     "nombre": "Third thoracic vertebra"
+    },
+    {
+     "fj": "FJ3164",
+     "nombre": "Fourth cervical vertebra"
+    },
+    {
+     "fj": "FJ3165",
+     "nombre": "Fourth lumbar vertebra"
+    },
+    {
+     "fj": "FJ3166",
+     "nombre": "Fourth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3167",
+     "nombre": "Fifth cervical vertebra"
+    },
+    {
+     "fj": "FJ3168",
+     "nombre": "Fifth lumbar vertebra"
+    },
+    {
+     "fj": "FJ3169",
+     "nombre": "Fifth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3170",
+     "nombre": "Sixth cervical vertebra"
+    },
+    {
+     "fj": "FJ3171",
+     "nombre": "Sixth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3172",
+     "nombre": "Seventh cervical vertebra"
+    },
+    {
+     "fj": "FJ3173",
+     "nombre": "Seventh thoracic vertebra"
+    },
+    {
+     "fj": "FJ3174",
+     "nombre": "Eighth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3175",
+     "nombre": "Ninth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3176",
+     "nombre": "Atlas"
+    },
+    {
+     "fj": "FJ3177",
+     "nombre": "Axis"
+    },
+    {
+     "fj": "FJ3202",
+     "nombre": "Intervertebral disk of axis"
+    },
+    {
+     "fj": "FJ3203",
+     "nombre": "Intervertebral disk of fourth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3204",
+     "nombre": "Intervertebral disk of fifth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3205",
+     "nombre": "Intervertebral disk of sixth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3206",
+     "nombre": "Intervertebral disk of seventh thoracic vertebra"
+    },
+    {
+     "fj": "FJ3207",
+     "nombre": "Intervertebral disk of eighth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3208",
+     "nombre": "Intervertebral disk of ninth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3209",
+     "nombre": "Intervertebral disk of tenth thoracic vertebra"
+    },
+    {
+     "fj": "FJ3210",
+     "nombre": "Intervertebral disk of eleventh thoracic vertebra"
+    },
+    {
+     "fj": "FJ3211",
+     "nombre": "Intervertebral disk"
+    },
+    {
+     "fj": "FJ3212",
+     "nombre": "Intervertebral disk of first lumbar vertebra"
+    },
+    {
+     "fj": "FJ3213",
+     "nombre": "Intervertebral disk of third cervical vertebra"
+    },
+    {
+     "fj": "FJ3214",
+     "nombre": "Intervertebral disk of second lumbar vertebra"
+    },
+    {
+     "fj": "FJ3215",
+     "nombre": "Intervertebral disk of third lumbar vertebra"
+    },
+    {
+     "fj": "FJ3216",
+     "nombre": "Intervertebral disk of fourth lumbar vertebra"
+    },
+    {
+     "fj": "FJ3217",
+     "nombre": "Intervertebral disk of fifth lumbar vertebra"
+    },
+    {
+     "fj": "FJ3218",
+     "nombre": "Intervertebral disk of fourth cervical vertebra"
+    },
+    {
+     "fj": "FJ3219",
+     "nombre": "Intervertebral disk of fifth cervical vertebra"
+    },
+    {
+     "fj": "FJ3220",
+     "nombre": "Intervertebral disk of sixth cervical vertebra"
+    },
+    {
+     "fj": "FJ3221",
+     "nombre": "Intervertebral disk of seventh cervical vertebra"
+    },
+    {
+     "fj": "FJ3222",
+     "nombre": "Intervertebral disk of first thoracic vertebra"
+    },
+    {
+     "fj": "FJ3223",
+     "nombre": "Intervertebral disk of second thoracic vertebra"
+    },
+    {
+     "fj": "FJ3224",
+     "nombre": "Intervertebral disk of third thoracic vertebra"
+    },
+    {
+     "fj": "FJ3393",
+     "nombre": "Sacrum"
+    }
+   ],
+   "triangulosOrigen": 124220,
+   "triangulos": 30563,
+   "centro": [
+    -0.0007,
+    1.1334,
+    0.054
+   ],
+   "min": [
+    -0.0595,
+    0.7834,
+    -0.0068
+   ],
+   "max": [
+    0.0582,
+    1.4812,
+    0.1159
+   ]
+  },
+  "costillas-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7480"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3330",
+     "nombre": "Right tenth rib"
+    },
+    {
+     "fj": "FJ3331",
+     "nombre": "Right eleventh rib"
+    },
+    {
+     "fj": "FJ3332",
+     "nombre": "Right twelfth rib"
+    },
+    {
+     "fj": "FJ3333",
+     "nombre": "Right first costal cartilage"
+    },
+    {
+     "fj": "FJ3334",
+     "nombre": "Right first rib"
+    },
+    {
+     "fj": "FJ3335",
+     "nombre": "Right second costal cartilage"
+    },
+    {
+     "fj": "FJ3336",
+     "nombre": "Right second rib"
+    },
+    {
+     "fj": "FJ3337",
+     "nombre": "Right third costal cartilage"
+    },
+    {
+     "fj": "FJ3338",
+     "nombre": "Right third rib"
+    },
+    {
+     "fj": "FJ3339",
+     "nombre": "Right fourth costal cartilage"
+    },
+    {
+     "fj": "FJ3340",
+     "nombre": "Right fourth rib"
+    },
+    {
+     "fj": "FJ3341",
+     "nombre": "Right fifth costal cartilage"
+    },
+    {
+     "fj": "FJ3342",
+     "nombre": "Right fifth rib"
+    },
+    {
+     "fj": "FJ3343",
+     "nombre": "Right sixth costal cartilage"
+    },
+    {
+     "fj": "FJ3344",
+     "nombre": "Right sixth rib"
+    },
+    {
+     "fj": "FJ3345",
+     "nombre": "Right seventh costal cartilage"
+    },
+    {
+     "fj": "FJ3346",
+     "nombre": "Right seventh rib"
+    },
+    {
+     "fj": "FJ3347",
+     "nombre": "Right eighth rib"
+    },
+    {
+     "fj": "FJ3348",
+     "nombre": "Right ninth rib"
+    }
+   ],
+   "triangulosOrigen": 93204,
+   "triangulos": 17492,
+   "centro": [
+    -0.0787,
+    1.1944,
+    0.0883
+   ],
+   "min": [
+    -0.1369,
+    1.0085,
+    0.0038
+   ],
+   "max": [
+    -0.0053,
+    1.3696,
+    0.2132
+   ]
+  },
+  "costillas-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7480"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3225",
+     "nombre": "Left tenth rib"
+    },
+    {
+     "fj": "FJ3226",
+     "nombre": "Left eleventh rib"
+    },
+    {
+     "fj": "FJ3227",
+     "nombre": "Left twelfth rib"
+    },
+    {
+     "fj": "FJ3228",
+     "nombre": "Left first rib"
+    },
+    {
+     "fj": "FJ3229",
+     "nombre": "Left second rib"
+    },
+    {
+     "fj": "FJ3230",
+     "nombre": "Left third rib"
+    },
+    {
+     "fj": "FJ3231",
+     "nombre": "Left fourth rib"
+    },
+    {
+     "fj": "FJ3232",
+     "nombre": "Left fifth rib"
+    },
+    {
+     "fj": "FJ3233",
+     "nombre": "Left sixth rib"
+    },
+    {
+     "fj": "FJ3234",
+     "nombre": "Left seventh rib"
+    },
+    {
+     "fj": "FJ3235",
+     "nombre": "Left eighth rib"
+    },
+    {
+     "fj": "FJ3236",
+     "nombre": "Left ninth rib"
+    },
+    {
+     "fj": "FJ3239",
+     "nombre": "Left first costal cartilage"
+    },
+    {
+     "fj": "FJ3242",
+     "nombre": "Left second costal cartilage"
+    },
+    {
+     "fj": "FJ3245",
+     "nombre": "Left third costal cartilage"
+    },
+    {
+     "fj": "FJ3248",
+     "nombre": "Left fourth costal cartilage"
+    },
+    {
+     "fj": "FJ3251",
+     "nombre": "Left fifth costal cartilage"
+    },
+    {
+     "fj": "FJ3254",
+     "nombre": "Left sixth costal cartilage"
+    },
+    {
+     "fj": "FJ3255",
+     "nombre": "Left seventh costal cartilage"
+    }
+   ],
+   "triangulosOrigen": 92792,
+   "triangulos": 17291,
+   "centro": [
+    0.0774,
+    1.1947,
+    0.0879
+   ],
+   "min": [
+    0.0033,
+    1.0088,
+    0.0038
+   ],
+   "max": [
+    0.1357,
+    1.3696,
+    0.2132
+   ]
+  },
+  "esternon": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7485"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3153",
+     "nombre": "Xiphoid process"
+    },
+    {
+     "fj": "FJ3178",
+     "nombre": "Body of sternum"
+    },
+    {
+     "fj": "FJ3290",
+     "nombre": "Manubrium"
+    }
+   ],
+   "triangulosOrigen": 8114,
+   "triangulos": 2043,
+   "centro": [
+    0,
+    1.2522,
+    0.1777
+   ],
+   "min": [
+    -0.0265,
+    1.1648,
+    0.1309
+   ],
+   "max": [
+    0.027,
+    1.3248,
+    0.2137
+   ]
+  },
+  "clavicula-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13322"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3362",
+     "nombre": "Right clavicle"
+    }
+   ],
+   "triangulosOrigen": 1146,
+   "triangulos": 713,
+   "centro": [
+    -0.0803,
+    1.3367,
+    0.1012
+   ],
+   "min": [
+    -0.145,
+    1.3094,
+    0.0545
+   ],
+   "max": [
+    -0.0098,
+    1.3554,
+    0.1466
+   ]
+  },
+  "clavicula-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13323"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3237",
+     "nombre": "Left clavicle"
+    }
+   ],
+   "triangulosOrigen": 1176,
+   "triangulos": 694,
+   "centro": [
+    0.0755,
+    1.3357,
+    0.1034
+   ],
+   "min": [
+    0.0087,
+    1.3091,
+    0.0544
+   ],
+   "max": [
+    0.1436,
+    1.3552,
+    0.1469
+   ]
+  },
+  "escapula-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13395"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3384",
+     "nombre": "Right scapula"
+    }
+   ],
+   "triangulosOrigen": 26172,
+   "triangulos": 4257,
+   "centro": [
+    -0.1122,
+    1.2928,
+    0.0367
+   ],
+   "min": [
+    -0.1659,
+    1.1847,
+    -0.0048
+   ],
+   "max": [
+    -0.0575,
+    1.3496,
+    0.1023
+   ]
+  },
+  "escapula-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13396"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3279",
+     "nombre": "Left scapula"
+    }
+   ],
+   "triangulosOrigen": 28106,
+   "triangulos": 4286,
+   "centro": [
+    0.1121,
+    1.2929,
+    0.0366
+   ],
+   "min": [
+    0.0574,
+    1.1847,
+    -0.0049
+   ],
+   "max": [
+    0.166,
+    1.3496,
+    0.1022
+   ]
+  },
+  "humero-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23130"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3368",
+     "nombre": "Right humerus"
+    }
+   ],
+   "triangulosOrigen": 3784,
+   "triangulos": 1801,
+   "centro": [
+    -0.1888,
+    1.1875,
+    0.071
+   ],
+   "min": [
+    -0.2405,
+    1.0296,
+    0.051
+   ],
+   "max": [
+    -0.1403,
+    1.3365,
+    0.1002
+   ]
+  },
+  "humero-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23131"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3262",
+     "nombre": "Left humerus"
+    }
+   ],
+   "triangulosOrigen": 3844,
+   "triangulos": 1887,
+   "centro": [
+    0.1889,
+    1.186,
+    0.0713
+   ],
+   "min": [
+    0.1401,
+    1.0297,
+    0.0511
+   ],
+   "max": [
+    0.2405,
+    1.3365,
+    0.1002
+   ]
+  },
+  "radio-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23464"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3349",
+     "nombre": "Right radius"
+    }
+   ],
+   "triangulosOrigen": 672,
+   "triangulos": 443,
+   "centro": [
+    -0.2489,
+    0.9122,
+    0.0951
+   ],
+   "min": [
+    -0.2793,
+    0.8063,
+    0.0614
+   ],
+   "max": [
+    -0.2199,
+    1.0346,
+    0.1269
+   ]
+  },
+  "radio-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23465"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3277",
+     "nombre": "Left radius"
+    }
+   ],
+   "triangulosOrigen": 632,
+   "triangulos": 444,
+   "centro": [
+    0.246,
+    0.9247,
+    0.0927
+   ],
+   "min": [
+    0.2198,
+    0.8064,
+    0.0619
+   ],
+   "max": [
+    0.2787,
+    1.035,
+    0.1269
+   ]
+  },
+  "cubito-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23467"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3391",
+     "nombre": "Right ulna"
+    }
+   ],
+   "triangulosOrigen": 834,
+   "triangulos": 498,
+   "centro": [
+    -0.22,
+    0.9605,
+    0.0791
+   ],
+   "min": [
+    -0.2466,
+    0.8059,
+    0.045
+   ],
+   "max": [
+    -0.1972,
+    1.0524,
+    0.1228
+   ]
+  },
+  "cubito-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA23468"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3286",
+     "nombre": "Left ulna"
+    }
+   ],
+   "triangulosOrigen": 824,
+   "triangulos": 484,
+   "centro": [
+    0.2195,
+    0.9655,
+    0.0779
+   ],
+   "min": [
+    0.1969,
+    0.806,
+    0.0446
+   ],
+   "max": [
+    0.2468,
+    1.0523,
+    0.1223
+   ]
+  },
+  "coxal-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA16586"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3152",
+     "nombre": "Right hip bone"
+    }
+   ],
+   "triangulosOrigen": 2374,
+   "triangulos": 1936,
+   "centro": [
+    -0.0695,
+    0.8461,
+    0.0717
+   ],
+   "min": [
+    -0.1449,
+    0.7522,
+    0.0012
+   ],
+   "max": [
+    -0.0028,
+    0.9579,
+    0.1388
+   ]
+  },
+  "coxal-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA16587"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3288",
+     "nombre": "Left hip bone"
+    }
+   ],
+   "triangulosOrigen": 2332,
+   "triangulos": 1884,
+   "centro": [
+    0.0685,
+    0.8459,
+    0.0713
+   ],
+   "min": [
+    0.0028,
+    0.752,
+    0.0013
+   ],
+   "max": [
+    0.1448,
+    0.958,
+    0.1387
+   ]
+  },
+  "sacro": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA16202"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3393",
+     "nombre": "Sacrum"
+    }
+   ],
+   "triangulosOrigen": 9922,
+   "triangulos": 3793,
+   "centro": [
+    -0.0006,
+    0.8747,
+    0.0319
+   ],
+   "min": [
+    -0.0595,
+    0.7834,
+    -0.0068
+   ],
+   "max": [
+    0.0582,
+    0.9267,
+    0.0811
+   ]
+  },
+  "femur-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24474"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3365",
+     "nombre": "Right femur"
+    }
+   ],
+   "triangulosOrigen": 3102,
+   "triangulos": 2404,
+   "centro": [
+    -0.0906,
+    0.6041,
+    0.0774
+   ],
+   "min": [
+    -0.1501,
+    0.3681,
+    0.0495
+   ],
+   "max": [
+    -0.0319,
+    0.8343,
+    0.1122
+   ]
+  },
+  "femur-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24475"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3259",
+     "nombre": "Left femur"
+    }
+   ],
+   "triangulosOrigen": 3204,
+   "triangulos": 2472,
+   "centro": [
+    0.0906,
+    0.607,
+    0.0773
+   ],
+   "min": [
+    0.032,
+    0.3683,
+    0.0496
+   ],
+   "max": [
+    0.15,
+    0.8342,
+    0.1123
+   ]
+  },
+  "tibia-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24477"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3387",
+     "nombre": "Right tibia"
+    }
+   ],
+   "triangulosOrigen": 1664,
+   "triangulos": 1257,
+   "centro": [
+    -0.0722,
+    0.2208,
+    0.0802
+   ],
+   "min": [
+    -0.1092,
+    -0.006,
+    0.0521
+   ],
+   "max": [
+    -0.0352,
+    0.3736,
+    0.1148
+   ]
+  },
+  "tibia-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24478"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3282",
+     "nombre": "Left tibia"
+    }
+   ],
+   "triangulosOrigen": 1692,
+   "triangulos": 1272,
+   "centro": [
+    0.0737,
+    0.2255,
+    0.0801
+   ],
+   "min": [
+    0.0354,
+    -0.0059,
+    0.052
+   ],
+   "max": [
+    0.1093,
+    0.3737,
+    0.1145
+   ]
+  },
+  "perone-derecho": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24480"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3366",
+     "nombre": "Right fibula"
+    }
+   ],
+   "triangulosOrigen": 1142,
+   "triangulos": 800,
+   "centro": [
+    -0.1009,
+    0.1652,
+    0.061
+   ],
+   "min": [
+    -0.1202,
+    -0.025,
+    0.0487
+   ],
+   "max": [
+    -0.0845,
+    0.3589,
+    0.0777
+   ]
+  },
+  "perone-izquierdo": {
+   "capa": "esqueleto",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA24481"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3260",
+     "nombre": "Left fibula"
+    }
+   ],
+   "triangulosOrigen": 1124,
+   "triangulos": 803,
+   "centro": [
+    0.1005,
+    0.1655,
+    0.0612
+   ],
+   "min": [
+    0.0845,
+    -0.0247,
+    0.0486
+   ],
+   "max": [
+    0.1201,
+    0.3587,
+    0.0774
+   ]
+  },
+  "pectoral-mayor-derecho": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13373"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1446",
+     "nombre": "Abdominal part of right pectoralis major"
+    },
+    {
+     "fj": "FJ1464",
+     "nombre": "Sternocostal part of right pectoralis major"
+    }
+   ],
+   "triangulosOrigen": 8650,
+   "triangulos": 3819,
+   "centro": [
+    -0.0905,
+    1.2299,
+    0.17
+   ],
+   "min": [
+    -0.1871,
+    1.1048,
+    0.082
+   ],
+   "max": [
+    -0.0049,
+    1.3136,
+    0.2194
+   ]
+  },
+  "pectoral-mayor-izquierdo": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13374"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1446M",
+     "nombre": "Abdominal part of left pectoralis major"
+    },
+    {
+     "fj": "FJ1464M",
+     "nombre": "Sternocostal part of left pectoralis major"
+    }
+   ],
+   "triangulosOrigen": 8650,
+   "triangulos": 3824,
+   "centro": [
+    0.0905,
+    1.2301,
+    0.1699
+   ],
+   "min": [
+    0.0048,
+    1.1048,
+    0.082
+   ],
+   "max": [
+    0.1871,
+    1.3136,
+    0.2194
+   ]
+  },
+  "oblicuo-externo-derecho": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13336"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1452",
+     "nombre": "Right external oblique"
+    }
+   ],
+   "triangulosOrigen": 111826,
+   "triangulos": 14040,
+   "centro": [
+    -0.0862,
+    1.0195,
+    0.1565
+   ],
+   "min": [
+    -0.1406,
+    0.7939,
+    0.0376
+   ],
+   "max": [
+    -0.0038,
+    1.2108,
+    0.2181
+   ]
+  },
+  "oblicuo-externo-izquierdo": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13337"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1452M",
+     "nombre": "Left external oblique"
+    }
+   ],
+   "triangulosOrigen": 111826,
+   "triangulos": 14047,
+   "centro": [
+    0.0862,
+    1.0194,
+    0.1565
+   ],
+   "min": [
+    0.0038,
+    0.7939,
+    0.0376
+   ],
+   "max": [
+    0.1406,
+    1.2108,
+    0.2181
+   ]
+  },
+  "serrato-anterior-derecho": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13398"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1459",
+     "nombre": "Right serratus anterior"
+    }
+   ],
+   "triangulosOrigen": 49212,
+   "triangulos": 6644,
+   "centro": [
+    -0.1148,
+    1.2186,
+    0.0641
+   ],
+   "min": [
+    -0.1436,
+    1.0786,
+    -0.0047
+   ],
+   "max": [
+    -0.059,
+    1.3475,
+    0.157
+   ]
+  },
+  "serrato-anterior-izquierdo": {
+   "capa": "musculos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA13399"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1459M",
+     "nombre": "Left serratus anterior"
+    }
+   ],
+   "triangulosOrigen": 49212,
+   "triangulos": 6639,
+   "centro": [
+    0.1148,
+    1.2186,
+    0.0641
+   ],
+   "min": [
+    0.059,
+    1.0786,
+    -0.0047
+   ],
+   "max": [
+    0.1436,
+    1.3475,
+    0.157
+   ]
+  },
+  "trapecio-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA32555",
+    "FMA32556",
+    "FMA32557"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1520",
+     "nombre": "Ascending part of right trapezius"
+    },
+    {
+     "fj": "FJ1554",
+     "nombre": "Transverse part of right trapezius"
+    },
+    {
+     "fj": "FJ1521",
+     "nombre": "Descending part of right trapezius"
+    }
+   ],
+   "triangulosOrigen": 22098,
+   "triangulos": 6262,
+   "centro": [
+    -0.0464,
+    1.3152,
+    0.0166
+   ],
+   "min": [
+    -0.1627,
+    1.0544,
+    -0.0244
+   ],
+   "max": [
+    0.0031,
+    1.5056,
+    0.1004
+   ]
+  },
+  "trapecio-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA32555",
+    "FMA32556",
+    "FMA32557"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1520M",
+     "nombre": "Ascending part of left trapezius"
+    },
+    {
+     "fj": "FJ1554M",
+     "nombre": "Transverse part of left trapezius"
+    },
+    {
+     "fj": "FJ1521M",
+     "nombre": "Descending part of left trapezius"
+    }
+   ],
+   "triangulosOrigen": 22098,
+   "triangulos": 6274,
+   "centro": [
+    0.0465,
+    1.3152,
+    0.0166
+   ],
+   "min": [
+    -0.0031,
+    1.0544,
+    -0.0244
+   ],
+   "max": [
+    0.1627,
+    1.5056,
+    0.1004
+   ]
+  },
+  "deltoides-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA34676"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1467",
+     "nombre": "Acromial part of right deltoid"
+    },
+    {
+     "fj": "FJ1468",
+     "nombre": "Clavicular part of right deltoid"
+    },
+    {
+     "fj": "FJ1513",
+     "nombre": "Spinal part of right deltoid"
+    }
+   ],
+   "triangulosOrigen": 5406,
+   "triangulos": 2086,
+   "centro": [
+    -0.1772,
+    1.2918,
+    0.0677
+   ],
+   "min": [
+    -0.2269,
+    1.188,
+    0.0027
+   ],
+   "max": [
+    -0.0841,
+    1.3552,
+    0.1211
+   ]
+  },
+  "deltoides-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA34676"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1467M",
+     "nombre": "Acromial part of left deltoid"
+    },
+    {
+     "fj": "FJ1468M",
+     "nombre": "Clavicular part of left deltoid"
+    },
+    {
+     "fj": "FJ1513M",
+     "nombre": "Spinal part of left deltoid"
+    }
+   ],
+   "triangulosOrigen": 5406,
+   "triangulos": 2086,
+   "centro": [
+    0.1772,
+    1.2918,
+    0.0677
+   ],
+   "min": [
+    0.0841,
+    1.188,
+    0.0027
+   ],
+   "max": [
+    0.2269,
+    1.3552,
+    0.1211
+   ]
+  },
+  "biceps-braquial-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA37682",
+    "FMA37683"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1512",
+     "nombre": "Short head of right biceps brachii"
+    },
+    {
+     "fj": "FJ1478",
+     "nombre": "Long head of right biceps brachii"
+    }
+   ],
+   "triangulosOrigen": 3282,
+   "triangulos": 1562,
+   "centro": [
+    -0.1883,
+    1.1765,
+    0.0904
+   ],
+   "min": [
+    -0.2299,
+    0.9943,
+    0.0685
+   ],
+   "max": [
+    -0.1353,
+    1.3393,
+    0.1093
+   ]
+  },
+  "biceps-braquial-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA37682",
+    "FMA37683"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1512M",
+     "nombre": "Short head of left biceps brachii"
+    },
+    {
+     "fj": "FJ1478M",
+     "nombre": "Long head of left biceps brachii"
+    }
+   ],
+   "triangulosOrigen": 3282,
+   "triangulos": 1561,
+   "centro": [
+    0.1883,
+    1.1765,
+    0.0904
+   ],
+   "min": [
+    0.1353,
+    0.9943,
+    0.0685
+   ],
+   "max": [
+    0.2299,
+    1.3393,
+    0.1093
+   ]
+  },
+  "triceps-braquial-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA37692",
+    "FMA37693",
+    "FMA37694"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1479",
+     "nombre": "Long head of right triceps brachii"
+    },
+    {
+     "fj": "FJ1480",
+     "nombre": "Medial head of right triceps brachii"
+    },
+    {
+     "fj": "FJ1477",
+     "nombre": "Lateral head of right triceps brachii"
+    }
+   ],
+   "triangulosOrigen": 5026,
+   "triangulos": 2442,
+   "centro": [
+    -0.1924,
+    1.1609,
+    0.046
+   ],
+   "min": [
+    -0.228,
+    1.0296,
+    0.019
+   ],
+   "max": [
+    -0.1347,
+    1.3008,
+    0.0719
+   ]
+  },
+  "triceps-braquial-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA37692",
+    "FMA37693",
+    "FMA37694"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1479M",
+     "nombre": "Long head of left triceps brachii"
+    },
+    {
+     "fj": "FJ1480M",
+     "nombre": "Medial head of left triceps brachii"
+    },
+    {
+     "fj": "FJ1477M",
+     "nombre": "Lateral head of left triceps brachii"
+    }
+   ],
+   "triangulosOrigen": 5026,
+   "triangulos": 2442,
+   "centro": [
+    0.1924,
+    1.1609,
+    0.046
+   ],
+   "min": [
+    0.1347,
+    1.0296,
+    0.019
+   ],
+   "max": [
+    0.228,
+    1.3008,
+    0.0719
+   ]
+  },
+  "braquiorradial-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38486"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1487",
+     "nombre": "Right brachioradialis"
+    }
+   ],
+   "triangulosOrigen": 4874,
+   "triangulos": 1705,
+   "centro": [
+    -0.2489,
+    0.9976,
+    0.089
+   ],
+   "min": [
+    -0.2803,
+    0.8117,
+    0.0563
+   ],
+   "max": [
+    -0.2087,
+    1.1467,
+    0.1227
+   ]
+  },
+  "braquiorradial-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38487"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1487M",
+     "nombre": "Left brachioradialis"
+    }
+   ],
+   "triangulosOrigen": 4874,
+   "triangulos": 1704,
+   "centro": [
+    0.2489,
+    0.9976,
+    0.089
+   ],
+   "min": [
+    0.2087,
+    0.8117,
+    0.0563
+   ],
+   "max": [
+    0.2803,
+    1.1467,
+    0.1227
+   ]
+  },
+  "esternocleidomastoideo-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA13408"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1595",
+     "nombre": "Right sternocleidomastoid"
+    }
+   ],
+   "triangulosOrigen": 10344,
+   "triangulos": 1645,
+   "centro": [
+    -0.0372,
+    1.4004,
+    0.1049
+   ],
+   "min": [
+    -0.0626,
+    1.3029,
+    0.0377
+   ],
+   "max": [
+    -0.0024,
+    1.5023,
+    0.1568
+   ]
+  },
+  "esternocleidomastoideo-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA13409"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1573",
+     "nombre": "Left sternocleidomastoid"
+    }
+   ],
+   "triangulosOrigen": 10224,
+   "triangulos": 1602,
+   "centro": [
+    0.0357,
+    1.3991,
+    0.1054
+   ],
+   "min": [
+    0.0018,
+    1.303,
+    0.0382
+   ],
+   "max": [
+    0.0613,
+    1.5021,
+    0.1558
+   ]
+  },
+  "gluteo-mayor-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22328"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1418",
+     "nombre": "Right gluteus maximus"
+    }
+   ],
+   "triangulosOrigen": 2376,
+   "triangulos": 1119,
+   "centro": [
+    -0.0774,
+    0.8102,
+    0.0254
+   ],
+   "min": [
+    -0.1453,
+    0.6683,
+    -0.0195
+   ],
+   "max": [
+    0.0011,
+    0.9318,
+    0.0774
+   ]
+  },
+  "gluteo-mayor-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22329"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1418M",
+     "nombre": "Left gluteus maximus"
+    }
+   ],
+   "triangulosOrigen": 2376,
+   "triangulos": 1119,
+   "centro": [
+    0.0774,
+    0.8102,
+    0.0254
+   ],
+   "min": [
+    -0.0011,
+    0.6683,
+    -0.0195
+   ],
+   "max": [
+    0.1453,
+    0.9318,
+    0.0774
+   ]
+  },
+  "recto-femoral-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38928"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1433",
+     "nombre": "Right rectus femoris"
+    }
+   ],
+   "triangulosOrigen": 5688,
+   "triangulos": 2703,
+   "centro": [
+    -0.111,
+    0.6312,
+    0.1216
+   ],
+   "min": [
+    -0.1539,
+    0.3161,
+    0.0841
+   ],
+   "max": [
+    -0.0633,
+    0.8708,
+    0.1525
+   ]
+  },
+  "recto-femoral-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38929"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1433M",
+     "nombre": "Left rectus femoris"
+    }
+   ],
+   "triangulosOrigen": 5688,
+   "triangulos": 2703,
+   "centro": [
+    0.111,
+    0.6312,
+    0.1216
+   ],
+   "min": [
+    0.0633,
+    0.3161,
+    0.0841
+   ],
+   "max": [
+    0.1539,
+    0.8708,
+    0.1525
+   ]
+  },
+  "vasto-lateral-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38930"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1442",
+     "nombre": "Right vastus lateralis"
+    }
+   ],
+   "triangulosOrigen": 6688,
+   "triangulos": 3158,
+   "centro": [
+    -0.126,
+    0.5585,
+    0.0987
+   ],
+   "min": [
+    -0.1596,
+    0.3188,
+    0.0575
+   ],
+   "max": [
+    -0.0844,
+    0.787,
+    0.1368
+   ]
+  },
+  "vasto-lateral-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA38931"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1442M",
+     "nombre": "Left vastus lateralis"
+    }
+   ],
+   "triangulosOrigen": 6688,
+   "triangulos": 3158,
+   "centro": [
+    0.126,
+    0.5585,
+    0.0987
+   ],
+   "min": [
+    0.0844,
+    0.3188,
+    0.0575
+   ],
+   "max": [
+    0.1596,
+    0.787,
+    0.1368
+   ]
+  },
+  "sartorio-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22354"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1434",
+     "nombre": "Right sartorius"
+    }
+   ],
+   "triangulosOrigen": 3444,
+   "triangulos": 1311,
+   "centro": [
+    -0.0682,
+    0.5995,
+    0.1204
+   ],
+   "min": [
+    -0.1307,
+    0.2746,
+    0.084
+   ],
+   "max": [
+    -0.021,
+    0.9012,
+    0.141
+   ]
+  },
+  "sartorio-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22355"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1434M",
+     "nombre": "Left sartorius"
+    }
+   ],
+   "triangulosOrigen": 3444,
+   "triangulos": 1311,
+   "centro": [
+    0.0682,
+    0.5995,
+    0.1204
+   ],
+   "min": [
+    0.021,
+    0.2746,
+    0.084
+   ],
+   "max": [
+    0.1307,
+    0.9012,
+    0.141
+   ]
+  },
+  "biceps-femoral-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA45887",
+    "FMA45890"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1395",
+     "nombre": "Long head of right biceps femoris"
+    },
+    {
+     "fj": "FJ1444",
+     "nombre": "Short head of right biceps femoris"
+    }
+   ],
+   "triangulosOrigen": 6838,
+   "triangulos": 3572,
+   "centro": [
+    -0.0942,
+    0.5458,
+    0.0517
+   ],
+   "min": [
+    -0.1266,
+    0.3288,
+    0.0183
+   ],
+   "max": [
+    -0.0491,
+    0.7643,
+    0.0872
+   ]
+  },
+  "biceps-femoral-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA45887",
+    "FMA45890"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1395M",
+     "nombre": "Long head of left biceps femoris"
+    },
+    {
+     "fj": "FJ1444M",
+     "nombre": "Short head of left biceps femoris"
+    }
+   ],
+   "triangulosOrigen": 6838,
+   "triangulos": 3572,
+   "centro": [
+    0.0942,
+    0.5458,
+    0.0517
+   ],
+   "min": [
+    0.0491,
+    0.3288,
+    0.0183
+   ],
+   "max": [
+    0.1266,
+    0.7643,
+    0.0872
+   ]
+  },
+  "gastrocnemio-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA45956",
+    "FMA45959"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1397",
+     "nombre": "Medial head of right gastrocnemius"
+    },
+    {
+     "fj": "FJ1394",
+     "nombre": "Lateral head of right gastrocnemius"
+    }
+   ],
+   "triangulosOrigen": 6894,
+   "triangulos": 3451,
+   "centro": [
+    -0.0687,
+    0.282,
+    0.0414
+   ],
+   "min": [
+    -0.117,
+    0.1235,
+    0.0059
+   ],
+   "max": [
+    -0.0218,
+    0.4314,
+    0.0916
+   ]
+  },
+  "gastrocnemio-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA45956",
+    "FMA45959"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1397M",
+     "nombre": "Medial head of left gastrocnemius"
+    },
+    {
+     "fj": "FJ1394M",
+     "nombre": "Lateral head of left gastrocnemius"
+    }
+   ],
+   "triangulosOrigen": 6894,
+   "triangulos": 3449,
+   "centro": [
+    0.0687,
+    0.2819,
+    0.0414
+   ],
+   "min": [
+    0.0218,
+    0.1235,
+    0.0059
+   ],
+   "max": [
+    0.117,
+    0.4314,
+    0.0916
+   ]
+  },
+  "soleo-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22558"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1437",
+     "nombre": "Right soleus"
+    }
+   ],
+   "triangulosOrigen": 4418,
+   "triangulos": 2270,
+   "centro": [
+    -0.0774,
+    0.2104,
+    0.0548
+   ],
+   "min": [
+    -0.1155,
+    0.0332,
+    0.0322
+   ],
+   "max": [
+    -0.0357,
+    0.3576,
+    0.0911
+   ]
+  },
+  "soleo-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22559"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1437M",
+     "nombre": "Left soleus"
+    }
+   ],
+   "triangulosOrigen": 4418,
+   "triangulos": 2270,
+   "centro": [
+    0.0774,
+    0.2104,
+    0.0548
+   ],
+   "min": [
+    0.0357,
+    0.0332,
+    0.0322
+   ],
+   "max": [
+    0.1155,
+    0.3576,
+    0.0911
+   ]
+  },
+  "tibial-anterior-derecho": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22544"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1439",
+     "nombre": "Right tibialis anterior"
+    }
+   ],
+   "triangulosOrigen": 2510,
+   "triangulos": 970,
+   "centro": [
+    -0.0944,
+    0.1732,
+    0.0941
+   ],
+   "min": [
+    -0.1168,
+    -0.0366,
+    0.0729
+   ],
+   "max": [
+    -0.0678,
+    0.3545,
+    0.1444
+   ]
+  },
+  "tibial-anterior-izquierdo": {
+   "capa": "musculos",
+   "arbol": "isa",
+   "conceptos": [
+    "FMA22545"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1439M",
+     "nombre": "Left tibialis anterior"
+    }
+   ],
+   "triangulosOrigen": 2510,
+   "triangulos": 970,
+   "centro": [
+    0.0944,
+    0.1732,
+    0.0941
+   ],
+   "min": [
+    0.0678,
+    -0.0366,
+    0.0729
+   ],
+   "max": [
+    0.1168,
+    0.3545,
+    0.1444
+   ]
+  },
+  "encefalo": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA50801"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1732",
+     "nombre": "Left angular gyrus"
+    },
+    {
+     "fj": "FJ1733",
+     "nombre": "Right angular gyrus"
+    },
+    {
+     "fj": "FJ1739",
+     "nombre": "Left cingulate gyrus"
+    },
+    {
+     "fj": "FJ1740",
+     "nombre": "Right cingulate gyrus"
+    },
+    {
+     "fj": "FJ1743",
+     "nombre": "Habenula"
+    },
+    {
+     "fj": "FJ1744",
+     "nombre": "Left inferior frontal gyrus"
+    },
+    {
+     "fj": "FJ1745",
+     "nombre": "Right inferior frontal gyrus"
+    },
+    {
+     "fj": "FJ1746",
+     "nombre": "Left inferior temporal gyrus"
+    },
+    {
+     "fj": "FJ1747",
+     "nombre": "Right inferior temporal gyrus"
+    },
+    {
+     "fj": "FJ1748",
+     "nombre": "Left insula"
+    },
+    {
+     "fj": "FJ1749",
+     "nombre": "Right insula"
+    },
+    {
+     "fj": "FJ1750",
+     "nombre": "Left internal capsule"
+    },
+    {
+     "fj": "FJ1751",
+     "nombre": "Right internal capsule"
+    },
+    {
+     "fj": "FJ1758",
+     "nombre": "White matter of left cerebral hemisphere"
+    },
+    {
+     "fj": "FJ1759",
+     "nombre": "Left hippocampus"
+    },
+    {
+     "fj": "FJ1760",
+     "nombre": "Hypothalamus"
+    },
+    {
+     "fj": "FJ1762",
+     "nombre": "Left inferior colliculus"
+    },
+    {
+     "fj": "FJ1769",
+     "nombre": "Medulla oblongata"
+    },
+    {
+     "fj": "FJ1770",
+     "nombre": "Midbrain"
+    },
+    {
+     "fj": "FJ1775",
+     "nombre": "Pons"
+    },
+    {
+     "fj": "FJ1779",
+     "nombre": "Left superior colliculus"
+    },
+    {
+     "fj": "FJ1780",
+     "nombre": "Tuber cinereum"
+    },
+    {
+     "fj": "FJ1781",
+     "nombre": "Cerebellum"
+    },
+    {
+     "fj": "FJ1783",
+     "nombre": "Left fusiform gyrus"
+    },
+    {
+     "fj": "FJ1784",
+     "nombre": "Right fusiform gyrus"
+    },
+    {
+     "fj": "FJ1785",
+     "nombre": "Left parahippocampal gyrus"
+    },
+    {
+     "fj": "FJ1786",
+     "nombre": "Right parahippocampal gyrus"
+    },
+    {
+     "fj": "FJ1787",
+     "nombre": "Left middle frontal gyrus"
+    },
+    {
+     "fj": "FJ1788",
+     "nombre": "Right middle frontal gyrus"
+    },
+    {
+     "fj": "FJ1789",
+     "nombre": "Left middle temporal gyrus"
+    },
+    {
+     "fj": "FJ1790",
+     "nombre": "Right middle temporal gyrus"
+    },
+    {
+     "fj": "FJ1791",
+     "nombre": "Left occipital lobe"
+    },
+    {
+     "fj": "FJ1792",
+     "nombre": "Right occipital lobe"
+    },
+    {
+     "fj": "FJ1795",
+     "nombre": "Pineal body"
+    },
+    {
+     "fj": "FJ1797",
+     "nombre": "Left postcentral gyrus"
+    },
+    {
+     "fj": "FJ1798",
+     "nombre": "Right postcentral gyrus"
+    },
+    {
+     "fj": "FJ1800",
+     "nombre": "Left precentral gyrus"
+    },
+    {
+     "fj": "FJ1801",
+     "nombre": "Right precentral gyrus"
+    },
+    {
+     "fj": "FJ1806",
+     "nombre": "White matter of right cerebral hemisphere"
+    },
+    {
+     "fj": "FJ1807",
+     "nombre": "Right hippocampus"
+    },
+    {
+     "fj": "FJ1808",
+     "nombre": "Hypothalamus"
+    },
+    {
+     "fj": "FJ1810",
+     "nombre": "Right inferior colliculus"
+    },
+    {
+     "fj": "FJ1817",
+     "nombre": "Midbrain"
+    },
+    {
+     "fj": "FJ1822",
+     "nombre": "Pons"
+    },
+    {
+     "fj": "FJ1826",
+     "nombre": "Right superior colliculus"
+    },
+    {
+     "fj": "FJ1828",
+     "nombre": "Tuber cinereum"
+    },
+    {
+     "fj": "FJ1830",
+     "nombre": "Cerebellum"
+    },
+    {
+     "fj": "FJ1831",
+     "nombre": "Medulla oblongata"
+    },
+    {
+     "fj": "FJ1833",
+     "nombre": "Left superior frontal gyrus"
+    },
+    {
+     "fj": "FJ1834",
+     "nombre": "Right superior frontal gyrus"
+    },
+    {
+     "fj": "FJ1835",
+     "nombre": "Left superior parietal lobule"
+    },
+    {
+     "fj": "FJ1836",
+     "nombre": "Right superior parietal lobule"
+    },
+    {
+     "fj": "FJ1841",
+     "nombre": "Left supramarginal gyrus"
+    },
+    {
+     "fj": "FJ1842",
+     "nombre": "Right supramarginal gyrus"
+    }
+   ],
+   "triangulosOrigen": 274950,
+   "triangulos": 72052,
+   "centro": [
+    -0.0006,
+    1.5647,
+    0.0709
+   ],
+   "min": [
+    -0.0699,
+    1.4647,
+    -0.0103
+   ],
+   "max": [
+    0.0689,
+    1.6304,
+    0.1695
+   ]
+  },
+  "corazon": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7088"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2422",
+     "nombre": "Cavity of left ventricle"
+    },
+    {
+     "fj": "FJ2423",
+     "nombre": "Cavity of right ventricle"
+    },
+    {
+     "fj": "FJ2424",
+     "nombre": "Cavity of right atrium"
+    },
+    {
+     "fj": "FJ2425",
+     "nombre": "Cavity of left atrium"
+    },
+    {
+     "fj": "FJ2438",
+     "nombre": "Wall of left atrium"
+    },
+    {
+     "fj": "FJ2439",
+     "nombre": "Wall of right atrium"
+    },
+    {
+     "fj": "FJ2631",
+     "nombre": "Trunk of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2632",
+     "nombre": "First right anterior branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2633",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2634",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2635",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2636",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2637",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2638",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2639",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2640",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2641",
+     "nombre": "Third right anterior branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2642",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2643",
+     "nombre": "Conus branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2644",
+     "nombre": "Conus branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2645",
+     "nombre": "First right anterior branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2646",
+     "nombre": "Second right anterior branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2647",
+     "nombre": "Third right anterior branch of anterior interventricular branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2648",
+     "nombre": "Diagonal branch of anterior descending branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2649",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2650",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2651",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2652",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2653",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2654",
+     "nombre": "Circumflex branch of left coronary artery"
+    },
+    {
+     "fj": "FJ2655",
+     "nombre": "Coronary sinus"
+    },
+    {
+     "fj": "FJ2656",
+     "nombre": "Great cardiac vein"
+    },
+    {
+     "fj": "FJ2667",
+     "nombre": "Marginal branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2668",
+     "nombre": "Marginal branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2670",
+     "nombre": "Right conus artery"
+    },
+    {
+     "fj": "FJ2671",
+     "nombre": "First anterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2672",
+     "nombre": "Marginal branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2673",
+     "nombre": "First anterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2674",
+     "nombre": "Marginal branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2675",
+     "nombre": "Marginal branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2676",
+     "nombre": "Right conus artery"
+    },
+    {
+     "fj": "FJ2677",
+     "nombre": "First anterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2692",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2693",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2694",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2695",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2696",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2697",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2698",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2699",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2700",
+     "nombre": "Posterior interventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2714",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2715",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2716",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2717",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2718",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2719",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2720",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2721",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2722",
+     "nombre": "First posterior ventricular branch of right coronary artery"
+    },
+    {
+     "fj": "FJ2723",
+     "nombre": "Trunk of right coronary artery"
+    },
+    {
+     "fj": "FJ2724",
+     "nombre": "Small cardiac vein"
+    },
+    {
+     "fj": "FJ2727",
+     "nombre": "Right marginal vein"
+    },
+    {
+     "fj": "FJ2728",
+     "nombre": "Right marginal vein"
+    },
+    {
+     "fj": "FJ2729",
+     "nombre": "Right marginal vein"
+    },
+    {
+     "fj": "FJ2731",
+     "nombre": "Small cardiac vein"
+    },
+    {
+     "fj": "FJ2737",
+     "nombre": "Trunk of left coronary artery"
+    }
+   ],
+   "triangulosOrigen": 64010,
+   "triangulos": 15754,
+   "centro": [
+    0.012,
+    1.2285,
+    0.1207
+   ],
+   "min": [
+    -0.0362,
+    1.1754,
+    0.0702
+   ],
+   "max": [
+    0.079,
+    1.2794,
+    0.1761
+   ]
+  },
+  "aorta": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA3734"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1931",
+     "nombre": "Descending thoracic aorta"
+    },
+    {
+     "fj": "FJ1932",
+     "nombre": "Abdominal aorta"
+    },
+    {
+     "fj": "FJ3411",
+     "nombre": "Arch of aorta"
+    },
+    {
+     "fj": "FJ3413",
+     "nombre": "Ascending aorta"
+    },
+    {
+     "fj": "FJ3427",
+     "nombre": "Descending aorta"
+    }
+   ],
+   "triangulosOrigen": 10188,
+   "triangulos": 5455,
+   "centro": [
+    0.0139,
+    1.1725,
+    0.0909
+   ],
+   "min": [
+    -0.0068,
+    0.9473,
+    0.0452
+   ],
+   "max": [
+    0.0348,
+    1.3171,
+    0.1374
+   ]
+  },
+  "pulmon-derecho": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7309"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2041",
+     "nombre": "Right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2044",
+     "nombre": "Right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2449",
+     "nombre": "Lateral segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2451",
+     "nombre": "Medial segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2452",
+     "nombre": "Right anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2453",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2454",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2455",
+     "nombre": "Right lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2456",
+     "nombre": "Right medial basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2457",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2458",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2459",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2470",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2481",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2486",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2487",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2488",
+     "nombre": "Right medial basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2489",
+     "nombre": "Right posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2490",
+     "nombre": "Right lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2491",
+     "nombre": "Right lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2492",
+     "nombre": "Right lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2493",
+     "nombre": "Right anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2494",
+     "nombre": "Right anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2495",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2496",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2497",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2498",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2499",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2500",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2501",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2502",
+     "nombre": "Right superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2503",
+     "nombre": "Lateral segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2504",
+     "nombre": "Lateral segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2505",
+     "nombre": "Lateral segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2506",
+     "nombre": "Medial segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2507",
+     "nombre": "Medial segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2508",
+     "nombre": "Medial segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2509",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2510",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2511",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2512",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2513",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2514",
+     "nombre": "Right anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2515",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2516",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2517",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2518",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2519",
+     "nombre": "Right posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2520",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2521",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2522",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2523",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2524",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2525",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2526",
+     "nombre": "Right apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2967",
+     "nombre": "Apical part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ2968",
+     "nombre": "Apical part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ2969",
+     "nombre": "Apical part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ2970",
+     "nombre": "Posterior part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ2971",
+     "nombre": "Posterior part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ2972",
+     "nombre": "Posterior part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ2973",
+     "nombre": "Right upper lobar artery"
+    },
+    {
+     "fj": "FJ2974",
+     "nombre": "Posterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2975",
+     "nombre": "Anterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2976",
+     "nombre": "Anterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2977",
+     "nombre": "Anterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2978",
+     "nombre": "Anterior part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ2979",
+     "nombre": "Anterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2980",
+     "nombre": "Posterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2981",
+     "nombre": "Posterior branch of right anterior segmental artery"
+    },
+    {
+     "fj": "FJ2982",
+     "nombre": "Anterior branch of lateral segmental artery"
+    },
+    {
+     "fj": "FJ2983",
+     "nombre": "Posterior branch of lateral segmental artery"
+    },
+    {
+     "fj": "FJ2984",
+     "nombre": "Posterior branch of lateral segmental artery"
+    },
+    {
+     "fj": "FJ2985",
+     "nombre": "Anterior branch of lateral segmental artery"
+    },
+    {
+     "fj": "FJ2986",
+     "nombre": "Superior branch of medial segmental artery"
+    },
+    {
+     "fj": "FJ2987",
+     "nombre": "Inferior branch of medial segmental artery"
+    },
+    {
+     "fj": "FJ2988",
+     "nombre": "Inferior branch of medial segmental artery"
+    },
+    {
+     "fj": "FJ2989",
+     "nombre": "Anterior part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ2990",
+     "nombre": "Superior branch of medial segmental artery"
+    },
+    {
+     "fj": "FJ2991",
+     "nombre": "Lateral branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2992",
+     "nombre": "Lateral branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2993",
+     "nombre": "Lateral branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2994",
+     "nombre": "Medial branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2995",
+     "nombre": "Medial branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2996",
+     "nombre": "Medial branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2997",
+     "nombre": "Superior branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2998",
+     "nombre": "Superior branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ2999",
+     "nombre": "Superior branch of right superior segmental artery"
+    },
+    {
+     "fj": "FJ3000",
+     "nombre": "Anterior part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ3001",
+     "nombre": "Lateral branch of right anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3002",
+     "nombre": "Basal branch of right anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3003",
+     "nombre": "Basal branch of right anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3004",
+     "nombre": "Lateral branch of right lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ3005",
+     "nombre": "Lateral branch of right lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ3006",
+     "nombre": "Lateral branch of right lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ3007",
+     "nombre": "Lateral branch of right lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ3008",
+     "nombre": "Mediobasal branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3009",
+     "nombre": "Accessory subsuperior branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3010",
+     "nombre": "Accessory subsuperior branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3011",
+     "nombre": "Anterior part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ3012",
+     "nombre": "Mediobasal branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3013",
+     "nombre": "Laterobasal branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3014",
+     "nombre": "Laterobasal branch of right posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ3015",
+     "nombre": "Apical part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ3016",
+     "nombre": "Apical part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ3017",
+     "nombre": "Apical part of right apical segmental artery"
+    },
+    {
+     "fj": "FJ3018",
+     "nombre": "Apical part of right posterior segmental artery"
+    },
+    {
+     "fj": "FJ3021",
+     "nombre": "Inferior part of right anterior segmental vein"
+    },
+    {
+     "fj": "FJ3022",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3023",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3024",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3025",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3026",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3027",
+     "nombre": "Superior part of right anterior segmental vein"
+    },
+    {
+     "fj": "FJ3028",
+     "nombre": "Right anterior segmental vein"
+    },
+    {
+     "fj": "FJ3029",
+     "nombre": "Right anterior segmental vein"
+    },
+    {
+     "fj": "FJ3030",
+     "nombre": "Superior part of medial segmental vein"
+    },
+    {
+     "fj": "FJ3031",
+     "nombre": "Trunk of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3032",
+     "nombre": "Inferior part of medial segmental vein"
+    },
+    {
+     "fj": "FJ3033",
+     "nombre": "Inferior part of medial segmental vein"
+    },
+    {
+     "fj": "FJ3034",
+     "nombre": "Anterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3035",
+     "nombre": "Anterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3036",
+     "nombre": "Anterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3037",
+     "nombre": "Posterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3038",
+     "nombre": "Posterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3039",
+     "nombre": "Posterior part of lateral segmental vein"
+    },
+    {
+     "fj": "FJ3041",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3042",
+     "nombre": "Anterior part of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3043",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3044",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3045",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3046",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3047",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3048",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3049",
+     "nombre": "Right anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3050",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3051",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3052",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3053",
+     "nombre": "Anterior part of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3054",
+     "nombre": "Right medial basal segmental vein"
+    },
+    {
+     "fj": "FJ3055",
+     "nombre": "Right medial basal segmental vein"
+    },
+    {
+     "fj": "FJ3056",
+     "nombre": "Right anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3057",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3058",
+     "nombre": "Right posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ3059",
+     "nombre": "Right lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ3060",
+     "nombre": "Right lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ3061",
+     "nombre": "Right lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ3062",
+     "nombre": "Right lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ3063",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3064",
+     "nombre": "Apical part of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3065",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3066",
+     "nombre": "Right superior segmental vein"
+    },
+    {
+     "fj": "FJ3067",
+     "nombre": "Apical part of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3068",
+     "nombre": "Apical part of right apical segmental vein"
+    },
+    {
+     "fj": "FJ3069",
+     "nombre": "Right posterior segmental vein"
+    },
+    {
+     "fj": "FJ3070",
+     "nombre": "Right posterior segmental vein"
+    }
+   ],
+   "triangulosOrigen": 73312,
+   "triangulos": 15767,
+   "centro": [
+    -0.0558,
+    1.2342,
+    0.0837
+   ],
+   "min": [
+    -0.1161,
+    1.0153,
+    0.0209
+   ],
+   "max": [
+    0.0045,
+    1.3478,
+    0.1734
+   ]
+  },
+  "pulmon-izquierdo": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7310"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2441",
+     "nombre": "Inferior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2442",
+     "nombre": "Left medial basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2443",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2444",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2445",
+     "nombre": "Left lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2446",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2447",
+     "nombre": "Left posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2448",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2460",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2461",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2462",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2463",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2464",
+     "nombre": "Left apical segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2465",
+     "nombre": "Left posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2466",
+     "nombre": "Left posterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2467",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2468",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2469",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2471",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2472",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2473",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2474",
+     "nombre": "Left anterior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2475",
+     "nombre": "Inferior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2476",
+     "nombre": "Superior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2477",
+     "nombre": "Superior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2478",
+     "nombre": "Superior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2479",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2480",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2482",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2483",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2484",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2485",
+     "nombre": "Left superior segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2527",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2528",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2529",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2530",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2531",
+     "nombre": "Left posterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2532",
+     "nombre": "Left lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2533",
+     "nombre": "Left lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2534",
+     "nombre": "Left lateral basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2535",
+     "nombre": "Left anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2536",
+     "nombre": "Left anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2537",
+     "nombre": "Left medial basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2538",
+     "nombre": "Left anterior basal segmental bronchial tree"
+    },
+    {
+     "fj": "FJ2540",
+     "nombre": "Superior lingular bronchial tree"
+    },
+    {
+     "fj": "FJ2881",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2882",
+     "nombre": "Left lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ2883",
+     "nombre": "Left anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2884",
+     "nombre": "Left medial basal segmental artery"
+    },
+    {
+     "fj": "FJ2885",
+     "nombre": "Left medial basal segmental artery"
+    },
+    {
+     "fj": "FJ2886",
+     "nombre": "Left anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2887",
+     "nombre": "Left anterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2888",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2889",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2890",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2891",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2892",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2893",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2894",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2895",
+     "nombre": "Left superior segmental artery"
+    },
+    {
+     "fj": "FJ2896",
+     "nombre": "Inferior lingular artery"
+    },
+    {
+     "fj": "FJ2897",
+     "nombre": "Inferior lingular artery"
+    },
+    {
+     "fj": "FJ2898",
+     "nombre": "Superior lingular artery"
+    },
+    {
+     "fj": "FJ2899",
+     "nombre": "Superior lingular artery"
+    },
+    {
+     "fj": "FJ2900",
+     "nombre": "Superior lingular artery"
+    },
+    {
+     "fj": "FJ2901",
+     "nombre": "Superior lingular artery"
+    },
+    {
+     "fj": "FJ2902",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2903",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2904",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2905",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2906",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2907",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2908",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2909",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2910",
+     "nombre": "Left anterior segmental artery"
+    },
+    {
+     "fj": "FJ2911",
+     "nombre": "Left posterior segmental artery"
+    },
+    {
+     "fj": "FJ2912",
+     "nombre": "Left posterior segmental artery"
+    },
+    {
+     "fj": "FJ2913",
+     "nombre": "Left posterior segmental artery"
+    },
+    {
+     "fj": "FJ2914",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2915",
+     "nombre": "Left apical segmental artery"
+    },
+    {
+     "fj": "FJ2916",
+     "nombre": "Left apical segmental artery"
+    },
+    {
+     "fj": "FJ2917",
+     "nombre": "Left apical segmental artery"
+    },
+    {
+     "fj": "FJ2918",
+     "nombre": "Left apical segmental artery"
+    },
+    {
+     "fj": "FJ2919",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2920",
+     "nombre": "Left posterior basal segmental artery"
+    },
+    {
+     "fj": "FJ2921",
+     "nombre": "Left lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ2922",
+     "nombre": "Left lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ2923",
+     "nombre": "Left lateral basal segmental artery"
+    },
+    {
+     "fj": "FJ2926",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2927",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2928",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2929",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2930",
+     "nombre": "Left anterior segmental vein"
+    },
+    {
+     "fj": "FJ2931",
+     "nombre": "Left anterior segmental vein"
+    },
+    {
+     "fj": "FJ2932",
+     "nombre": "Left anterior segmental vein"
+    },
+    {
+     "fj": "FJ2934",
+     "nombre": "Inferior lingular vein"
+    },
+    {
+     "fj": "FJ2935",
+     "nombre": "Inferior lingular vein"
+    },
+    {
+     "fj": "FJ2936",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2937",
+     "nombre": "Superior lingular vein"
+    },
+    {
+     "fj": "FJ2938",
+     "nombre": "Superior lingular vein"
+    },
+    {
+     "fj": "FJ2939",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2940",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2941",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2942",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2943",
+     "nombre": "Left posterior segmental vein"
+    },
+    {
+     "fj": "FJ2945",
+     "nombre": "Left posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2946",
+     "nombre": "Left posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2947",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2948",
+     "nombre": "Left posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2949",
+     "nombre": "Left posterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2951",
+     "nombre": "Left lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ2952",
+     "nombre": "Left lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ2953",
+     "nombre": "Left lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ2954",
+     "nombre": "Left lateral basal segmental vein"
+    },
+    {
+     "fj": "FJ2956",
+     "nombre": "Left anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2957",
+     "nombre": "Left anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2958",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2959",
+     "nombre": "Left anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2960",
+     "nombre": "Left anterior basal segmental vein"
+    },
+    {
+     "fj": "FJ2961",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2962",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2963",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2964",
+     "nombre": "Left apical segmental vein"
+    },
+    {
+     "fj": "FJ2965",
+     "nombre": "Left posterior segmental vein"
+    }
+   ],
+   "triangulosOrigen": 41438,
+   "triangulos": 15066,
+   "centro": [
+    0.0755,
+    1.2317,
+    0.0844
+   ],
+   "min": [
+    0.02,
+    1.1235,
+    0.0204
+   ],
+   "max": [
+    0.1246,
+    1.3551,
+    0.1777
+   ]
+  },
+  "esofago": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7131"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2563",
+     "nombre": "Esophagus"
+    }
+   ],
+   "triangulosOrigen": 578,
+   "triangulos": 468,
+   "centro": [
+    0.0053,
+    1.2258,
+    0.0913
+   ],
+   "min": [
+    -0.0088,
+    1.116,
+    0.0664
+   ],
+   "max": [
+    0.0236,
+    1.3904,
+    0.1241
+   ]
+  },
+  "estomago": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7148"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2564",
+     "nombre": "Stomach"
+    }
+   ],
+   "triangulosOrigen": 1810,
+   "triangulos": 1678,
+   "centro": [
+    0.0399,
+    1.0983,
+    0.141
+   ],
+   "min": [
+    -0.0288,
+    1.0399,
+    0.0815
+   ],
+   "max": [
+    0.1055,
+    1.1569,
+    0.1944
+   ]
+  },
+  "duodeno": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7206"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2573",
+     "nombre": "Duodenum"
+    }
+   ],
+   "triangulosOrigen": 1860,
+   "triangulos": 1490,
+   "centro": [
+    -0.0249,
+    1.0284,
+    0.1299
+   ],
+   "min": [
+    -0.0656,
+    0.9856,
+    0.104
+   ],
+   "max": [
+    0.0321,
+    1.0771,
+    0.1568
+   ]
+  },
+  "intestino-delgado": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7207",
+    "FMA7208"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2606",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2607",
+     "nombre": "Middle part of jejunum"
+    },
+    {
+     "fj": "FJ2608",
+     "nombre": "Middle part of jejunum"
+    },
+    {
+     "fj": "FJ2609",
+     "nombre": "Middle part of jejunum"
+    },
+    {
+     "fj": "FJ2610",
+     "nombre": "Middle part of jejunum"
+    },
+    {
+     "fj": "FJ2611",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2612",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2613",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2614",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2615",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2616",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2617",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2618",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2619",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2620",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2621",
+     "nombre": "Distal part of jejunum"
+    },
+    {
+     "fj": "FJ2622",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2623",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2624",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2625",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2626",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2627",
+     "nombre": "Proximal part of jejunum"
+    },
+    {
+     "fj": "FJ2628",
+     "nombre": "Middle part of jejunum"
+    },
+    {
+     "fj": "FJ2574",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2575",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2576",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2577",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2578",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2579",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2580",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2581",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2582",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2583",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2584",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2585",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2586",
+     "nombre": "Middle part of ileum"
+    },
+    {
+     "fj": "FJ2587",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2588",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2589",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2590",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2591",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2592",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2593",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2594",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2595",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2596",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2597",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2598",
+     "nombre": "Distal part of ileum"
+    },
+    {
+     "fj": "FJ2599",
+     "nombre": "Ileocecal junction"
+    },
+    {
+     "fj": "FJ2600",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2601",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2602",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2603",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2604",
+     "nombre": "Proximal part of ileum"
+    },
+    {
+     "fj": "FJ2605",
+     "nombre": "Proximal part of ileum"
+    }
+   ],
+   "triangulosOrigen": 14198,
+   "triangulos": 12770,
+   "centro": [
+    0.0045,
+    0.9143,
+    0.1519
+   ],
+   "min": [
+    -0.0871,
+    0.8053,
+    0.1072
+   ],
+   "max": [
+    0.1065,
+    1.0237,
+    0.1834
+   ]
+  },
+  "intestino-grueso": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7201",
+    "FMA14541"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2566",
+     "nombre": "Ascending colon"
+    },
+    {
+     "fj": "FJ2567",
+     "nombre": "Descending colon"
+    },
+    {
+     "fj": "FJ2568",
+     "nombre": "Taenia libera"
+    },
+    {
+     "fj": "FJ2569",
+     "nombre": "Taenia mesocolica"
+    },
+    {
+     "fj": "FJ2570",
+     "nombre": "Taenia omentalis"
+    },
+    {
+     "fj": "FJ2571",
+     "nombre": "Rectum"
+    },
+    {
+     "fj": "FJ2572",
+     "nombre": "Transverse colon"
+    },
+    {
+     "fj": "FJ2599",
+     "nombre": "Ileocecal junction"
+    }
+   ],
+   "triangulosOrigen": 59284,
+   "triangulos": 19221,
+   "centro": [
+    0.0061,
+    0.9454,
+    0.1151
+   ],
+   "min": [
+    -0.1268,
+    0.7574,
+    0.0113
+   ],
+   "max": [
+    0.1175,
+    1.0647,
+    0.1969
+   ]
+  },
+  "higado": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7197"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1883",
+     "nombre": "Caudate lobe tributary of left hepatic biliary tree"
+    },
+    {
+     "fj": "FJ1914",
+     "nombre": "Caudate lobe branch of right portal vein"
+    },
+    {
+     "fj": "FJ1916",
+     "nombre": "Caudate lobe branch of right hepatic artery"
+    },
+    {
+     "fj": "FJ2386",
+     "nombre": "Caudate lobe branch of right hepatic artery"
+    },
+    {
+     "fj": "FJ2409",
+     "nombre": "Hepatovenous segment VII"
+    },
+    {
+     "fj": "FJ2816",
+     "nombre": "Caudate lobe of liver"
+    },
+    {
+     "fj": "FJ2818",
+     "nombre": "Hepatovenous segment II"
+    },
+    {
+     "fj": "FJ2819",
+     "nombre": "Hepatovenous segment III"
+    },
+    {
+     "fj": "FJ2820",
+     "nombre": "Hepatovenous segment IV"
+    },
+    {
+     "fj": "FJ2821",
+     "nombre": "Hepatovenous segment V"
+    },
+    {
+     "fj": "FJ2822",
+     "nombre": "Hepatovenous segment VI"
+    },
+    {
+     "fj": "FJ2823",
+     "nombre": "Hepatovenous segment VIII"
+    },
+    {
+     "fj": "FJ2824",
+     "nombre": "Hepatovenous segment VIII"
+    },
+    {
+     "fj": "FJ3073",
+     "nombre": "Anterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3074",
+     "nombre": "Anterior inferior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3075",
+     "nombre": "Anterior inferior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3076",
+     "nombre": "Anterior superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3077",
+     "nombre": "Caudate lobe branch of left hepatic artery"
+    },
+    {
+     "fj": "FJ3083",
+     "nombre": "Anterior inferior segmental tributary of middle hepatic vein"
+    },
+    {
+     "fj": "FJ3086",
+     "nombre": "Anterior inferior segmental tributary of middle hepatic vein"
+    },
+    {
+     "fj": "FJ3091",
+     "nombre": "Lateral superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3092",
+     "nombre": "Lateral inferior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3093",
+     "nombre": "Lateral superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3106",
+     "nombre": "Medial inferior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3107",
+     "nombre": "Medial superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3111",
+     "nombre": "Posterior inferior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3112",
+     "nombre": "Posterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3113",
+     "nombre": "Posterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3114",
+     "nombre": "Posterior inferior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3115",
+     "nombre": "Posterior superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3116",
+     "nombre": "Posterior superior segmental hepatic artery"
+    },
+    {
+     "fj": "FJ3124",
+     "nombre": "Caudate lobe branch of left portal vein"
+    },
+    {
+     "fj": "FJ3125",
+     "nombre": "Lateral inferior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3126",
+     "nombre": "Lateral superior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3127",
+     "nombre": "Medial superior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3128",
+     "nombre": "Medial inferior segmental branch of left portal vein"
+    }
+   ],
+   "triangulosOrigen": 159054,
+   "triangulos": 30502,
+   "centro": [
+    -0.037,
+    1.1191,
+    0.133
+   ],
+   "min": [
+    -0.115,
+    1.0281,
+    0.0434
+   ],
+   "max": [
+    0.0942,
+    1.1831,
+    0.2024
+   ]
+  },
+  "vesicula-biliar": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7202"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ2817",
+     "nombre": "Gallbladder"
+    }
+   ],
+   "triangulosOrigen": 2396,
+   "triangulos": 825,
+   "centro": [
+    -0.0489,
+    1.0682,
+    0.1552
+   ],
+   "min": [
+    -0.0633,
+    1.0512,
+    0.1304
+   ],
+   "max": [
+    -0.0281,
+    1.091,
+    0.1784
+   ]
+  },
+  "pancreas": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7198"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1895",
+     "nombre": "Pancreas"
+    },
+    {
+     "fj": "FJ1896",
+     "nombre": "Pancreatic duct"
+    },
+    {
+     "fj": "FJ2629",
+     "nombre": "Parenchyma of pancreas"
+    },
+    {
+     "fj": "FJ2630",
+     "nombre": "Pancreatic duct tree"
+    }
+   ],
+   "triangulosOrigen": 16962,
+   "triangulos": 3251,
+   "centro": [
+    0.0012,
+    1.0455,
+    0.1241
+   ],
+   "min": [
+    -0.056,
+    1.0044,
+    0.0955
+   ],
+   "max": [
+    0.0724,
+    1.0781,
+    0.1463
+   ]
+  },
+  "vena-porta": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA50735"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ1853",
+     "nombre": "Hepatic portal vein"
+    },
+    {
+     "fj": "FJ1893",
+     "nombre": "Left portal vein"
+    },
+    {
+     "fj": "FJ1913",
+     "nombre": "Right portal vein"
+    },
+    {
+     "fj": "FJ1914",
+     "nombre": "Caudate lobe branch of right portal vein"
+    },
+    {
+     "fj": "FJ2404",
+     "nombre": "Left portal vein"
+    },
+    {
+     "fj": "FJ2405",
+     "nombre": "Right portal vein"
+    },
+    {
+     "fj": "FJ3073",
+     "nombre": "Anterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3074",
+     "nombre": "Anterior inferior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3102",
+     "nombre": "Trunk of left portal vein"
+    },
+    {
+     "fj": "FJ3111",
+     "nombre": "Posterior inferior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3112",
+     "nombre": "Posterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3113",
+     "nombre": "Posterior superior segmental branch of right portal vein"
+    },
+    {
+     "fj": "FJ3122",
+     "nombre": "Trunk of right portal vein"
+    },
+    {
+     "fj": "FJ3124",
+     "nombre": "Caudate lobe branch of left portal vein"
+    },
+    {
+     "fj": "FJ3125",
+     "nombre": "Lateral inferior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3126",
+     "nombre": "Lateral superior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3127",
+     "nombre": "Medial superior segmental branch of left portal vein"
+    },
+    {
+     "fj": "FJ3128",
+     "nombre": "Medial inferior segmental branch of left portal vein"
+    }
+   ],
+   "triangulosOrigen": 35982,
+   "triangulos": 4597,
+   "centro": [
+    -0.028,
+    1.1195,
+    0.1472
+   ],
+   "min": [
+    -0.1012,
+    1.0626,
+    0.0527
+   ],
+   "max": [
+    0.0572,
+    1.163,
+    0.1989
+   ]
+  },
+  "rinon-derecho": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7204"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3147",
+     "nombre": "Right kidney"
+    }
+   ],
+   "triangulosOrigen": 2310,
+   "triangulos": 1517,
+   "centro": [
+    -0.0555,
+    1.0198,
+    0.0907
+   ],
+   "min": [
+    -0.0875,
+    0.9668,
+    0.0647
+   ],
+   "max": [
+    -0.0305,
+    1.0712,
+    0.1119
+   ]
+  },
+  "rinon-izquierdo": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA7205"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3145",
+     "nombre": "Left kidney"
+    }
+   ],
+   "triangulosOrigen": 2982,
+   "triangulos": 1859,
+   "centro": [
+    0.0594,
+    1.037,
+    0.0804
+   ],
+   "min": [
+    0.0328,
+    0.9846,
+    0.0596
+   ],
+   "max": [
+    0.0904,
+    1.0903,
+    0.1002
+   ]
+  },
+  "ureter-derecho": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA15571"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3146",
+     "nombre": "Right ureter"
+    }
+   ],
+   "triangulosOrigen": 1924,
+   "triangulos": 1034,
+   "centro": [
+    -0.0451,
+    0.969,
+    0.0888
+   ],
+   "min": [
+    -0.0726,
+    0.8119,
+    0.0607
+   ],
+   "max": [
+    -0.0101,
+    1.0568,
+    0.1188
+   ]
+  },
+  "ureter-izquierdo": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA15572"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3144",
+     "nombre": "Left ureter"
+    }
+   ],
+   "triangulosOrigen": 2062,
+   "triangulos": 1032,
+   "centro": [
+    0.0502,
+    0.9872,
+    0.0827
+   ],
+   "min": [
+    0.0236,
+    0.8182,
+    0.0618
+   ],
+   "max": [
+    0.0791,
+    1.072,
+    0.1197
+   ]
+  },
+  "vejiga": {
+   "capa": "organos",
+   "arbol": "partof",
+   "conceptos": [
+    "FMA15900"
+   ],
+   "piezas": [
+    {
+     "fj": "FJ3149",
+     "nombre": "Urinary bladder"
+    }
+   ],
+   "triangulosOrigen": 226,
+   "triangulos": 220,
+   "centro": [
+    0.0024,
+    0.8135,
+    0.0812
+   ],
+   "min": [
+    -0.0341,
+    0.7897,
+    0.0565
+   ],
+   "max": [
+    0.0326,
+    0.83,
+    0.1277
+   ]
+  }
+ },
+ "capas": {
+  "esqueleto": {
+   "archivo": "esqueleto.glb",
+   "bytes": 1410160,
+   "celdaMm": 4,
+   "triangulos": 121806,
+   "sha256": "e3126993fb366dcb09ec949037c775f7163172dffbe4d9639724e924f8adcc7f"
+  },
+  "musculos": {
+   "archivo": "musculos.glb",
+   "bytes": 1341108,
+   "celdaMm": 5,
+   "triangulos": 117490,
+   "sha256": "3dadb148cb31af944a6e690ae3907c210dc7528f997da082486f8230785fc4d5"
+  },
+  "organos": {
+   "archivo": "organos.glb",
+   "bytes": 2262124,
+   "celdaMm": 3,
+   "triangulos": 204558,
+   "sha256": "fa90ad9df981e7c6e121ab07898a3a9d4f4d7984985aa82dcd30d7bae304e301"
+  }
+ },
+ "fuente": {
+  "nombre": "BodyParts3D",
+  "version": "4.0 (archivo «LATEST»: README y licencia actualizados el 2025-02-27; datos actualizados en 2013-05)",
+  "modelo": "Modelo tridimensional de cuerpo completo de un varón humano adulto",
+  "doi": "10.18908/lsdba.nbdc00837-000",
+  "descargas": {
+   "partof_BP3D_4.0_obj_99.zip": "9fbc713fffeee924a5a657d9813d84d7eb957bded63adb854931dd5e3eb61c97",
+   "isa_BP3D_4.0_obj_99.zip": "40665852c49f218326590e204db91064a1ecfc3c6f8cbd7bbbcaac62c7cd409e"
+  },
+  "url": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html",
+  "consultado": "2026-11-08"
+ },
+ "transformacion": "mm → m (×0,001); rotación (x, y, z) → (x, z, −y): Y vertical, cara anterior hacia +z; lado derecho del cuerpo en x < 0 (sin espejo)"
+}
